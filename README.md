@@ -308,7 +308,7 @@ python make_figures.py --data dataset --preds preds --ocr ocr --out report_figur
 @misc{pandey2026layoutsense,
   title  = {Does Layout Awareness Matter for Resume Parsing? A Controlled Comparison
             Across Layout Complexity and Image Quality},
-  author = {Pandey, Saurabh and Mohammed, Eshan and Nikam, Siddhant},
+  author = {Pandey, Saurabh and Nikam, Siddhant and Mohammed, Eshan},
   year   = {2026},
   note   = {B.Tech Artificial Intelligence, Computer Vision Mini Project}
 }
