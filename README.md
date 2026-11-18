@@ -304,9 +304,6 @@ python make_figures.py --data dataset --preds preds --ocr ocr --out report_figur
 
 📄 **[Does Layout Awareness Matter for Resume Parsing? A Controlled Comparison Across Layout Complexity and Image Quality](paper/Layout_Awareness_Resume_Parsing_Paper.pdf)**
 
-## Authors
-
-**Saurabh Pandey** · **Siddhant Nikam**
 
 ## Data Ethics
 
