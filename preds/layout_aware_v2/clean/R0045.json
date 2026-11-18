@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0045",
+ "name": "Nuwan Fernando",
+ "contact": {
+  "email": "nuwanfernando@gmail.com",
+  "phone": "074 131 4978",
+  "location": "Galle, Sri Lanka"
+ },
+ "education": [
+  {
+   "degree": "BEng (Hons) Aerospace Engineering",
+   "institution": "University of Moratuwa",
+   "dates": "2015 to 2019",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2024 to Present",
+   "title": "Assistant Manager"
+  },
+  {
+   "title": "Production",
+   "company": "Nestlé",
+   "location": "Kandy",
+   "bullets": [
+    "Ran FEA in SolidWorks to optimise a bracket design, reducing weight by 14% without loss of stiffness",
+    "Managed a capex budget of LKR 12.0M for plant upgrades delivered on time",
+    "Conducted DFMEA and design reviews with cross-functional teams for 18 programmes"
+   ],
+   "dates": "2019 to 2024"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "company": "MAS Holdings",
+   "location": "Galle",
+   "bullets": [
+    "Led 14 Kaizen events that saved LKR 103M annually in scrap and rework",
+    "Reduced unplanned downtime by 35% by introducing condition-based maintenance",
+    "Commissioned a new CNC machining cell, increasing capacity by 24%"
+   ]
+  }
+ ],
+ "skills": [
+  "PPAP",
+  "APQP",
+  "(GD&T)",
+  "Root Cause Analysis",
+  "CATIA",
+  "V5)",
+  "ANSYS",
+  "SolidWorks",
+  "Presentation Skills",
+  "Decision Making"
+ ],
+ "certifications": [
+  {
+   "name": "Certified SolidWorks Professional (CSWP)",
+   "issuer": "Dassault Systemes",
+   "year": "(2018)"
+  },
+  {
+   "name": "Lean Manufacturing Certificate",
+   "issuer": "University of Michigan",
+   "year": "(2019)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Kaizen Award",
+   "year": "(2017)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

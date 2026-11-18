@@ -1,0 +1,24 @@
+{
+ "resume_id": "R0157",
+ "name": "Ayse Kaya",
+ "contact": {
+  "phone": "0544 190 71.25",
+  "location": "Bursa, Turkey"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ayse-kaya8"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst",
+   "company": "05, 4",
+   "dates": "2025 ~ Present",
+   "bullets": [
+    "@ Authored 15 thought-leade ship articles and contributed to proposals worth TRY 16.1M"
+   ]
+  }
+ ],
+ "_runtime_s": 0.026
+}

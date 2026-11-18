@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0151",
+ "name": "ANAND RAMESH",
+ "headline": "Graduate Software Engineer",
+ "contact": {
+  "email": "anandr994@yahoo.com",
+  "phone": "0431 564 667",
+  "location": "Perth, WA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anand-ramesh8"
+  },
+  {
+   "url": "github.com/anandramesh"
+  }
+ ],
+ "education": [
+  {
+   "dates": "July 2021",
+   "degree": "M.E. in Computer Science",
+   "institution": "College of Engineering Trivandrum",
+   "location": "Thiruvananthapuram, India",
+   "grade": "CGPA: 8.24/10"
+  },
+  {
+   "dates": "June 2019",
+   "degree": "Bachelor of Computer Applications",
+   "institution": "Indian Institute of Technology Madras",
+   "location": "Chennai, India"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "December 2022 — Present",
+   "title": "Graduate Software Engineer",
+   "company": "SEEK",
+   "location": "Perth",
+   "bullets": [
+    "Cut cloud infrastructure costs by A$3.0M annually by right-sizing instances and adopting spot capacity",
+    "Wrote technical design documents and led code reviews for a team of 8 engineers",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 20% to 85%",
+    "Designed and built 3 RESTful microservices in Spring Boot and GitHub Actions, serving 472K+ requests per day with 99.95% uptime",
+    "Built a real-time notification service using Spring Boot and Apache Kafka that processes 163K+ events per hour"
+   ]
+  },
+  {
+   "dates": "October 2021 — November 2022",
+   "title": "Associate Software Engineer",
+   "company": "SAP",
+   "location": "Bengaluru, India",
+   "bullets": [
+    "Collaborated with product and design to ship 22 major releases on schedule across web and mobile",
+    "Resolved 300+ production issues as part of the on-call rotation, reducing mean time to recovery by 60%",
+    "Reduced p95 API latency by 25% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  }
+ ],
+ "skills": [
+  "Microsoft Azure",
+  "Google Cloud Platform",
+  "GitHub Actions",
+  "Django",
+  "GraphQL",
+  "Angular",
+  "Spring Boot",
+  "React",
+  "Rust",
+  "Swift",
+  "C++",
+  "TypeScript",
+  "Kotlin",
+  "Scala"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "Django, Rust"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2021",
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud"
+  },
+  {
+   "year": "2023",
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation"
+  },
+  {
+   "year": "2026",
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "year": "2023",
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

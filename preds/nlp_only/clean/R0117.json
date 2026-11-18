@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0117",
+ "name": "Tahmina Talukder",
+ "contact": {
+  "email": "talukder.tahmina@gmail.com",
+  "phone": "+44 7101 96056",
+  "location": "Cardiff, UK"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tahmina-talukder-871bcb"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc HR",
+   "institution": "Institute of Business Administration, University of Dhaka Dhaka",
+   "dates": "2024 - 2025"
+  },
+  {
+   "degree": "BSc (Hons) Human Resource Management",
+   "institution": "Institute of Business Administration, University of Dhaka Dhaka",
+   "dates": "2021 - 2024"
+  }
+ ],
+ "skills": [
+  "Talent Acquisition * Onboarding",
+  "Learning & Development",
+  "HR Analytics * Payroll"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.031
+}

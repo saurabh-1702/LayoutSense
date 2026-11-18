@@ -1,0 +1,75 @@
+{
+ "resume_id": "R0250",
+ "name": "Address Abuja",
+ "contact": {
+  "email": "ngozi2Z000@gmail.com",
+  "phone": "+234 902 759 8911",
+  "location": "Abuja, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ngozi-eze-c24b38"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc General Management",
+   "institution": "Managing Director Lagos Business School",
+   "dates": "Mar 2024 - Present"
+  },
+  {
+   "degree": "BA in Economics",
+   "institution": "counterparts across 7 workstreams Covenant University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Managing Director Lagos Business School",
+   "company": "MSc General Management",
+   "dates": "Mar 2024 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Managing Director Lagos Business School",
+   "company": "KPMG",
+   "dates": "Feb 2007 - Jan 2008",
+   "bullets": [
+    "Authored 6 thought-leadership articles and Sep 2000 - Aug 2003"
+   ]
+  }
+ ],
+ "skills": [
+  "client Market Sizing",
+  "Due Diligence",
+  "Stakeholder Management",
+  "private equity targets Tools: Think-cell",
+  "SQL",
+  "PowerPoint"
+ ],
+ "certifications": [
+  {
+   "name": "employee organisation post-merger",
+   "issuer": "Certified Management Consultant (CMC)"
+  },
+  {
+   "name": "Managing Director Institute of Management Consultants",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Igbo",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Hausa",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.073
+}

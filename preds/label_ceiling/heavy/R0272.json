@@ -1,0 +1,75 @@
+{
+ "resume_id": "R0272",
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Ashesi University",
+   "dates": "09.2024 Present",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "11.2025 - 07.2026",
+   "title": "SDE Intern",
+   "company": "Barclays",
+   "location": "Glasgow",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Collected and cleaned data from 7 sources to support a software engineering initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "TypeScript",
+  "®",
+  "g",
+  "Angular",
+  "Vue. js",
+  ".NET Core",
+  "Express js",
+  "React",
+  "GitHub Actions",
+  "Linux",
+  "Kubernetes",
+  "= 5 8 2 if @",
+  "Apache Kafka",
+  "DynamoDB",
+  "Redis",
+  "Cassandra"
+ ],
+ "projects": [
+  {
+   "description": "Full-stack food ordering app with five order tracking, payments and",
+   "name": "Rey-Vahio Store"
+  },
+  {
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Angular, NET Core, Cassandra. Express js",
+   "name": "URL Shortener at Scale"
+  },
+  {
+   "description": "Load-tested URL shortener handling 191K*+ redirects/minute with consistent hashing and Redis.",
+   "tech": "Angular, GitHub Actions",
+   "name": "Campus Placement Portal",
+   "dates": "08.2026"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "proficiency": "Proficiency Etementary",
+   "language": "French"
+  }
+ ]
+}

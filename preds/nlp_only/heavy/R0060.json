@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0060",
+ "name": "Ledger Accountant",
+ "contact": {
+  "email": "agustina.rossi04@gmail.com",
+  "phone": "4347762161 70",
+  "location": "Madrid"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/agustina-rossi-cac780"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc, Finance",
+   "institution": "HE University",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@ General Ledger Accountant is",
+   "company": "eeeoe",
+   "dates": "March 2023 - Now",
+   "bullets": [
+    "Reduced days sales outstanding by 25 days",
+    "Implemented SAP FICO for accounts payable, Education &",
+    "Managed the month-end close for 7 legal"
+   ]
+  },
+  {
+   "title": null,
+   "company": "working days",
+   "dates": "August 2017 - August 2019",
+   "bullets": []
+  },
+  {
+   "title": "@ Audit Associate",
+   "company": "aligned depreciation with tax schedules Universidad de San Andres",
+   "dates": "July 2013 - June 2017",
+   "bullets": [
+    "» Filed GST and corporate tax returns with zero Certificates",
+    "Led statutory audits for 18 clients across AICPA, 2022",
+    "Performed balance sheet reconciliations for SAP, 2024"
+   ]
+  }
+ ],
+ "skills": [
+  "ORS",
+  "Ind AS Direct Taxation",
+  "Statutory Audit SAP FICO",
+  "55% ) \\ 80% i",
+  "CaseWare Tally ERP9",
+  "Microsoft Xero",
+  "Dynamics 365"
+ ],
+ "_runtime_s": 0.09
+}

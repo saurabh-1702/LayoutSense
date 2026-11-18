@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0249",
+ "name": "Sneha Nair",
+ "contact": {
+  "email": "snehanair@rediffmail.com",
+  "phone": "88504 04724",
+  "location": "Kochi, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/snehanair"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. (Mass Communication)",
+   "institution": "Indian Institute of Mass Communication",
+   "dates": "Apr '15"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Product Marketing Manager",
+   "company": "Paytm",
+   "dates": "Oct '22 — Present",
+   "bullets": []
+  },
+  {
+   "title": "Digital Marketing Specialist",
+   "company": "HT Media",
+   "dates": "Dec '16 — Sep '22",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Marketing Automation",
+  "Performance Marketing",
+  "SEM",
+  "Influencer Marketing",
+  "Go",
+  "to-Market Strategy",
+  "Meta Ads Manager",
+  "Canva",
+  "SEMrush",
+  "Mailchimp",
+  "Salesforce Marketing Cloud",
+  "Time",
+  "Management",
+  "Team Leadership",
+  "Problem Solving",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Instagram Growth Experiment"
+  },
+  {
+   "name": "Consumer Survey on EV Adoption"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "Meta Certified Digital Marketing Associate",
+   "issuer": "Meta"
+  },
+  {
+   "name": "Google Ads Search Certification",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.135
+}

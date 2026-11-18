@@ -1,0 +1,82 @@
+{
+ "resume_id": "R0106",
+ "name": "ROJINA MAHARJAN",
+ "headline": "Housekeeping Supervisor",
+ "contact": {
+  "email": "rojina1994@gmail.com",
+  "phone": "+977 9865814970",
+  "location": "Kathmandu, Nepal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rojina-maharjan"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Hospitality and Hotel Administration",
+   "institution": "Kathmandu University",
+   "dates": "07/2019 – 04/2023",
+   "grade": "First Class with Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "05/2023 – Present",
+   "title": "Housekeeping Supervisor",
+   "company": "Dwarika's Hotel",
+   "location": "Kathmandu",
+   "bullets": [
+    "Planned and executed 10 large weddings and",
+    "MICE events with budgets up to NPR 508K",
+    "Improved TripAdvisor ranking from #4 to top 5 in",
+    "the city through service recovery initiatives",
+    "Handled VIP arrivals and guest escalations with a",
+    "guest satisfaction score of 9.21/10",
+    "Managed front office operations for a 250-room five-star property with 14% average occupancy"
+   ]
+  }
+ ],
+ "skills": [
+  "Guest Relations",
+  "Housekeeping Management",
+  "Time Management",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Pre-opening of a Resort",
+   "dates": "10/2026",
+   "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": "Wine & Spirit Education Trust",
+   "year": "02/2024"
+  },
+  {
+   "name": "Certified Revenue Management Executive"
+  },
+  {
+   "name": "Food Safety Supervisor (FoSTaC)",
+   "issuer": "FSSAI",
+   "year": "12/2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Nepali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ]
+}

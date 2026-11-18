@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0219",
+ "name": "MEGHA NEGI",
+ "contact": {
+  "email": "meghanegi@gmail.com",
+  "phone": "+44 7138 93720"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/meghanegi"
+  },
+  {
+   "url": "github.com/meghanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology Indian Institute of Technology",
+   "institution": "Qualification Institution Tenure",
+   "dates": "04.2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "BBC Mobile Developer (Android) Manchester",
+   "company": "«= Developed customer-facing features in C# used by 742K monthly active users",
+   "dates": "06.2024 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Developer Manchester",
+   "company": "BBC Software",
+   "dates": "07.2021 - 05.2024",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Project Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate Amazon Web Services"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate HashiCorp",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.078
+}

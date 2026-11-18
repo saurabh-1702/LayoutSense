@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0179",
+ "name": "Rahel Girma",
+ "contact": {
+  "email": "rgirma@gmail.com",
+  "phone": "+251 921846696",
+  "location": "Hawassa, Ethiopia"
+ },
+ "education": [
+  {
+   "degree": "MSc Operations and Supply",
+   "institution": "Supply",
+   "dates": "2011"
+  },
+  {
+   "degree": "BEng (Hons) Industrial Addis Ababa Science and Technology Upper Second",
+   "institution": "Engineering University Class Honours",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Analyst",
+   "company": "Ethiopian Airlines Inventory",
+   "dates": "Jun 2005 Nov 2011",
+   "bullets": [
+    "Negotiated freight contracts that saved ETB 11.3M annually",
+    "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%",
+    "Managed procurement spend of ETB 319K across 120 suppliers, delivering 23% savings"
+   ]
+  }
+ ],
+ "skills": [
+  "SAMI"
+ ],
+ "_runtime_s": 0.032
+}

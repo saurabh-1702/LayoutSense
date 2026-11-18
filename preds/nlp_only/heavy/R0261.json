@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0261",
+ "name": "Rimjhim Mohanty",
+ "contact": {
+  "email": "rimjhim.mohanty@gmail.com",
+  "phone": "(+91) 9920237679",
+  "location": "Bhubaneswar. Odisha, India"
+ },
+ "education": [
+  {
+   "degree": "B.A. in Journalism and Mass Communication",
+   "institution": "Indian Institute of Mass Communication",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Ryan International School",
+   "dates": null
+  },
+  {
+   "degree": "Class X (SSC)",
+   "institution": "Ryan International School, Guwahati",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Reporter",
+   "company": "The Times Group Bhubanesw ar",
+   "dates": "August 2025 — Present",
+   "bullets": [
+    "Managed a team of 12 reporters and stringers across 14 districts",
+    "Produced and edited short-form video in Adobe Premiere Pro with 29,000 cumulative views"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Investigative Series on Groundwater"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "+ Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation"
+  },
+  {
+   "name": "Data Journalism Certificate",
+   "issuer": "Knight Center for Journalism"
+  },
+  {
+   "name": "+ Google News Initiative",
+   "issuer": "Digital Reporting"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.037
+}

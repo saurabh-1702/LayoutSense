@@ -1,0 +1,170 @@
+{
+ "resume_id": "R0228",
+ "name": "Ayu Wijaya",
+ "headline": "Head of Procurement",
+ "contact": {
+  "email": "ayu.wijaya0D0@gmail.com",
+  "phone": "0895-7479-6060",
+  "location": "Bandung, Indonesia"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Science in"
+  },
+  {
+   "degree": "Mechanical Engineering",
+   "institution": "Binus University",
+   "dates": "Sep, 2011 – Jul, 2015"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct, 2025",
+   "title": "Head of Procurement"
+  },
+  {
+   "dates": "Present",
+   "company": "Shell",
+   "location": "Jakarta",
+   "bullets": [
+    "Grew the team by 43% in two years",
+    "while keeping attrition below 13%",
+    "Introduced weekly operating reviews",
+    "that cut decision turnaround from 21",
+    "days to 1 day Partnered with senior leadership to",
+    "define the annual roadmap and a budget",
+    "of IDR 59.8B",
+    "Mentored 9 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 13 across 8 workstreams",
+    "owning hiring, performance reviews and",
+    "quarterly planning",
+    "Led a team of 3 across 15 workstreams",
+    "owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "Jan, 2019 – Sep",
+   "title": "Procurement Manager"
+  },
+  {
+   "dates": "2025",
+   "company": "Tokopedia",
+   "location": "Medan",
+   "bullets": [
+    "Set up 9 new fulfilment centres processing 562K orders per day",
+    "Managed procurement spend of IDR",
+    "11.8B across 75 suppliers, delivering 6%",
+    "savings Built a supplier scorecard covering",
+    "quality, cost and delivery for 150",
+    "vendors Implemented a warehouse management",
+    "system in 6 sites, improving pick accuracy to 99.8%",
+    "Negotiated freight contracts that saved",
+    "IDR 36.4B annually"
+   ]
+  },
+  {
+   "dates": "Sep, 2015 – Dec",
+   "title": "Operations Executive"
+  },
+  {
+   "dates": "2018",
+   "company": "Pertamina",
+   "location": "Yogyakarta",
+   "bullets": [
+    "Improved forecast accuracy from 57% to",
+    "82% by introducing statistical models in Excel",
+    "Managed import logistics and customs clearance for 200+ containers per year",
+    "Reduced inventory days by 26 while maintaining 49% service levels",
+    "Cut last-mile delivery cost per order by",
+    "41% through route optimisation",
+    "Led the monthly S&OP process across",
+    "sales, finance and manufacturing"
+   ]
+  }
+ ],
+ "skills": [
+  "78%",
+  "Transportation",
+  "Inventory",
+  "Management",
+  "Optimisation",
+  "92%",
+  "54%",
+  "Import/Export",
+  "nv e 9",
+  "Documentation",
+  "N 7%",
+  "Demand Planning",
+  "¥ ne) =",
+  "57%",
+  "91%",
+  "Nn",
+  "s",
+  "Excel",
+  "98%",
+  "Ariba"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "dates": "Jan, 2026",
+   "description": "Python OR-Tools model for routing 24 delivery vans with time windows."
+  },
+  {
+   "name": "Warehouse Layout Optimisation",
+   "dates": "Jun, 2022",
+   "description": "Slotting analysis that reduced picker travel distance by 30% in"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management"
+  },
+  {
+   "name": "Professional (PMP)",
+   "issuer": "PMI",
+   "year": "Nov, 2017"
+  },
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "2020"
+  },
+  {
+   "name": "SAP Certified Application"
+  },
+  {
+   "name": "Associate"
+  },
+  {
+   "name": "Sourcing",
+   "issuer": "SAP",
+   "year": "2019"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2016"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Supply Chain Excellence Award",
+   "year": "(2016)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "94%",
+   "language": "Indonesian"
+  },
+  {
+   "proficiency": "Mother tongue",
+   "language": "English"
+  },
+  {
+   "proficiency": "Full Professional Proficiency",
+   "language": "Javanese"
+  }
+ ]
+}

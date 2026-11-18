@@ -1,0 +1,98 @@
+{
+ "resume_id": "R0100",
+ "name": "SANA RANA",
+ "headline": "Field Engineer",
+ "contact": {
+  "email": "sana.rana@gmail.com",
+  "phone": "+92 322 835 0290",
+  "location": "Rawalpindi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sana-rana2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "NED University of Engineering and Technology"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Field Engineer",
+   "company": "Engro Corporation",
+   "location": "Karachi",
+   "bullets": [
+    "Developed firmware in Embedded C for a battery management system on 120+ EV packs",
+    "Reduced energy losses by 56% through power factor correction and harmonic filtering",
+    "Verified RTL designs on FPGA, achieving timing closure at 150 MHz"
+   ],
+   "dates": "09/2023 to 06/2024"
+  },
+  {
+   "title": "Graduate Engineer - Power Systems",
+   "company": "Bosch",
+   "location": "Karachi",
+   "bullets": [
+    "Led root cause analysis on transformer failures, saving PKR 5.4M in replacement costs",
+    "Designed 7-layer PCBs in Altium Designer for an industrial IoT gateway",
+    "Performed load flow and short-circuit studies for 19 industrial clients",
+    "Designed protection schemes for 11 132/33 kV substations using DIgSILENT PowerFactory"
+   ]
+  }
+ ],
+ "skills": [
+  "Renewable Energy Integration",
+  "Nn FS n E lo) = toIci<",
+  "i) >",
+  "5",
+  "(S)",
+  "3 0 B las)",
+  "oO FS = o",
+  "DIgSILENT PowerFactory",
+  "Attention to Detail",
+  "= @ = S 2. 5 gq",
+  "= 3 a) K feb} 5 feb) ia (e) 3 © 5 ot"
+ ],
+ "projects": [
+  {
+   "name": "Grid-tied Inverter Design",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "KiCad, DIgSILENT PowerFactory"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board",
+   "year": "2026"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "Engro Corporation",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "1"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "2"
+  }
+ ]
+}

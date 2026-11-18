@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0029",
+ "name": "Riya M",
+ "contact": {
+  "email": "riya_mahapatra@gmail.com",
+  "phone": "+971-50-3262993",
+  "location": "Al Ain, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/riya-mahapatra2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. (English Literature)",
+   "institution": "Tata Institute of Social Sciences",
+   "dates": "July 2020 - July 2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Product Marketing Manager",
+   "company": "The Coca-Cola Company Dubai",
+   "dates": "February 2026 - Present",
+   "bullets": [
+    "Grew organic traffic by 28% in 10 months through technical SEO and a content calendar of 12 articles per",
+    "Leda rebrand across 17 touchpoints in partnership with an external creative agency",
+    "Managed a monthly paid media budget of AED 895K across Google Ads and Meta, achieving a 14x ROAS",
+    "Coordinated 9 influencer campaigns generating 108K+ impressions and 64,000 engagements"
+   ]
+  },
+  {
+   "title": "Associate",
+   "company": "Content Marketing",
+   "dates": "September 2023 - January 2026",
+   "bullets": [
+    "Ran consumer research with 200 respondents to shape positioning for a new category",
+    "Owned the go-to-market plan for a SaaS launch, generating AED 20.0M pipeline in the first quarter",
+    "Reduced customer acquisition cost by 45% through audience segmentation and creative testing",
+    "Built automated email nurture journeys in Marketo that lifted MQL-to-SQL conversion by 50%",
+    "Built a marketing attribution dashboard in Marketo used in weekly leadership reviews"
+   ]
+  }
+ ],
+ "skills": [
+  "Email Marketing",
+  "Brand Strategy",
+  "Performance Marketing",
+  "Conversion Rate Optimisation",
+  "SEM",
+  "Media Marketing",
+  "Marketo",
+  "Meta Ads Manager",
+  "Ahrefs",
+  "Hootsuite",
+  "Canva",
+  "Mailchimp",
+  "Team Leadership",
+  "Critical Thinking",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.056
+}

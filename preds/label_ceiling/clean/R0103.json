@@ -1,0 +1,124 @@
+{
+ "resume_id": "R0103",
+ "name": "SAAD SHEIKH",
+ "headline": "Project Manager",
+ "contact": {
+  "email": "saad_sheikh@gmail.com",
+  "phone": "+92 334 6744947",
+  "location": "Islamabad, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/saad-sheikh4"
+  }
+ ],
+ "education": [
+  {
+   "dates": "August 2018 - June 2019",
+   "degree": "MSc Structural Engineering",
+   "institution": "NED University of Engineering and Technology"
+  },
+  {
+   "dates": "September 2014 - May 2018",
+   "degree": "MEng Civil Engineering",
+   "institution": "Lahore University of Management Sciences",
+   "grade": "2:1"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2025 - Present",
+   "title": "Project Manager",
+   "company": "Lucky Cement",
+   "bullets": [
+    "Conducted soil investigation reviews and foundation design for 18 bridges",
+    "Achieved 6.3M safe man-hours without a lost-time injury on site",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 12.9M"
+   ]
+  },
+  {
+   "dates": "August 2019 - December 2024",
+   "title": "Planning Engineer",
+   "company": "WSP",
+   "bullets": [
+    "Coordinated 18 subcontractors and 120+ workers across civil and MEP activities",
+    "Delivered a 9 km highway stretch 9 weeks ahead of schedule",
+    "Designed RCC and steel structures in Primavera P6 for 19 commercial projects",
+    "Prepared BOQs and rate analyses for tenders worth PKR 920K",
+    "Supervised construction of a 17-storey residential tower with a contract value of PKR 21.2M",
+    "Managed client billing and variations, improving cash collection by 42%",
+    "Scheduled a 6-month metro station package in MS Project, recovering 16 weeks of delay"
+   ]
+  }
+ ],
+ "skills": [
+  "Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "Navisworks",
+  "Primavera P6",
+  "ETABS",
+  "SAP2000",
+  "MS Project",
+  "Tekla Structures"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 18 mix designs for urban stormwater management.",
+   "tech": "Primavera P6, SAP2000, ETABS"
+  },
+  {
+   "name": "Design of a Gt+5 Residential Building",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "SAP2000, ETABS"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2023",
+   "name": "Autodesk Certified Professional: Revit",
+   "issuer": "Autodesk"
+  },
+  {
+   "year": "2025",
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  },
+  {
+   "year": "2021",
+   "name": "Chartered Engineer (CEng)",
+   "issuer": "Institution of Civil Engineers"
+  },
+  {
+   "year": "2022",
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2026",
+   "name": "Rising Star Award",
+   "issuer": "Lucky Cement"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "A2"
+  }
+ ]
+}

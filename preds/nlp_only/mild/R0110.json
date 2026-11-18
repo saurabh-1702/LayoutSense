@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0110",
+ "name": "Anjali Natarajan",
+ "contact": {
+  "email": "anjali1994@gmail.com",
+  "phone": "+49 162-82344573"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anjali-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PGDM in Pharmaceutical > Developed an extended-release tablet formulation that cut",
+   "institution": "Indian Institute of Management > Trained 13 analysts on data integrity and ALCOA+ principles",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Chemistry",
+   "institution": "Anna University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "& critical observations",
+   "issuer": null
+  },
+  {
+   "name": "CERTIFICATIONS > Led CAPA investigations that reduced batch deviations by 18%",
+   "issuer": null
+  },
+  {
+   "name": "Certified Clinical Research > Prepared and submitted 17 ANDA/eCTD dossiers to USFDA and EMA",
+   "issuer": null
+  },
+  {
+   "name": "Professional",
+   "issuer": "CCRP) > Processed 483K+ adverse event reports in Argus Safety within"
+  },
+  {
+   "name": "SoCRA",
+   "issuer": "regulatory timelines"
+  },
+  {
+   "name": "Registered Pharmacist > Monitored 24 clinical trial sites across Phase II and III oncology",
+   "issuer": "Pharmacy Council of India"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate, Lupin Mysuru, India"
+  },
+  {
+   "name": "Six Sigma Green Belt Clinical Operations Manager",
+   "issuer": ""
+  },
+  {
+   "name": "board-level reporting",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.051
+}

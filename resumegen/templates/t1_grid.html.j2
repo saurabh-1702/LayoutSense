@@ -1,0 +1,81 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{padding:{{ s.mt }}px {{ s.mx - 10 }}px {{ s.mb }}px;display:flex;flex-direction:column;font-size:{{ s.fs * 0.95 }}px}
+.flow{flex:1}
+.tb{width:100%;border-collapse:collapse;table-layout:fixed}
+.tb td,.tb th{border:1px solid {{ s.border }};padding:3px 6px;vertical-align:top;text-align:left;overflow:hidden}
+.tb th{background:{{ s.th_bg }};color:{{ s.th_ink }};font-weight:700;font-size:.93em}
+.rowt .tb{margin-top:-1px}
+.cap{margin-top:{{ s.sec_gap + 2 }}px;border:1px solid {{ s.border }};background:{{ s.accent }};color:#fff;font-weight:700;padding:3px 7px;letter-spacing:.6px;font-family:{{ s.head_font|safe }}}
+.cap+.blk .tb{margin-top:-1px}
+.hdr .tb td{padding:4px 7px}
+.hdr .nmc{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs }}px;font-weight:700;color:{{ s.name_color }};text-align:center;padding:8px 6px;line-height:1.15}
+.hdr .lb{font-weight:700;background:{{ s.stripe }};width:15%}
+.hl{display:block;font-size:.52em;font-weight:400;color:{{ s.muted }};margin-top:2px;letter-spacing:.3px}
+.bl{margin:1px 0}
+.sm{font-size:.9em}
+</style></head><body>
+{% macro thead(sec, cols, widths) -%}
+<div class="blk keep rowt" data-group="sec_{{ sec }} tbl_{{ sec }}"><table class="tb"><colgroup>{% for w in widths %}<col style="width:{{ w }}%">{% endfor %}</colgroup><tr>{% for c in cols %}<th>{{ c }}</th>{% endfor %}</tr></table></div>
+{%- endmacro %}
+{% macro cap(sec) -%}<div class="blk keep cap" data-group="sec_{{ sec }}"><span data-field="heading.{{ sec }}">{{ s.h[sec] }}</span></div>{%- endmacro %}
+<div class="page" data-page="1">
+  <div class="hdr p1only" data-region="header">
+    <table class="tb">
+      <colgroup><col style="width:15%"><col style="width:35%"><col style="width:15%"><col style="width:35%"></colgroup>
+      <tr><td colspan="4" class="nmc">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}{% if s.show_headline %}<span class="hl">{{ m.F('headline', p.headline) }}</span>{% endif %}</td></tr>
+      <tr><td class="lb">Email</td><td>{{ m.F('contact.email', p.contact.email, 'brk') }}</td><td class="lb">{{ 'Mobile' if s.icons else 'Phone' }}</td><td>{{ m.F('contact.phone', p.contact.phone, 'nw') }}</td></tr>
+      <tr><td class="lb">{{ 'Location' if s.icons else 'Address' }}</td><td{% if not p.links %} colspan="3"{% endif %}>{{ m.F('contact.location', p.contact.location) }}</td>
+      {% if p.links %}<td class="lb">{{ p.links[0].type }}</td><td>{{ m.F('links.0.url', p.links[0].url, 'brk') }}</td>{% endif %}</tr>
+      {% for k in p.links[1:] %}{% if loop.index0 % 2 == 0 %}<tr>{% endif %}<td class="lb">{{ k.type }}</td><td{% if loop.last and loop.index0 % 2 == 0 %} colspan="3"{% endif %}>{{ m.F('links.'~loop.index~'.url', k.url, 'brk') }}</td>{% if loop.index0 % 2 == 1 or loop.last %}</tr>{% endif %}{% endfor %}
+    </table>
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order %}
+    {% if sec == 'experience' and p.experience %}{{ cap('experience') }}
+      {{ thead('experience', [s.col_dur, 'Organisation' if s.icons else 'Company', 'Designation' if s.icons else 'Role', 'Location'], [19, 29, 30, 22]) }}
+      {% for e in p.experience %}{% set P = 'experience.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_experience tbl_experience"><table class="tb"><colgroup><col style="width:19%"><col style="width:29%"><col style="width:30%"><col style="width:22%"></colgroup>
+        <tr><td class="sm">{{ m.F(P~'.dates', e.dates) }}</td><td class="b">{{ m.F(P~'.company', e.company) }}</td><td>{{ m.F(P~'.title', e.title) }}</td><td>{% if s.show_loc %}{{ m.F(P~'.location', e.location) }}{% endif %}</td></tr>
+        <tr><td colspan="4">{% for b in e.bullets %}<div class="bl"><span class="bm">{{ s.bullet }}</span>{{ m.F(P~'.bullets.'~loop.index0, b) }}</div>{% endfor %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'education' and p.education %}{{ cap('education') }}
+      {{ thead('education', ['Qualification', 'Institution', 'Year' if s.edu_v == 'stack' else s.col_dur, s.col_score], [30, 36, 18, 16]) }}
+      {% for e in p.education %}{% set P = 'education.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_education tbl_education"><table class="tb"><colgroup><col style="width:30%"><col style="width:36%"><col style="width:18%"><col style="width:16%"></colgroup>
+        <tr><td class="b">{{ m.F(P~'.degree', e.degree) }}</td><td>{{ m.F(P~'.institution', e.institution) }}</td><td class="sm">{% if s.edu_v == 'stack' %}{{ m.F(P~'.year', e.year) }}{% else %}{{ m.F(P~'.dates', e.dates) }}{% endif %}</td><td class="sm">{% if e.grade %}{{ m.F(P~'.grade', e.grade) }}{% else %}–{% endif %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'skills' and p.skills %}{{ cap('skills') }}
+      {% for g in p.skill_groups %}
+      <div class="blk rowt" data-group="sec_skills tbl_skills"><table class="tb"><colgroup><col style="width:24%"><col style="width:76%"></colgroup>
+        <tr><td class="b" data-field="skill_group.{{ loop.index0 }}">{{ g.name }}</td><td>{% for k in g.idx %}{{ m.F('skills.'~k, p.skills[k]) }}{% if not loop.last %}{{ s.skill_sep }}{% endif %}{% endfor %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'projects' and p.projects %}{{ cap('projects') }}
+      {{ thead('projects', ['Project', 'Description', 'Technologies' if p.projects[0].tech else 'Year'], [25, 52, 23]) }}
+      {% for pr in p.projects %}{% set P = 'projects.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_projects tbl_projects"><table class="tb"><colgroup><col style="width:25%"><col style="width:52%"><col style="width:23%"></colgroup>
+        <tr><td class="b">{{ m.F(P~'.name', pr.name) }}</td><td>{{ m.F(P~'.description', pr.description) }}</td><td class="sm">{% if pr.tech %}{{ m.F(P~'.tech', pr.tech) }}{% elif pr.dates %}{{ m.F(P~'.dates', pr.dates) }}{% else %}–{% endif %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'certifications' and p.certifications %}{{ cap('certifications') }}
+      {{ thead('certifications', ['Certification', 'Issued By', 'Year'], [52, 33, 15]) }}
+      {% for c in p.certifications %}{% set P = 'certifications.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_certifications tbl_certifications"><table class="tb"><colgroup><col style="width:52%"><col style="width:33%"><col style="width:15%"></colgroup>
+        <tr><td>{{ m.F(P~'.name', c.name) }}</td><td>{{ m.F(P~'.issuer', c.issuer) }}</td><td>{{ m.F(P~'.year', c.year) }}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'awards' and p.awards %}{{ cap('awards') }}
+      {{ thead('awards', ['Award', 'Awarded By', 'Year'], [52, 33, 15]) }}
+      {% for a in p.awards %}{% set P = 'awards.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_awards tbl_awards"><table class="tb"><colgroup><col style="width:52%"><col style="width:33%"><col style="width:15%"></colgroup>
+        <tr><td>{{ m.F(P~'.name', a.name) }}</td><td>{% if a.issuer %}{{ m.F(P~'.issuer', a.issuer) }}{% else %}–{% endif %}</td><td>{{ m.F(P~'.year', a.year) }}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'languages' and p.languages %}{{ cap('languages') }}
+      {{ thead('languages', ['Language', 'Proficiency'], [40, 60]) }}
+      {% for l in p.languages %}{% set P = 'languages.' ~ loop.index0 %}
+      <div class="blk rowt" data-group="sec_languages tbl_languages"><table class="tb"><colgroup><col style="width:40%"><col style="width:60%"></colgroup>
+        <tr><td>{{ m.F(P~'.language', l.language) }}</td><td>{{ m.F(P~'.proficiency', l.proficiency) }}</td></tr>
+      </table></div>{% endfor %}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+</body></html>

@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0256",
+ "name": "Joshua Kim",
+ "contact": {
+  "email": "kim@gmail.com",
+  "phone": "(832) 599-7629"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/joshua"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Georgia Institute of Technology",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "joshua. kim@gmail.com",
+   "issuer": null
+  },
+  {
+   "name": "Workday HCM Certification",
+   "issuer": null
+  },
+  {
+   "name": "Houston",
+   "issuer": "TX"
+  },
+  {
+   "name": "Workday",
+   "issuer": ""
+  },
+  {
+   "name": "x SHRM Certified Professional",
+   "issuer": "SHRM-CP)"
+  },
+  {
+   "name": "SHRM",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.057
+}

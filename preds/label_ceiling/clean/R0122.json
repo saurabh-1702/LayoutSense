@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0122",
+ "name": "Jia Wei Subramaniam",
+ "headline": "Data Analyst | 3+ Years in Data Science & Analytics",
+ "contact": {
+  "email": "jia.subramaniam@gmail.com",
+  "phone": "+60 13-5826566",
+  "location": "Penang, Malaysia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jiasubramaniam"
+  },
+  {
+   "url": "github.com/jiasubrama"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Asia Pacific University",
+   "dates": "2019 - 2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst",
+   "company": "Novartis",
+   "dates": "08.2023 — Present",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 541K profiles to drive targeted campaigns",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 62,000 employee queries per month",
+    "Designed and maintained 6 Airflow pipelines ingesting 41,000 records daily into Snowflake",
+    "Defined the company-wide metric layer in dbt, eliminating 8 conflicting KPI definitions",
+    "Partnered with finance to build an anomaly detection system that flagged MYR 430M in billing errors"
+   ]
+  }
+ ],
+ "skills": [
+  "Looker",
+  "Plotly",
+  "U fe) = fo) © w es",
+  "R",
+  "Python",
+  "AS",
+  "Snowflake",
+  "NumPy",
+  "Apache Spark",
+  "LP",
+  "scikit-learn",
+  "XGBoost",
+  "Hugging Face Transformers"
+ ],
+ "certifications": [
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Google",
+   "year": "2026"
+  },
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft",
+   "year": "06.2026"
+  },
+  {
+   "name": "AWS Certified Machine Learning — Specialty",
+   "issuer": "Amazon Web Services",
+   "year": "2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Asia Pacific University",
+   "year": "2022"
+  }
+ ]
+}

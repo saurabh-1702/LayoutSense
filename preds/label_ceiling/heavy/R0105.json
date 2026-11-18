@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0105",
+ "education": [
+  {
+   "degree": "M.Sc. Manufacturing Systems",
+   "institution": "INSA Lyon",
+   "dates": "216 « 2018"
+  },
+  {
+   "degree": "Bachelor of Engineering, Automobile Engineering",
+   "institution": "Ecole Polytechnique",
+   "dates": "2012 - 2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Sexe Project Engineer",
+   "bullets": [
+    "Pee Pa echt VS oped divsstncagn, shaming wtigandl Pa wnallihe aibiey",
+    "eer mance eae OF Oy Ha en ee"
+   ],
+   "dates": "gO7t = M25 Reliability"
+  },
+  {
+   "title": "Engineer",
+   "bullets": [
+    "ob» titi sags Ve ten tng tag See agin OR tha",
+    "Achieved Six Sigma Green Belt savings of €10.7M by reducing process variation",
+    "Led 18 Kaizen events that saved €499K annually in serap and rework",
+    "Designed 23 sheet-metal and casting components in Minitab for a new two-wheeler platform"
+   ],
+   "dates": "2618 - 2021"
+  },
+  {
+   "title": "Design Engineer",
+   "location": "Lyon",
+   "bullets": [
+    "Commissioned a new CNC machining ecll, increasing capacity by 56%",
+    "Conducted DPMEA and design reviews with cross-functional teams for 19 programmes",
+    "Managed a capex budget of €400M for plant upgrades delivered on time"
+   ]
+  }
+ ],
+ "skills": [
+  "Sheet Metal Design",
+  "PEA",
+  "Injection Moulding",
+  "Root Cause Analysis",
+  "Lean Manufacturing",
+  "CFD",
+  "Minitab",
+  "CATIA V5",
+  "MATLAB",
+  "AutoCAD",
+  "Teameenter",
+  "Negotiation",
+  "Stakeholder Management",
+  "Team Leadership",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit",
+   "dates": "2020",
+   "description": "Prototype vapour-absorption cooler for rural clinics with 30% energy savings.",
+   "tech": "Teamcenter, AatoCAD"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "(2021)"
+  },
+  {
+   "name": "Certified SolidWorks Professional (CSWP)",
+   "issuer": "Dassault Systemes",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "German",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

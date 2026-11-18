@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0154",
+ "name": "Isabela Silva Gomes",
+ "headline": "Accounting & Audit Graduate",
+ "contact": {
+  "email": "isabelagomes@hotmail.com",
+  "phone": "+55 48 95578-2077",
+  "location": "Rio de Janeiro, RJ"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/isabela-gomes-64"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Insper",
+   "location": "Sao",
+   "degree": "Bachelor of Science in Commerce",
+   "dates": "2022-09 ~— 2026-05",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Paulo",
+   "dates": "2025-08 ~ 2025-11",
+   "title": "Audit Intern",
+   "company": "Citi"
+  }
+ ],
+ "skills": [
+  "Transfer Pricing",
+  "GST",
+  "Month-end",
+  "Close",
+  "Direct Taxation",
+  "QuickBooks",
+  "SAP FICO",
+  "Alteryx",
+  "CaseWare"
+ ],
+ "projects": [
+  {
+   "name": "internal Controls Review",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended & control improvements."
+  },
+  {
+   "name": "GST Reconciliation Tool",
+   "dates": "2024-06",
+   "description": "Excel/VBA tool matching purchase registers to GSTR- 2B, adopted by the firm’s tax practice."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACCA Affiliate",
+   "issuer": "Association of Chartered Certified Accountants",
+   "year": "2025"
+  },
+  {
+   "name": "Certified Management Accountant (CMA)",
+   "issuer": "IMA",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "All india Rank 38, CA Final",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.186
+}

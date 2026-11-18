@@ -1,0 +1,104 @@
+{
+ "resume_id": "R0104",
+ "name": "Natalia Zielinski",
+ "headline": "Head of Supply Chain",
+ "contact": {
+  "email": "nataliazielinski@gmail.com",
+  "phone": "+48 786 464449",
+  "location": "Wroctaw, Poland"
+ },
+ "links": [
+  {
+   "url": "inkedin.com/in/nataliazielinski-70"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Wroctaw University of Science and Technology",
+   "dates": "Aug '10 — May '14",
+   "grade": "GPA: 4.3/5"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan '24 — Jun '26",
+   "title": "Head of Supply Chain",
+   "company": "Maersk",
+   "location": "Krakow",
+   "bullets": [
+    "Led a team of 9 across 23 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day",
+    "Built a supplier scorecard covering quality, cost and delivery for 200 vendors",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Grew the team by 19% in two years while keeping attrition below 12%"
+   ]
+  },
+  {
+   "dates": "Oct '23 — Dec '23",
+   "title": "Director of Operations",
+   "company": "InPost",
+   "location": "Wroctaw",
+   "bullets": [
+    "Managed procurement spend of PLN 41M across 50 suppliers, delivering 24% savings",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PLN 22.2M"
+   ]
+  },
+  {
+   "dates": "Jun '19 — Sep '23",
+   "title": "Supply Chain Planner",
+   "company": "Orlen",
+   "location": "Wroctaw",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 25% through route optimisation",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Implemented a warehouse management system in 20 sites, improving pick accuracy to 99.8%",
+    "Reduced inventory days by 22 while maintaining 55% service levels"
+   ]
+  },
+  {
+   "dates": "Aug '14 — May 19",
+   "title": "Warehouse Executive",
+   "company": "LPP",
+   "location": "Wroclaw",
+   "bullets": [
+    "Negotiated freight contracts that saved PLN 20.4M annually",
+    "Managed import logistics and customs clearance for 250+ containers per year",
+    "Set up 24 new fulfilment centres processing 8.3M orders per day",
+    "Improved forecast accuracy from 16% to 82% by introducing statistical models in Tableau"
+   ]
+  }
+ ],
+ "skills": [
+  "Power BI"
+ ],
+ "certifications": [
+  {
+   "name": "Six Green Belt Sigma",
+   "issuer": "ASQ",
+   "year": "May '26"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "InPost",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Ukrainian",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

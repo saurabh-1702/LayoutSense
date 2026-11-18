@@ -1,0 +1,17 @@
+Academic Projects
+URL Shortener at Scale
+Load-tested URL shortener handling 382K+ redirects/minute with consistent hashing and
+Redis.
+Open-source CLI Contribution @4/20203
+Contributed 4 merged pull requests to a popular open-source CLI tool, adding plugin monpert
+Tools: Docker, Spring Boot, Next.js
+Languages
+Korean (Native) | English (Advanced)
+Certificates
++ AWS Certified Developer — Associate — Amazon Web Services (2023)
+- Certified Kubernetes Administrator (CKA) — The Linux Foundation (2025)
+« AWS Certified Solutions Architect — Associate — Amazon Web Services (02/2024)
+* Meta Front-End Developer Professional Certificate — Coursera (01/2023) _
+Awards
+« Gold Medal for Academic Excellence, POSTECH (2025)
+« Star Performer Award, Naver (2026)

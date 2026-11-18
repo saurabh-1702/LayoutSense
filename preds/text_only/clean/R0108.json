@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0108",
+ "name": "M O n [ ka ea a Zu r",
+ "headline": "Visual Designer 1 + Years of Experience",
+ "contact": {
+  "email": "monika.mazur06@wp.pl",
+  "phone": "+48-511-606-662",
+  "location": "Gdajrisk, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/monika-mazur7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. Interaction Design",
+   "institution": "Warsaw University of Technology",
+   "dates": "Jul, 2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug, 2025 - Present",
+   "title": "Visual Designer",
+   "company": "Ogilvy",
+   "location": "Warsaw",
+   "bullets": [
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Improved WCAG 2.1 AA compliance from 14% to 96% across core journeys",
+    "Built and maintained a design system of 120+ components used by 12 product squads",
+    "Conducted 23 rounds of usability testing with 80 participants to validate checkout improvements 93% 91% 62% 78% 58% 38% 72% 43% 77% 75% 55%"
+   ]
+  }
+ ],
+ "skills": [
+  "Information Design",
+  "Systems Architecture",
+  "Typography",
+  "Branding",
+  "Adobe",
+  "Miro Principle",
+  "Adobe XD",
+  "Team Leadership",
+  "Negotiation",
+  "Critical Thinking"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2024"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "2026"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "May, 2024"
+  },
+  {
+   "name": "Accessibility Usability Testing (WCAG) Illustrator Sketch Blender"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Ogilvy",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.475
+}

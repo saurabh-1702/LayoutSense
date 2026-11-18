@@ -1,0 +1,172 @@
+{
+  "resume_id": "R0036",
+  "name": "Connor Morrison",
+  "contact": {
+    "location": "Ottawa, ON",
+    "phone_e164": "+16139150672",
+    "city": "Ottawa",
+    "country": "Canada",
+    "email": "connor.morrison@icloud.com",
+    "phone": "+1 613-915-0672"
+  },
+  "links": [
+    {
+      "url": "linkedin.com/in/connor-morrison-ebb1f1",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.D.",
+      "institution": "Université de Montréal",
+      "dates": "2001 - 2004",
+      "grade": "Magna Cum Laude",
+      "start": "2001-08",
+      "end": "2004-08",
+      "level": "master"
+    },
+    {
+      "degree": "Bachelor of Science in Biochemistry",
+      "institution": "Simon Fraser University",
+      "dates": "1996 - 2001",
+      "grade": "GPA: 3.80",
+      "start": "1996-07",
+      "end": "2001-05",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Chief Medical Officer",
+      "company": "The Hospital for Sick Children",
+      "location": "Ottawa, ON",
+      "dates": "Dec, 2024 - Present",
+      "bullets": [
+        "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+        "Led a team of 10 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+      ],
+      "start": "2024-12",
+      "end": "present"
+    },
+    {
+      "title": "Attending Physician",
+      "company": "Toronto General Hospital",
+      "location": "Waterloo, ON",
+      "dates": "Mar, 2013 - Nov, 2024",
+      "bullets": [
+        "Partnered with senior leadership to define the annual roadmap and a budget of C$23.5M",
+        "Grew the team by 25% in two years while keeping attrition below 25%",
+        "Responded to emergencies as part of the rapid response team during night shifts",
+        "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day"
+      ],
+      "start": "2013-03",
+      "end": "2024-11"
+    },
+    {
+      "title": "Consultant",
+      "company": "The Hospital for Sick Children",
+      "location": "Ottawa",
+      "dates": "Jan, 2012 - Feb, 2013",
+      "bullets": [
+        "Ran outpatient clinics seeing 18 patients per session with a focus on diabetes and hypertension",
+        "Represented the function in executive steering committees and board-level reporting"
+      ],
+      "start": "2012-01",
+      "end": "2013-02"
+    },
+    {
+      "title": "Specialty Registrar",
+      "company": "The Hospital for Sick Children",
+      "location": "Ottawa, ON",
+      "dates": "Oct, 2007 - Dec, 2011",
+      "bullets": [
+        "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 55%",
+        "Led a clinical audit on sepsis bundle compliance that improved adherence by 13%",
+        "Co-authored 4 peer-reviewed publications in indexed journals",
+        "Managed an average of 17 inpatients daily across general medicine and high-dependency units"
+      ],
+      "start": "2007-10",
+      "end": "2011-12"
+    },
+    {
+      "title": "Junior Resident",
+      "company": "The Hospital for Sick Children",
+      "location": "Ottawa, ON",
+      "dates": "Oct, 2004 - Sep, 2007",
+      "bullets": [
+        "Supervised and taught 11 interns and medical students on ward rounds",
+        "Performed 75+ procedures including central lines, thoracentesis and lumbar punctures",
+        "Presented case reports at 3 national conferences"
+      ],
+      "start": "2004-10",
+      "end": "2007-09"
+    }
+  ],
+  "skills": [
+    "Internal Medicine",
+    "Diagnostic Ultrasound",
+    "Lumbar Puncture",
+    "Patient Counselling",
+    "Central Line Insertion",
+    "Clinical Audit",
+    "ICD-10 Coding",
+    "Epic EHR",
+    "Public Speaking",
+    "Cross-functional Collaboration",
+    "Presentation Skills"
+  ],
+  "certifications": [
+    {
+      "name": "PLAB 2",
+      "issuer": "General Medical Council",
+      "year": "2012"
+    },
+    {
+      "name": "Good Clinical Practice (GCP)",
+      "issuer": "NIDA Clinical Trials Network",
+      "year": "2006"
+    },
+    {
+      "name": "USMLE Step 1 & 2 CK",
+      "issuer": "NBME",
+      "year": "2006"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Employee of the Quarter",
+      "issuer": "The Hospital for Sick Children",
+      "year": "2007"
+    },
+    {
+      "name": "Dean's List",
+      "issuer": "Simon Fraser University",
+      "year": "2003"
+    },
+    {
+      "name": "Young Investigator Award",
+      "year": "2017"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Fluent"
+    }
+  ],
+  "_meta": {
+    "layout": "infographic",
+    "template": "i3_timeline_gauges",
+    "n_pages": 2,
+    "industry": "medicine",
+    "level": "exec",
+    "years_experience": 22,
+    "origin_country": "Canada",
+    "work_country": "Canada",
+    "date_format": "MMM, YYYY"
+  }
+}

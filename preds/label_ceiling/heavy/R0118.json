@@ -1,0 +1,128 @@
+{
+ "resume_id": "R0118",
+ "name": "Palesa Smith",
+ "contact": {
+  "email": "+447525249742",
+  "location": "Edinburgh, UK behance.net/palesasmith"
+ },
+ "education": [
+  {
+   "degree": "MA Human-Computer Interaction of",
+   "institution": "University Cape Town",
+   "dates": "July 2012",
+   "grade": "2:1"
+  },
+  {
+   "degree": "BA (Hons) Industrial Design University",
+   "institution": "of Johannesburg",
+   "dates": "July 2011",
+   "grade": "2:1"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2023 — June 2026",
+   "title": "Principal Designer",
+   "location": "Edinburgh",
+   "bullets": [
+    "Grew the team by 59% in two years while keeping attrition below 18%"
+   ]
+  },
+  {
+   "dates": "July 2018 December 2022",
+   "title": "Art Director",
+   "company": "Adobe",
+   "location": "Johannesburg, South Africa Represented committees",
+   "bullets": [
+    "the function in executive steering and board-level reporting",
+    "Led a team of 3 across 15 workstreams, owning hiring",
+    "performance reviews and quarterly planning Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of GBP 20.4M",
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of GBP 265M October"
+   ]
+  },
+  {
+   "dates": "August 2012 — September 2014",
+   "title": "Junior Product Designer",
+   "bullets": [
+    "Produced motion graphics and explainer videos with Blender reaching 4.4M views",
+    "Ran discovery workshops and journey mapping with stakeholders across 24 markets",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Conducted 3 rounds of usability testing with 400 participants to validate checkout improvements",
+    "Partnered with engineering to ship 4 features per quarter with pixel-perfect handoff in Adobe Photoshop",
+    "Reduced support tickets by 26% by simplifying the account settings experience"
+   ]
+  }
+ ],
+ "skills": [
+  "Wireframing",
+  "Design Systems",
+  "Usability Testing",
+  "(WCAG)",
+  "Miro",
+  "Blender",
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Adobe XD"
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech Startup Token-based documentation",
+   "description": "component fibrary in Figma with and dark-mode support. Accessible"
+  },
+  {
+   "name": "Transit App Concept commuters",
+   "description": "impaired won a student design award."
+  },
+  {
+   "name": "Museum Wayfinding Redesign Technologies",
+   "description": "visitors months.",
+   "tech": "Adobe Photoshop, Miro"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nicisen Norman Group",
+   "year": "January 2017"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "2018"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2021"
+  },
+  {
+   "name": "Interaction Design Foundation — UX Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2013"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Woolvwsorths Holdings",
+   "year": "2017"
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "University of Johannesburg",
+   "year": "2012"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Adobe",
+   "year": "2019"
+  }
+ ]
+}

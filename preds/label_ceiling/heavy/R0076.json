@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0076",
+ "education": [
+  {
+   "dates": "Sep 2019 — Mar 2024",
+   "degree": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+   "institution": "Seth GS Medical College"
+  },
+  {
+   "degree": "Class Xli (CBSE)",
+   "institution": "The Shri Ram School",
+   "grade": "93.7%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Foundation Year 2 Doctor",
+   "company": "Medanta The Medicity",
+   "location": "Surat",
+   "bullets": [
+    "Co-authored 7 peer-reviewed publications in indexed journals",
+    "Managed an average of 20 inpatients daily across general medicine and high-dependency units",
+    "Presented case reports at 3 national conferences",
+    "Ran outpatient clinics seeing 8 patients per session with a focus on diabetes and hypertension",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 33%",
+    "Supervised and taught 8 interns and medical students on ward rounds",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 31%",
+    "Performed 200+ procedures including central lines, thoracentesis and lumbar punctures"
+   ]
+  }
+ ],
+ "skills": [
+  "Internal Medicine",
+  "“Clinical Audit",
+  "Epic EHR",
+  "Teiernedicine",
+  "‘ico 10 Coding",
+  "Feam Leadership",
+  "Public Speaking",
+  "Communication",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit",
+   "description": "Retrospective review of 60 admissions validating NEWS2 thresholds."
+  },
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "dates": "Feb 2023",
+   "description": "Cross-sectional study of 180 school students; presented at the state medical conference."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACLS Provider",
+   "issuer": "American Heart Association",
+   "year": "2025"
+  },
+  {
+   "name": "Good Clinical Practice (GCP)",
+   "issuer": "NIDA Clinical Trials Network",
+   "year": "2022"
+  },
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "Medanta - The Medicity",
+   "year": "2024"
+  },
+  {
+   "name": "Excellence",
+   "issuer": "Seth GS Medical College",
+   "year": "2022"
+  }
+ ]
+}

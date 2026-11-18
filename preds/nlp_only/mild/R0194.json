@@ -1,0 +1,40 @@
+{
+ "resume_id": "R0194",
+ "name": "Johanna Hoffmann",
+ "contact": {
+  "email": "hoffmann.johanna@gmail.com",
+  "phone": "+49 178 12894920",
+  "location": "Leipzig, Germany Professional Experience"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/johanna-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software optimising slow PostgreSQL queries",
+   "institution": "University of Stuttgart Notable Projects",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.021
+}

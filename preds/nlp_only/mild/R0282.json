@@ -1,0 +1,154 @@
+{
+ "resume_id": "R0282",
+ "name": "NATALIA WOZNIAK",
+ "contact": {
+  "email": "natalia.wozniak86@interia.pl",
+  "phone": "696 061 895",
+  "location": "Lodz, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nataliawozniak2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Software Engineering",
+   "institution": "Warsaw University of Technology",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Information Technology",
+   "institution": "automated tests, raising code coverage from 25% to 85% AGH University of Krakow",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Systems Engineer Polish Mother tongue",
+   "company": "Comarch",
+   "dates": "03/2022 — Present",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "minutes",
+   "dates": "08/2019 — 03/2021",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Developed internal tooling in FastAPI that saved the",
+   "dates": "08/2015 — 07/2019",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store » Apache Kafka"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Rebuilt the search experience with Elasticsearch",
+   "issuer": null
+  },
+  {
+   "name": "improving result relevance and click-through by 30% HashiCorp Certified",
+   "issuer": null
+  },
+  {
+   "name": "Terraform Associate",
+   "issuer": null
+  },
+  {
+   "name": "Built a real-time notification service using FastAPI and",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "Apache Kafka that processes 10K+ events per hour",
+   "issuer": null
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": null
+  },
+  {
+   "name": "Developed customer-facing features in FastAPI used by",
+   "issuer": null
+  },
+  {
+   "name": "445K monthly active users Amazon Web Services",
+   "issuer": ""
+  },
+  {
+   "name": "Owned the payments integration with 18 third-party Oracle Certified Professional",
+   "issuer": null
+  },
+  {
+   "name": "gateways",
+   "issuer": "reducing failed transactions by 44% Java SE 17 Developer"
+  },
+  {
+   "name": "Associate Software Engineer",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Designed and built 13 RESTful microservices in Redis Professional Certificate",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "and Linux",
+   "issuer": "serving 261K+ requests per day with 99.95%"
+  },
+  {
+   "name": "AWS Certified Solutions",
+   "issuer": null
+  },
+  {
+   "name": "Architect",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Reduced pg5 API latency by 18% by introducing Redis",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "caching and optimising slow PostgreSQL queries",
+   "issuer": null
+  },
+  {
+   "name": "Resolved 180+ production issues as part of the on-call Technical Skills",
+   "issuer": null
+  },
+  {
+   "name": "rotation",
+   "issuer": "reducing mean time to recovery by 58% ¢ Kotlin"
+  },
+  {
+   "name": "Introduced feature flags and canary releases",
+   "issuer": "lowering ¢ Ruby"
+  },
+  {
+   "name": "production incidents by 57% quarter over quarter « C++",
+   "issuer": null
+  },
+  {
+   "name": "Cut cloud infrastructure costs by PLN 15.2M annually by ¢ Ruby on Rails",
+   "issuer": null
+  },
+  {
+   "name": "right-sizing instances and adopting spot capacity e FastAPI",
+   "issuer": null
+  },
+  {
+   "name": "Wrote technical design documents and led code reviews e Django",
+   "issuer": null
+  },
+  {
+   "name": "for a team of 12 engineers ¢ Google Cloud Platform",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.098
+}

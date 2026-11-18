@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0011",
+ "name": "Ting Wang",
+ "contact": {
+  "email": "tingwang@outlook.com",
+  "phone": "196 8322 7929",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ting-wang"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering in Tongji University",
+   "institution": "Bachelor of Engineering",
+   "dates": "2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Operations Manager",
+   "company": "Shell",
+   "dates": "May '21 | Present",
+   "bullets": [
+    "Built a supplier scorecard covering quality, cost and delivery for 250 vendors",
+    "Set up 7 new fulfilment centres processing 170K+ orders per day",
+    "Managed procurement spend of CNY 131K across 120 suppliers, delivering 5% savings",
+    "Improved forecast accuracy from 40% to 82% by introducing statistical models in SAP APO"
+   ]
+  }
+ ],
+ "skills": [
+  "Transportation Management",
+  "Network Design",
+  "Import/Export Documentation",
+  "Vendor Management",
+  "_ .",
+  "vearateuien Management",
+  "Last-mile Delivery",
+  "a I",
+  "Ariba",
+  "Oracle SCM"
+ ],
+ "certifications": [
+  {
+   "name": "SAS yo eT",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.032
+}

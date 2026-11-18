@@ -1,0 +1,50 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr;padding:{{ s.mt }}px {{ s.mx - 10 }}px {{ s.mb }}px;column-gap:26px;font-size:{{ s.fs * 0.95 }}px}
+.hd{grid-column:1/-1;grid-row:1;display:grid;grid-template-columns:1.1fr 1fr;align-items:end;gap:16px;padding-bottom:10px;margin-bottom:4px;border-bottom:1px solid {{ s.ink }}}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs + 2 }}px;font-weight:700;line-height:1.05;color:{{ s.name_color }};letter-spacing:{{ s.name_ls }}px}
+.hl{font-size:1.1em;color:{{ s.accent }};margin-top:4px}
+.cg{display:grid;grid-template-columns:auto 1fr;column-gap:8px;row-gap:1px;font-size:.92em}
+.cg .lbl{color:{{ s.accent }};font-weight:700}
+.flow{grid-row:2}
+.flow.right{border-left:1px solid #d4d4d4;padding-left:20px}
+.sh{font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.05em;margin:{{ s.sec_gap + 3 }}px 0 4px;letter-spacing:1.2px;color:{{ s.ink }}}
+.sh:after{content:"";display:block;width:34px;height:3px;background:{{ s.accent }};margin-top:2px}
+.eh{margin-top:6px}
+.bl{margin:1px 0}
+.ed{margin:5px 0}
+.pj{margin:5px 0}
+.tech{color:{{ s.muted }};font-size:.92em}
+.tech .lbl{font-weight:600}
+.ci2{margin:4px 0}
+.skl{margin:2px 0}
+.tags{margin-top:2px}
+.lgi{margin:2px 0}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="hd p1only" data-region="header">
+    <div>
+      <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+      {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    </div>
+    <div class="cg">
+      <span class="lbl">{{ 'E' if s.icons else 'Email' }}</span>{{ m.F('contact.email', p.contact.email, 'nw') }}
+      <span class="lbl">{{ 'T' if s.icons else 'Phone' }}</span>{{ m.F('contact.phone', p.contact.phone, 'nw') }}
+      <span class="lbl">{{ 'A' if s.icons else 'Address' }}</span>{{ m.F('contact.location', p.contact.location) }}
+      {% for k in p.links %}<span class="lbl">{{ k.type if not s.icons else k.type[:2] }}</span>{{ m.F('links.'~loop.index0~'.url', k.url, 'nw') }}{% endfor %}
+    </div>
+  </div>
+  <div class="flow left" data-flow="left" data-region="column">
+    {% if p.level == 'fresher' %}{{ m.edu_all(p, s, s.edu_v) }}{{ m.proj_all(p, s) }}{{ m.exp_all(p, s, 'stack') }}
+    {% else %}{{ m.exp_all(p, s, 'stack') }}{% endif %}
+  </div>
+  <div class="flow right" data-flow="right" data-region="column">
+    {% if p.level != 'fresher' %}{{ m.edu_all(p, s, 'stack') }}{% endif %}
+    {{ m.skills_all(p, s, 'tags' if s.skills_v == 'tags' else 'grouped', s.skill_sep) }}
+    {% if p.level != 'fresher' %}{{ m.proj_all(p, s) }}{% endif %}
+    {{ m.cert_all(p, s, 'block') }}
+    {{ m.award_all(p, s, 'block') }}
+    {{ m.lang_all(p, s, 'list') }}
+  </div>
+</div>
+</body></html>

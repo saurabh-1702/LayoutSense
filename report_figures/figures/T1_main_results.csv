@@ -1,0 +1,13 @@
+layout,tier,n,nlp_only,text_only,layout_aware,label_ceiling
+single_column,clean,25,0.846,0.947,0.966,0.981
+single_column,mild,25,0.831,0.933,0.957,0.973
+single_column,heavy,25,0.457,0.56,0.569,0.562
+multi_column,clean,25,0.346,0.756,0.936,0.958
+multi_column,mild,25,0.382,0.754,0.914,0.945
+multi_column,heavy,25,0.192,0.496,0.603,0.581
+table_based,clean,25,0.441,0.527,0.644,0.694
+table_based,mild,25,0.397,0.502,0.581,0.635
+table_based,heavy,25,0.154,0.199,0.216,0.247
+infographic,clean,25,0.303,0.738,0.769,0.897
+infographic,mild,25,0.291,0.733,0.744,0.894
+infographic,heavy,25,0.236,0.559,0.592,0.661

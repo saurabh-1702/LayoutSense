@@ -1,0 +1,10 @@
+streamlit>=1.45
+ultralytics>=8.3
+torch
+torchvision
+pillow
+opencv-python
+pytesseract
+spacy
+rapidfuzz
+scipy

@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0252",
+ "contact": {
+  "email": "kateryna.kovalenko@gmail.com",
+  "phone": "+380 (63) 4469218",
+  "location": "Odesa, Ukraine"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Science Graduate",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "Bogomolets National Medical University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Dobrobut Medical Network",
+   "dates": "2023 - 2026",
+   "bullets": [
+    "Collected and cleaned data from 16 sources to",
+    "» Prepared research summaries and presentation decks",
+    "90% Y 61%"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp Certifications"
+  },
+  {
+   "name": "diabetes. American Heart Association"
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit Registered Nurse Licence"
+  }
+ ],
+ "_runtime_s": 0.052
+}

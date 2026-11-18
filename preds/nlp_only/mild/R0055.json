@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0055",
+ "name": "Curriculum Vitae",
+ "contact": {
+  "email": "prachi.parikh@gmail.com",
+  "phone": "+91-85993-83911",
+  "location": "Surat, Gujarat"
+ },
+ "education": [
+  {
+   "degree": "MBA (Hospitality and Tourism)",
+   "institution": "Amity University, Noida",
+   "dates": "Oct, 2025"
+  },
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Tata Institute of Social Sciences",
+   "dates": "May, 2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Restaurant Manager",
+   "company": "ITC Limited",
+   "dates": "May, 2022 to Now",
+   "bullets": [
+    "Planned and executed 9 large weddings and MICE events with budgets up to %27",
+    "Maintained HACCP compliance and achieved a 5-star food hygiene rating",
+    "Handled VIP arrivals and guest escalations with a guest satisfaction score of",
+    "Trained 4 associates on brand standards, achieving 24% in mystery audits",
+    "Raised RevPAR by 14% through dynamic pricing and channel mix optimisation in",
+    "Drove upselling programmes that generated INR 6.2 crore in incremental room",
+    "Led a 6-member kitchen brigade serving 400 covers per day",
+    "Managed front office operations for a 75-room five-star property with 57% average",
+    "Reduced food cost by 17% through menu engineering and supplier renegotiation",
+    "Improved TripAdvisor ranking from #21 to top 5 in the city through service"
+   ]
+  }
+ ],
+ "skills": [
+  "Revenue Management",
+  "Professional"
+ ],
+ "certifications": [
+  {
+   "name": "Food Safety Supervisor",
+   "issuer": "FoSTaC)"
+  },
+  {
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": "Wine & Spirit Education Trust"
+  },
+  {
+   "name": "ServSafe Manager",
+   "issuer": "National Restaurant Association"
+  },
+  {
+   "name": "Certified Revenue Management Executive",
+   "issuer": "CRME)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.061
+}

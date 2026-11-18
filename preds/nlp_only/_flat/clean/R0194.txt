@@ -1,0 +1,72 @@
+Johanna Hoffmann
+Get in Touch
+\% +449 178 12894920 Software Architect
+™ hoffmannjohanna@gmail.com
+9 Leipzig, Germany Professional Experience
+Core Competencies 12/2024 - Present
+Software Architect
+fe) N26 | Leipzig
+|
+(@) He ° Developed customer-facing features in Flutter used by 406K monthly
+active users
+Ruby ° Cut cloud infrastructure costs by EUR 8.9M annually by right-sizing
+instances and adopting spot capacity
+(a) ++
+° Implemented a CI/CD pipeline with GitHub Actions and automated
+Java tests, raising code coverage from 25% to 85%
+° Introduced feature flags and canary releases, lowering production
+Scala
+incidents by 57% quarter over quarter
+Next,js
+07/2015 - 11/2024
+Associate Software Engineer
+Ruby on Rails
+SAP | Berlin
+React ° Wrote technical design documents and led code reviews for a team of
+12 engineers
+GraphQL
+° Designed and built 19 RESTful microservices in MongoDB and C#,
+Flutter serving 5.7M requests per day with 99.95% uptime
+° Collaborated with product and design to ship 15 major releases on
+FastAPI
+schedule across web and mobile
+Google Cloud Platform ° Resolved 300+ production issues as part of the on-call rotation,
+reducing mean time to recovery by 28%
+> WS © Built a real-time notification service using MongoDB and Apache
+Kubernetes Kafka that processes 6.6M events per hour
+° Developed internal tooling in MongoDB that saved the support team
+Cassandra 38 hours per week
+DynamoDB 09/2013 - 06/2015
+Software Engineer
+PostgreSQL Cisco | Berlin
+Kafka ° Rebuilt the search experience with Elasticsearch, improving result
+Apache
+relevance and click-through by 48%
+MySQL ° Owned the payments integration with 11 third-party gateways,
+reducing failed transactions by 25%
+MongoDB
+° Migrated a legacy monolith to containerised services on Kubernetes,
+cutting deployment time from 37 hours to 15 minutes
+° Reduced p95 API latency by 57% by introducing Redis caching and
+optimising slow PostgreSQL queries
+Notable Projects
+Campus Placement Portal
+Certificates Web portal used by 500 students to apply for drives, track status and
+download offer letters.
+Certified Kubernetes Administrator
+(CKA)
+The Linux Foundation, 2014
+AWS Certified Solutions Architect —
+Associate
+Amazon Web Services, 03/2012
+AWS Certified Developer — Associate
+Amazon Web Services, 2026
+Language Proficiency
+German Native
+English Professional Working
+Proficiency
+Spanish Intermediate
+Turkish Intermediate
+Online Profiles
+LinkedIn: linkedin.com/in/johanna-
+hoffmann7

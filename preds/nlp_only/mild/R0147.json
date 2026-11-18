@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0147",
+ "name": "DANIEL JOHNSON",
+ "contact": {
+  "email": "danieljohnson@gmail.com",
+  "phone": "+44 752 498 3889",
+  "location": "Cardiff, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/daniel-johnson"
+  },
+  {
+   "url": "muckrack.com/danieljohnson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA University of Surrey",
+   "institution": "University of Surrey Jul 2026 - Present",
+   "dates": "Jul 2026 - Present"
+  },
+  {
+   "degree": "BA (Hons) English Literature London School of Economics and Political",
+   "institution": "BA (Hons",
+   "dates": "Sep 2023 - Apr 2026"
+  }
+ ],
+ "skills": [
+  "Marketing Content Strategy",
+  "Influencer Marketing",
+  "SEO",
+  "SEM",
+  "Email Marketing",
+  "Tools Google Ads",
+  "Meta Ads Manager",
+  "Marketo",
+  "Mailchimp",
+  "Canva"
+ ],
+ "_runtime_s": 0.027
+}

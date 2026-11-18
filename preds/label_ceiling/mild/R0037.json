@@ -1,0 +1,135 @@
+{
+ "resume_id": "R0037",
+ "name": "Margaux Bernard",
+ "contact": {
+  "email": "margaux_bernard@gmail.com",
+  "phone": "+33 (0)7 60 29 13 91",
+  "location": "Bordeaux, France"
+ },
+ "links": [
+  {
+   "url": "www.margauxbernard.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "dates": "08.2025",
+   "institution": "HEC Paris",
+   "location": "Jouy-en-Josas"
+  },
+  {
+   "degree": "Bachelor in Nursing",
+   "dates": "04.2019",
+   "institution": "Université Claude Bernard Lyon 1",
+   "location": "Lyon",
+   "grade": "Mention Assez Bien"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Charge Nurse",
+   "company": "CHU de Bordeaux",
+   "location": "Bordeaux",
+   "dates": "06.2023 — Current",
+   "bullets": [
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 21%",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Reduced hospital-acquired infection rates by 53% by leading hand-hygiene audits"
+   ]
+  },
+  {
+   "title": "Senior Staff Nurse",
+   "company": "CHU de Bordeaux",
+   "location": "Bordeaux",
+   "dates": "03.2022 — 05.2023",
+   "bullets": [
+    "Participated in 6 code blue responses as a certified ACLS provider",
+    "Oversaw duty rosters for 8 nurses and managed ward inventory and consumables",
+    "Trained 5 newly joined nurses on medication safety and documentation in Epic EHR",
+    "Provided direct care to 20 patients per shift in a 17-bed medical-surgical ward"
+   ]
+  },
+  {
+   "title": "Clinical Nurse",
+   "company": "Hospices Civils de Lyon",
+   "location": "Bordeaux",
+   "dates": "07.2019 — 02.2022",
+   "bullets": [
+    "Managed ventilated patients in a 10-bed ICU, titrating vasoactive infusions per protocol",
+    "Triaged 120+ patients monthly in the emergency department using the Manchester Triage System"
+   ]
+  }
+ ],
+ "skills": [
+  "Phlebotomy",
+  "Ventilator Management",
+  "ACLS",
+  "JCI Standards",
+  "Cerner",
+  "Patient Charting",
+  "Epic EHR",
+  "Communication",
+  "Public Speaking",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "dates": "01.2025",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 9 months."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Critical Care Registered Nurse (CCRN)",
+   "issuer": "AACN",
+   "year": "(2025)"
+  },
+  {
+   "name": "Basic Life Support (BLS)",
+   "issuer": "American Heart Association",
+   "year": "(2025)"
+  },
+  {
+   "name": "Cardiovascular Life Support (ACLS) Advanced",
+   "issuer": "American Heart Association a",
+   "year": "(2026)"
+  },
+  {
+   "name": "Nurse Licence Registered",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "(01 .2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Hospices Civils de Lyon",
+   "year": "(2022)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "CHU de Bordeaux",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "(Advanced)",
+   "language": "German"
+  },
+  {
+   "proficiency": "(Fluent)",
+   "language": "Arabic"
+  },
+  {
+   "proficiency": "(Conversational)",
+   "language": "French"
+  },
+  {
+   "proficiency": "(Native)",
+   "language": "English"
+  }
+ ]
+}

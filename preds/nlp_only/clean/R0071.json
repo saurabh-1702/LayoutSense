@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0071",
+ "name": "Iris Vos",
+ "contact": {
+  "location": "The Hague, Netherlands"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/itis-vos"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.A. M.A. M. Mass Mass Mass Communication Communication Vile Vrije Universiteit Universiteit Amsterdam",
+   "institution": "M.A. M. Mass Mass Mass Communication Communication Vile Vrije Universiteit Universiteit Amsterdam 2019",
+   "dates": "2019"
+  },
+  {
+   "degree": "Bachelor of Arts in Journalism",
+   "institution": "Bachelor of Arts",
+   "dates": "2017"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Elsevier Sub-Editor",
+   "company": null,
+   "dates": "Oct '19 Mar '22",
+   "bullets": [
+    "Produced and edited short-form video in Google Trends with 461K+ cumulative views",
+    "Broke 12 exclusive stories that were followed up by national outlets",
+    "Led a data journalism project using Final Cut Pro that was shortlisted for a national award",
+    "Managed a team of 14 reporters and stringers across 15 districts",
+    "Reported and wrote 250+ stories on politics, business and civic issues"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Data Journalism Certificate Knight Center for Journalism",
+   "issuer": null
+  },
+  {
+   "name": "Reuters Digital Journalism Course Thomson Reuters Foundation",
+   "issuer": null
+  },
+  {
+   "name": "Google News Initiative",
+   "issuer": "Digital Reporting Google News Initiative"
+  }
+ ],
+ "_runtime_s": 0.041
+}

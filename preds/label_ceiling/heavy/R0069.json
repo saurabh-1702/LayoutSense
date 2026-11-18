@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0069",
+ "name": "SEOYEON CHO",
+ "headline": "SEO Analyst",
+ "contact": {
+  "email": "seoyeoncho@naver.com",
+  "phone": "+62 10 3215 1934",
+  "location": "Incheon, South Korea"
+ },
+ "links": [
+  {
+   "url": "wwwlinkedin.com/in/seoyeon-cho-29"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Economics in Marketing",
+   "dates": "09.2021 - 06,2025",
+   "institution": "KAIST",
+   "grade": "GPA 3.95/4,00"
+  }
+ ],
+ "experience": [
+  {
+   "title": "SEO Analyst",
+   "dates": "07.2025 - Now",
+   "company": "Samsung Electronics",
+   "bullets": [
+    "Managed a monthly paid media budget of KRW 391M across Google Ads and Meta, achieving a 20x ROAS",
+    "Built automated email nurture journeys in Maiichimp that lifted MOL-to-SQL conversion by 28%",
+    "Built a marketing attribution dashboard in Mailchimp used in weekly leadership reviews",
+    "Ran consumer research with 80 respondents to shape positioning for a new category"
+   ]
+  }
+ ],
+ "skills": [
+  "SEO",
+  "Marketing Automation",
+  "Copywriting",
+  "Performance Marketing",
+  "Market Research",
+  "SEMrush",
+  "Maiichimp",
+  "Salesforce Marketing Cloud"
+ ],
+ "projects": [
+  {
+   "description": "Grew a niche food account to 5.1M followers in 8 months using Reels and UGC.",
+   "name": "Consumer Survey on EV Adoption"
+  }
+ ]
+}

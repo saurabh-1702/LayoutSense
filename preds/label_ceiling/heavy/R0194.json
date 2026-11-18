@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0194",
+ "name": "Johanne Hoffmann",
+ "headline": "moneys! AES",
+ "links": [
+  {
+   "url": "com/infiohan"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Indien",
+    "sed gia bieena! inh omttutyctontal adtoratie tests, raising code coverage from 25% to 85%",
+    "beg sced eotire gr ge ea eeen ees Dea incidents by 57% quarter over quarter",
+    "wich ence ; onigh loci wil led. colnou ty « Welt ick 12 engineers",
+    "Designed and built 19 RESTful microservices in MongoDB and C¥, serving 5.7M requests per day with 99.95% uptime",
+    "Collaborated with product and design to ship 15 major releases on schedule across web and mobile",
+    "Resolved 300+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%",
+    "Built a real-time notification service using MongoDB and Apache Kafka that processes 6.6M events per hour",
+    "Developed internal tooling in MongoDB that saved the support team 38 hours per week"
+   ],
+   "dates": "07/2015. 11/2024",
+   "title": "Associate Software Engineer",
+   "company": "SAP",
+   "location": "Berlin"
+  }
+ ],
+ "skills": [
+  "Kubernetes",
+  "Cassandra",
+  "Dynamods",
+  "PPostgresQu",
+  "Apache Kafka"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Nee OP rautorintn pls for deve Cathy ir gee"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "resume_id": "R0083",
+ "name": "Ryota Suzuki",
+ "contact": {
+  "email": "ryota.suzuki@yahoo.co.jp",
+  "phone": "+81 90 2128 2372",
+  "location": "Osaka, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ryota-suzuki"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. in Electrical and Institute of Technology",
+   "institution": "Electrical",
+   "dates": "2010"
+  }
+ ],
+ "skills": [
+  "‘st —SSSSSS*diceney isn SSSSC*rteney Sd"
+ ],
+ "certifications": [
+  {
+   "name": "S.No.",
+   "issuer": "Certification Issuing Organisation"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": null
+  },
+  {
+   "name": "Professional Engineer",
+   "issuer": "PE)"
+  },
+  {
+   "name": "NEBOSH IGC NEBOSH",
+   "issuer": null
+  },
+  {
+   "name": "Certified Energy Manager",
+   "issuer": "CEM) Association of Energy Engineers"
+  }
+ ],
+ "_runtime_s": 0.021
+}

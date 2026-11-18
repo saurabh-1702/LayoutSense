@@ -1,0 +1,24 @@
+{
+ "resume_id": "R0212",
+ "name": "‘ELENA. SOKOLOV",
+ "education": [
+  {
+   "degree": "B.Sc. Accounting and Finance",
+   "institution": "Citi HSE University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Accounts Payable Specialist",
+   "company": "me",
+   "dates": "July 2025-Present",
+   "bullets": [
+    "implemented CaseWare for accounts payable, Se KEY SKILLS",
+    "Managed the month-end close for 3 legal entities",
+    "Trained 14 junior accountants on ind AS transition"
+   ]
+  }
+ ],
+ "_runtime_s": 0.047
+}

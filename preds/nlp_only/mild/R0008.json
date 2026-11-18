@@ -1,0 +1,43 @@
+{
+ "resume_id": "R0008",
+ "contact": {
+  "email": "yonas2000@gmail.com",
+  "phone": "+251 925103206",
+  "location": "Bahir Dar, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yonas-mengistu"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Operations and Supply Chain",
+   "institution": "Jimma University",
+   "dates": null
+  },
+  {
+   "degree": "MEng Industrial Engineering",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Last-mile Delivery",
+  "ee",
+  "ous 3s oye",
+  "= ral)",
+  "Cost Reduction",
+  "Excel",
+  "SAP APO",
+  "Presentation Skills",
+  "Stakeholder Management",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "MEng Industrial Engineering"
+  }
+ ],
+ "_runtime_s": 0.033
+}

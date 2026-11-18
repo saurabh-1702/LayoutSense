@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0120",
+ "name": "Sultan Al Mazrouei",
+ "contact": {
+  "email": "sultanalmazrouei32@outlook.com",
+  "phone": "+971 542885455",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sultanalmazrouei"
+  },
+  {
+   "url": "github.com/salmazrouei"
+  },
+  {
+   "url": "www.sultanalmazrouei.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Raft-based replicated key-value store with leader election, log Zayed University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store BSc in Computer Applications"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "HashiCorp Certified",
+   "issuer": null
+  },
+  {
+   "name": "Terraform Associate",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "Oracle Certified Professional",
+   "issuer": null
+  },
+  {
+   "name": "Java SE 17 Developer",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Meta Front-End Developer",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Hindi",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.034
+}

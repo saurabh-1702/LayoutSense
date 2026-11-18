@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0014",
+ "name": "Omkar Trivedi",
+ "contact": {
+  "email": "omkar1995@gmail.com",
+  "phone": "+91-9599896708",
+  "location": "Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/omkartrivedi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Nirma University",
+   "dates": "Sep ‘10 - May '13",
+   "grade": "CGPA: 9.4/10"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Key Account Manager",
+   "dates": "Jun ‘17 - Current",
+   "company": "The Times Group",
+   "location": "Mumbai",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of INR 12.3 crore",
+    "Led a team of 7 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 60% in two years while keeping attrition below 7%",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day"
+   ]
+  },
+  {
+   "title": "Sales Development Representative",
+   "dates": "Jan ‘15 - May ‘17",
+   "company": "The Times Group",
+   "location": "Mumbai",
+   "bullets": [
+    "Ranked #1 out of 9 account executives in the region for FY",
+    "Maintained 12% forecast accuracy in weekly pipeline reviews in Gong",
+    "Launched a channel partner programme that contributed 14% of total bookings",
+    "Built a pipeline of 40.3 Cr by prospecting 120+ enterprise accounts using LinkedIn Sales Navigator",
+    "Shortened the average sales cycle by 26 days by introducing a structured discovery framework",
+    "Achieved 22% of annual quota for 18 consecutive years, closing <79 lakh in new ARR"
+   ]
+  },
+  {
+   "title": "Sales Development Representative",
+   "dates": "Jun '13 - Dec '14",
+   "company": "Hindustan Unilever",
+   "location": "Mumbai",
+   "bullets": [
+    "Onboarded and trained 11 new sales representatives on product and CRM workflows",
+    "Negotiated multi-year contracts worth %35.8 Cr with procurement and legal stakeholders",
+    "Managed 5 key accounts generating =14.3 Cr in annual revenue with 23% net revenue retention",
+    "Expanded distribution to 250 new retail outlets across 5 districts"
+   ]
+  }
+ ],
+ "skills": [
+  "Channel Sales",
+  "Negotiation",
+  "Account Management",
+  "Outreach",
+  "Zoho CRM",
+  "Gong",
+  "Stakeholder Management",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "description": "Mapped 9 cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "2012"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "ci"
+  },
+  {
+   "language": "Marathi",
+   "proficiency": "C1"
+  }
+ ]
+}

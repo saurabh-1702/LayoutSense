@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0179",
+ "name": "Rahel Girma",
+ "contact": {
+  "email": "rgirma@gmail.com",
+  "phone": "+251 921846696",
+  "location": "Hawassa, Ethiopia"
+ },
+ "education": [
+  {
+   "degree": "MSc Operations and Supply",
+   "institution": "Supply",
+   "dates": "2011"
+  },
+  {
+   "degree": "BEng (Hons) Industrial Addis Ababa Science and Technology Upper Second",
+   "institution": "Engineering University Class Honours",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Nestlé Head of Supply Chain",
+   "company": "(Ongnbaion «(Deaton From",
+   "dates": "Apr 2016 Present",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of ETB 11.0M",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Leda team of 4 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Built a supplier scorecard covering quality, cost and delivery for 300 vendors"
+   ]
+  },
+  {
+   "title": "Nestlé Regional Logistics Manager",
+   "company": "Bahir Dar",
+   "dates": "May 2014 Mar 2016",
+   "bullets": [
+    "Set up 11 new fulfilment centres processing 483K+ orders per day",
+    "Reduced inventory days by 10 while maintaining 46% service levels",
+    "Cut last-mile delivery cost per order by 12% through route optimisation",
+    "Grew the team by 38% in two years while keeping attrition below 11%"
+   ]
+  },
+  {
+   "title": "Category Manager",
+   "company": "Ethiopian Airlines Senior",
+   "dates": "Dec 2011 Apr 2014",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Managed import logistics and customs clearance for 120+ containers per year",
+    "Improved forecast accuracy from 25% to 82% by introducing statistical models in Blue Yonder"
+   ]
+  },
+  {
+   "title": "Analyst",
+   "company": "Ethiopian Airlines Inventory",
+   "dates": "Jun 2005 Nov 2011",
+   "bullets": [
+    "Negotiated freight contracts that saved ETB 11.3M annually",
+    "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%",
+    "Managed procurement spend of ETB 319K across 120 suppliers, delivering 23% savings"
+   ]
+  }
+ ],
+ "skills": [
+  "Trrociency [Sil —S",
+  "*dPrieney",
+  "Contract Negotiation",
+  "SAP"
+ ],
+ "certifications": [
+  {
+   "name": "[SNe [ericson —(Y ig rant",
+   "issuer": null
+  },
+  {
+   "name": "[1 [Project ManagnenrProssonsl MP) PME",
+   "issuer": null
+  },
+  {
+   "name": "[3 3 SAPCeriicdAplictn Aste Souvng [SAP",
+   "issuer": "202"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.085
+}

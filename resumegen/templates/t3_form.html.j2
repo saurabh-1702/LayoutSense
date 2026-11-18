@@ -1,0 +1,92 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{padding:{{ s.mt }}px {{ s.mx - 14 }}px {{ s.mb }}px;display:flex;flex-direction:column;font-size:{{ s.fs * 0.94 }}px}
+.flow{flex:1}
+.hd{text-align:center;margin-bottom:8px}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs }}px;font-weight:700;color:{{ s.name_color }};line-height:1.1;letter-spacing:{{ s.name_ls }}px}
+.hl{color:{{ s.muted }};margin-top:2px}
+.tb{width:100%;border-collapse:collapse;table-layout:fixed}
+.tb td,.tb th{border:1px solid {{ s.border }};padding:3px 6px;vertical-align:top;text-align:left;overflow:hidden}
+.tb th{background:{{ s.th_bg }};color:{{ s.th_ink }};font-size:.92em}
+.rowt .tb{margin-top:-1px}
+.rowt.odd td{background:{{ s.stripe }}}
+.c{text-align:center !important}
+.ctab td{border:1px solid {{ s.border }}}
+.ctab .lb{font-weight:700;width:14%;background:{{ s.stripe }}}
+.sh{margin-top:{{ s.sec_gap + 3 }}px;margin-bottom:4px;font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.04em;color:{{ s.accent }};border-bottom:2px solid {{ s.accent }};padding-bottom:1px;letter-spacing:.5px}
+.bl{margin:1px 0}
+.decl{margin-top:16px}
+.decl .row{margin-top:14px}
+.sm{font-size:.9em}
+</style></head><body>
+{% macro thead(sec, cols, widths) -%}
+<div class="blk keep rowt" data-group="sec_{{ sec }} tbl_{{ sec }}"><table class="tb"><colgroup>{% for w in widths %}<col style="width:{{ w }}%">{% endfor %}</colgroup><tr>{% for c in cols %}<th>{{ c }}</th>{% endfor %}</tr></table></div>
+{%- endmacro %}
+{% macro cols(widths) -%}<colgroup>{% for w in widths %}<col style="width:{{ w }}%">{% endfor %}</colgroup>{%- endmacro %}
+<div class="page" data-page="1">
+  <div class="p1only" data-region="header">
+    <div class="hd">
+      <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+      {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    </div>
+    <table class="tb ctab">{{ cols([14, 36, 14, 36]) }}
+      <tr><td class="lb">{{ 'Mobile' if s.icons else 'Phone' }}</td><td>{{ m.F('contact.phone', p.contact.phone, 'nw') }}</td><td class="lb">Email</td><td>{{ m.F('contact.email', p.contact.email, 'brk') }}</td></tr>
+      <tr><td class="lb">Address</td><td{% if not p.links %} colspan="3"{% endif %}>{{ m.F('contact.location', p.contact.location) }}</td>{% if p.links %}<td class="lb">{{ p.links[0].type }}</td><td>{{ m.F('links.0.url', p.links[0].url, 'brk') }}</td>{% endif %}</tr>
+      {% for k in p.links[1:] %}<tr><td class="lb">{{ k.type }}</td><td colspan="3">{{ m.F('links.'~loop.index~'.url', k.url, 'brk') }}</td></tr>{% endfor %}
+    </table>
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order %}
+    {% if sec == 'experience' and p.experience %}{{ m.H('experience', s) }}
+      {{ thead('experience', ['S.No.', 'Organisation', 'Designation', 'From', 'To'], [8, 34, 30, 14, 14]) }}
+      {% for e in p.experience %}{% set P = 'experience.' ~ loop.index0 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_experience tbl_experience"><table class="tb">{{ cols([8, 34, 30, 14, 14]) }}
+        <tr><td class="c">{{ loop.index }}</td><td><span class="b">{{ m.F(P~'.company', e.company) }}</span>{% if s.show_loc %}<br><span class="sm muted">{{ m.F(P~'.location', e.location) }}</span>{% endif %}</td><td>{{ m.F(P~'.title', e.title) }}</td><td class="sm">{{ m.F(P~'.start_text', e.start_text) }}</td><td class="sm">{{ m.F(P~'.end_text', e.end_text) }}</td></tr>
+        <tr><td></td><td colspan="4"><div class="sm b">{{ s.resp_label }}</div>{% for b in e.bullets %}<div class="bl"><span class="bm">{{ s.bullet }}</span>{{ m.F(P~'.bullets.'~loop.index0, b) }}</div>{% endfor %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'education' and p.education %}{{ m.H('education', s) }}
+      {{ thead('education', ['Qualification', s.col_board, 'Year of Passing' if p.india else 'Year', s.col_score], [28, 42, 15, 15]) }}
+      {% for e in p.education %}{% set P = 'education.' ~ loop.index0 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_education tbl_education"><table class="tb">{{ cols([28, 42, 15, 15]) }}
+        <tr><td class="b">{{ m.F(P~'.degree', e.degree) }}</td><td>{{ m.F(P~'.institution', e.institution) }}</td><td class="c">{{ m.F(P~'.year', e.year) }}</td><td class="c">{% if e.grade %}{{ m.F(P~'.grade', e.grade) }}{% else %}–{% endif %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'skills' and p.skills %}{{ m.H('skills', s) }}
+      {{ thead('skills', ['Skill', 'Proficiency', 'Skill', 'Proficiency'], [32, 18, 32, 18]) }}
+      {% for pair in p.skills|batch(2) %}{% set base = loop.index0 * 2 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_skills tbl_skills"><table class="tb">{{ cols([32, 18, 32, 18]) }}<tr>
+        {% for k in pair %}{% set i = base + loop.index0 %}<td>{{ m.F('skills.'~i, k) }}</td><td class="sm" data-field="skill_level.{{ i }}">{{ s.skill_word[i] }}</td>{% endfor %}
+        {% if pair|length == 1 %}<td></td><td></td>{% endif %}
+      </tr></table></div>{% endfor %}
+    {% elif sec == 'projects' and p.projects %}{{ m.H('projects', s) }}
+      {{ thead('projects', ['S.No.', 'Project Title', 'Description'], [8, 30, 62]) }}
+      {% for pr in p.projects %}{% set P = 'projects.' ~ loop.index0 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_projects tbl_projects"><table class="tb">{{ cols([8, 30, 62]) }}
+        <tr><td class="c">{{ loop.index }}</td><td class="b">{{ m.F(P~'.name', pr.name) }}</td><td>{{ m.F(P~'.description', pr.description) }}{% if pr.tech %}<div class="sm muted">{{ s.tech_label }} {{ m.F(P~'.tech', pr.tech) }}</div>{% endif %}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'certifications' and p.certifications %}{{ m.H('certifications', s) }}
+      {{ thead('certifications', ['S.No.', 'Certification', 'Issuing Organisation', 'Year'], [8, 47, 31, 14]) }}
+      {% for c in p.certifications %}{% set P = 'certifications.' ~ loop.index0 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_certifications tbl_certifications"><table class="tb">{{ cols([8, 47, 31, 14]) }}
+        <tr><td class="c">{{ loop.index }}</td><td>{{ m.F(P~'.name', c.name) }}</td><td>{{ m.F(P~'.issuer', c.issuer) }}</td><td class="c">{{ m.F(P~'.year', c.year) }}</td></tr>
+      </table></div>{% endfor %}
+    {% elif sec == 'awards' and p.awards %}{{ m.H('awards', s) }}
+      {% for a in p.awards %}{% set P = 'awards.' ~ loop.index0 %}
+      <div class="blk bl" data-group="sec_awards"><span class="bm">{{ s.bullet }}</span><span>{{ m.F(P~'.name', a.name) }}{% if a.issuer %}<span class="sp"> – </span>{{ m.F(P~'.issuer', a.issuer) }}{% endif %}<span class="sp"> (</span>{{ m.F(P~'.year', a.year) }}<span class="sp">)</span></span></div>{% endfor %}
+    {% elif sec == 'languages' and p.languages %}{{ m.H('languages', s) }}
+      {{ thead('languages', ['Language', 'Read', 'Write', 'Speak', 'Proficiency'], [28, 12, 12, 12, 36]) }}
+      {% for l in p.languages %}{% set P = 'languages.' ~ loop.index0 %}
+      <div class="blk rowt{{ ' odd' if loop.index0 % 2 else '' }}" data-group="sec_languages tbl_languages"><table class="tb">{{ cols([28, 12, 12, 12, 36]) }}
+        <tr><td>{{ m.F(P~'.language', l.language) }}</td><td class="c">✓</td><td class="c">{{ '✓' if l.level >= 3 else '–' }}</td><td class="c">✓</td><td>{{ m.F(P~'.proficiency', l.proficiency) }}</td></tr>
+      </table></div>{% endfor %}
+    {% endif %}
+  {% endfor %}
+  {% if s.decl %}
+    <div class="blk keep sh" data-group="sec_declaration">Declaration</div>
+    <div class="blk decl" data-group="sec_declaration">
+      <div>I hereby declare that the information furnished above is true to the best of my knowledge and belief.</div>
+      <div class="row"><span>Place: {{ p.contact.city }}</span><span>({{ p.name }})</span></div>
+    </div>
+  {% endif %}
+  </div>
+</div>
+</body></html>

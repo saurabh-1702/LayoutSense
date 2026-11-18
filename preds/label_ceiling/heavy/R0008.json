@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0008",
+ "headline": "Inventory Analysi",
+ "contact": {
+  "email": "yonas2000@gmail.comot",
+  "phone": "+251 92 510 3206",
+  "location": "Bahir Dar, Ethiopia am"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yonas-mengistuLanetta"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Operations and Supply Chain Management",
+   "institution": "Jirama University",
+   "dates": "2024 - 2025"
+  },
+  {
+   "degree": "MEng Industrial Engineering",
+   "institution": "hdidig Hostce Scarce wid Technology University",
+   "dates": "2020 2024",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "cciocingwes",
+   "company": "eticpinn Airhead.",
+   "location": "‘Bahr",
+   "bullets": [
+    "Dar Improved forecast accuracy from 19% to 62% _by introducing statistical",
+    "models in Oracle SCM seduced inventory days by 17 while maintaining 46% service levels",
+    "Led he eothly SSOP process across sale, Implemented"
+   ]
+  },
+  {
+   "dates": "cn",
+   "company": "ishacelah Mire",
+   "location": "Ge ene",
+   "bullets": [
+    "a warehouse management system in 12 sites, improving pick accuracy to 99.8%",
+    "Cut iast-mile delivery cost per order by 33% through route optimisation",
+    "Bult @ supplier scorecard covering quality, cost and delivery for 60 vendors",
+    "Set up 17 new fulfilment centres processing 198K orders per day",
+    "Managed import logistics and customs clearance for 60+ containers per year"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Tools madei for routing 20 delivery vans with time Mr she"
+  }
+ ]
+}

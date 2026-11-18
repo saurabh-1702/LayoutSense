@@ -1,0 +1,104 @@
+{
+ "resume_id": "R0013",
+ "name": "SEGUN NWOSU",
+ "headline": "Creative Director | 16+ Years in Design (UX/UI & Graphic)",
+ "contact": {
+  "email": "segun1997@gmail.com",
+  "phone": "+44 765 904 0159",
+  "location": "Cambridge, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/segun-nwosu-7335a0"
+  },
+  {
+   "url": "Wwww.segunnwosu.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Interaction Design",
+   "dates": "fun. 2010",
+   "institution": "University of Lagos",
+   "location": "Lagos, Nigeria"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Creative Director",
+   "dates": "Dec. 2021 — Jun. 2026",
+   "company": "Revolut",
+   "location": "Cambridge",
+   "bullets": [
+    "Leda team of 6 across 13 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day",
+    "Grew the team by 49% in two years while keeping attrition below 21%",
+    "Led a team of 6 across 12 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Creative Director",
+   "dates": "Nov. 2020 — Nov. 2021",
+   "company": "BBC",
+   "location": "Cambridge",
+   "bullets": [
+    "Redesigned the onboarding flow in Miro, increasing activation by 34% across 17,000 new users",
+    "Partnered with engineering to ship 23 features per quarter with pixel-perfect handoff in Miro",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Reduced support tickets by 49% by simplifying the account settings experience"
+   ]
+  },
+  {
+   "title": "Product Designer",
+   "dates": "jun, 2013 — Oct. 2020",
+   "company": "Deliveroo",
+   "location": "Cambridge",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 4 product launches",
+    "Improved WCAG 2.1 AA compliance from 23% to 96% across core journeys",
+    "Ran discovery workshops and journey mapping with stakeholders across 12 markets"
+   ]
+  },
+  {
+   "title": "Graphic Designer",
+   "dates": "Aug. 2010 — May 2013",
+   "company": "Burberry",
+   "location": "Cambridge",
+   "bullets": [
+    "Conducted 18 rounds of usability testing with 500 participants to validate checkout improvements",
+    "Built and maintained a design system of 80+ components used by 21 product squads",
+    "Produced motion graphics and explainer videos with Adobe I!)ustrator reaching 159K+ views"
+   ]
+  }
+ ],
+ "skills": [
+  "Information Architecture",
+  "Motion Design",
+  "Design Systems",
+  "Branding",
+  "Journey Mapping",
+  "Figma",
+  "Adobe After Effects",
+  "Sketch",
+  "Framer",
+  "Miro",
+  "Adobe Illustrator",
+  "Negotiation",
+  "Attention to Detail",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "(2022)"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "(2018)"
+  }
+ ]
+}

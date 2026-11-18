@@ -1,0 +1,66 @@
+{
+ "resume_id": "R0042",
+ "name": "Mark Anthony Bautista",
+ "contact": {
+  "email": "mark.bautista97@gmail.com",
+  "phone": "(+63) 929 766 4924",
+  "location": "Quezon City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/markbautista3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business",
+   "institution": "Bachelor of Business",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Logistics Coordinator",
+   "company": "» S&OP",
+   "dates": "June 2025 - Present",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 47% through route v Strategic Sourcing",
+    "Tableau",
+    "Power Bl",
+    "SAP MM",
+    "Improved forecast accuracy from 36% to 82% by introducing",
+    "Negotiation",
+    "Reduced inventory days by 29 while maintaining 52% service"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "APICS CPIM"
+  },
+  {
+   "name": "ASCM"
+  },
+  {
+   "name": "Associate — Sourcing"
+  },
+  {
+   "name": "Vehicle Routing Model SAP"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.031
+}

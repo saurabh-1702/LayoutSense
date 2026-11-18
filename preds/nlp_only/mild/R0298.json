@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0298",
+ "contact": {
+  "email": "john.garcia@gmail.com",
+  "phone": "+63-929-143-5760",
+  "location": "Davao City, Philippines"
+ },
+ "links": [
+  {
+   "url": "www.johngarcia.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MS Project",
+   "institution": "University of the Philippines",
+   "dates": null
+  },
+  {
+   "degree": "Master of Science in Structural Engineering",
+   "institution": "Mapua University Manila Design",
+   "dates": "2025 — Present"
+  },
+  {
+   "degree": "Bachelor of Science in Structural Engineering",
+   "institution": "Mapua University Manila Design",
+   "dates": "2021 — 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Civil Engineering Intern",
+   "company": "Ayala Corporation",
+   "dates": "2025 — 2026",
+   "bullets": [
+    "Supported the civil engineering & construction team on 9",
+    "Shadowed senior colleagues and proposed process"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.067
+}

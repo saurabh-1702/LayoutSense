@@ -1,0 +1,28 @@
+TP +553 .85.547 58%
+A> Debi, Ireland
+NIALL KENNEDY Li linkedisz.com/in/niallhennedy#
+WORK HISTORY ACADEMIC QUALIFICATIONS
+feb 004 > Present BSc Computer Applications
+Frontend Engineer
+Intercom } Dublin Ang 2619
+* Owned the payments integranon with t2 third-party gateways, COMPETENCIES
+reducing failed transactions by 45%
+* Collaborated witb product and design to ship 15 major releases ‘Languages: Ruby, javaScript, Scala, Pyrhon, Rust, C++
+on schedule acrass web and mobile Frameworks: Node.js, NET Core, Angular, GeaphQL
+* Reduced p95 API latency by 55% by introdueing Redis caching Cloud & DevOps: GitHub Acnons, Kuberneres, C1/CD,
+Jenkins, AWS, Microsoft Azure
+Sep 2019. Jon 2008
+Graduate Software Engineer
+Stnpe | Remote ~ Ireland LICENSES & CERTIFICATIONS
+» Cut cloud infrastructure costs by €10.2M annually br right-cxing Meta Front-End Developer Professional Certificate
+Comeves, B21
+> Migrated a legacy monolith to containensed services on
+Kuberneres, curnng deployment time from 28 hours to 15 Hash arp, 2026
+minutes
+LANGUAGES KNOWN
+* Woeote technreal design documents and led code reviews for a
+ream of 3 engineers
+* Developed internal tooling in Jenkins that saved the support
+team 27 hours per week
+* Rebuilr the search expenence with Elastiesearch, improving
+result relevance and click-through by 32%

@@ -1,0 +1,6 @@
+case,resume_id,layout,tier,F1_nlp_only,F1_text_only,F1_layout_aware
+Case 1 - Clean single-column (parity baseline),R0201,single_column,clean,0.925,0.882,1.0
+"Case 2 - Multi-column, clean (layout variable isolated)",R0178,multi_column,clean,0.4,0.625,1.0
+"Case 3 - Single-column, heavy degradation (quality variable isolated)",R0165,single_column,heavy,0.0,0.074,0.074
+"Case 4 - Multi-column, heavy degradation (combined worst case)",R0034,multi_column,heavy,0.448,0.828,1.0
+"Case 4b - Table-based, heavy degradation",R0143,table_based,heavy,0.591,0.619,0.636

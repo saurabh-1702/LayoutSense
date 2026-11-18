@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0208",
+ "name": "Stefan Batory High School - Krakow",
+ "contact": {
+  "email": "szymanski.tomasz@gmail.com",
+  "phone": "+48 608 597 313",
+  "location": "IB"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tomasz-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Teaching Qualification (Education)",
+   "institution": "Academy of Fine Arts in Warsaw",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Science Teacher",
+   "company": "O",
+   "dates": "09/2025 - Present",
+   "bullets": [
+    "Designed an inquiry-based science curriculum aligned to IB MYP",
+    "Coordinated the school's Canvas LMS rollout, training 12 teachers"
+   ]
+  }
+ ],
+ "skills": [
+  "B.Sc. Physics",
+  "CBSE Curriculum eeeee",
+  "AGH University of Krakow",
+  "Curriculum Design eceoe3e",
+  "Differentiated eee0e"
+ ],
+ "projects": [
+  {
+   "name": "Seesaw eeee0 Reading Programme for Early Learners"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.053
+}

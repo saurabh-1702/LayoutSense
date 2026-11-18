@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0125",
+ "name": "Niloufar Hosseini",
+ "contact": {
+  "email": "niloufar.hosseini@gmail.com",
+  "phone": "+98 937 920 6045",
+  "location": "Shiraz, Iran"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niloufarhosseini-15"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Information Technology",
+   "institution": "Sharif University of Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Data Scientist",
+   "company": "Mashhad",
+   "dates": "Aug 2023 — Present",
+   "bullets": [
+    "Built a churn prediction model in PyTorch (AUC 0.400) that helped retention teams save IRR 85.2B in",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 10 days"
+   ]
+  }
+ ],
+ "skills": [
+  "Python",
+  "SAS",
+  "SQL",
+  "NLP",
+  "A/B Testing",
+  "PyTorch",
+  "TensorFlow",
+  "Decision Making",
+  "Cross-functional Collaboration",
+  "Stakeholder Management",
+  "Time",
+  "Management"
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Azerbaijani",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.034
+}

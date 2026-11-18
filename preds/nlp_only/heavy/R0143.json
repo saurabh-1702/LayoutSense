@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0143",
+ "name": "Lea Zimmermann",
+ "contact": {
+  "email": "leai992@gmx.de",
+  "phone": "151 55968212",
+  "location": "Cologne, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lea-zimmermann"
+  },
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in Commerce Technical University of Munich",
+   "institution": "Qualification =\" = Institution",
+   "dates": "2027"
+  }
+ ],
+ "skills": [
+  "Proficiency",
+  "MEDDIC",
+  "Distributor Management",
+  "eer",
+  "oe 6h",
+  "Sales Forecasting",
+  "' Apollo.io",
+  "incertae",
+  "Zoho CRM \"",
+  "Excel “",
+  "“Problem Solving -—=—s—=",
+  "éisCAaced",
+  "Negotiation",
+  "aad"
+ ],
+ "projects": [
+  {
+   "name": "S.No. | Project Title | Description"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "French",
+   "proficiency": "A2"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.012
+}

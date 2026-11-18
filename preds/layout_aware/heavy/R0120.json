@@ -1,0 +1,102 @@
+{
+ "resume_id": "R0120",
+ "name": "Sditea Al Ma: zrouel meee to Sites",
+ "headline": "Senior Frontend Engineer",
+ "links": [
+  {
+   "url": "github.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Zayed University",
+   "dates": "06/2014",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "12",
+   "title": "EA"
+  },
+  {
+   "title": "tats",
+   "dates": "ee",
+   "bullets": [
+    "Resolved 120+ production issues as part of the — a” 8 17 tale Viletiee on thecal ; across web and mobile",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and dlick-through by 23%"
+   ]
+  },
+  {
+   "dates": "08/2014- 11/2015",
+   "title": "Junior rs: EE Developer",
+   "company": "Cisco",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Designed and built 7 RESTful microse: C++ and Node.js, serving 552K S per day with 99.95% uptime",
+    "Developed internal tooling in C++ that saved ee ee",
+    "Migrated a legacy monolith to containerised $@rvices on Kubernetes, cutting deployment time from 18 hours to 15 minutes"
+   ]
+  }
+ ],
+ "skills": [
+  "Jenkins",
+  "54%",
+  "CCD"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 80 students to apply for drives, track status and download offer letters.",
+   "tech": "Express.js, JavaScript"
+  },
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Node.js, Python"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "08/2014"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2015"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "2014"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2013"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic"
+  },
+  {
+   "language": "English",
+   "proficiency": "Cl"
+  },
+  {
+   "language": "Hindi"
+  },
+  {
+   "language": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.333
+}

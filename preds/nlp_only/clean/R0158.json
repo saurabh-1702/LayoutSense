@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0158",
+ "contact": {
+  "email": "jbrooks@hotmail.com",
+  "phone": "(305) 253-8562",
+  "location": "Miami, FL Notable Projects"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jordan-"
+  },
+  {
+   "url": "github.com/jordanbroo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S., Information Technology Full-stack food ordering app with live order tracking, payments and an admin",
+   "institution": "Purdue University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Java Google San Francisco",
+  "CA",
+  "February 2026",
+  "JavaScript",
+  "GraphQL and adopting spot capacity",
+  "FastAPI",
+  "React",
+  "accurate records",
+  "Google Cloud Platform",
+  "Terraform",
+  "Microsoft Azure",
+  "Docker",
+  "Jenkins",
+  "Public Speaking",
+  "Cross-functional Collaboration",
+  "Stakeholder Management"
+ ],
+ "certifications": [
+  {
+   "name": "Campus Placement Portal",
+   "issuer": null
+  },
+  {
+   "name": "Web portal used by 180 students to apply for drives",
+   "issuer": "track status and"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE",
+   "issuer": null
+  },
+  {
+   "name": "download offer letters.",
+   "issuer": null
+  },
+  {
+   "name": "Stack: Google Cloud Platform",
+   "issuer": "Jenkins"
+  },
+  {
+   "name": "Oracle",
+   "issuer": ""
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Expense Splitter App"
+  },
+  {
+   "name": "Associate Mobile app for splitting group expenses with OCR receipt scanning and",
+   "issuer": null
+  },
+  {
+   "name": "Amazon Web Services",
+   "issuer": "UPI/PayPal settlement links."
+  },
+  {
+   "name": "Stack: JavaScript",
+   "issuer": "Java"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.029
+}

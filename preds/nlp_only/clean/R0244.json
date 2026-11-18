@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0244",
+ "name": "Keta ki",
+ "contact": {
+  "email": "ketaki.fernandes93@gmail.com",
+  "phone": "(491) 8002132096"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ketakifernandes"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "9 Surat, Gujarat SRM Institute of Science and Technology",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (ISC)",
+   "institution": "International School",
+   "dates": null
+  },
+  {
+   "degree": "Class X (ICSE)",
+   "institution": "Network Design ry yy) Ryan International School",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Coupa ee Vehicle Routing Model"
+  },
+  {
+   "name": "Warehouse Layout Optimisation"
+  }
+ ],
+ "_runtime_s": 0.13
+}

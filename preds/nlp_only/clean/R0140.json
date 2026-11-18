@@ -1,0 +1,46 @@
+{
+ "resume_id": "R0140",
+ "name": "Mohammed Al",
+ "contact": {
+  "email": "mohammed.alhashimi01@gmail.com",
+  "phone": "056 447 6942",
+  "location": "Dubai, United"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mohammed-alhashimi8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Partnered with senior leadership to Zayed University",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Economics",
+   "institution": "steering committees and board-level American University of Sharjah",
+   "dates": null
+  },
+  {
+   "degree": "BA",
+   "institution": "BA",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study"
+  },
+  {
+   "name": "Portfolio Optimisation Tool"
+  },
+  {
+   "name": "Credit Scorecard Development"
+  },
+  {
+   "name": "Valuation of a Listed FMCG Company"
+  }
+ ],
+ "_runtime_s": 0.027
+}

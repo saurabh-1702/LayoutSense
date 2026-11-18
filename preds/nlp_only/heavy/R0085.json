@@ -1,0 +1,46 @@
+{
+ "resume_id": "R0085",
+ "name": "PROF ESSIONAL",
+ "contact": {
+  "phone": "0724 567 329",
+  "location": "Nokurs, Kenya"
+ },
+ "skills": [
+  "Java ~ JavaScript",
+  "Kotlin",
+  "Django ° Flutter",
+  "GraphQL * Angular",
+  "Express.js ° Vue",
+  "js",
+  "AWS",
+  "Linux",
+  "Apache Kafka * Redis",
+  "Cassandra"
+ ],
+ "projects": [
+  {
+   "name": "ealtime Chat Platform"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Developer ~ Associate ~ Amazon Web Services",
+   "issuer": ")"
+  },
+  {
+   "name": "ah Certified aorta Azure Developer Associate ~ Microsoft",
+   "issuer": ")"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Luo",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.017
+}

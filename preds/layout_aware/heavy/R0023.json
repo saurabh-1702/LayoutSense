@@ -1,0 +1,66 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez",
+ "headline": "Aspiring Logisties Coordinator",
+ "contact": {
+  "phone": "621 434 362",
+  "location": "Valencia, Spain"
+ },
+ "links": [
+  {
+   "url": "gonzalez.david@‘emailcom"
+  },
+  {
+   "url": "linkedin.com/in/davidgonzalez-bodge3."
+  }
+ ],
+ "education": [
+  {
+   "degree": "/MBA",
+   "institution": "Universitat Pompeu Fabra University",
+   "dates": "2027 (Expected)",
+   "grade": "Tt"
+  },
+  {
+   "degree": "“Bachelor of Business",
+   "grade": "eee."
+  },
+  {
+   "grade": "Nota media: 8.8",
+   "institution": "Mercadona",
+   "dates": "Feb 2026 May 2026 Ovt 2024 Mar 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Supply Chain intern",
+   "location": "Valencia"
+  },
+  {
+   "title": "Responsibilities Achieveme",
+   "bullets": [
+    "Built a tracker in SAP APO that streamlined weekly reporting for a team of 8",
+    "Assisted with day-to-day supply chain & operations operations and maintained accurate records seis",
+    "Kins",
+    "Dil tec apiResponse tht rend ws reporting for team of"
+   ],
+   "company": "ois"
+  }
+ ],
+ "skills": [
+  "rod Vehicle Som NO ERE ENN EN AO AN",
+  "Warehouse Layout"
+ ],
+ "projects": [
+  {
+   "name": "Routing Model",
+   "description": "Python OR-Tools model for routing 15 delivery vans with time windows."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mexrutuaeiananere"
+  }
+ ],
+ "_runtime_s": 0.245
+}

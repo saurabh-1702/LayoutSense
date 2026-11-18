@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0195",
+ "contact": {
+  "email": "sherif.mahmoud@gmail.com",
+  "phone": "1105174729",
+  "location": "Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/sherif-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Arts in Digital Ain Shams University =",
+   "institution": "Qualification Institution Period Result",
+   "dates": "07.2024"
+  },
+  {
+   "degree": "B.A. in English The American University in Cairo",
+   "institution": "The American University",
+   "dates": "06.2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Al-Ahram",
+   "dates": "10.2024 — Present",
+   "bullets": [
+    "Produced and edited short-form video in CrowdTangle with cumulative <=",
+    "Reported and wrote 500+ stories on politics, business and civic issues"
+   ]
+  }
+ ],
+ "skills": [
+  "Editorial Podcast Production",
+  "Interviewing",
+  "Data Journalism",
+  "SEO Writing",
+  "Storytelling",
+  "Tools Final Cut Pro",
+  "Datawrapper",
+  "CrowdTangle",
+  "Canva",
+  "WordPress",
+  "Professional Skills Team Leadership",
+  "Presentation Skills",
+  "Public Speaking"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "German",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.048
+}

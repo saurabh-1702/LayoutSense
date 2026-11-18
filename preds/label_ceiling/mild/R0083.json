@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0083",
+ "name": "Ryota Suzuki",
+ "headline": "Principal Hardware Engineer | 16+ Years in Electrical & Electronics Engineering",
+ "contact": {
+  "email": "ryota.suzuki@yahoo.co.jp",
+  "phone": "+81 90 2128 2372",
+  "location": "Osaka, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ryota-suzuki"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. in Electrical and Electronics Engineering",
+   "institution": "Tokyo Institute of Technology",
+   "dates": "2010",
+   "grade": "GPA 3.44/4.00"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Si",
+   "location": "Osaka",
+   "bullets": [
+    "Led a team of 3 across 14 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of JPY 26.7B",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Represented the function in executive steering committees and board-level reporting"
+   ],
+   "company": "Panasonic Holdings"
+  },
+  {
+   "title": "Engineering Manager — Electrical",
+   "location": "Osaka",
+   "bullets": [
+    "Commissioned a 7 MW solar plant including inverters, transformers and SCADA integration",
+    "Performed load flow and short-circuit studies for 5 industrial clients"
+   ],
+   "company": "Sony Group"
+  },
+  {
+   "title": "Senior Embedded Engineer",
+   "dates": "2016 – 2022",
+   "location": "Nagoya",
+   "bullets": [
+    "Verified RTL designs on FPGA, achieving timing closure at 200 MHz",
+    "Designed protection schemes for 20 132/33 kV substations using PSCAD",
+    "Reduced energy losses by 41% through power factor correction and harmonic filtering",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day"
+   ],
+   "company": "Hitachi"
+  },
+  {
+   "title": "Electrical Engineer",
+   "dates": "2010 – 2016",
+   "location": "Osaka",
+   "bullets": [
+    "Developed firmware in Embedded C for a battery management system on 500+ EV packs",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 45%",
+    "Designed 18-layer PCBs in PSCAD for an industrial IoT gateway",
+    "Led root cause analysis on transformer failures, saving ¥305M in replacement costs"
+   ]
+  }
+ ],
+ "skills": [
+  "Pi",
+  "eae"
+ ],
+ "certifications": [
+  {
+   "name": "Professional Engineer (PE) — Electrical",
+   "issuer": "NCEES",
+   "year": "2021"
+  },
+  {
+   "name": "Certified Energy Manager (CEM)",
+   "issuer": "Association of Energy Engineers",
+   "year": "2009"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "Panasonic Holdings",
+   "year": "(2022)"
+  },
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Panasonic Holdings",
+   "year": "(2022)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese"
+  },
+  {
+   "language": "Korean"
+  }
+ ]
+}

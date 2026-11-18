@@ -1,0 +1,45 @@
+Ruby Singh
+Warehouse Operations Manager
+0449 536 351 | ruby.singh@gmail.com | Melbourne, VIC
+WORK HISTORY ACADEMIC
+QUALIFICATIONS
+Sep 2025 | Present
+Warehouse Operations Manager BA (Hons) Logistics and Supply
+Woolworths Group | Melbourne Chain Management
+¢ Managed import logistics and customs clearance for 250+ RMIT University
+Jul 2015 | Jul 2018
+containers per year
+¢ Introduced weekly operating reviews that cut decision PROFESSIONAL
+turnaround from 14 days to 1 day CERTIFICATIONS
+Sep 2020 | Aug 2025 Project Management Professional
+Category Manager (PMP)
+Unilever | Melbourne PMI, 2021
+¢ Set up 15 new fulfilment centres processing 30,000 orders per APICS CPIM
+day ASCM, 2020
+° Negotiated freight contracts that saved A$8.7M annually SAP Certified Application Associate -
+¢ Managed procurement spend of A$13.0M across 300 Sourcing
+SAP, Sep 2026
+suppliers, delivering 19% savings
+¢ Reduced inventory days by 15 while maintaining 46% service TECHNICAL SKILLS
+levels
+Transportation Management
+¢ Implemented a warehouse management system in 9 sites, ° S&OP
+improving pick accuracy to 99.8% Warehouse Management
+Sep 2018 | Aug 2020 Contract Negotiation
+Supply Chain Analyst Coupa
+BHP | Sydney Kinaxis RapidResponse
+¢ Led the monthly S&OP process across sales, finance and SAP MM
+manufacturing Excel
+* Cut last-mile delivery cost per order by 45% through route Tableau
+Cross-functional Collaboration
+optimisation
+¢ Improved forecast accuracy from 32% to 82% by introducing Stakeholder Management
+Communication
+statistical models in SAP MM
+Conflict Resolution
+SELECTED PROJECTS
+LANGUAGE PROFICIENCY
+Vehicle Routing Model
+English Mother tongue
+Python OR-Tools model for routing 21 delivery vans with time
+windows.

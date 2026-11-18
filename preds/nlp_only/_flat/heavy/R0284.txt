@@ -1,0 +1,38 @@
+Jia Hui Koh!
+a) Work Experience
+Oct 2024 - Sep Data Analyst
+2026
+Sea Limited, Singapore
+* Designed and maintained 6 Airflow pipelines
+ingesting 9SK+ records daily into Snowflake
+6 Skills & Tools
+> Partnered with finance to build an anomaly
+detection system that flagged $$43M in billing
+errors
+Ran 9 A/B experiments on pricing and 2 g
+onboarding flows, lifting conversion by 25%
+&
+2 Productionised ML models with Docker and
+ML flow, cutting model deployment time from A/B
+Testing
+weeks to 10 days
+* Created executive dashboards in BigQuery XGBoost
+tracking 8 KPis, adopted by 75+ business users
+Hugging Face Transformers
+Computer Vision
+Time Series Forecasting
+LP
+NumPy
+z i
+S & 2
+|
+Tableau
+Matplotlib
+Excel
+Problem Solving
+Mentoring
+Attention to Detail
+Public Speaking
+0 Courses & Certifications
+Deep Learning Specialization
+DeepLearning Al - Apr 2023

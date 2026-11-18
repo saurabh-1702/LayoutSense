@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0172",
+ "name": "GURLEEN LEBLANC",
+ "headline": "Associate Software Engineer",
+ "contact": {
+  "email": "gurleenl863@gmail.com",
+  "phone": "+1 778-867-8825",
+  "location": "Vancouver, BC"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/gurleen-leblanc"
+  },
+  {
+   "url": "github.com/gleblanc"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "University of Waterloo",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate Software Engineer",
+   "company": "Honeywell",
+   "location": "Vancouver",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 35% quarter over quarter",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 30%",
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 20%"
+   ],
+   "dates": "Jun, 2024 — Feb, 2026"
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Wealthsimple",
+   "location": "Vancouver",
+   "bullets": [
+    "Collaborated with product and design to ship 12 major releases on schedule across web and mobile",
+    "Wrote technical design documents and led code reviews for a team of 9 engineers",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 22 hours to 15 minutes",
+    "Developed customer-facing features in Ruby used by 101K+ monthly active users"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "Python",
+  "Java",
+  "Kotlin",
+  "(D: ++)",
+  "Django",
+  "Flutter",
+  "Spring Boot",
+  "CI/CD",
+  "Jenkins",
+  "Microsoft Azure",
+  "Docker",
+  "Elasticsearch",
+  "MySQL",
+  "Redis",
+  "DynamoDB",
+  "MongoDB",
+  "Cassandra",
+  "Team Leadership",
+  "Time Management"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0294",
+ "name": "Bohdan Moroz",
+ "contact": {
+  "email": "bohdan.moroz@gmail.com",
+  "phone": "+380 (95) 446 73 77",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/bohdanmoroz"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Nursing",
+   "institution": "Bogomolets National Medical University",
+   "dates": null
+  },
+  {
+   "degree": "Diploma with Honours",
+   "institution": "Bogomolets National Medical University",
+   "dates": "Aug 2019-Jul 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Registered Nurse Ukrainian Native",
+   "company": "Kyiv City Clinical Hospital No. 1",
+   "dates": "Jan 2024—Present",
+   "bullets": [
+    "Triaged 120+ patients monthly in the emergency department using the Russian B2"
+   ]
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "Ventilator Management",
+  "Triage",
+  "Palliative Care",
+  "Medication Administration",
+  "Infection Prevention",
+  "NABH Standards",
+  "oo 9",
+  "A) Pa",
+  "Electronic Medical Records",
+  "Epic EHR",
+  "Cerner",
+  "Presentation Skills",
+  "Communication"
+ ],
+ "certifications": [
+  {
+   "name": "Junior Staff Nurse",
+   "issuer": null
+  },
+  {
+   "name": "Ohmatdyt National Children's Hospital",
+   "issuer": "Odesa Registered Nurse Licence"
+  },
+  {
+   "name": "Oversaw duty rosters for 4 nurses and managed ward inventory and Nursing and Midwifery Council",
+   "issuer": ""
+  },
+  {
+   "name": "consumables Basic Life Support",
+   "issuer": "BLS)"
+  },
+  {
+   "name": "Coordinated with physicians and allied health teams during daily American Heart Association",
+   "issuer": ""
+  },
+  {
+   "name": "multidisciplinary rounds Pediatric Advanced Life Support",
+   "issuer": "PALS)"
+  },
+  {
+   "name": "American Heart Association",
+   "issuer": ""
+  },
+  {
+   "name": "Reduced hospital-acquired infection rates by 19% by leading hand-hygiene",
+   "issuer": null
+  },
+  {
+   "name": "audits Registered Nurse and Registered",
+   "issuer": "Indian Nursing Council"
+  }
+ ],
+ "_runtime_s": 0.03
+}

@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0147",
+ "name": "DANIEL JOHNSON",
+ "contact": {
+  "phone": "+44 752 498 3889",
+  "location": "Cardiff, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "Linkedin.com/in/daniel-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA University of Surrey",
+   "institution": "MBA University of Surrey Jul 2026 - Present",
+   "dates": "Jul 2026 - Present"
+  },
+  {
+   "degree": "BA (Hons) English Literature London School of Economics and Political",
+   "institution": "BA (Hons",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "SEO : SEM: Email Marketing",
+  "Tools Ads",
+  "Google Ads",
+  "Meta Manager",
+  "Marketo",
+  "Mailchimp ° Canva"
+ ],
+ "projects": [
+  {
+   "name": "Project Description"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.032
+}

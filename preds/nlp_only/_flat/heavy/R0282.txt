@@ -1,0 +1,33 @@
+aches aetna caren |
+Piers
+customer-facing features in FastAFl asedlby
+445K monthly active users
++ Owned th pymentsntegration wih 18 third-party :
+- gateways, reducing failed transactions by 44%
+Associate Software Bugineer hes - 02/2022 2
+SAP, Warsaw
+‘Designed and builixg RESTful raicuaiieas in Redis
+_ and Linux, serving ys oe es es per day with 99.95%
+uptime —
+Reduced p95 API lateney by 18% by introducing Redis : dicate Web Serviees, ogj20m2
+caching and optimising slow PostgreSQL queries
+Resolved 180+ production issues as part of the on-call a Technical Skills
+rotation, reducing mean time to recovery by 58%
+Introduced feature flags and canary releases, lewis
+produetion incidents by 57% quarter over quarter
+Cut cloud infrastructure costs by PLN 15. 2M annually by * Ruby on Rails
+_ right-sizing instances and adopting
+Wrote technical design documents and led code reviews
+for a team of 12 engineers * Google Cloud Platform
+* Redis
+Notable Projects * Elasticsearch
+Distributed Key-Value Store 02/2026 ¢ Apache Kafka
+Raft-based replicated key-value store with leader election, * MySQL
+log compaction and a gRPC client. * MongoDB
+Tech: Google Cloud Platform, FastAPI, Linux, Docker * Team Leadership
+« Public Speaking
+Awards & Recognition « Presentation Skills
+* Team Excellence Award, Comarch (2025) Adaptability
+Social
+LinkedIn:
+linkedin.com/in/nataliawozniak2

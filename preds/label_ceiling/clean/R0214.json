@@ -1,0 +1,138 @@
+{
+ "resume_id": "R0214",
+ "name": "Burak Kaya",
+ "headline": "Software Architect",
+ "contact": {
+  "email": "burak.kaya@gmail.com",
+  "phone": "+90 (543) 870 5128",
+  "location": "izmir, Turkey"
+ },
+ "links": [
+  {
+   "url": "github.com/burakkaya"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software Engineering",
+   "institution": "Sabanci University",
+   "dates": "Sep 2005 - Apr 2009",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Feb 2021 - Present",
+   "title": "Software Architect",
+   "company": "Peak Games",
+   "location": "izmir",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 10 days to 1 day"
+   ]
+  },
+  {
+   "dates": "Apr 2019 - Jan 2021",
+   "title": "Lead Software Engineer",
+   "company": "Baykar",
+   "location": "izmir",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 26% in two years while keeping attrition below 12%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of TRY 10.5M",
+    "Mentored 9 junior colleagues, several of whom were promoted within 18 months",
+    "Leda team of 12 across 12 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 38% in two years while keeping attrition below 15%"
+   ]
+  },
+  {
+   "dates": "Sep 2017 - Mar 2019",
+   "title": "Senior Software Engineer",
+   "company": "Salesforce",
+   "location": "Ankara",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 25% quarter over quarter",
+    "Developed internal tooling in C# that saved the support team 16 hours per week",
+    "Wrote technical design documents and led code reviews for a team of 5 engineers",
+    "Owned the payments integration with 5 third-party gateways, reducing failed transactions by 34%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 5 hours to 15 minutes"
+   ]
+  },
+  {
+   "dates": "Jul 2011 - Aug 2017",
+   "title": "Mobile Developer (Android)",
+   "company": "Samsung",
+   "location": "Ankara (Hybrid)",
+   "bullets": [
+    "Developed customer-facing features in JavaScript used by 78,000 monthly active users",
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 60%",
+    "Cut cloud infrastructure costs by TRY 180M annually by right-sizing instances and adopting spot capacity",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 39%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 10% to 85%"
+   ]
+  },
+  {
+   "dates": "Jul 2009 - Jun 2011",
+   "title": "Associate Software Engineer",
+   "company": "Samsung",
+   "location": "Ankara",
+   "bullets": [
+    "Reduced p95 API latency by 57% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Designed and built 6 RESTful microservices in C# and Flutter, serving 6.5M requests per day with 99.95% uptime",
+    "Collaborated with product and design to ship 15 major releases on schedule across web and mobile",
+    "Built a real-time notification service using C# and Apache Kafka that processes 21,000 events per hour"
+   ]
+  }
+ ],
+ "skills": [
+  "JavaScript",
+  "Go",
+  "C#",
+  "TypeScript",
+  "Flutter",
+  "FastAPI",
+  "Express.js",
+  "React",
+  "Django",
+  "Vue.js",
+  "Critical Thinking",
+  "Mentoring"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Go, Vue.js, Flutter, TypeScript"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "Sep 2013"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "Aug 2008"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2013"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

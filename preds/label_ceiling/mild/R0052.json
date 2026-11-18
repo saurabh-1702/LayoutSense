@@ -1,0 +1,121 @@
+{
+ "resume_id": "R0052",
+ "name": "Katharina Bauer",
+ "headline": "Regulatory Affairs Manager",
+ "contact": {
+  "email": "katharina.bauer03@web.de",
+  "phone": "+49 (0)157 59046639",
+  "location": "Leipzig, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/katharina-bauer-6b1f7c"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Clinical Research",
+   "institution": "Technical University of Berlin"
+  },
+  {
+   "degree": "Master of Pharmacy",
+   "institution": "Technical University of Munich"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Feb, 2026 — Present",
+   "title": "Regulatory Affairs Manager",
+   "company": "Merck KGaA",
+   "location": "Leipzig",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 18 days to 1 day",
+    "Grew the team by 16% in two years while keeping attrition below 24%",
+    "Led a team of 12 across 24 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €17.4M"
+   ]
+  },
+  {
+   "dates": "Sep, 2022 — Jan, 2026",
+   "title": "Clinical Research Associate",
+   "company": "Novartis",
+   "location": "Berlin",
+   "bullets": [
+    "Monitored 24 clinical trial sites across Phase II and III oncology studies",
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 11%",
+    "Validated 24 analytical methods per ICH Q2(R1) guidelines",
+    "Performed HPLC and dissolution analysis on 60+ batches per quarter with zero OOS invalidations",
+    "Supported 6 successful USFDA and MHRA inspections with no critical observations",
+    "Trained 6 analysts on data integrity and ALCOA+ principles"
+   ]
+  },
+  {
+   "dates": "Oct, 2018 - Aug, 2022",
+   "title": "Pharmacist",
+   "company": "AstraZeneca",
+   "location": "Berlin",
+   "bullets": [
+    "Prepared and submitted 19 ANDA/eCTD dossiers to USFDA and EMA",
+    "Led CAPA investigations that reduced batch deviations by 34%",
+    "Exceeded territory sales targets by 55% across 180 prescribing doctors",
+    "Processed 2.8M adverse event reports in Argus Safety within regulatory timelines"
+   ]
+  }
+ ],
+ "skills": [
+  "Formulation Development",
+  "Deviation Management",
+  "eCTD Submissions",
+  "CAPA TE",
+  "ICH-GCP",
+  "TrackWise",
+  "SAP QM",
+  "Veeva Vault",
+  "LIMS"
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India",
+   "year": "Nov, 2021"
+  },
+  {
+   "name": "Certified Clinical Research Professional (CCRP)",
+   "issuer": "SoCRA",
+   "year": "2019"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate",
+   "year": "Apr, 2023"
+  },
+  {
+   "name": "Regulatory Affairs Certification (RAC)",
+   "issuer": "RAPS",
+   "year": "2023"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Novartis",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": ". i: Full Professional Proficiency"
+  },
+  {
+   "language": "French",
+   "proficiency": "Limited a: : 54 Working Proficiency"
+  }
+ ]
+}

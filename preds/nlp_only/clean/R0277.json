@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0277",
+ "name": "MISAKI ITO",
+ "contact": {
+  "email": "misakiito66@yahoo.co.jp",
+  "phone": "+81 80-0787-4824",
+  "location": "Nagoya, Japan"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Accounting and Finance",
+   "institution": "Hitotsubashi University",
+   "dates": "Apr 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Relationship Officer",
+   "company": "Nomura Holdings",
+   "dates": "Mar 2026 — Present",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 8 disconnected spreadsheets",
+    "Prepared pitch books and information memoranda for 20 sell-side mandates",
+    "Grew the assets under management of assigned clients by 41% year on year"
+   ]
+  },
+  {
+   "title": "Credit Analyst",
+   "company": "Nomura Holdings",
+   "dates": "May 2025 — Feb 2026",
+   "bullets": [
+    "Identified cost savings of JPY 180M through vendor spend analysis and contract renegotiation",
+    "Automated monthly variance reporting in VBA, saving the finance team 20 hours per cycle",
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights"
+   ]
+  }
+ ],
+ "skills": [
+  "Financial Modelling"
+ ],
+ "certifications": [
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "Financial Risk Manager",
+   "issuer": "FRM)"
+  },
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": "CTP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.033
+}

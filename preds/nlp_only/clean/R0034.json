@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0034",
+ "name": "Tamil Nadu",
+ "contact": {
+  "email": "nandini.menon@gmail.com",
+  "phone": "(+91) 9935510765",
+  "location": "Coimbatore, Tamil Nadu, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nandinimenon"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Com",
+   "institution": "Audit Partner Amity University",
+   "dates": "Jul 2025 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Partner Amity University",
+   "company": "B.Com",
+   "dates": "Jul 2025 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Audit Partner Amity University",
+   "company": "Deloitte",
+   "dates": "Aug 2005 - May 2008",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Accounting: US GAAP : Consolidation",
+  "Ind AS",
+  "QuickBooks",
+  "CaseWare : Xero",
+  "Attention to Detail",
+  "Conflict",
+  "entities",
+  "Negotiation",
+  "working days"
+ ],
+ "certifications": [
+  {
+   "name": "Prepared consolidated financial statements",
+   "issuer": null
+  },
+  {
+   "name": "under IFRS for a group with 8 subsidiaries Certified Management Accountant",
+   "issuer": "CMA)"
+  },
+  {
+   "name": "Implemented Microsoft Dynamics 365 for IMA",
+   "issuer": ""
+  },
+  {
+   "name": "accounts payable",
+   "issuer": "automating 60% of invoice Certified Internal Auditor"
+  },
+  {
+   "name": "processing The IIA",
+   "issuer": "Certified Public Accountant (CPA)"
+  },
+  {
+   "name": "Vice President",
+   "issuer": "Finance AICPA"
+  },
+  {
+   "name": "KPMG",
+   "issuer": "Chennai SAP Certified Application Associate"
+  },
+  {
+   "name": "Introduced weekly operating reviews that cut Financial Accounting",
+   "issuer": null
+  },
+  {
+   "name": "decision turnaround from 16 days to 1 day SAP",
+   "issuer": ""
+  },
+  {
+   "name": "Grew the team by 46% in two years while",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.048
+}

@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0135",
+ "name": "Lwazi Dlamini",
+ "contact": {
+  "email": "dlamini.lwazi@gmail.com",
+  "phone": "+27 81 561 9663",
+  "location": "Pretoria, South Africa"
+ },
+ "links": [
+  {
+   "url": "behance.net/Iwazidlamini"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "07/2022 ~ 08/2026",
+   "company": "Publicis Groupe",
+   "title": "Principal Designer",
+   "bullets": [
+    "Reduced support tickets by 57% by simplifying the account settings experience",
+    "Conducted 6 rounds of usability testing with 150 participants to validate checkout improvements",
+    "Partnered with engineering to ship 19 features per quarter with pixel-perfect handoff in Figma",
+    "Built and maintained a design system of 60+ components used by 7 product squads",
+    "Ran discovery workshops and journey mapping with stakeholders across 18 markets",
+    "Improved WCAG 2.1 AA compliance from 12% to 96% across core journeys",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Redesigned the onboarding flow in Figma, increasing activation by 32% across 21,000 new users",
+    "Created brand identity, packaging and campaign assets for 7 product launches"
+   ]
+  },
+  {
+   "dates": "11/2020 - 06/2022",
+   "company": "Publicis Groupe",
+   "title": "Senior Product Designer",
+   "location": "Johannesburg",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ZAR 14.6M",
+    "Introduced weekly operating reviews that cut decision turnaround from 19 days to 1 day",
+    "Grew the team by 50% in two years while keeping attrition below 24%",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 8 across 4 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Conducted 21 rounds of usability testing with 180 participants to validate checkout improvements",
+    "Improved WCAG 2.1 AA compliance from 21% to 96% across core journeys",
+    "Partnered with engineering to ship 14 features per quarter with pixel-perfect handoff in Figma",
+    "Reduced support tickets by 48% by simplifying the account settings experience",
+    "Ran discovery workshops and journey mapping with stakeholders across 19 markets"
+   ]
+  },
+  {
+   "dates": "05/2012 - 09/2013",
+   "company": "Woolworths Holdings",
+   "title": "Interaction Designer",
+   "location": "Johannesburg",
+   "bullets": [
+    "Built and maintained a design system of 150+ components used by 10 product squads",
+    "Redesigned the onboarding flow in Adobe Photoshop, increasing activation by 42% across 3.0M new users",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Created brand identity, packaging and campaign assets for 7 product launches",
+    "Produced motion graphics j and _explainer videos with Framer reaching 14,006 000 views ey"
+   ]
+  }
+ ],
+ "skills": [
+  "Information Architecture",
+  "Interaction Design",
+  "Prototyping",
+  "Branding",
+  "Motion Design",
+  "Adobe Illustrator",
+  "Framer",
+  "Principle",
+  "Adobe Photoshop",
+  "Maze",
+  "Figma",
+  "Mentoring",
+  "C1 Critical Thinking",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Adobe Photoshop, Adobe lustrator, Maze"
+  },
+  {
+   "name": "Museum Wayfinding Redesign",
+   "description": "Signage and digital kiosk system tested with 120 visitors over 6 months"
+  },
+  {
+   "name": "Design System for a Fintech Startup",
+   "description": "Token-based component library in Figma with documentation and cark-mode support."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Behance Featured Project"
+  }
+ ]
+}

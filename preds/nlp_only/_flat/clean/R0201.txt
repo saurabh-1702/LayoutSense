@@ -1,0 +1,51 @@
+Gabriel Rodrigues Gomes
+Director of Engineering
+Florianopolis, SC, Brazil ° +55 41 96804 6825 ° gabrielgomes@gmail.com
+LinkedIn: www.linkedin.com/in/gabriel-gomes ° GitHub: github.com/gabriel33
+PROFESSIONAL BACKGROUND
+TOTVS
+Director of Engineering December 2023 - Present
+» Mentored 6 junior colleagues, several of whom were promoted within 18 months
+Cisco
+Tech Lead August 2020 - November 2023
+>» Represented the function in executive steering committees and board-level reporting
+>» Built a real-time notification service using Apache Kafka and Apache Kafka that processes 681K events per hour
+» Led a team of 14 across 4 workstreams, owning hiring, performance reviews and quarterly planning
+» Partnered with senior leadership to define the annual roadmap and a budget of BRL 276K
+>» Introduced weekly operating reviews that cut decision turnaround from 25 days to 1 day
+Itaa Unibanco
+Senior Backend Engineer March 2017 - July 2020
+>» Designed and built 12 RESTful microservices in Python and Terraform, serving 89,000 requests per day with 99.95%
+uptime
+» Developed customer-facing features in Python used by 788K monthly active users
+» Grew the team by 14% in two years while keeping attrition below 12%
+Bosch
+Senior Software Engineer February 2017
+» Owned the payments integration with 12 third-party gateways, reducing failed transactions by 27%
+>» Developed internal tooling in Jenkins that saved the support team 32 hours per week
+>» Cut cloud infrastructure costs by BRL 24.6M annually by right-sizing instances and adopting spot capacity
+Visa
+iOS Developer January 2013 - January 2017
+>» Reduced p95 API latency by 43% by introducing Redis caching and optimising slow PostgreSQL queries
+» Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 12% to 85%
+>» Resolved 150+ production issues as part of the on-call rotation, reducing mean time to recovery by 37%
+>» Collaborated with product and design to ship 18 major releases on schedule across web and mobile
+Honeywell
+Systems Engineer August 2009 - December 2012
+» Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 39 hours to 15 minutes
+>» Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 25%
+» Wrote technical design documents and led code reviews for a team of 14 engineers
+>» Introduced feature flags and canary releases, lowering production incidents by 31% quarter over quarter
+EDUCATION & QUALIFICATIONS
+B.S. in Computer Science July 2005 - July 2009
+Insper
+TECHNICAL SKILLS
+Python - Scala - Go - Swift - Vue.js - Next.js - FastAPI - Linux - Docker - Terraform - CI/CD - GitHub Actions - Jenkins -
+DynamoDB - PostgreSQL - MongoDB - Redis - Apache Kafka - MySQL
+LANGUAGES
+Portuguese (Native); English (Professional Working Proficiency)
+AWARDS & RECOGNITION
+» Spot Award for Excellence, Cisco (2023)
+PROFESSIONAL CERTIFICATIONS
+» Microsoft Certified: Azure Developer Associate — Microsoft (2026)
+>» AWS Certified Solutions Architect — Associate — Amazon Web Services (October 2010)

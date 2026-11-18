@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0286",
+ "contact": {
+  "email": "yasmin1991@outlook.com",
+  "phone": "+20-159-618-6671",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yasmin-farouk7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Business Administration (MBA)",
+   "institution": "Business Analyst Nile University",
+   "dates": "Jun 2023 — Present"
+  },
+  {
+   "degree": "B.S. in Commerce",
+   "institution": "targets German University in Cairo",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst Nile University",
+   "company": "Master of Business Administration (MBA)",
+   "dates": "Jun 2023 — Present",
+   "bullets": [
+    "Conducted commercial due diligence on 20 private equity B.S. in Commerce",
+    "Designed a target operating model for a 33,000-employee Jul 2021 | Cum Laude",
+    "Leda cost transformation programme identifying EGP 16.4M SKILLS"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.048
+}

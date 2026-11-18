@@ -1,0 +1,64 @@
+KARIN GUSTAFSSON
+CONTACT
+Software Developer
+WORK EXPERIENCE
+Spotify Remote
+Software Developer Jan 2026 - Present
+Swedish » Designed and built 4 RESTful microservices in Node.js and Redis, serving
+English 4,000 requests per day with 99.95% uptime
+> Reduced p95 API latency by 55% by introducing Redis caching and
+COURSES &
+optimising slow PostgreSQL queries
+CERTIFICATIONS
+> Cut cloud infrastructure costs by SEK 23.2M annually by right-sizing
+AWS Certified Developer - instances and adopting spot capacity
+Associate
+» Migrated a legacy monolith to containerised services on Kubernetes,
+Amazon Web Services, 2024
+cutting deployment time from 21 hours to 15 minutes
+ACHIEVEMENTS » Owned the payments integration with 21 third-party gateways, reducing
+1st Place, Internal Hackathon failed transactions by 35%
+2022 > Resolved 60+ production issues as part of the on-call rotation, reducing
+mean time to recovery by 52%
+AREAS OF EXPERTISE
+Klarna Uppsala
+Ruby Systems Engineer Aug 2024 - Dec 2025
+> Collaborated with product and design to ship 7 major releases on
+Python
+schedule across web and mobile
+Rust > Introduced feature flags and canary releases, lowering production
+incidents by 20% quarter over quarter
+Swift
+» Developed internal tooling in Swift that saved the support team 22
+Ruby on Rails hours per week
+> Implemented a CI/CD pipeline with GitHub Actions and automated tests,
+Express. js
+raising code coverage from 22% to 85%
+Vue. js » Wrote technical design documents and led code reviews for a team of 8
+engineers
+Node. js
+> Developed customer-facing features in Swift used by 74K monthly active
+WS users
+Terraform
+Kubernetes
+Linux
+MySQL
+Apache Kafka
+DynamoDB
+Cassandra
+Redis
+MongoDB
+ACADEMIC
+QUALIFICATIONS
+MSc in Software Engineering
+Chalmers University of
+Technology
+May 2024
+B.Sc. Computer Science
+KTH Royal Institute of Technology
+Jun 2022
+LINKS
+LinkedIn:
+linkedin.com/in/karingustafsson-
+1eb701
+GitHub: github.com/kgustafsson

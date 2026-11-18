@@ -1,0 +1,80 @@
+HISTO 1.ef
+cMPLOYMEN?
+0
+Oct 2025 - Present
+Ma r
+Learning Enginee
+Machi ne |
+United ! it
+° Remote — nes
+Deliveroo se
+models 10
+Williams Fine-tuned transformer
+George -
+automating 13% of manual vib he
+Machine Learning Engineer
+and maintained 6 Airflow pipe! ar
+oe Designed
+PERSONAL DETAILS records daily into Snowflake
+- Built a churn prediction model in R (AUC O.
+07269 040818
+george.williams03@outlook.com retention teams save £13.9M in annual reve
+Bristol, United Kingdom > Productionised ML models with Docker and
+linkedin.com/in/georgewilliams5 model deployment time from weeks to 29 da
+www.georgewilliams.com
+OM Jun 2022 - Sep 2025
+‘* CORE COMPETENCIES Associate Data Scientist
+SAS Barclays + Bristo|
+R
+Python
+NLP Peete
+Hugging Face Trans formers
+PyTorch
+TensorFlow Seee
+that fla £S6M a "
+Baa ee in billing anomaly detect
+dema erre
+English Invent ; nd forecg -
+Native Reducey ¢ Olding Costs by bau MOdel that
+German ark job 0 redy ce
+ie
+Fluent roadcast j ¥ 33%
+Jul 2027 Sation th Tough
+_ rs 2 Partition
+ata Anal
+SK:
+Londo
+ae 19
+Creat | b ny nt p
+'Cing =e
+*dopteg s . °"boarg
+PePloyeg »S* Busing. OAS in ‘NB flow,
+Oc r Sus tS tr, .
+Def fineg tation V-aupm “cking 79
+Conf th e ans Erin “Nteg ty KP;
+ICtin ; 8 Pan § 886K at b
+re) E Kp; d Y-Wide e e
+DUC, tio MO Oy Erna]
+‘Ton a
+<I ln Per
+Ca, ong, Quay In a
+@® KEY PROJECTS
+Customer Lifetime Value Prediction Apr 2023
+Probabilistic BG/NBD model to rank customers by expected value
+for marketing spend.
+Tools used: R, Hugging Face Transformers
+Retail Sales Dashboard
+End-to-end Power BI dashboard on 761K transactions with drill-
+downs by region and category.
+Tools used: TensorFlow, PyTorch, Python
+Air Quality Forecasting Jul 2021
+LSTM model forecasting PM2.5 levels across 9 monitoring stations
+with a Streamlit dashboard.
+Tools used: R, PyTorch, Hugging Face Transformers
+2) COURSES & CERTIFICATIONS
+Deep Learning Specialization
+DeepLearning.Al - 2020
+SnowPro Core Certification
+Snowflake - 2020
+AWS Certified Machine Learning — Specialty
+Amazon Web Services - Aug 2022

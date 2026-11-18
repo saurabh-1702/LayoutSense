@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0209",
+ "name": "CHEN Yan Los Angeles",
+ "contact": {
+  "email": "yan_chen@gmail.com",
+  "phone": "(424) 408-9608",
+  "location": "Yan Los Angeles, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yan-chen"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. in Construction Engineering",
+   "institution": "Harbin Institute of Technology",
+   "dates": "April 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Structural Engineer",
+   "company": "Turner Construction",
+   "dates": "August 2023 - Present",
+   "bullets": [
+    "Grew the team by 34% in two years while keeping attrition below 20%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of $902K",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 20 days to 1 day",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 8 across 4 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Structural Engineer",
+   "company": "Arup",
+   "dates": "June 2022 - July 2023",
+   "bullets": [
+    "Scheduled a 4-month metro station package in SAP2000, recovering 8 weeks of delay",
+    "Designed RCC and steel structures in AutoCAD for 8 commercial projects",
+    "Delivered a 13 km highway stretch 21 weeks ahead of schedule",
+    "Coordinated 6 subcontractors and 60+ workers across civil and MEP activities",
+    "Prepared BOQs and rate analyses for tenders worth $560K"
+   ]
+  },
+  {
+   "title": "Site Engineer",
+   "company": "China State Construction Engineering",
+   "dates": "June 2020 - May 2022",
+   "bullets": [
+    "Managed client billing and variations, improving cash collection by 34%",
+    "Supervised construction of a 19-storey residential tower with a contract value of USD 797K",
+    "Introduced BIM clash detection that cut rework costs by 26%",
+    "Conducted soil investigation reviews and foundation design for 6 bridges"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "Pervious Concrete Mix Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.047
+}

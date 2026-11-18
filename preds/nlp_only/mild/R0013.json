@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0013",
+ "name": "SEGUN NWOSU",
+ "contact": {
+  "email": "segun1997@gmail.com",
+  "phone": "+44 765 904 0159",
+  "location": "Design"
+ },
+ "links": [
+  {
+   "url": "www.segunnwosu.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Interaction Design",
+   "institution": "University of Lagos",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Creative Director",
+   "company": "Revolut",
+   "dates": "Dec. 2021 — Jun. 2026",
+   "bullets": [
+    "Led a team of 6 across 13 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day"
+   ]
+  },
+  {
+   "title": "Creative Director",
+   "company": "BBC",
+   "dates": "Nov. 2020 — Nov. 2021",
+   "bullets": [
+    "Redesigned the onboarding flow in Miro, increasing activation by 34% across 17,000 new users",
+    "Partnered with engineering to ship 23 features per quarter with pixel-perfect handoff in Miro",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store"
+   ]
+  },
+  {
+   "title": "Product Designer",
+   "company": "Reduced support tickets by 49% by simplifying the account settings experience",
+   "dates": "Jun. 2013 — Oct. 2020",
+   "bullets": [
+    "Improved WCAG 2.1 AA compliance from 23% to 96% across core journeys"
+   ]
+  },
+  {
+   "title": "Graphic Designer",
+   "company": "Ran discovery workshops and journey mapping with stakeholders across 12 markets",
+   "dates": "Aug. 2010 — May 2013",
+   "bullets": [
+    "Built and maintained a design system of 80+ components used by 21 product squads"
+   ]
+  }
+ ],
+ "skills": [
+  "Journey Mapping",
+  "Figma",
+  "Adobe After Effects",
+  "Sketch",
+  "Framer ¢ Miro",
+  "Adobe Illustrator",
+  "Negotiation",
+  "Attention to Detail Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google"
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.064
+}

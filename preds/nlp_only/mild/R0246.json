@@ -1,0 +1,83 @@
+{
+ "resume_id": "R0246",
+ "name": "Pritam Mohanty",
+ "contact": {
+  "email": "pritam.mohanty@yahoo.co.in",
+  "phone": "+91 6325740103",
+  "location": "Guwahati, Assam, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pritam-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "Mapped procure-to-pay controls for a retail chain and Indian Institute of Management",
+   "dates": "October 2025"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Delhi Public School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Intern",
+   "company": "State Bank of India",
+   "dates": "October 2025 — March 2026",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "CaseWare",
+  "Excel (",
+  "SAP FICO",
+  "Alteryx",
+  "Oracle NetSuite",
+  "Consolidation",
+  "Month-end Close",
+  "4s f=",
+  "ber a oO",
+  "IFRS",
+  "Critical Thinking",
+  "Stakeholder Management",
+  "Time Management",
+  "Attention to Detail",
+  "LICENSES &"
+ ],
+ "projects": [
+  {
+   "name": "Internal Controls Review Bachelor of Commerce"
+  },
+  {
+   "name": "Class XII (CBSE)"
+  },
+  {
+   "name": "Delhi Public School"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor",
+   "issuer": "CIA)"
+  },
+  {
+   "name": "The IIA",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.074
+}

@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0234",
+ "name": "Pauline Dubois",
+ "contact": {
+  "email": "paulined967@orange.fr",
+  "phone": "88 88 82 39"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/paulinedubois"
+  },
+  {
+   "url": "www.paulinedubois.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in English Literature",
+   "institution": "Ecole Normale Supérieure",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "HubSpot Inbound Marketing",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Spanish",
+   "proficiency": null
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.019
+}

@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez",
+ "contact": {
+  "phone": "621 434 362",
+  "location": "Valencia, Spain"
+ },
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": null,
+   "dates": "2027"
+  },
+  {
+   "degree": "Bachelor of Business University eee. Nota media: 8.8",
+   "institution": "Bachelor of Business University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "i Mercadona _ Supply Chain intern",
+   "company": "7",
+   "dates": "Feb 2026 May 2026",
+   "bullets": [
+    "Built a tracker in SAP APO that streamlined weekly reporting for a team of 8"
+   ]
+  },
+  {
+   "title": null,
+   "company": "oa _ Ovt",
+   "dates": "2024 | Mar 2025",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.041
+}

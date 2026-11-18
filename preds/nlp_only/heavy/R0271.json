@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0271",
+ "contact": {
+  "email": "thandiwe.dlamini@gmail.com",
+  "phone": "+27-74-957-0109",
+  "location": "Pretoria, South Africa"
+ },
+ "education": [
+  {
+   "degree": "BSc Statistics",
+   "institution": "University of Cape Town, Cape Town",
+   "dates": "2023-01"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Retail Sales Dashboard and"
+  },
+  {
+   "name": "Credit Risk Scoring Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "LS CUsstisi‘SC‘éitSdS MTT van ll TW AW)",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.045
+}

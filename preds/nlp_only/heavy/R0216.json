@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0216",
+ "contact": {
+  "email": "fahadhussain96@qmail.com",
+  "phone": "+92-313-9800302",
+  "location": "Peshawar, Pakistan"
+ },
+ "education": [
+  {
+   "degree": "MA in Economics",
+   "institution": "Present Meezan Bank",
+   "dates": "Jan 2024"
+  },
+  {
+   "degree": "BSc Accounting and Finance",
+   "institution": "Grew the team by 17% in two years while Lahore University of Management",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "keeping attrition below 17% Sclences",
+   "dates": "Sep 2012 - Jul 2015",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Partnered with senior leadership to define Bloomberg Market Concepts",
+   "issuer": null
+  },
+  {
+   "name": "the annual roadmap and a budget of PKR Bloomberg",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Pashto",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.035
+}

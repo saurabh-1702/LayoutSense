@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0006",
+ "name": "Daniel Pérez",
+ "contact": {
+  "email": "daniel.perez@gmail.com",
+  "phone": "+34-733870701",
+  "location": "Seville, Spain"
+ },
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "Indra * Seville Universitat Pompeu Fabra",
+   "dates": "2019 - 2026"
+  },
+  {
+   "degree": "BBA",
+   "institution": "sania. » Led a cost transformation programme identifying €304M in annual ESADE",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.026
+}

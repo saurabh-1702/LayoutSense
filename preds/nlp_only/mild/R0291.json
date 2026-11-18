@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0291",
+ "name": "Pimchanok Thongchai",
+ "contact": {
+  "email": "pimchanok.t@gmail.com",
+  "phone": "+66 61 353 7477",
+  "location": "Bangkok, Thailand"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pimchanok-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in King Mongkut's University of Technology",
+   "institution": "Qualification Institution Period",
+   "dates": "May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Scientist Chiang Mai",
+   "company": "Citi Junior Data",
+   "dates": "Jun. 2022 to Current",
+   "bullets": [
+    "Fine-tuned transformer models for ticket classification, automating 28% of manual triage",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 24 days",
+    "Ran 21 A/B experiments on pricing and onboarding flows, lifting conversion by 5%"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Project Description Technologies"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": "SnowPro Core Certification Snowflake"
+  },
+  {
+   "name": "Databricks Certified Data Engineer Associate Databricks",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate Microsoft",
+   "issuer": "TensorFlow Developer Certificate Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Thai",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.035
+}

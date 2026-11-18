@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0085",
+ "contact": {
+  "email": "mercy.",
+  "phone": "0724 567 329",
+  "location": "Nokurs, Kenya"
+ },
+ "education": [
+  {
+   "institution": "Ke Jomo Kenyatta University of Agriculture and Technology",
+   "location": "Juja",
+   "degree": "8Eng (Hons) Software Engineering",
+   "dates": "2015 - 2019"
+  }
+ ],
+ "skills": [
+  "Languages: Java",
+  "JavaScript",
+  "Kotlin",
+  "Django",
+  "Flutter",
+  "GraphQL",
+  "Angular",
+  "Express.js",
+  "Vue",
+  "js",
+  "AWS",
+  "Google Cloud Platform",
+  "Microsoft Azure",
+  "Terraform",
+  "Linux",
+  "Databases: Apache Kafka",
+  "Redis",
+  "Cassandra"
+ ],
+ "projects": [
+  {
+   "name": "ealtime Chat Platform",
+   "description": "vvehGocket chat service with end-to-end encryption, read receipts and presence indicators",
+   "tech": "Microsoft Azure, Django, Terraform"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Developer ~ Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(2017)"
+  },
+  {
+   "name": "ah Certified aorta Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "SAP",
+   "year": "(2026)"
+  },
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "SAP",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Luo",
+   "proficiency": "(Adva nced)"
+  }
+ ]
+}

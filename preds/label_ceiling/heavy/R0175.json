@@ -1,0 +1,119 @@
+{
+ "resume_id": "R0175",
+ "name": "Esi Appiah",
+ "contact": {
+  "email": "esi.appiahO4@gmail.com",
+  "phone": "+233 59 219 8212",
+  "location": "Takoradi, Ghana"
+ },
+ "links": [
+  {
+   "url": "github.com/esiappiah"
+  },
+  {
+   "url": "www.esiappiah.com"
+  }
+ ],
+ "education": [
+  {
+   "dates": "September 2017 — July 2020",
+   "degree": "BSc in Computer Applications",
+   "institution": "Ashesi University",
+   "location": "Berekuso"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "December 2025 ~- Now",
+   "title": "Senior Full Stack Engineer",
+   "company": "Google",
+   "location": "Kumasi",
+   "bullets": [
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 32 hours to 15 minutes",
+    "Wrote technical design documents and led code reviews for a team of 14 engineers",
+    "Collaborated with product and design to ship 8 major releases on schedule across web and mobile",
+    "Resolved 75+ production issues as part of the on-call rotation, reducing mean time to recovery by 56%",
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "January 2022 - November 2025",
+   "title": "Software Engineer",
+   "company": "MTN Ghana",
+   "location": "Takoradi",
+   "bullets": [
+    "Cut cloud infrastructure costs by GHS 12.8M annually by right-sizing instances and adopting spot capacity",
+    "Owned the payments integration with 16 third-party gateways, reducing failed transactions by 36%",
+    "Developed customer-facing features in Ruby used by 184K+ monthly active users",
+    "implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 9% to 85%",
+    "Built a real-time notification service using Ruby and Apache Kafka that processes 43,000 events per hour"
+   ]
+  },
+  {
+   "dates": "October 2020 - December 2021",
+   "title": "Software Engineer",
+   "company": "mPharma",
+   "location": "Takoradi",
+   "bullets": [
+    "Developed internal tooling in Terraform that saved the support team 38 hours per week",
+    "Designed and built 13 RESTful microservices in Terraform and C#, serving 326K+ requests per day with 99.95% uptime"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "Go",
+  "TypeScript",
+  "C#",
+  "C++",
+  "Docker",
+  "AWS",
+  "GitHub Actions",
+  "Terraform",
+  "Google Cloud Platform",
+  "Django",
+  ".NET Core",
+  "Express.js"
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 773K redirects/minute with consistent hashing and Redis.",
+   "tech": "Ruby, Docker"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2023",
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  },
+  {
+   "year": "2022",
+   "name": "AWS Certified Developer ~ Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "year": "2021",
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2019",
+   "name": "University Merit Scholarship",
+   "issuer": "Ashesi University"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Ga",
+   "proficiency": "Fluent"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0010",
+ "name": "NIALL KENNEDY",
+ "contact": {
+  "phone": "+553 .85.547 58%",
+  "location": "Debi, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedisz.com/in/niallhennedy#"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "dates": "Ang"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "feb 004 > – Present",
+   "title": "Frontend Engineer",
+   "company": "Intercom",
+   "location": "Dublin"
+  },
+  {
+   "dates": "Sep 2019. Jon 2008",
+   "title": "Graduate Software Engineer",
+   "company": "Stnpe",
+   "location": "Remote"
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "javaScript",
+  "Scala",
+  "Pyrhon",
+  "Rust",
+  "C++",
+  "Node.js",
+  "NET Core",
+  "Angular",
+  "GeaphQL",
+  "GitHub Acnons",
+  "Kuberneres",
+  "C1/CD",
+  "Jenkins",
+  "AWS",
+  "Microsoft Azure"
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Comeves",
+   "year": "B21"
+  }
+ ]
+}

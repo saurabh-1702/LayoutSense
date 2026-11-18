@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0289",
+ "name": "SACHINI JAYASINGHE",
+ "contact": {
+  "email": "jayasinghe.sachini@gmail.com",
+  "phone": "+94-721511021",
+  "location": "Colombo, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sachini-jayasinghe-77"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MRCP (UK)",
+   "institution": "University of Peradeniya",
+   "dates": "07.2020 - 03.2021"
+  },
+  {
+   "degree": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+   "institution": "University of Colombo",
+   "dates": "09.2015 - 05.2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Specialty Registrar",
+   "company": "Asiri Hospitals",
+   "dates": "01.2026 - Present",
+   "bullets": [
+    "Grew the team by 44% in two years while keeping attrition below 16%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Leda team of 5 across 20 workstreams, owning hiring, performance reviews and quarterly",
+    "Partnered with senior leadership to define the annual roadmap and a budget of LKR 3.6M",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Junior Resident",
+   "company": "National Hospital of Sri Lanka",
+   "dates": "05.2022 - 12.2025",
+   "bullets": [
+    "Supervised and taught 13 interns and medical students on ward rounds",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 16%",
+    "Performed 250+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Co-authored 5 peer-reviewed publications in indexed journals",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 40%"
+   ]
+  },
+  {
+   "title": "Resident Physician",
+   "company": "National Hospital of Sri Lanka",
+   "dates": "06.2021 - 04.2022",
+   "bullets": [
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Presented case reports at 11 national conferences",
+    "Managed an average of 23 inpatients daily across general medicine and high-dependency units",
+    "Ran outpatient clinics seeing 22 patients per session with a focus on diabetes and hypertension"
+   ]
+  }
+ ],
+ "skills": [
+  "Lumbar Puncture",
+  "Internal Medicine",
+  "Critical Care",
+  "Patient Counselling",
+  "Clinical Research",
+  "Endotracheal Intubation",
+  "Telemedicine",
+  "Epic EHR",
+  "Clinical Audit",
+  "ICD-10 Coding",
+  "Cerner",
+  "Negotiation",
+  "Communication",
+  "Attention to Detail",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.04
+}

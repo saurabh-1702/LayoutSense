@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0147",
+ "name": "DANIEL JOHNSON",
+ "headline": "Marketing Graduate",
+ "contact": {
+  "email": "danieljohnson@gmail.com",
+  "phone": "+44 752 498 3889",
+  "location": "Cardiff, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/daniel-johnson"
+  },
+  {
+   "url": "muckrack.com/danieljohnson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "University of Surrey",
+   "dates": "Jul 2026 - Present"
+  },
+  {
+   "degree": "BA (Hons) English Literature",
+   "institution": "London School of Economics and Political Science",
+   "dates": "Sep 2023 - Apr 2026"
+  }
+ ],
+ "skills": [
+  "Content Strategy",
+  "Influencer Marketing",
+  "SEO",
+  "SEM",
+  "Email Marketing",
+  "Google Ads",
+  "Meta Ads Manager",
+  "Marketo",
+  "Mailchimp",
+  "Canva"
+ ],
+ "projects": [
+  {
+   "name": "Instagram Growth Experiment",
+   "description": "Grew a niche food account to 526K followers in 9 months using Reels and UGC.",
+   "dates": "Mar 2026"
+  },
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 180 urban respondents; findings presented to a client.",
+   "dates": "Oct 2026"
+  },
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a £336M launch media plan."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "London School of Economics and Political Science",
+   "year": "2025"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+MEGHA NEGI
+Email | meghanegi@gmail.com | Phone +44 7138 937205
+Address | Manchester | Linkedin linkedin.com/in/meghanegi
+GitHub | github.com/meghanegi
+Career History
+Tenure Company Location
+06.2024 - Present BBC Mobile Developer (Android) Manchester
+« Developed internal tooling in C# that saved the support team 20 hours per week
+«= Developed customer-facing features in C# used by 742K monthly active users
+« Designed and built 19 RESTful microservices in C# and React, serving 664K requests per day with
+99.95% uptime
+« Wrote technical design documents and led code reviews for a team of 5 engineers
+« Reduced p95 API latency by 48% by introducing Redis caching and optimising slow PostgreSQL
+queries
+07.2021 - 05.2024 BBC Software Developer Manchester
+« Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from
+18% to 85%
+« Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 41%
+« Collaborated with product and design to ship 5 major releases on schedule across web and mobile
+« Cut cloud infrastructure costs by £333M annually by right-sizing instances and adopting spot capacity
+« Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by
+30%
+Academic Qualifications
+Qualification Institution Tenure
+Bachelor of Technology Indian Institute of Technology 04.2021
+(Electronics and Kanpur
+Communication
+Engineering)
+Skills & Tools
+Languages Java « Kotlin * C# * Go
+Frameworks Vue.js * .NET Core * Express.js * React * Next.js * Angular
+Cloud & DevOps Microsoft Azure * Kubernetes * Terraform * Docker
+Projects
+Project Description
+Distributed Key-Value | Raft-based replicated key-value store with leader r
+Store election, log compaction and a gRPC client.
+Realtime Chat WebSocket chat service with end-to-end encryption, | -
+Platform read receipts and presence indicators.
+Language Proficiency
+Language Proficiency
+English Professional Working Proficiency
+Courses & Certifications
+Certification Issued By Year
+AWS Certified Solutions Architect — Associate Amazon Web Services 12.2022
+HashiCorp Certified: Terraform Associate HashiCorp 2023

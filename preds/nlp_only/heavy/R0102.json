@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0102",
+ "name": "Kayla Patel",
+ "contact": {
+  "email": "7@outlook.com",
+  "phone": "503.572.9253",
+  "location": "Portland, OR"
+ },
+ "experience": [
+  {
+   "title": "Events Manager",
+   "company": "Hindi Basic",
+   "dates": "May 2022 - Present",
+   "bullets": [
+    "Represented the function in executive steering committees and Portuguese Professional Working",
+    "Grew the team by 28% in two years while keeping attrition below CORE COMPETENCIES",
+    "Micros POS",
+    "Introduced weekly operating reviews that cut decision « Fidelio",
+    "Mentored 10 junior colleagues, several of whom were promoted + Front Office Operations",
+    "Led a team of 6 across 21 workstreams, owning hiring, + Menu Engineering"
+   ]
+  }
+ ],
+ "_runtime_s": 0.025
+}

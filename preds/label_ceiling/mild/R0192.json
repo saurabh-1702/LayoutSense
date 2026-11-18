@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0192",
+ "name": "Farzana Haque",
+ "headline": "Recruiter",
+ "contact": {
+  "email": "farzana.haque@gmail.com",
+  "phone": "+880-1635002800",
+  "location": "Rajshahi, Bangladesh"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/farzana-haque-4fd085"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA in Human Resource Management",
+   "institution": "University of Dhaka",
+   "dates": "August 2023 - August 2024",
+   "grade": "Upper Second- Class (2:1)"
+  },
+  {
+   "degree": "BA (Hons) Psychology",
+   "institution": "BRAC University",
+   "dates": "September 2020 - June 2023"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2025 - June 2026",
+   "title": "Recruiter",
+   "company": "Accenture",
+   "location": "Dhaka",
+   "bullets": [
+    "Partnered with business leaders of a 250-employee division on workforce planning ; and org design",
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership",
+    "Designed a performance management framework adopted company-wide",
+    "Reduced voluntary attrition 7 by 25% through stay : interviews ; and targeted retention plans",
+    "Ran campus hiring at 21 universities, onboarding 50 graduate trainees"
+   ]
+  },
+  {
+   "dates": "September 2024 - April 2025",
+   "title": "People Operations Associate",
+   "company": "Grameenphone",
+   "location": "Rajshahi",
+   "bullets": [
+    "Managed end-to-end hiring for 6 roles per quarter, reducing time-to-hire from 29 to 17 days",
+    "Rolled out Excel across 6 countries, digitising onboarding for 28,000 employees",
+    "Launched an internal L&D academy that delivered 250 training hours per quarter"
+   ]
+  }
+ ],
+ "skills": [
+  "Employee Relations",
+  "Compensation & Benefits",
+  "iter ite Corieuancs",
+  "af",
+  "Oracle HCM",
+  "Workday",
+  "Greenhouse",
+  "BambooHR",
+  "SAP SuccessFactors"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "dates": "July 2025",
+   "description": "a survey for 250 employees and ran action-planning workshops with 3 pee Le"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday",
+   "year": "2025"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "July 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Accenture",
+   "year": "2026"
+  },
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Accenture",
+   "year": "2025"
+  },
+  {
+   "name": "HR Champion of the Year",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ]
+}

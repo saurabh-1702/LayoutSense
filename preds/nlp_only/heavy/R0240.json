@@ -1,0 +1,43 @@
+{
+ "resume_id": "R0240",
+ "contact": {
+  "email": "kevinwu@126.com",
+  "phone": "+686196 2480 7307",
+  "location": "Hangzhou, Chine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kavin"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Automobile Engineering",
+   "institution": "Current BYD",
+   "dates": "May 2024"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a Robotic Gripper"
+  },
+  {
+   "name": "Formula Student Race Car"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.04
+}

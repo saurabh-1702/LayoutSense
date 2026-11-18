@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0219",
+ "name": "MEGHA NEGI",
+ "contact": {
+  "email": "meghanegi@gmail.com",
+  "phone": "+44 7138 937205"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/meghanegi"
+  },
+  {
+   "url": "github.com/meghanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology (Electronics and Communication Engineering)",
+   "institution": "Indian Institute of Technology Kanpur",
+   "dates": "04.2021"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "06.2024- Present",
+   "company": "BBC",
+   "title": "Mobile Developer (Android)",
+   "bullets": [
+    "Developed internal tooling in C# that saved the support team 20 hours per week",
+    "Developed customer-facing features in C# used by 742K monthly active users",
+    "Designed and built 19 RESTful microservices in C# and React, serving 664K requests per day with 99.95% uptime",
+    "Wrote technical design documents and led code reviews for a team of 5 engineers",
+    "Reduced p95 API latency by 48% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  },
+  {
+   "dates": "07. 2021 - 05.2024",
+   "company": "BBC",
+   "title": "Software Developer",
+   "location": "Manchester",
+   "bullets": [
+    "RN ‘Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 18% to 85%",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 41%",
+    "Collaborated with product and design to ship 5 major releases on schedule across web and mobile",
+    "Cut cloud infrastructure costs by £333M annually by right-sizing instances and adopting spot capacity",
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 30%"
+   ]
+  }
+ ],
+ "skills": [
+  "Java»",
+  "Kotlin",
+  "Cit",
+  "Go",
+  "Vue.",
+  "NET Core",
+  "Express",
+  "js",
+  "React",
+  "Next",
+  "Angular",
+  "Microsoft Azure",
+  "Kubernetes",
+  "Terraform",
+  "Docker"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client. ee"
+  },
+  {
+   "name": "Realtime Chat Platform",
+   "description": "WebSocket chat service with end-to-end d encryption, tread receipts and presence indicators."
+  }
+ ]
+}

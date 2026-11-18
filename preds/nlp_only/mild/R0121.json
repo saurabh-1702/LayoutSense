@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0121",
+ "name": "Odai Hijazi",
+ "contact": {
+  "email": "odai.hijazi05@gmail.com",
+  "phone": "7308 8539",
+  "location": "Zarqa, Jordan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/odai-hijazi-3bc2b3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA, HR",
+   "institution": "Princess Sumaya University for Technology",
+   "dates": "2021"
+  },
+  {
+   "degree": "Bachelor of Arts in Sociology",
+   "institution": "University of Jordan",
+   "dates": "2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "HR Coordinator",
+   "company": "Estarta Zarqa",
+   "dates": "2023 - Now",
+   "bullets": [
+    "Designed a performance management framework adopted company-wide",
+    "Led annual compensation benchmarking and salary review for 8.0M employees",
+    "Launched an internal L&D academy that delivered 300 training hours per quarter",
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership"
+   ]
+  },
+  {
+   "title": "Recruiter",
+   "company": "Amazon Irbid",
+   "dates": "2022 - 2023",
+   "bullets": [
+    "Rolled out Darwinbox across 13 countries, digitising onboarding for 7,000 employees",
+    "Ran campus hiring at 8 universities, onboarding 60 graduate trainees",
+    "Managed end-to-end hiring for 9 roles per quarter, reducing time-to-hire from 24 to 11 days",
+    "Partnered with business leaders of a 80-employee division on workforce planning and org design"
+   ]
+  },
+  {
+   "title": "People Operations Associate",
+   "company": "Accenture Amman",
+   "dates": "2021 - 2022",
+   "bullets": [
+    "Handled 20 employee relations cases including investigations and disciplinary hearings",
+    "Reduced voluntary attrition by 50% through stay interviews and targeted retention plans"
+   ]
+  }
+ ],
+ "skills": [
+  "Excel BambooHR LinkedIn Recruiter"
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday"
+  },
+  {
+   "name": "People Analytics Certificate",
+   "issuer": "Wharton Online"
+  },
+  {
+   "name": "SHRM Certified Professional",
+   "issuer": "SHRM-CP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "French",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.063
+}

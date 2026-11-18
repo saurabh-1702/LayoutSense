@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0241",
+ "name": "Maryam Ghorbani",
+ "contact": {
+  "email": "maryam.g@yahoo.com",
+  "phone": "98 9150134090",
+  "location": "Shiraz"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/maryam-ghorbani-34"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Business Administration",
+   "institution": "University of Tehran",
+   "dates": "Aug 1999 - Feb 2003"
+  }
+ ],
+ "skills": [
+  "Financial Modelling",
+  "Treasury Management",
+  "Risk Management",
+  "Oracle Hyperion",
+  "SAP S/4HANA",
+  "Anaplan",
+  "VBA",
+  "Capital 1Q",
+  "Critical Thinking",
+  "Decision Making",
+  "MN FRAUD ASU"
+ ],
+ "projects": [
+  {
+   "name": "Valuation of a Listed FMCG Company"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "+ Certified Treasury Professional",
+   "issuer": "CTP)"
+  },
+  {
+   "name": "CFA Level Il Candidate",
+   "issuer": "CFA Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.059
+}

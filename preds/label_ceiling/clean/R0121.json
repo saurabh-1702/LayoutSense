@@ -1,0 +1,108 @@
+{
+ "resume_id": "R0121",
+ "name": "Odai Hijazi",
+ "headline": "HR Coordinator | 5+ Years in Human Resources",
+ "contact": {
+  "email": "odai.hijazi05@gmail.com",
+  "phone": "+962 7 7308 8539",
+  "location": "Zarqa, Jordan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/odai-hijazi-3bc2b3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA, HR",
+   "dates": "2021",
+   "institution": "Princess Sumaya University for Technology",
+   "location": "Amman",
+   "grade": "GPA 3.64"
+  },
+  {
+   "degree": "Bachelor of Arts in Sociology",
+   "dates": "2019",
+   "institution": "University of Jordan",
+   "location": "Amman",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Estarta",
+   "location": "Zarqa",
+   "title": "HR Coordinator",
+   "dates": "2023 - Now",
+   "bullets": [
+    "Designed a performance management framework adopted company-wide",
+    "Led annual compensation benchmarking and salary review for 8.0M employees",
+    "Launched an internal L&D academy that delivered 300 training hours per quarter",
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership"
+   ]
+  },
+  {
+   "company": "Amazon",
+   "location": "Irbid",
+   "title": "Recruiter",
+   "dates": "2022 - 2023",
+   "bullets": [
+    "Rolled out Darwinbox across 13 countries, digitising onboarding for 7,000 employees",
+    "Ran campus hiring at 8 universities, onboarding 60 graduate trainees",
+    "Managed end-to-end hiring for 9 roles per quarter, reducing time-to-hire from 24 to 11 days",
+    "Partnered with business leaders of a 80-employee division on workforce planning and org design"
+   ]
+  },
+  {
+   "company": "Accenture",
+   "location": "Amman",
+   "title": "People Operations Associate",
+   "dates": "2021 - 2022",
+   "bullets": [
+    "Handled 20 employee relations cases including investigations and disciplinary hearings",
+    "Reduced voluntary attrition by 50% through stay interviews and targeted retention plans"
+   ]
+  }
+ ],
+ "skills": [
+  "Employer Branding",
+  "Labour Law Compliance",
+  "Succession Planning",
+  "Learning & Development",
+  "Onboarding",
+  "Excel",
+  "BambooHR",
+  "LinkedIn Recruiter"
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday",
+   "year": "(2026)"
+  },
+  {
+   "name": "People Analytics Certificate",
+   "issuer": "Wharton Online",
+   "year": "(2022)"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(B2)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(A2)"
+  }
+ ]
+}

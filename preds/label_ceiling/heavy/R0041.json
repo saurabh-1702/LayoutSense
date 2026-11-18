@@ -1,0 +1,113 @@
+{
+ "resume_id": "R0041",
+ "name": "AIDEN FLETCHER Nurse",
+ "headline": "Emergency Department",
+ "contact": {
+  "email": "aiden.fletcher@outlook.com+44718965",
+  "phone": "3586",
+  "location": "Glasgow"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/aiden-fletcher8"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Imperial College London",
+   "location": "London",
+   "degree": "MSc Advanced Clinical Practice",
+   "grade": "2:1",
+   "dates": "Apr 2021"
+  },
+  {
+   "institution": "University of Surrey",
+   "location": "Guildford",
+   "degree": "BSc (Hons) Nursing",
+   "dates": "Jun 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Emergency Department Nurse",
+   "dates": "Sep 2024 — Jun 2026",
+   "company": "Royal Free London NHS Foundation Trust",
+   "location": "Glasgow",
+   "bullets": [
+    "Participated in 4 code blue responses as a certified ACLS provider",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 11%"
+   ]
+  },
+  {
+   "title": "Junior Staff Nurse",
+   "dates": "May 2021 — Aug 2024",
+   "company": "s and St Thomas’ NHS Foundation Trust",
+   "location": "Glasgow",
+   "bullets": [
+    "Provided direct care to 19 patients per shift in a 5-bed medical-surgical ward",
+    "Managed ventilated patients in a 13-bed ICU, titrating vasoactive infusions per protocol",
+    "Oversaw duty rosters for 9 nurses and managed ward inventory and consumables",
+    "Trained 6",
+    "newly joined nurses on medication safety and documentation in Patient Charting Reduced hospital-acquired infection rates by 23% by leading hand-hygiene audits",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Triaged 75+ patients monthly in the emergency department using the Manchester Triage System",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Implemented fall-prevention bundle that reduced patient falls by 17% QUALIFICATIONS"
+   ]
+  }
+ ],
+ "skills": [
+  "Infection Prevention",
+  "Critical Care",
+  "Ventilator Management",
+  "IV Cannulation",
+  "Patient Charting",
+  "Epic EHR",
+  "NABH Standards",
+  "Electronic Medical Records",
+  "JC! Standards",
+  "Cerner",
+  "Attention to Detail",
+  "Problem Solving",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 17 rural health camps screening 400 residents for hypertension and diabetes."
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "dates": "Aug 2021",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage || ulcers over 7 months."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Basic Life Support (BLS)",
+   "issuer": "American Heart Association",
+   "year": "(2026)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Royal Free London NHS Foundation Trust",
+   "year": "(2026)"
+  },
+  {
+   "name": "Best Nurse of the Year",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

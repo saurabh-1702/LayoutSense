@@ -1,0 +1,36 @@
+{
+ "resume_id": "R0238",
+ "contact": {
+  "email": "tejaskale@yahoo.co.in",
+  "phone": "+91 870-087-3627",
+  "location": "Navi Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tejaskale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology (Information Databases: Redis",
+   "institution": "Indian Institute of Technology Kharagpur, Kharagpur Kubernetes",
+   "dates": "Expected June 2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Software Developer Intern",
+   "company": "Marathi Native",
+   "dates": "November 2025 to February 2026",
+   "bullets": [
+    "Supported the software engineering team on 6 live"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Bosch | Mumbai"
+  }
+ ],
+ "_runtime_s": 0.045
+}

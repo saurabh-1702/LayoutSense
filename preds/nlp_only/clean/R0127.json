@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0127",
+ "contact": {
+  "email": "pengh791@126.com",
+  "phone": "155 4019 9893",
+  "location": "Shanghai, China"
+ },
+ "education": [
+  {
+   "degree": "B.Eng. in Civil Engineering",
+   "institution": "Tongji University",
+   "dates": "August 2022"
+  }
+ ],
+ "skills": [
+  "Engineering Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "HSE",
+  "Compliance",
+  "Software AutoCAD",
+  "Primavera P6",
+  "Revit",
+  "Navisworks",
+  "Core Strengths Mentoring",
+  "Cross-functional Collaboration",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "Pervious Concrete Mix Study"
+  },
+  {
+   "name": "Civil Engineering Intern"
+  },
+  {
+   "name": "WSP, Shanghai"
+  },
+  {
+   "name": "Site Engineer Trainee"
+  },
+  {
+   "name": "China State Construction Engineering, Shanghai"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Autodesk Certified Professional: Revit",
+   "issuer": "Autodesk"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.025
+}

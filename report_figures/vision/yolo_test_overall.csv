@@ -1,0 +1,2 @@
+split,images,precision,recall,mAP50,mAP50_95,ms_per_image
+test (held-out templates),441,0.7223,0.6888,0.7311,0.6411,25.8

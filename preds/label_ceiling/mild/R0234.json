@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0234",
+ "name": "Pauline Dubois",
+ "headline": "Social Media Executive",
+ "contact": {
+  "email": "paulined967@orange.fr",
+  "phone": "+33 (0)6 88 88 82 39",
+  "location": "Nantes, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/paulinedubois"
+  },
+  {
+   "url": "www.paulinedubois.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in English Literature",
+   "institution": "Ecole Normale Supérieure",
+   "dates": "2019",
+   "grade": "With honours (Mention Bien)"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Social Media Executive",
+   "dates": "2021 - Present",
+   "company": "Publicis Groupe",
+   "location": "Paris",
+   "bullets": [
+    "Owned the go-to-market plan for a SaaS launch, generating €13.6M pipeline in the first quarter",
+    "Led a rebrand across 22 touchpoints in partnership with an external creative agency",
+    "Built automated email nurture journeys in HubSpot that lifted MQL-to-SQL conversion by 59%",
+    "Managed a monthly paid media budget of €372M across Google Ads and Meta, achieving a 16x ROAS",
+    "Coordinated 13 influencer campaigns generating 3.2M impressions and 2.9M engagements"
+   ]
+  },
+  {
+   "title": "Content Marketing Associate",
+   "dates": "2019 - 2021",
+   "company": "Danone",
+   "location": "Nantes",
+   "bullets": [
+    "Grew organic traffic by 43% in 11 months through technical SEO and a content calendar of 5 articles per month",
+    "Grew Instagram and LinkedIn followers from 71,000 to over 3x within a year",
+    "Launched 19 new product variants nationally, capturing 15% market share in the first year",
+    "Built a marketing attribution dashboard in Meta Ads Manager used in weekly leadership reviews"
+   ]
+  }
+ ],
+ "skills": [
+  "Email Marketing",
+  "Performance Marketing",
+  "Market Research",
+  "SEO",
+  "Go-to-Market Strategy",
+  "Google Analytics 4",
+  "Meta Ads Manager",
+  "Google Ads",
+  "HubSpot",
+  "Conflict Resolution",
+  "Decision Making",
+  "Attention to Detail",
+  "Stakeholder Management"
+ ],
+ "certifications": [
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "2018"
+  },
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "2024"
+  },
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google",
+   "year": "2018"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Publicis Groupe",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

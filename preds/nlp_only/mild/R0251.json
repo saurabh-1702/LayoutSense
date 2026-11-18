@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0251",
+ "name": "Sakshi Negi",
+ "contact": {
+  "email": "sakshin739@gmail.com",
+  "phone": "(+91) 9188773335",
+  "location": "Chandigarh, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshinegi-58"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA (Communication) Symbiosis International University i",
+   "institution": "Delhi Public School 84.7%",
+   "dates": "2026"
+  },
+  {
+   "degree": "B.A. in English Literature Amity University",
+   "institution": "Delhi Public School 84.7%",
+   "dates": "2024"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Project Title Description"
+  }
+ ],
+ "_runtime_s": 0.025
+}

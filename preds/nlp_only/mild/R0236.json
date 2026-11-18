@@ -1,0 +1,33 @@
+{
+ "resume_id": "R0236",
+ "contact": {
+  "email": "lama_alharbi@gmail.com",
+  "phone": "+966-566891863",
+  "location": "Dammam, Saudi Arabia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lama-alharbi"
+  },
+  {
+   "url": "www.lamaalharbi.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Almarai, Jeddah King Fahd University of Petroleum and",
+   "dates": "2020"
+  }
+ ],
+ "skills": [
+  "Mailchimp § Google Analytics 4",
+  "Salesforce Marketing Cloud"
+ ],
+ "projects": [
+  {
+   "name": "TS © CERTIFICATIONS"
+  }
+ ],
+ "_runtime_s": 0.031
+}

@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0088",
+ "contact": {
+  "email": "amercier@free.fr",
+  "phone": "83 85 21 52"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/antoine-mercier"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Business Administration",
+   "institution": "Salesforce CRM ESSEC Business School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "fl amercier@free.fr Territory Sales Officer",
+   "company": "& +33 (0)6 83 85 21 52 O",
+   "dates": "September 2023 - August 2024",
+   "bullets": [
+    "TECHNICAL SKILLS » Shortened the average sales cycle by 13 days by introducing a structured",
+    "Achieved 19% of annual quota for 22 consecutive years, closing €24.7M in",
+    "Launched a channel partner programme that contributed 21% of total",
+    "Managed 16 key accounts generating €19.6M in annual revenue with 51%"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Decision Making"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.114
+}

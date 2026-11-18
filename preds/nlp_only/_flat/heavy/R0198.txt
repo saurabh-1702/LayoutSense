@@ -1,0 +1,28 @@
+PHAN QUOC THANG
++81 90-1102-1765 | thangp321@gmail.com | Kyoto, Japen
+Academic Projects Professional Certifications
+Smart Energy Meter with loT
+State Electrical Licensing Board, 2025
+meter streaming consumption data to a cloud dashboard.
+SP32-based
+Language Proficiency
+Grid-tied Inverter Design jul 2025 Vietnamese Native
+Simulated and built a 1 KW single-phase inverter with MPPT contro! in English c2
+Korean B2
+Skills & Tools
+>» Embedded C
+intern Jan 2026 — Mar 2026 » PCB Design
+“—
+» Battery Management Systems
+rs a >» FPGA
+aes ST ataaet eters eeniry et ieee wonky
+>» MATLAB/Simulink
+Collected and cleaned dat from 8 sources a suppor a elecicl& >» Cadence Virtuoso
+|
+> Altium Designer
+» DIgSILENT Powerfactory
+Dec 2024 — Apr 2025
+Education & Qualifications
+B.E. in Electrical and Electronics
+RMIT University Vietnam
+jon 2025

@@ -1,0 +1,146 @@
+{
+ "resume_id": "R0170",
+ "name": "Hamza Butt",
+ "contact": {
+  "email": "hamza.butt@gmail.com",
+  "phone": "+92 315 075 3627",
+  "location": "Peshawar, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hamzabutt4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA (Hons) Finance",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "2002 — 2005"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Treasury",
+   "dates": "April 2022 — Present",
+   "company": "Standard Chartered",
+   "location": "Lahore",
+   "bullets": [
+    "Analysed credit proposals for 250 mid-market clients, maintaining an NPA ratio below 1.20%",
+    "Led the annual budgeting and rolling forecast process for a business unit with PKR 215M in revenue",
+    "Identified cost savings of PKR 140M through vendor spend analysis and contract renegotiation",
+    "Automated monthly variance reporting in Excel (Advanced), saving the finance team 25 hours per cycle",
+    "Managed a loan portfolio of PKR 6.2M across 60 relationships with zero slippages in FY",
+    "Grew the assets under management of assigned clients by 53% year on year",
+    "Implemented an Anaplan-based planning model replacing 21 disconnected spreadsheets",
+    "Prepared pitch books and information memoranda for 11 sell- side mandates"
+   ]
+  },
+  {
+   "title": "Senior Vice President, Risk",
+   "dates": "January 2015 — March 2022",
+   "company": "Habib Bank Limited",
+   "location": "Peshawar",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 30 days to 1 day"
+   ]
+  },
+  {
+   "title": "Vice President, Corporate Banking",
+   "dates": "January 2012 — December 2014",
+   "company": "Meezan Bank",
+   "location": "Peshawar",
+   "bullets": [
+    "Grew the team by 24% in two years while keeping attrition below 9%",
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Led a team of 13 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Portfolio Manager",
+   "dates": "October 2011 — December 2011",
+   "company": "HSBC",
+   "location": "Lahore",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 3 disconnected spreadsheets",
+    "Led the annual budgeting and rolling forecast process for a business unit with PKR 501K in revenue",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 10.8M"
+   ]
+  },
+  {
+   "title": "Senior Financial Analyst",
+   "dates": "August 2009 — September 2011",
+   "company": "Engro Corporation",
+   "location": "Peshawar",
+   "bullets": [
+    "Identified cost savings of PKR 571K through vendor spend analysis and contract renegotiation",
+    "Grew the assets under management of assigned clients by 25% year on year",
+    "Prepared pitch books and information memoranda for 6 sell- side mandates",
+    "Analysed credit proposals for 120 mid-market clients, maintaining an NPA ratio below 1.4%"
+   ]
+  },
+  {
+   "title": "Equity Research Associate",
+   "dates": "October 2005 — July 2009",
+   "company": "PwC",
+   "location": "Karachi",
+   "bullets": [
+    "Managed a loan portfolio of PKR 328M across 250 relationships with zero slippages in FY",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Supported due diligence on 9 acquisitions, including working- capital and synergy analysis",
+    "Built three-statement financial models and DCF valuations for 4 deals worth a combined PKR 191M",
+    "Automated monthly variance reporting in FactSet, saving the finance team 36 hours per cycle"
+   ]
+  }
+ ],
+ "skills": [
+  "Credit Analysis",
+  "IFRS 9",
+  "Risk Management",
+  "FactSet",
+  "Power Bl",
+  "VBA",
+  "SAP S/4HANA",
+  "Excel (Advanced)",
+  "Python",
+  "Negotiation",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth PKR 5.8M in cash release."
+  },
+  {
+   "name": "Valuation of a Listed FMCG Company",
+   "dates": "July 2011",
+   "description": "Equity research report with DCF and comparable-company analysis; recommendation tracked for 6 months."
+  },
+  {
+   "name": "Credit Scorecard Development",
+   "description": "Logistic-regression scorecard for retail loans validated with Gini and KS statistics."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Financial Risk Manager (FRM)",
+   "issuer": "GARP",
+   "year": "2017"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "Conversational"
+  }
+ ]
+}

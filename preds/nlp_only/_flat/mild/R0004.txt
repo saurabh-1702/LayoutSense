@@ -1,0 +1,50 @@
+© Employment History
+O
+Software Developer
+Google - Mumbai
+Pawar * Implemented a CI/CD pipeline with GitHub Actions and automated tests,
+Pooja
+raising code coverage from 22% to 85%
+Software Developer * Wrote technical design documents and led code reviews for a team of 6
+engineers
+2% Get in Touch * Designed and built 18 RESTful microservices in TypeScript and
+JavaScript, serving 71,000 requests per day with 99.95% uptime
+\. +91 6289865863 * Resolved 250+ production issues as part of the on-call rotation, reducing
+™ pooja.pawar@outlook.com mean time to recovery by 38%
+9 Nagpur, India
+O
+© www.linkedin.com/in/pooja- Software Engineer
+power Google - Mumbai
+* Collaborated with product and design to ship 18 major releases on
+-¢- Key Skills schedule across web and mobile
+¢ Migrated a legacy monolith to containerised services on Kubernetes,
+Ruby
+cutting deployment time from 6 hours to 15 minutes
+qQ [3 » ° =F be) * Rebuilt the search experience with Elasticsearch, improving result
+nen relevance and click-through by 49%
+= ts) i?) so ee * Introduced feature flags and canary releases, lowering production
+@ o) incidents by 12% quarter over quarter
+Owned the payments integration with 5 third-party gateways, reducing
+failed transactions by 52%
+Ruby on Rails
+© Educational Qualifications
+Express.js
+O
+Spring Boot B.Tech in Electronics and Communication Engineering
+Vellore Institute of Technology
+Adaptability
+Attention to Detail © Licenses & Certifications
+Mentoring & Google Cloud Professional Cloud Developer
+Google Cloud « 2026
+Cross-functional Collaboration
+& HashiCorp Certified: Terraform Associate
+HashiCorp - 2021
+@ Languages Known % Certified Kubernetes Administrator (CKA)
+; The Linux Foundation - 2017
+Marathi
+PYY TY
+Native
+English
+Fluent
+Gujarati
+Basic

@@ -1,0 +1,65 @@
+% +92 301 320 7341 © muhammadchaudhry | 7@outlook.com
+Muhammad Chaudhry
+9 Rawalpindi, Pakistan @ linkedin.com/in/‘muhammad-chaudhry
+Staff Software Engineer @ github.com/muhammadch
+I 1+ Years of Experience 3 Companies 1 Certifications
+PROFESSIONAL EXPERIENCE PROFESSIONAL
+Jun 2024 - Staff Software Engineer CERTIFICATIONS
+Current Jazz | Rawalpindi Oracle Certified Professional: Java
+Implemented a CV/CD pipeline with GitHub Actions SE 17 Developer
+and automated tests, raising code coverage from 8% Oracle, 2026
+to 85%
+Developed customer-facing features in Jenkins used EDUCATIONAL
+by 52,000 monthly active users QUALIFICATIONS
+Grew the team by 19% in two years while keeping MEng Computer Science
+attrition below 10% National University of Sciences and
+Nov 2017 - May @) Backend Engineer Technology
+2024 Careem | Lahore Jul 2014 - Feb 2015
+Reduced p95 API latency by 48% by introducing MEng Electronics and
+Redis caching and optimising slow PostgreSQL Communication Engineering
+queries FAST National University of Computer and
+Designed and built 23 RESTful microservices in Emerging Sciences
+Node.js and AWS, serving 902K requests per day Aug 2010 - May 2014
+with 99.95% uptime
+LANGUAGE PROFICIENCY
+Collaborated with product and design to ship 11
+major releases on schedule across web and mobile Urdu
+—
+Owned the payments integration with 21 third-party Native
+gateways, reducing failed transactions by 15%
+Rebuilt the search experience with Elasticsearch,
+improving result relevance and click-through by
+25%
+Jan 2017- Oct @ Systems Engineer
+2017 Careem |! Remote — Pakistan COMPETENCIES
+* Cut cloud infrastructure costs by PKR 815K
+annually by right-sizing instances and adopting spot
+capacity
+Introduced feature flags and canary releases, Django Angular
+lowering production incidents by 14% quarter over
+quarter 74% 72%
+Built a real-time notification service using AWS and
+Apache Kafka that processes 817K events per hour Vue.js Ruby on Rails
+May 2015 - Dee Software Developer
+2016 NetSol Technologies | Rawalpindi >) 77%
+Resolved 250+ production issues as part of the on-
+call rotation, reducing mean time to recovery by Node.js Nextys
+55%
+Migrated a legacy monolith to containerised
+services on Kubernetes, cutting deployment time
+from 15 hours to 15 minutes Jenkins CLCD
+Developed internal tooling in AWS that saved the
+support team |] hours per week 60%
+2 = 7A Apache Katka
+NOTABLE PROJECTS 94% S6%
+Campus Placement Portal Dee 2019
+Web portal used by 50 students to apply for drives, track status and DynamoDB MongoDB
+download offer letters.
+72% 61%
+HONORS
+* Spot Award for Excellence, Careem (2017) Elasticsearch Decision Making
+* Engineering Excellence Award (2014)
+sas
+Adaptability Team Leadership
+73%
+Critical Thinking

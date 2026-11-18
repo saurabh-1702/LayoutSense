@@ -1,0 +1,83 @@
+{
+ "resume_id": "R0078",
+ "name": "Chirag Bhosale",
+ "contact": {
+  "email": "chiragbhosale21@outlook.com",
+  "phone": "(+91) 8834300314"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/chirag-bhosale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech Student",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "MS Project",
+   "institution": "MS Project",
+   "dates": null
+  },
+  {
+   "degree": "MS Project, Tekla Structures i. 5 fe. is oO ef tie}",
+   "institution": "MS Project",
+   "dates": null
+  },
+  {
+   "degree": "MS Project",
+   "institution": "MS Project",
+   "dates": null
+  },
+  {
+   "degree": "B.E. (Structural Engineering)",
+   "institution": "BITS Pilani",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "The Shri Ram School, Panaji",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Civil Engineering Intern Site",
+   "company": "on g Z ae 2 Fa ©",
+   "dates": "Oct 2025 — Nov 2025",
+   "bullets": [
+    "Built a tracker in Navisworks that streamlined weekly reporting for a ETABS",
+    "Prepared research summaries and presentation decks for 20",
+    "Collected and cleaned data from 14 sources to support a civil"
+   ]
+  },
+  {
+   "title": "Civil Engineering Intern Attention to Detail",
+   "company": "engineering & construction initiative",
+   "dates": "Sep 2024 — Nov 2024",
+   "bullets": [
+    "Collected and cleaned data from 7 sources to support a civil",
+    "Drafted standard operating procedures for 15 recurring tasks",
+    "Prepared research summaries and presentation decks for 11"
+   ]
+  }
+ ],
+ "skills": [
+  "Pervious Concrete Mix Study",
+  "Quantity Estimation",
+  "ETABS",
+  "MS Project",
+  "aE mons"
+ ],
+ "projects": [
+  {
+   "name": "Language Proficiency"
+  },
+  {
+   "name": "Design of a G+5 Residential Building Marathi Native"
+  }
+ ],
+ "_runtime_s": 0.11
+}

@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0187",
+ "name": "TUNDE EZE",
+ "contact": {
+  "email": "tundee79@gmail.com",
+  "phone": "+234 816 497 2381",
+  "location": "Lagos, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tunde-eze"
+  },
+  {
+   "url": "github.com/tundeeze"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Computer Applications",
+   "institution": "Federal University of Technology Akure, Akure",
+   "dates": "06/2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Graduate Software Engineer",
+   "company": "Goldman Sachs",
+   "dates": "07/2021 to Present",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.029
+}

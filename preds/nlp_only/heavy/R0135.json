@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0135",
+ "name": "Lwazi Dlamini",
+ "contact": {
+  "email": "dlamini.lwazi@gmail.com",
+  "phone": "+27 81 561 9663",
+  "location": "Pretoria, South Africa"
+ },
+ "education": [
+  {
+   "degree": "BS RRS cel a RR i NE Aa: AP ae i",
+   "institution": "ES AR EOC AE ISI IE le",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Publicis Groupe Principal Designer",
+   "company": "C2.",
+   "dates": "07/2022 ~ 08/2026",
+   "bullets": [
+    "Reduced support tickets by 57% by simplifying the account settings experience",
+    "Conducted 6 rounds of usability testing with 150 participants to validate checkout improvements",
+    "Built and maintained a design system of 60+ components used by 7 product squads",
+    "Ran discovery workshops and journey mapping with stakeholders across 18 markets"
+   ]
+  },
+  {
+   "title": "Publicis Groupe Senior Product Designer Johannesburg",
+   "company": "~ Created brand identity, packaging and campaign assets for 7 product launches",
+   "dates": "11/2020 - 06/2022",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ZAR 14.6M",
+    "Led a team of 8 across 4 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Designer Johannesburg",
+   "company": "Woolworths Holdings Interaction",
+   "dates": "05/2012 - 09/2013",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Behance Featured Project"
+  }
+ ],
+ "_runtime_s": 0.063
+}

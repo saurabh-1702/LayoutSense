@@ -1,0 +1,96 @@
+{
+ "resume_id": "R0009",
+ "name": "MICHAEL L. JOHNSON",
+ "contact": {
+  "email": "michaelj638@gmail.com",
+  "phone": "(480) 443-7967",
+  "location": "Phoenix, AZ"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/michael-johnson1"
+  },
+  {
+   "url": "github.com/michael59"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. in Economies",
+   "institution": "Carnegie Mellon University",
+   "dates": "Expected 05/2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Science Intern",
+   "company": "Roche San Francisco",
+   "dates": "07/2025 - 10/2025",
+   "bullets": [
+    "Developed a demand forecasting model that reduced inventory holding costs by 51%",
+    "Drafted standard operating procedures for 7 recurring tasks",
+    "Assisted with day-to-day data science & analytics operations and maintained accurate records"
+   ]
+  },
+  {
+   "title": "Data Analyst Intern",
+   "company": "IBM",
+   "dates": "06/2024 - 09/2024",
+   "bullets": [
+    "Drafted standard operating procedures for 7 recurring tasks",
+    "Supported the data science & analytics team on 12 live projects, preparing analyses and documentation",
+    "Collected and cleaned data from 14 sources to support a data science & analytics initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "Airflow",
+  "Apache Spark",
+  "dbt",
+  "LangChain",
+  "A/B Testing",
+  "PyTorch",
+  "Time Series Forecasting",
+  "Looker",
+  "Tableau",
+  "Matplotlib",
+  "Excel",
+  "Scala",
+  "SAS",
+  "Python",
+  "SQL",
+  "Negotiation",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Fake News Detection"
+  },
+  {
+   "name": "Retail Sales Dashboard"
+  },
+  {
+   "name": "Customer Lifetime Value Prediction"
+  },
+  {
+   "name": "Resume Screening with NLP"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Databricks Certified Data Engineer Associate",
+   "issuer": "Databricks"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.05
+}

@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0096",
+ "name": "NOURA AL FALASI",
+ "headline": "Maintenance Aspiring . Engineer",
+ "contact": {
+  "email": "noura.alfalasi@yahoo.com",
+  "phone": "+971 550198992",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/noura-alfalasi-703b96"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Mechanical Engineering",
+   "institution": "Khalifa University",
+   "dates": "Sep 2023 — Present",
+   "grade": "Merit"
+  }
+ ],
+ "skills": [
+  "90% 1%",
+  "Product Lifecycle Management",
+  "59%",
+  "93%",
+  "Lean Manufacturing",
+  "PPAP",
+  "91%",
+  "80%",
+  "PFMEA",
+  "Siemens NX",
+  "78%",
+  "58%",
+  "ANSYS",
+  "92% 54%)",
+  "CATIA V5",
+  "Minitab",
+  "41%",
+  "Communication Presentation Skills",
+  "75%",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car",
+   "description": "Designed the suspension uprights and ran FEA; team placed in the top 20 nationally.",
+   "tech": "Minitab, CATIA V5, Siemens NX, ANSYS"
+  },
+  {
+   "name": "Solar-Powered Refrigeration Unit",
+   "description": "Prototype vapour-absorption cooler for rural clinics with 57% energy savings.",
+   "tech": "Siemens NX, MATLAB, CATIA V5"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CATIA V5 Associate",
+   "issuer": "Dassault Systemes",
+   "year": "May 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Khalifa University",
+   "year": "2026"
+  },
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Khalifa University",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.118
+}

@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0073",
+ "name": "Francesca Gallo",
+ "contact": {
+  "email": "francescagalilo22@outlook.it",
+  "phone": "+39 328 400 9103",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/francescagallo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Politecnico di Milano Milan",
+   "dates": "Sep, 2010 ~ Jul, 2013"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "en ene aemenaen enna atm erty Se ni ns a CN Nt a te Yet A att AL A ite F",
+   "issuer": null
+  },
+  {
+   "name": "~ CIPS Level 4 Diploma in Procurement and Supply ~ CIPS",
+   "issuer": ")"
+  }
+ ],
+ "_runtime_s": 0.012
+}

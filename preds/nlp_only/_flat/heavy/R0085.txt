@@ -1,0 +1,28 @@
+Nokurs, Kenya | 0724 567 329
+mercy.
+PROF ESSIONAL
+EXPERIENCE
+08/2019 ~ 02/2024
+* Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 29%
+. Reduced p95 API latency by 29% by introducing Redis caching and optimising slow PostgreSQl. queries
+ACADEMIC QUALIFICATIONS
+Ke eetsnneenenennsnienernenerentee nnn
+Jomo Kenyatta University of Agriculture and Technology Juja
+8Eng (Hons) Software Engineering 2015 - 2019
+KEY SKILLS
+Languages: Java ~ JavaScript « Kotlin
+Frameworks: Django ° Flutter - GraphQL * Angular « Express.js ° Vue,js
+Cloud & DevOps: AWS « Google Cloud Platform * Microsoft Azure ° Terraform - Linux
+Databases: Apache Kafka * Redis « Cassandra
+ACADEMIC PROJECTS
+ealtime Chat Platform
+vvehGocket chat service with end-to-end encryption, read receipts and presence indicators
+Tools used: Microsoft Azure, Django, Terraform
+HONOURS & AWARDS
+* Spot Award for Excellence, SAP (2026)
+« CEO's Excellence Award, SAP (2025)
+LICENSES & CERTIFICATIONS
+Developer ~ Associate ~ Amazon Web Services (2017)
+3 ah Certified aorta Azure Developer Associate ~ Microsoft (2025)
+LANGUAGE PROFICIENCY
+English (Native) | Luo (Adva nced)

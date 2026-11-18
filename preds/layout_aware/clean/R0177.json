@@ -1,0 +1,82 @@
+{
+ "resume_id": "R0177",
+ "name": "Elena Garcia Lopez",
+ "contact": {
+  "email": "elenagarcia@gmail.com",
+  "phone": "+34-774053756",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/elenagarcia"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Se. Architecture",
+   "institution": "Universitat Politécnica de Catalunya",
+   "dates": "09/2022 — 07/2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Site Engineer",
+   "dates": "09/2025 — Present",
+   "company": "Iberdrola",
+   "location": "Madrid",
+   "bullets": [
+    "Designed RCC and steel structures in Primavera P6 for 10 commercial projects",
+    "Coordinated 20 subcontractors and 50+ workers across civil and MEP activities",
+    "Prepared BOQs and rate analyses for tenders worth €7.9M"
+   ]
+  }
+ ],
+ "skills": [
+  "Geotechnical Investigation",
+  "HSE Compliance",
+  "Quantity Estimation",
+  "ETABS",
+  "Civil 3D",
+  "Stakeholder Management",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "Primavera P6, Navisworks, Tekla Structures, Civil 3D"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle",
+   "year": "(2024)"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "(2024)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C2)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(B2)"
+  }
+ ],
+ "_runtime_s": 0.059
+}

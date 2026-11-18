@@ -1,0 +1,135 @@
+{
+ "resume_id": "R0027",
+ "name": "Tesfaye Haile",
+ "headline": "Senior Associate (Corporate)",
+ "contact": {
+  "email": "tesfaye.haile@yahoo.com",
+  "phone": "+251 934097113",
+  "location": "Addis Ababa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tesfaye-haile"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Legal Practice Course (LPC)",
+   "institution": "Bahir Dar University",
+   "dates": "Jul 2011 - Apr 2012"
+  },
+  {
+   "degree": "LLB (Hons) Law",
+   "institution": "Addis Ababa University",
+   "dates": "Jul 2008 - Jun 2011"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan 2018 - Present",
+   "company": "Mehrteab Leul & Associates",
+   "title": "Senior Associate (Corporate)",
+   "bullets": [
+    "Reduced external counsel spend by 59% by bringing standard contract work in-house",
+    "Led legal due diligence for 5 acquisitions, reviewing 80+ contracts in iManage",
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Drafted and negotiated share purchase agreements, shareholders’ agreements and term sheets",
+    "Represented clients in 12 commercial arbitrations seated in Singapore and London",
+    "Built a GDPR/DPDP compliance programme covering 18 business units",
+    "Trained business teams on contract playbooks and anti-bribery compliance",
+    "Managed a portfolio of 180 trademarks across 24 jurisdictions"
+   ]
+  },
+  {
+   "dates": "Jan 2014 - Dec 2017",
+   "company": "Mehrteab Leul & Associates",
+   "title": "Associate Attorney",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 19 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ETB 856K",
+    "Grew the team by 49% in two years while keeping attrition below 8%",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Built a GDPR/DPDP compliance programme covering 9 business units",
+    "Led a team of 13 across 7 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "Nov 2013 - Dec 2013",
+   "company": "Aman Assefa & Associates",
+   "title": "Legal Associate",
+   "bullets": [
+    "Managed a portfolio of 120 trademarks across 24 jurisdictions",
+    "Drafted and negotiated share purchase agreements, shareholders’ agreements and term sheets",
+    "Advised on 11 cross-border M&A transactions with a combined deal value of ETB 890K",
+    "Trained business teams on contract playbooks and anti-bribery compliance",
+    "Conducted legal research and prepared memos on securities and competition law issues"
+   ]
+  },
+  {
+   "dates": "May 2012 - Oct 2013",
+   "company": "Dentons",
+   "title": "Junior Associate",
+   "bullets": [
+    "Represented clients in 23 commercial arbitrations seated in Singapore and London",
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals",
+    "Led legal due diligence for 13 acquisitions, reviewing 80+ contracts in Westlaw",
+    "Reduced external counsel spend by 14% by bringing standard contract work in-house"
+   ]
+  }
+ ],
+ "skills": [
+  "Contract Drafting",
+  "Arbitration",
+  "Data Privacy (GDPR)",
+  "Employment Law",
+  "Competition Law",
+  "iManage",
+  "Relativity",
+  "Westlaw",
+  "Adaptability",
+  "Critical Thinking",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Moot Court - Philip C. Jessup",
+   "description": "Represented the university at national rounds; drafted memorials on state responsibility."
+  },
+  {
+   "name": "Research Paper on Data Protection",
+   "description": "Comparative analysis of consent frameworks under GDPR and India's DPDP Act."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Admitted Solicitor",
+   "issuer": "Solicitors Regulation Authority",
+   "year": "2016"
+  },
+  {
+   "name": "Certified Information Privacy Professional (CIPP/E)",
+   "issuer": "IAPP",
+   "year": "Feb 2025"
+  },
+  {
+   "name": "Enrolled Advocate",
+   "issuer": "Bar Council of India",
+   "year": "Jun 2020"
+  },
+  {
+   "name": "Fellow, Chartered Institute of Arbitrators"
+  },
+  {
+   "name": "New York State Bar Admission",
+   "issuer": "New York State Board of Law Examiners",
+   "year": "Mar 2018"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "Fluent"
+  }
+ ]
+}

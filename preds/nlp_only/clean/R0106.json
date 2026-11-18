@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0106",
+ "name": "ROJINA MAHARJAN",
+ "contact": {
+  "email": "rojina1994@gmail.com",
+  "phone": "+977 9865814970",
+  "location": "Kathmandu, Nepal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rojina-maharjan"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Hospitality and Hotel Administration",
+   "institution": "Housekeeping Supervisor Kathmandu University",
+   "dates": "05/2023 — Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Housekeeping Supervisor Kathmandu University",
+   "company": null,
+   "dates": "05/2023 — Present",
+   "bullets": []
+  },
+  {
+   "title": "Housekeeping Supervisor Kathmandu University",
+   "company": "Dwarika's Hotel",
+   "dates": "07/2019 — 04/2023",
+   "bullets": [
+    "Planned and executed 10 large weddings and"
+   ]
+  }
+ ],
+ "skills": [
+  "Housekeeping Management",
+  "guest satisfaction score of 9.21/10",
+  "Time Management",
+  "Conflict Resolution"
+ ],
+ "certifications": [
+  {
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": null
+  },
+  {
+   "name": "Wine & Spirit Education Trust",
+   "issuer": ""
+  },
+  {
+   "name": "Certified Revenue Management Executive",
+   "issuer": null
+  },
+  {
+   "name": "Food Safety Supervisor",
+   "issuer": "FoSTaC)"
+  },
+  {
+   "name": "FSSAI",
+   "issuer": ""
+  },
+  {
+   "name": "Nepali Native",
+   "issuer": null
+  },
+  {
+   "name": "English Fluent",
+   "issuer": null
+  },
+  {
+   "name": "Hindi Fluent",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.057
+}

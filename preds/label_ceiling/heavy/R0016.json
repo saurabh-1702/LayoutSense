@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0016",
+ "education": [
+  {
+   "degree": "B.Sc (Chemistry)",
+   "institution": "Vellore Institute of Technology",
+   "grade": "First Class with Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Primary School Teacher",
+   "company": "DAV Public School",
+   "location": "Jaipur",
+   "bullets": [
+    "Raised average class performance by 13% through targeted remediation and formative assessment",
+    "Developed 50 digital lessons and assessments used across the district",
+    "Led parent-teacher conferences and individualised learning plans for 14 students with SEN",
+    "Mentored 9 new teachers as part of the induction programme",
+    "Coordinated the school's Smart Board rollout, training 15 teachers in blended learning"
+   ]
+  }
+ ],
+ "skills": [
+  "\"Curriculum Design",
+  "Assessment Design",
+  "Special Educational Needs",
+  "Lesson Planning",
+  "Student Counselling",
+  "Moodle",
+  "Smart Board",
+  "Canvas LMS"
+ ],
+ "languages": [
+  {
+   "language": "English"
+  },
+  {
+   "language": "Urdu"
+  }
+ ]
+}

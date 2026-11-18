@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0053",
+ "name": "Dhruv Sawant",
+ "contact": {
+  "email": "sawant.dhruv@gmail.com",
+  "phone": "(+91) 8338196047",
+  "location": "Pune, Maharashtra 9"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/dhruv-sawant"
+  },
+  {
+   "url": "github.com/dsawant"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Computer Applications",
+   "institution": "Indian Institute of Technology Kharagpur",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate Software Engineer",
+   "company": "Zomato",
+   "dates": "Jul 2021 — Present",
+   "bullets": [
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from",
+    "Developed internal tooling in C# that saved the support team 17 hours per week",
+    "Resolved 180+ production issues as part of the on-call rotation, reducing mean time to recovery by"
+   ]
+  },
+  {
+   "title": "Graduate Software Engineer",
+   "company": "54%",
+   "dates": "May 2020 — Jun 2021",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 17% quarter over",
+    "Designed and built 17 RESTful microservices in Node.js and Terraform, serving 1.4M requests per day",
+    "Reduced p95 API latency by 40% by introducing Redis caching and optimising slow PostgreSQL",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 37"
+   ]
+  }
+ ],
+ "skills": [
+  "C#",
+  "TypeScript",
+  "Swift",
+  "Django",
+  "Node.js",
+  "Ruby on Rails",
+  "Angular",
+  "Spring Boot",
+  "Google Cloud Platform",
+  "GitHub Actions",
+  "Terraform",
+  "Decision Making",
+  "Team Leadership"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.066
+}

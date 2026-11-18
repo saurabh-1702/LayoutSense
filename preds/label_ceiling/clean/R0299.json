@@ -1,0 +1,114 @@
+{
+ "resume_id": "R0299",
+ "name": "Bukola Adeyemi",
+ "headline": "Medical Director",
+ "contact": {
+  "email": "badeyemi@gmail.com",
+  "phone": "0816 340 1053",
+  "location": "Ibadan, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/bukola-adeyemi"
+  },
+  {
+   "url": "orcid.org/0000-0002-3748-4509"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MRCP (UK)",
+   "institution": "Ahmadu Bello University",
+   "dates": "2009"
+  },
+  {
+   "degree": "MBBS",
+   "institution": "University of Ibadan",
+   "dates": "2008"
+  }
+ ],
+ "experience": [
+  {
+   "company": "National Hospital Abuja",
+   "title": "Medical Director",
+   "dates": "July 2024",
+   "bullets": [
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 15%",
+    "Supervised and taught 10 interns and medical students on ward rounds",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 18%",
+    "Performed 120+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Ran outpatient clinics seeing 8 patients per session with a focus on diabetes and hypertension"
+   ]
+  },
+  {
+   "company": "Reddington Hospital",
+   "title": "Clinical Lead",
+   "dates": "September – June 2024 2021",
+   "bullets": [
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months",
+    "Grew the team by 28% in two years while keeping attrition below 16%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of NGN 24.7M",
+    "Led a team of 6 across 12 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "Reddington Hospital",
+   "title": "Head of Department",
+   "bullets": [
+    "Ran outpatient clinics seeing 6 patients per session with a focus on diabetes and hypertension",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 56%"
+   ]
+  },
+  {
+   "company": "Reddington Hospital",
+   "title": "Senior Consultant",
+   "dates": "January 2019 – March 2020",
+   "bullets": [
+    "Performed 300+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Managed an average of 22 inpatients daily across general medicine and high-dependency units",
+    "Responded to emergencies as part of the rapid response team during night shifts"
+   ]
+  },
+  {
+   "company": "Reddington Hospital",
+   "title": "Medical Officer",
+   "bullets": [
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 14%",
+    "Co-authored 21 peer-reviewed publications in indexed journals",
+    "Presented case reports at 15 national conferences",
+    "Supervised and taught 10 interns and medical students on ward rounds"
+   ]
+  }
+ ],
+ "skills": [
+  "Central Line Insertion",
+  "Evidence-based Medicine",
+  "Endotracheal Intubation",
+  "ICD-10 Coding",
+  "Clinical Audit",
+  "Epic EHR",
+  "Cerner",
+  "Telemedicine",
+  "Time Management",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "description": "Cross-sectional study of 500 school students; presented at the state medical conference."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal in Pharmacology",
+   "year": "(2026)"
+  },
+  {
+   "name": "Young Investigator Award",
+   "year": "(2016)"
+  }
+ ]
+}

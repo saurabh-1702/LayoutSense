@@ -1,0 +1,83 @@
+{
+ "resume_id": "R0286",
+ "name": "Yasmin Farouk",
+ "headline": "Business Analyst",
+ "contact": {
+  "email": "yasmin1991@outlook.com",
+  "phone": "+20-159-618-6671",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "Li_linkedin.com/in/yasmin-farouk7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Business Administration (MBA)",
+   "institution": "Nile University",
+   "dates": "Mar 2023",
+   "grade": "Cum Laude"
+  },
+  {
+   "degree": "B.S. in Commerce",
+   "institution": "German University in Cairo",
+   "dates": "Jul 2021",
+   "grade": "Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun 2023 — Present",
+   "title": "Business Analyst",
+   "company": "Bain & Company",
+   "location": "Cairo",
+   "bullets": [
+    "Conducted commercial due diligence on 20 private equity targets",
+    "Designed a target operating model for a 33,000-employee organisation post-merger",
+    "Leda cost transformation programme identifying EGP 16.4M in annual savings for a Fortune 500 client"
+   ]
+  }
+ ],
+ "skills": [
+  "Market Sizing",
+  "Process Re-engineering",
+  "Business Case Development",
+  "Strategy Development",
+  "Financial Analysis",
+  "PowerPoint",
+  "Tableau",
+  "Jira",
+  "Power BI",
+  "Python",
+  "Alteryx",
+  "Cross-functional Collaboration",
+  "Adaptability",
+  "Decision Making",
+  "Team Leadership"
+ ],
+ "awards": [
+  {
+   "name": "Winner, National Strategy Case Competition",
+   "year": "2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "A2"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+  "resume_id": "R0033",
+  "name": "BRITTANY PATEL",
+  "contact": {
+    "location": "Nashville, TN",
+    "phone_e164": "+16299070606",
+    "city": "Nashville",
+    "country": "United States",
+    "email": "patel.brittany@gmail.com",
+    "phone": "629.907.0606"
+  },
+  "links": [
+    {
+      "url": "linkedin.com/in/brittany-patel3",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA, Hospitality Management",
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "dates": "2019 - 2021",
+      "start": "2019-09",
+      "end": "2021-03",
+      "level": "master"
+    },
+    {
+      "degree": "Bachelor of Science in Hotel Administration",
+      "institution": "Purdue University",
+      "location": "West Lafayette, IN",
+      "dates": "2015 - 2019",
+      "grade": "GPA: 3.52/4.0",
+      "start": "2015-09",
+      "end": "2019-06",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Events Manager",
+      "company": "Hilton",
+      "location": "New York",
+      "dates": "2023 - Present",
+      "bullets": [
+        "Trained 11 associates on brand standards, achieving 44% in mystery audits",
+        "Managed front office operations for a 180-room five-star property with 53% average occupancy",
+        "Raised RevPAR by 5% through dynamic pricing and channel mix optimisation in TravelClick",
+        "Improved TripAdvisor ranking from #4 to top 5 in the city through service recovery initiatives"
+      ],
+      "start": "2023-12",
+      "end": "present"
+    },
+    {
+      "title": "Commis Chef",
+      "company": "Marriott International",
+      "location": "San Francisco",
+      "dates": "2021 - 2023",
+      "bullets": [
+        "Planned and executed 8 large weddings and MICE events with budgets up to USD 71M",
+        "Reduced food cost by 19% through menu engineering and supplier renegotiation",
+        "Drove upselling programmes that generated $373K in incremental room revenue",
+        "Led a 3-member kitchen brigade serving 75 covers per day",
+        "Handled VIP arrivals and guest escalations with a guest satisfaction score of 9.23/10",
+        "Maintained HACCP compliance and achieved a 5-star food hygiene rating"
+      ],
+      "start": "2021-06",
+      "end": "2023-11"
+    }
+  ],
+  "skills": [
+    "Event Planning",
+    "F&B Operations",
+    "HACCP",
+    "Menu Engineering",
+    "Delphi.fdc",
+    "SynXis",
+    "Micros POS",
+    "TravelClick",
+    "Fidelio"
+  ],
+  "projects": [
+    {
+      "name": "Pre-opening of a Resort",
+      "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 150-key resort."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Hospitality Supervisor (CHS)",
+      "issuer": "AHLEI",
+      "year": "2023"
+    },
+    {
+      "name": "WSET Level 2 Award in Wines",
+      "issuer": "Wine & Spirit Education Trust",
+      "year": "2022"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Employee of the Quarter",
+      "issuer": "Marriott International",
+      "year": "2022"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "French",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "_meta": {
+    "layout": "single_column",
+    "template": "s3_banded",
+    "n_pages": 2,
+    "industry": "hospitality",
+    "level": "mid",
+    "years_experience": 5,
+    "origin_country": "United States",
+    "work_country": "United States",
+    "date_format": "YYYY"
+  }
+}

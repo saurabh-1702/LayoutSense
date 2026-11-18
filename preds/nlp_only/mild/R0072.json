@@ -1,0 +1,34 @@
+{
+ "resume_id": "R0072",
+ "contact": {
+  "email": "khuship989@outlook.com",
+  "phone": "+91-98811-04940",
+  "location": "Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/khushipatil"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Civil Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": null
+  },
+  {
+   "degree": "MS Project Tekla Structures",
+   "institution": "MS Project",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) Graduate Civil Engineer Hindi",
+   "company": "eeeee",
+   "dates": "05/2023 - Current",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.048
+}

@@ -1,0 +1,75 @@
+{
+ "resume_id": "R0143",
+ "name": "Lea Zimmermann",
+ "contact": {
+  "email": "lea1992@gmx.de",
+  "phone": "+49 (0)151 55968212",
+  "location": "Cologne, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lea-zimmermann"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in Commerce",
+   "institution": "Technical University of Munich",
+   "dates": "2027 (Expected)"
+  }
+ ],
+ "skills": [
+  "MEDDIC Expert",
+  "Distributor Management",
+  "Expert Sales Forecasting",
+  "Advanced Apollo.io Intermediate",
+  "LinkedIn Sales Navigator",
+  "Elementary",
+  "HubSpot CRM Intermediate",
+  "Zoho CRM",
+  "Advanced Excel",
+  "Problem Solving",
+  "Advanced Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "description": "Mapped 24 cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Intermediate Intermediate"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Star Performer Award",
+   "issuer": "Technical University of Munich",
+   "year": "(2025)"
+  },
+  {
+   "name": "Top Performer Q3",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Vv"
+  },
+  {
+   "proficiency": "Native",
+   "language": "English"
+  },
+  {
+   "proficiency": "B2",
+   "language": "French"
+  },
+  {
+   "proficiency": "A2",
+   "language": "Turkish"
+  }
+ ],
+ "_runtime_s": 0.256
+}

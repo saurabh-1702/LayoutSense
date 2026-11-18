@@ -1,0 +1,126 @@
+{
+ "resume_id": "R0067",
+ "name": "Megha Agarwal",
+ "contact": {
+  "email": "meghaagarwal@gmail.com",
+  "phone": "612-487-2539",
+  "location": "Minneapolis, MN"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/meghaagarwal-139d14"
+  }
+ ],
+ "education": [
+  {
+   "dates": "09.2001 — 06.2003",
+   "degree": "PGDM in Human Resource Management",
+   "institution": "Symbiosis International University",
+   "location": "Pune, India",
+   "grade": "CGPA 8.32"
+  },
+  {
+   "dates": "07.1998 — 06.2001",
+   "degree": "BA (Hons.) Sociology",
+   "institution": "Indian Institute of Mass Communication",
+   "location": "New Delhi, India"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "10.2019 — 06.2026",
+   "title": "Chief Human Resources Officer",
+   "company": "Walmart",
+   "location": "Minneapolis, MN",
+   "bullets": [
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "06.2009 — 09.2019",
+   "title": "Senior HR Business Partner",
+   "company": "Reliance Industries",
+   "location": "Jaipur, India",
+   "bullets": [
+    "Led a team of 11 across 13 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 25% in two years while keeping attrition below 21%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of $13.6M",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "06.2008 — 05.2009",
+   "title": "HR Generalist",
+   "company": "Marriott International",
+   "location": "New York, NY",
+   "bullets": [
+    "Ran campus hiring at 13 universities, onboarding 400 graduate trainees",
+    "Rolled out SAP SuccessFactors across 22 countries, digitising onboarding for 1.6M employees",
+    "Led annual compensation benchmarking and salary review for 465K+ employees"
+   ]
+  },
+  {
+   "dates": "08.2005 — 05.2008",
+   "title": "HR Business Partner",
+   "company": "HDFC Bank",
+   "location": "Noida, India",
+   "bullets": [
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership",
+    "Designed a performance management framework adopted company-wide",
+    "Managed end-to-end hiring for 19 roles per quarter, reducing time-to-hire from 19 to 16 days",
+    "Partnered with business leaders of a 500-employee division on workforce planning and org design"
+   ]
+  },
+  {
+   "dates": "07.2003 — 07.2005",
+   "title": "HR Executive",
+   "company": "HDFC Bank",
+   "location": "Noida, India",
+   "bullets": [
+    "Handled 18 employee relations cases including investigations and disciplinary hearings",
+    "Reduced voluntary attrition by 59% through stay interviews and targeted retention plans",
+    "Launched an internal L&D academy that delivered 250 training hours per quarter"
+   ]
+  }
+ ],
+ "skills": [
+  "Talent Acquisition",
+  "Onboarding",
+  "Compensation & Benefits",
+  "Employee Relations",
+  "Labour Law Compliance",
+  "LinkedIn Recruiter",
+  "Oracle HCM",
+  "SAP SuccessFactors",
+  "Workday",
+  "Darwinbox",
+  "Greenhouse"
+ ],
+ "awards": [
+  {
+   "year": "2004",
+   "name": "Great Place to Work Certification (team lead)"
+  },
+  {
+   "year": "2008",
+   "name": "Rising Star Award",
+   "issuer": "HDFC Bank"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Punjabi",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

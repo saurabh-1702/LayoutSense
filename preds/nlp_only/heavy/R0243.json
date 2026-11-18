@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0243",
+ "name": "Address Hawassa",
+ "contact": {
+  "email": "dawitdesta76@yahoo.com",
+  "phone": "+251 93 280 2312",
+  "location": "Hawassa, Ethiopia"
+ },
+ "education": [
+  {
+   "degree": "BEng Computer Science and",
+   "institution": "_Engineering ot University",
+   "dates": "September 2021"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "gees 6",
+   "issuer": null
+  },
+  {
+   "name": "ann T.-L. A",
+   "issuer": null
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "_ AWS Certified Developer ~ Associate _ Amazon Web Services",
+   "issuer": null
+  },
+  {
+   "name": "_Google Cloud Professional Cloud Developer Google Cloud",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.066
+}

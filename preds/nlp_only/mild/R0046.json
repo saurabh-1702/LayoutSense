@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0046",
+ "contact": {
+  "email": "alejandro.castillo93@hotmail.com",
+  "phone": "858.676.9688",
+  "location": "San Diego, CA, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alejandro-castillo"
+  },
+  {
+   "url": "alejandrocastillo.substack.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Content Marketing Associate Instituto Tecnologico Autonomo de Mexico",
+   "dates": "June 2024 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Content Marketing Associate Instituto Tecnologico Autonomo de Mexico",
+   "company": "Bachelor of Business Administration",
+   "dates": "June 2024 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Content Marketing Associate Instituto Tecnologico Autonomo de Mexico",
+   "company": "Microsoft",
+   "dates": "2020 - 2024",
+   "bullets": [
+    "Launched 15 new product variants nationally, capturing 8%"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.083
+}

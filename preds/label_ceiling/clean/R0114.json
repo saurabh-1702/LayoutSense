@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0114",
+ "name": "Moritz Wagner",
+ "headline": "Business Development Manager",
+ "contact": {
+  "email": "moritzwagner@outlook.de",
+  "phone": "+49 (0)177 72391053",
+  "location": "‘Munich, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/moritz-wagner-23"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master in Management",
+   "institution": "University of Mannheim",
+   "dates": "Oct 2024",
+   "grade": "Note: 2.1"
+  },
+  {
+   "degree": "B.Sc. Mechanical Engineering",
+   "institution": "University of Stuttgart",
+   "dates": "Sep 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Development Manager",
+   "dates": "Sep 2025 - Now",
+   "company": "Pfizer",
+   "location": "Munich",
+   "bullets": [
+    "Built a pipeline of €551K by prospecting 150+ enterprise accounts using LinkedIn Sales Navigator",
+    "Managed 17 key accounts generating €843K in annual revenue with 36% net revenue retention",
+    "Ranked #1 out of 21 account executives in the region for FY",
+    "Onboarded and trained 6 new sales representatives on product and CRM workflows",
+    "Achieved 4% of annual quota for 21 consecutive years, closing €71M in new ARR"
+   ]
+  },
+  {
+   "title": "Sales Development Representative",
+   "dates": "Oct 2020 - Aug 2025",
+   "company": "SAP",
+   "location": "Munich",
+   "bullets": [
+    "Shortened the average sales cycle by 14 days by introducing a structured discovery framework",
+    "Maintained 43% forecast accuracy in weekly pipeline reviews in Apollo.io",
+    "Expanded distribution to 50 new retail outlets across 10 districts",
+    "Launched a channel partner programme that contributed 19% of total bookings"
+   ]
+  }
+ ],
+ "skills": [
+  "Contract Closing",
+  "Channel Sales",
+  "MEDDIC",
+  "Pipeline Management",
+  "HubSpot CRM",
+  "Salesforce CRM",
+  "Gong",
+  "Zoho CRM",
+  "LinkedIn Sales Navigator",
+  "Apollo.io",
+  "Time Management",
+  "Communication"
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "University of Stuttgart",
+   "year": "(2022)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Fluent"
+  }
+ ]
+}

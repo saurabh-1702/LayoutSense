@@ -1,0 +1,52 @@
+it it \ +971 502849969 ™ sakshirastogi23@gmail.com
+Sa kshi Rastogi
+9 Abu Dhabi, United Arab Emirates @ linkedin.com/in/sakshi-rastogi
+Machine Learning Engineer © github.com/sakshi78
+3+ Years of Experience 3 Certifications 3 Languages
+Professional Experience Academic Background
+Oct 2025 - © Machine Learning Engineer Bachelor of Science in Mathematics
+Present Emirates NBD | Abu Dhabi Indian Institute of Technology Bombay
+° Reduced Spark job runtime by 60% through partitioning Sep 2020 — Aug 2023 - First Class with
+and broadcast join optimisation Distinction
+° Productionised ML models with Docker and MLflow, Class XII (CBSE)
+cutting model deployment time from weeks to 8 days Ryan International School, New Delhi
+° Authored SQL data quality checks across 120 tables, 2020 - 81.7%
+reducing reporting incidents by 37%
+L anguage Profici Frotcrency
+Oct 2023- Sep @) Data Analyst
+2025 Emirates NBD | Abu Dhabi Hindi
+eocce
+° Ran 23 A/B experiments on pricing and onboarding flows, Native
+lifting conversion by 6% English
+ecce
+° Partnered with finance to build an anomaly detection B2
+system that flagged AED 11.7M in billing errors Urdu
+° Developed a demand forecasting model that reduced e008
+C2
+inventory holding costs by 44%
+° Defined the company-wide metric layer in dbt, eliminating Courses & Certifications
+12 conflicting KPI definitions
+TensorFlow Developer Certificate
+. Google, 2025
+Projects
+Microsoft Certified: Power BI Data
+Resume Screening with NLP Analyst Associate
+Named-entity extraction and job-description matching pipeline built with spaCy Microsoft, May 2024
+and BERT. Google Data Analytics Professional
+Tools: Databricks, Excel, Snowflake, NumPy Certificate
+Google, Dec 2025
+Skills & Tools
+© 93% © 73%
+Tableau Excel
+Y 62% © 96%
+Looker Databricks
+@ 76% © 92%
+NumPy Apache Spark
+54% Y Y 61%
+Airflow Pandas
+95% 75%
+©
+n =} fe) oy 2 oO Decision Making
+91%
+Cross-functional
+Collaboration

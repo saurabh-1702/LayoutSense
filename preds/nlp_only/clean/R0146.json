@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0146",
+ "name": "Joshua Anderson",
+ "contact": {
+  "email": "janderson@icloud.com",
+  "phone": "(248) 565-0640",
+  "location": "Detroit, MI, USA EMPLOYMENT HISTORY"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/joshua-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.B.A.",
+   "institution": "Georgetown University",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Mechanical Engineering",
+   "institution": "Carnegie Mellon University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Tesla @ Detroit",
+  "Transportation Management",
+  "delivering 21% savings",
+  "S&OP",
+  "improving pick accuracy to",
+  "Strategic Sourcing",
+  "Lean",
+  "Sep 2022",
+  "Coupa Tesla @ Detroit",
+  "MI",
+  "containers per year",
+  "Problem Solving",
+  "Warehouse Executive Oct 2020",
+  "Aug 2021",
+  "SAP Certified Application Associate",
+  "Sourcing",
+  "SAP",
+  "Six Sigma Green Belt",
+  "finance and manufacturing",
+  "ASQ"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Korean",
+   "proficiency": null
+  },
+  {
+   "language": "Vietnamese",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.024
+}

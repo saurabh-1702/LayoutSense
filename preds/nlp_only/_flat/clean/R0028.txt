@@ -1,0 +1,70 @@
+oO EMPLOYMENT HISTORY
+O
+Machine Learning Engineer
+Williams Deliveroo - Remote — United Kingdom
+George
+> Fine-tuned transformer models for ticket classification,
+Machine Learning Engineer
+automating 13% of manual triage
+> Designed and maintained 6 Airflow pipelines ingesting 247K+
+PERSONAL DETAILS
+records daily into Snowflake
+07269 040818 > Built a churn prediction model in R (AUC 0.150) that helped
+george.williams03@outlook.com retention teams save £13.9M in annual revenue
+United > Productionised ML models with Docker and MLflow, cutting
+Bristol, Kingdom
+model deployment time from weeks to 29 days
+linkedin.com/in/georgewilliams5
+www.georgewilliams.com O Jun 2022 — Sep 2025
+Associate Data Scientist
+-e- CORE COMPETENCIES
+Barclays - Bristol
+SAS eee > Built a customer segmentation framework using clustering on
+R ©0000 5.7M profiles to drive targeted campaigns
+Python e0ee0e » Authored SQL data quality checks across 180 tables, reducing
+NLP e000 reporting incidents by 39%
+Hugging Face Transformers @@@@ > Partnered with finance to build an anomaly detection system
+that flagged £56M in billing errors
+PyTorch ecoee
+» Developed a demand forecasting model that reduced
+TensorFlow Cx XY )
+inventory holding costs by 32%
+@® LANGUAGE PROFICIENCY > Reduced Spark job runtime by 33% through partitioning and
+broadcast join optimisation
+English
+Native Jul 2021 — May 2022
+German Data Analyst
+Fluent GSK - London
+> Ran 19 A/B experiments on pricing and onboarding flows,
+lifting conversion by 9%
+» Created executive dashboards in SAS tracking 18 KPIs,
+adopted by 75+ business users
+> Deployed a retrieval-augmented chatbot over internal
+documentation, answering 886K employee queries per month
+> Defined the company-wide metric layer in dbt, eliminating 5
+conflicting KPI definitions
+EDUCATION & QUALIFICATIONS
+om)
+BA Economics
+Central Saint Martins, University of the Arts London
+Distinction
+@® KEY PROJECTS
+Customer Lifetime Value Prediction Apr 2023
+Probabilistic BG/NBD model to rank customers by expected value
+for marketing spend.
+Tools used: R, Hugging Face Transformers
+Retail Sales Dashboard
+End-to-end Power BI dashboard on 761K transactions with drill-
+downs by region and category.
+Tools used: TensorFlow, PyTorch, Python
+Air Quality Forecasting Jul 2021
+LSTM model forecasting PM2.5 levels across 9 monitoring stations
+with a Streamlit dashboard.
+Tools used: R, PyTorch, Hugging Face Transformers
+oO COURSES & CERTIFICATIONS
+Deep Learning Specialization
+DeepLearning.Al - 2020
+SnowPro Core Certification
+Snowflake - 2020
+AWS Certified Machine Learning — Specialty
+Amazon Web Services - Aug 2022

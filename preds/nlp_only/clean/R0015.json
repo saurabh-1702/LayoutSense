@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0015",
+ "name": "Pooja Negi",
+ "links": [
+  {
+   "url": "linkedin.com/in/poojanegi-19"
+  },
+  {
+   "url": "dribbble.com/poojanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Design (Visual National Institute of Design",
+   "institution": "Qualification Institution Year",
+   "dates": "2022"
+  },
+  {
+   "degree": "Bachelor of Design (Graphic",
+   "institution": "Bachelor of Design (",
+   "dates": "2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Flipkart Brand Designer",
+   "company": null,
+   "dates": "Dec 2025 | Now",
+   "bullets": []
+  },
+  {
+   "title": "Publicis Groupe UX Researcher",
+   "company": "ct",
+   "dates": "2025 | Nov 2025",
+   "bullets": [
+    "Redesigned the onboarding flow in Maze, increasing activation by 46% across 8.3M new users"
+   ]
+  },
+  {
+   "title": "CRED UI/UX Designer",
+   "company": null,
+   "dates": "Oct 2022 | Sep 2025",
+   "bullets": [
+    "Partnered with engineering to ship 15 features per quarter with pixel-perfect handoff in Adobe XD",
+    "Conducted 5 rounds of usability testing with 300 participants to validate checkout improvements",
+    "Reduced support tickets by 18% by simplifying the account settings experience",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store"
+   ]
+  }
+ ],
+ "skills": [
+  "‘Design Branding",
+  "Accessibility (WCAG)",
+  "Design Systems",
+  "Interaction Design",
+  "Framer * Maze",
+  "Adobe XD",
+  "Adobe After Effects * Sketch"
+ ],
+ "projects": [
+  {
+   "name": "Project Description Technologies"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  }
+ ],
+ "_runtime_s": 0.067
+}

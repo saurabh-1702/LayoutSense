@@ -1,0 +1,46 @@
+{
+ "resume_id": "R0284",
+ "name": "Jia Hui Koh!",
+ "experience": [
+  {
+   "dates": "Oct 2024 - Sep 2026",
+   "title": "Data Analyst",
+   "company": "Sea Limited",
+   "location": "Singapore",
+   "bullets": [
+    "Designed and maintained 6 Airflow pipelines ingesting 9SK+ records daily into Snowflake",
+    "Partnered with finance to build an anomaly detection system that flagged $$43M in billing errors",
+    "Ran 9 A/B experiments on pricing and onboarding flows, lifting conversion by 25%",
+    "Productionised ML models with Docker and ML flow, cutting model deployment time from weeks to 10 days",
+    "Created executive dashboards in BigQuery tracking 8 KPis, adopted by 75+ business users"
+   ]
+  }
+ ],
+ "skills": [
+  "2 g",
+  "&",
+  "A/B Testing",
+  "XGBoost",
+  "Hugging Face Transformers",
+  "Computer Vision",
+  "Time Series Forecasting",
+  "LP",
+  "NumPy",
+  "z i",
+  "S & 2",
+  "Tableau",
+  "Matplotlib",
+  "Excel",
+  "Problem Solving",
+  "Mentoring",
+  "Attention to Detail",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning Al",
+   "year": "Apr 2023"
+  }
+ ]
+}

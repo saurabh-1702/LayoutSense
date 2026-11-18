@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0062",
+ "name": "ANJALI SUBRAMANIAN",
+ "headline": "Graduate Engineer — Power Systems",
+ "contact": {
+  "email": "anjalisubramanian@gmail.com",
+  "phone": "+91 837-574-4918",
+  "location": "Coimbatore, Tamil Nadu"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anjali-subramanian-97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Electronics and Instrumentation",
+   "institution": "Indian Institute of Technology Delhi",
+   "dates": "Sep 2020 - Jun 2024",
+   "grade": "GPA: 9.2/10"
+  },
+  {
+   "degree": "Class XII (HSC)",
+   "institution": "Bishop Cotton Boys’ School",
+   "dates": "2020",
+   "grade": "91.4%"
+  },
+  {
+   "degree": "Class X (ICSE)",
+   "institution": "Bishop Cotton Boys’ School, Hyderabad",
+   "dates": "2018",
+   "grade": "92.0%"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Mar 2026 - Present",
+   "title": "Graduate Engineer — Power Systems",
+   "company": "Tata Power",
+   "location": "Coimbatore",
+   "bullets": [
+    "Reduced energy losses by 20% through power factor correction and harmonic filtering",
+    "Developed firmware in Embedded C for a battery management system on 500+ EV packs",
+    "Led root cause analysis on transformer failures, saving 331 lakh in replacement costs",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 39%",
+    "Designed protection schemes for 21 132/33 kV substations using DIgSILENT PowerFactory"
+   ]
+  },
+  {
+   "dates": "Aug 2024 - Feb 2026",
+   "title": "Electrical Engineer",
+   "company": "NTPC Limited",
+   "location": "Chennai",
+   "bullets": [
+    "Commissioned a 6 MW solar plant including inverters, transformers and SCADA integration",
+    "Performed load flow and short-circuit studies for 5 industrial clients",
+    "Designed 18-layer PCBs in PSCAD for an industrial loT gateway",
+    "Verified RTL designs on FPGA, achieving timing closure at 400 MHz"
+   ]
+  }
+ ],
+ "skills": [
+  "Embedded C",
+  "VLSI",
+  "Power Electronics",
+  "Power Systems",
+  "HV Substations",
+  "DIgSILENT PowerFactory",
+  "Xilinx Vivado",
+  "PSCAD",
+  "MATLAB/Simulink",
+  "Altium Designer",
+  "aN",
+  "Critical Thinking",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Grid-tied Inverter Design",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "ETAP, PSCAD, MATLAB/Simulink, Xilinx Vivado"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Professional Engineer (PE) — Electrical",
+   "issuer": "NCEES",
+   "year": "2024"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "Oct 2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Kannada",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

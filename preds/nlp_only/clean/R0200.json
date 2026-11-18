@@ -1,0 +1,35 @@
+{
+ "resume_id": "R0200",
+ "name": "Pierre Durand",
+ "contact": {
+  "email": "pierre.durand@gmail.com",
+  "phone": "433638186365",
+  "location": "Paris, France"
+ },
+ "education": [
+  {
+   "degree": "Bachelor in Commerce",
+   "institution": "retention Sciences Po",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Account Executive Outreach",
+   "company": "CE 3.) TECHNICAL SKILLS",
+   "dates": "04/2022 — Present",
+   "bullets": [
+    "Achieved 11% of annual quota for 18"
+   ]
+  },
+  {
+   "title": "Business Development Representative Contract Closing",
+   "company": "across 21 districts",
+   "dates": "09/2018 — 03/2022",
+   "bullets": [
+    "Negotiated multi-year contracts worth €11.5M"
+   ]
+  }
+ ],
+ "_runtime_s": 0.041
+}

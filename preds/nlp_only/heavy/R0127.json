@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0127",
+ "name": "HU Peng",
+ "contact": {
+  "email": "pengh791@126.com",
+  "phone": "185 4019 9893"
+ },
+ "education": [
+  {
+   "degree": "B.Eng. in Civil Engineering",
+   "institution": "Fong) University",
+   "dates": "August 2022"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "Teols used: Primavera P6, Navisworks"
+  },
+  {
+   "name": "Pervious Concrete Mix Study"
+  },
+  {
+   "name": "Civil Engineering Intern"
+  },
+  {
+   "name": "WSP, Shanghai"
+  },
+  {
+   "name": "Site Engineer Trainee"
+  },
+  {
+   "name": "China State Construction Engineering, Shanghai"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CERTIFICATIONS See ee Le ei re a es",
+   "issuer": null
+  },
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.062
+}

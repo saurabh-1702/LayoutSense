@@ -1,0 +1,122 @@
+{
+ "resume_id": "R0068",
+ "name": "Goncalo Ribeiro",
+ "headline": "Staff Machine Learning Engineer",
+ "contact": {
+  "email": "goncaloribeiro@sapo.pt",
+  "phone": "+351 965755011",
+  "location": "Aveiro, Portugal"
+ },
+ "education": [
+  {
+   "degree": "Master of Science in Statistics",
+   "institution": "University of Lisbon",
+   "dates": "Sep 2012 - Jul 2014",
+   "grade": "18/20"
+  },
+  {
+   "degree": "B.Sc. Information Technology",
+   "institution": "Instituto Superior Técnico",
+   "dates": "Aug 2008 - Jul 2012"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun 2025 - Jun 2026",
+   "title": "Staff Machine Learning Engineer",
+   "company": "Feedzai",
+   "location": "Lisbon",
+   "bullets": [
+    "Grew the team by 28% in two years while keeping attrition below 24%",
+    "Introduced weekly operating reviews that cut decision turnaround from 8 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €1.6M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a team of 12 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "Jul 2017 - May 2025",
+   "title": "Machine Learning Engineer",
+   "company": "EDP",
+   "location": "Coimbra",
+   "bullets": [
+    "Partnered with finance to build an anomaly detection system that flagged €168K in billing errors",
+    "Fine-tuned transformer models for ticket classification, automating 30% of manual triage",
+    "Defined the company-wide metric layer in dbt, eliminating 16 conflicting KPI definitions",
+    "Developed a demand forecasting model that reduced inventory holding costs by 25%",
+    "Authored SQL data quality checks across 150 tables, reducing reporting incidents by 12%",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 9.2M employee queries per month",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 20 days",
+    "Built a churn prediction model in Python (AUC 0.120) that helped retention teams save €12.8M in annual revenue"
+   ]
+  },
+  {
+   "dates": "Aug 2014 - Jun 2017",
+   "title": "Associate Data Scientist",
+   "company": "EDP",
+   "location": "Coimbra (Hybrid)",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 217K+ profiles to drive targeted campaigns",
+    "Ran 7 A/B experiments on pricing and onboarding flows, lifting conversion by 15%",
+    "Reduced Spark job runtime by 24% through partitioning and broadcast join optimisation",
+    "Created executive dashboards in Scala tracking 19 KPIs, adopted by 120+ business users",
+    "Designed and maintained 4 Airflow pipelines ingesting 59,000 records daily into Snowflake"
+   ]
+  }
+ ],
+ "skills": [
+  "Computer Vision",
+  "Time Series Forecasting",
+  "LangChain",
+  "Airflow",
+  "Scala",
+  "XR)",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "dates": "May 2020",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+   "tech": "Python, LangChain, Databricks, R"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft",
+   "year": "2017"
+  },
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Google",
+   "year": "2020"
+  },
+  {
+   "name": "Databricks Certified Data Engineer Associate",
+   "issuer": "Databricks",
+   "year": "2015"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Winner, Inter-college Datathon",
+   "year": "(2015)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "c2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C2"
+  }
+ ]
+}

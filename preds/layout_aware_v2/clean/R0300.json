@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0300",
+ "name": "Amanda Anderson",
+ "headline": "Aspiring Accounts Payable Specialist",
+ "contact": {
+  "email": "amanda.anderson89@icloud.com",
+  "phone": "+1 (512) 215-7218",
+  "location": "Austin, TX"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/amanda-anderson8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MLS. in Taxation",
+   "institution": "Massachusetts Institute of Technology",
+   "dates": "2025 – 2027 (Expected)",
+   "grade": "GPA 3.65"
+  },
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": "Georgetown University",
+   "dates": "2021 – 2025",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025-11 – 2026-04",
+   "title": "Article Assistant",
+   "company": "HSBC",
+   "location": "New York, NY",
+   "bullets": [
+    "Built a tracker in Tally ERP 9 that streamlined weekly",
+    "reporting for a team of 9",
+    "Presented final internship findings to department leadership"
+   ]
+  }
+ ],
+ "skills": [
+  "Reconciliations",
+  "Direct Taxation",
+  "74%",
+  "54%",
+  "( Transfer Pricing)",
+  "Excel (Advanced)",
+  "61%",
+  "59%",
+  "Tally ERP 9",
+  "Case Ware ©",
+  "75%",
+  "SAP FICO"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool",
+   "dates": "2026-04",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax"
+  },
+  {
+   "description": "practice.",
+   "name": "Internal Controls Review"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "2026-12"
+  },
+  {
+   "name": "ACA",
+   "issuer": "ICAEW",
+   "year": "2026-06"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "©0000 Native"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "ee Basic"
+  }
+ ]
+}

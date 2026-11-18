@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0091",
+ "name": "Location Sylhet",
+ "contact": {
+  "email": "jannatul.a@gmail.com",
+  "phone": "01596-87960",
+  "location": "Sylhet, Bangladesh"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jannatul-akter"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "North South University",
+   "dates": "May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Project Engineer",
+   "company": "Electrical",
+   "dates": "September 2025 - Present",
+   "bullets": [
+    "Designed protection schemes for 3 132/33 kV substations using DIgSILENT PowerFactory"
+   ]
+  },
+  {
+   "title": "Field Engineer",
+   "company": "Samsung",
+   "dates": "April 2024 - August 2025",
+   "bullets": []
+  },
+  {
+   "title": "Graduate Engineer",
+   "company": "Power Systems",
+   "dates": "June 2022 - March 2024",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Tools DIgSILENT PowerFactory * ETAP"
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.04
+}

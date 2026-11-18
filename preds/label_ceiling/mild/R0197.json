@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0197",
+ "name": "e WU Mei",
+ "contact": {
+  "email": "meiwu63@gmail.com",
+  "phone": "+86 138 9077 3476",
+  "location": "Guangzhou, China"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Commerce",
+   "dates": "Jul, 202 1—Mar, 2025",
+   "institution": "China Europe International Business School",
+   "location": "Shanghai, China"
+  }
+ ],
+ "experience": [
+  {
+   "title": "People Operations Associate",
+   "company": "Huawei Technologies",
+   "location": "Guangzhou",
+   "dates": "Jun, 2025—Present",
+   "bullets": [
+    "Handled 6 employee relations cases including investigations and disciplinary hearings",
+    "Ran campus hiring at 16 universities, onboarding 120 graduate trainees",
+    "Reduced voluntary attrition by 47% through stay interviews and targeted retention plans",
+    "Designed a performance management framework adopted company-wide"
+   ]
+  }
+ ],
+ "skills": [
+  "DE] Initiatives",
+  "Performance Management",
+  "Employee Relations",
+  "Employer Branding",
+  "Oracle HCM",
+  "Darwinbox",
+  "Excel"
+ ],
+ "certifications": [
+  {
+   "name": "Professional in Human Resources (PHR)",
+   "issuer": "HRCI",
+   "year": "(2025)"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  }
+ ]
+}

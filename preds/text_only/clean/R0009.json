@@ -1,0 +1,122 @@
+{
+ "resume_id": "R0009",
+ "name": "MICHAEL L. JOHNSON",
+ "contact": {
+  "email": "michaelj638@gmail.com",
+  "phone": "(480) 443-7967",
+  "location": "Phoenix, AZ"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/michael-johnson1"
+  },
+  {
+   "url": "github.com/michael59"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Carnegie Mellon University",
+   "location": "Pittsburgh, PA",
+   "degree": "B.A. in Economics",
+   "dates": "Expected"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "05/2027",
+   "company": "Roche",
+   "location": "San Francisco",
+   "title": "Data Science Intern"
+  },
+  {
+   "dates": "07/2025 - 10/2025",
+   "bullets": [
+    "Developed a demand forecasting model that reduced inventory holding costs by 51%",
+    "Drafted standard operating procedures for 7 recurring tasks",
+    "Assisted with day-to-day data science & analytics operations and maintained accurate records"
+   ],
+   "company": "IBM",
+   "location": "New York",
+   "title": "Data Analyst Intern"
+  }
+ ],
+ "skills": [
+  "Airflow",
+  "Apache Spark",
+  "dbt",
+  "LangChain",
+  "A/B Testing",
+  "PyTorch",
+  "Time Series Forecasting",
+  "Looker",
+  "Tableau",
+  "Matplotlib",
+  "Excel",
+  "Scala",
+  "R",
+  "SAS",
+  "Python",
+  "SQL",
+  "Negotiation",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-tuned DistiIBERT classifier achieving 94% F1 on a public misinformation dataset.",
+   "tech": "Time Series Forecasting, Scala, R"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "End-to-end Power BI dashboard on 88,000 transactions with drill-downs by region and category.",
+   "tech": "SQL, Matplotlib, Time Series Forecasting, Airflow"
+  },
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "dates": "02/2026",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+   "tech": "Excel, Apache Spark, Time Series Forecasting, Python"
+  },
+  {
+   "name": "Resume Screening with NLP",
+   "description": "Named-entity extraction and job-description matching pipeline built with spaCy and BERT.",
+   "tech": "Excel, Tableau, LangChain"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Databricks Certified Data Engineer Associate",
+   "issuer": "Databricks",
+   "year": "(2026)"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "(2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Carnegie Mellon University",
+   "year": "(2026)"
+  },
+  {
+   "name": "Kaggle Expert",
+   "year": "(2026)"
+  },
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "IBM",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  }
+ ],
+ "_runtime_s": 0.398
+}

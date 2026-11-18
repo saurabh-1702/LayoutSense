@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0270",
+ "name": "GEORGE PATEL",
+ "contact": {
+  "email": "george.p@gmail.com",
+  "phone": "+44 704 998 6867",
+  "location": "Belfast, UK"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/george-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Business",
+   "institution": "« Partnered with senior leadership to define the annual roadmap and University of Surrey",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate Partner Solving",
+   "company": "PwC",
+   "dates": "Jan. 2020 to Current",
+   "bullets": [
+    "Market Sizing",
+    "Strategy Development",
+    "Stakeholder Management",
+    "Delivered 11 strategy engagements for clients in banking, retail and",
+    "Financial Analysis",
+    "Designed a target operating model for a 172K+-employee",
+    "PowerPoint",
+    "Built a market entry business case for a £1.4M investment in",
+    "Python",
+    "Drove a digital transformation roadmap that increased online sales * Problem Solving",
+    "Conducted commercial due diligence on 5 private equity targets * Public Speaking",
+    "Built Alteryx models to size a £290M addressable market across 13"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.04
+}

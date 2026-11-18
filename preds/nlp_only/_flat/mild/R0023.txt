@@ -1,0 +1,50 @@
+David Gonzalez Lopez
+Aspiring Logistics Coordinator
+| Phone | 621. 434 362 | Email | gonzalez.david@gmail.com
+| Address | Valencia, Spain LinkedIn | linkedin.com/in/davidgonzalez-bod5e3
+EDUCATIONAL QUALIFICATIONS
+Qualification Institution | Year GPA / Honours
+| MBA Universitat Pompeu Fabra | 2027 (Expected) -
+Bachelor of Business IE University 2025 Nota media: 8.8
+| Administration |
+|
+INTERNSHIPS
+Organisation Designation
+|
+1 Mercadona | Supply Chain Intern Feb 2026 , May 2026
+Valencia | | |
+Responsibilities & Achievements:
++ Built a tracker in SAP APO that streamlined weekly reporting for a team of 8
+« Assisted with day-to-day supply chain & operations operations and maintained accurate records
+2 Uber Procurement Intern | Oct 2024 | Mar 2025
+Barcelona | |
+:
+Responsibilities & Achievements:
+¢ Built a tracker in Kinaxis RapidResponse that streamlined weekly reporting for a team of 4
+« Prepared research summaries and presentation decks for 8 stakeholder meetings
+NOTABLE PROJECTS
+S.No. Project Title Description
+Vehicle Routing Model | Python OR-Tools model for routing 15 delivery vans with time windows.
+T
+2 Warehouse Layout | Slotting analysis that reduced picker travel distance by 30% in a live DC.
+Optimisation |
+KEY SKILLS
+Proficiency Proficiency
+| Contract Negotiation | Expert | Vendor Management Expert
+|
+| Demand Planning | Advanced | SAP APO | Expert
+| Kinaxis RapidResponse | Intermediate | SAP MM | Advanced
+| wl
+| Oracle SCM | Elementary |
+COURSES & CERTIFICATIONS
+S.No. Certification Issuing Organisation Year
+Sep 2026
+LANGUAGES KNOWN
+Language Read Write | Speak Proficiency
+| Spanish | v | Y J | Native
+|
+| English | ee a pate 7 ~_.\ Fiaent
+|
+| French | W/ N/ J | Fluent
+; Se *
+| Catalan ¥" J V | Professional Working Proficiency,

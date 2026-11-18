@@ -1,0 +1,69 @@
+{
+ "resume_id": "R0125",
+ "name": "Niloufar Hosseini a",
+ "headline": "Junior Data Scientist",
+ "contact": {
+  "email": "niloufar.hosseini@gmail.com",
+  "phone": "+98 937 920 6045",
+  "location": "Shiraz, Iran"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niloufarhosseini-15rl"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Information Technology",
+   "institution": "Sharif University of Technology",
+   "dates": "2019 — 2023",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug 2023 — Present",
+   "title": "Junior Data Scientist",
+   "company": "Snapp",
+   "location": "Mashhad",
+   "bullets": [
+    "Ran 5 A/B experiments on pricing and onboarding flows, lifting conversion by 17%",
+    "Partnered with finance to build an anomaly detection system that flagged IRR 28.6B in billing errors",
+    "Built a churn prediction model in PyTorch (AUC 0.400) that helped retention teams save IRR 85.2B in annual revenue",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 10 days"
+   ]
+  }
+ ],
+ "skills": [
+  "R",
+  "Python",
+  "SAS",
+  "SQL",
+  "NLP",
+  "A/B Testing",
+  "PyTorch",
+  "TensorFlow",
+  "Decision Making",
+  "Cross-functional Collaboration",
+  "Stakeholder Management",
+  "Time Management"
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  },
+  {
+   "language": "Azerbaijani",
+   "proficiency": "(Conversational)"
+  },
+  {
+   "language": "Azerbaijani",
+   "proficiency": "(Beginner)"
+  }
+ ]
+}

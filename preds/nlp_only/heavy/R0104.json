@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0104",
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Wroclaw University of Science and",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Ukrainian",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.029
+}

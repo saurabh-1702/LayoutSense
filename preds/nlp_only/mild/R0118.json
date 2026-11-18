@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0118",
+ "contact": {
+  "email": "palesasmith@outlook.com",
+  "phone": "+44 7525 24974",
+  "location": "Edinburgh, UK"
+ },
+ "links": [
+  {
+   "url": "behance.net/palesasmith"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA Human-Computer Interaction",
+   "institution": "University of Cape Town",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "attrition below 18% University of Johannesburg",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Principal Designer",
+   "company": "MA Human-Computer Interaction",
+   "dates": "January 2023 — June 2026",
+   "bullets": [
+    "Grew the team by 59% in two years while keeping BA (Hons) Industrial Design"
+   ]
+  },
+  {
+   "title": "Art Director",
+   "company": "2:1",
+   "dates": "July 2018 — December 2022",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Adobe",
+  "Johannesburg",
+  "South Africa",
+  "Design Systems",
+  "Usability",
+  "Accessibility (WCAG)",
+  "owning Tools: Miro",
+  "Blender",
+  "Adobe Photoshop",
+  "hiring",
+  "Adobe XD",
+  "Mentored 7 junior colleagues",
+  "several of whom",
+  "Accessible Transit App Concept",
+  "impaired commuters",
+  "won a student design",
+  "October 2014",
+  "June 2018 award.",
+  "Senior Graphic Designer",
+  "Museum Wayfinding Redesign",
+  "Woolworths Holdings",
+  "Created brand identity",
+  "packaging and campaign",
+  "visitors over 6 months.",
+  "assets for 17 product launches",
+  "Miro",
+  "users",
+  "NN/g UX Certification",
+  "January 2017",
+  "96% across core journeys Design",
+  "August 2012",
+  "September 2014",
+  "South Africa Human Factors International",
+  "UX",
+  "app"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Sesotho",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.044
+}

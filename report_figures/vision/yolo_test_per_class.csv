@@ -1,0 +1,13 @@
+cls,test_instances,precision,recall,AP50,AP50_95
+column,501,0.9001,0.7372,0.8934,0.7854
+table,420,0.9126,0.9833,0.9867,0.8227
+section_skills,330,0.8568,0.2667,0.5424,0.4788
+section_experience,312,0.9554,0.9615,0.9858,0.9326
+section_languages,312,0.8225,0.6832,0.8235,0.7649
+header,300,0.9492,0.9351,0.9815,0.7661
+section_education,300,0.737,0.8933,0.8487,0.8024
+section_certifications,255,0.7263,0.7569,0.8206,0.7709
+section_projects,237,0.7882,0.6624,0.7962,0.7393
+section_awards,171,0.5119,0.7018,0.5457,0.4824
+sidebar,114,0.5074,0.6842,0.548,0.348
+section_other,87,0.0,0.0,0.0,0.0

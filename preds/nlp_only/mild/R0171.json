@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0171",
+ "name": "Da Nang",
+ "contact": {
+  "email": "Itran@yahoo.com",
+  "phone": "090-356-5142",
+  "location": "Da Nang, Vietnam"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/linhtran"
+  },
+  {
+   "url": "www.linhtran.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Medicine (M.D.) Hanoi Medical University",
+   "institution": "Qualification Institution Tenure",
+   "dates": "Aug 2000—Aug 2005"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Bach Mai Hospital Consultant Da Nang",
+   "company": null,
+   "dates": "Jun 2011—Oct 2011",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of VND 704M",
+    "Introduced weekly operating reviews that cut decision turnaround from 29 days to 1 day",
+    "Leda team of 7 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 13% in two years while keeping attrition below 22%"
+   ]
+  },
+  {
+   "title": "Consultant Physician Da Nang",
+   "company": "FV Hospital",
+   "dates": "Oct 2010—Dec 2010",
+   "bullets": [
+    "Co-authored 11 peer-reviewed publications in indexed journals",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 48%",
+    "Managed an average of 20 inpatients daily across general medicine and high-dependency units",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Officer Da Nang",
+   "company": "Vinmec International Hospital Medical",
+   "dates": "Oct 2005—Sep 2010",
+   "bullets": [
+    "Led aclinical audit on sepsis bundle compliance that improved adherence by 45%",
+    "Presented case reports at 24 national conferences"
+   ]
+  }
+ ],
+ "skills": [
+  "Cerner",
+  "Epic EHR",
+  "ICD-10 Coding",
+  "Critical Care",
+  "Public Speaking * Team Leadership"
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": null
+  },
+  {
+   "name": "ATLS Provider American College of Surgeons",
+   "issuer": null
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK NBME",
+   "issuer": null
+  },
+  {
+   "name": "ACLS Provider American Heart Association",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.058
+}

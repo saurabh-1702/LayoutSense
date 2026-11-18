@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0059",
+ "name": "Priya Naidu",
+ "headline": "Nursing Graduate",
+ "contact": {
+  "email": "priya.naidu@yahoo.co.in",
+  "phone": "93491 76516",
+  "location": "Hyderabad, Telangana"
+ },
+ "education": [
+  {
+   "degree": "Post Basic B.Sc. Nursing",
+   "institution": "Jamia Hamdard",
+   "dates": "2027 (Expected)"
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "Delhi Public School",
+   "dates": "2023",
+   "grade": "95.5%"
+  },
+  {
+   "degree": "Class X (ICSE)",
+   "institution": "Delhi Public School",
+   "dates": "2021",
+   "grade": "92.0%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Student Nurse",
+   "location": "Hyderabad",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 6 stakeholder meetings",
+    "Collected and cleaned data from 5 sources to support a nursing initiative",
+    "Assisted with day-to-day nursing operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Patient Assessment",
+  "Expert",
+  "Phlebotomy",
+  "Triage",
+  "Wound Care",
+  "NABH Standards",
+  "Cerner",
+  "Patient Charting",
+  "Intermediate",
+  "JCI Standards",
+  "EHR",
+  "Epic"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over"
+  },
+  {
+   "description": "10 months.",
+   "name": "Community Health Camp"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association"
+  },
+  {
+   "name": "Critical Care Registered Nurse (CCRN)",
+   "issuer": "AACN",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "AIIMS New Delhi"
+  },
+  {
+   "name": "Best Nurse of the Year",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Proficient",
+   "language": "English"
+  }
+ ]
+}

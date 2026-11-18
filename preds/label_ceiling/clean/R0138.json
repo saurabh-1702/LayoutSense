@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0138",
+ "name": "Sachini Jayasinghe",
+ "headline": "Logistics Coordinator",
+ "contact": {
+  "email": "sachinij842@yahoo.com",
+  "phone": "0471 342 995",
+  "location": "Melbourne, VIC, Australia"
+ },
+ "education": [
+  {
+   "degree": "BSc (Hons) Industrial Engineering",
+   "institution": "University of Moratuwa",
+   "dates": "Apr, 2023"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Hayleys",
+   "location": "Kandy, Sri Lanka",
+   "title": "Logistics Coordinator",
+   "dates": "Jun, 2023 — Present",
+   "bullets": [
+    "Managed procurement spend of A$12.7M across 60 suppliers, delivering 8% savings",
+    "Managed import logistics and customs clearance for 300+ containers per year",
+    "Implemented a warehouse management system in 7 sites, improving pick accuracy to 99.8%",
+    "Built a supplier scorecard covering quality, cost and delivery for 300 vendors"
+   ]
+  }
+ ],
+ "skills": [
+  "Demand Planning",
+  "Lean",
+  "S&OP",
+  "Ariba",
+  "Kinaxis RapidResponse",
+  "SAP APO"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 11 delivery vans with time windows."
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Hayleys",
+   "year": "(2023)"
+  },
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Hayleys",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

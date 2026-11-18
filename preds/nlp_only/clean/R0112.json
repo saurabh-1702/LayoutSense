@@ -1,0 +1,46 @@
+{
+ "resume_id": "R0112",
+ "contact": {
+  "email": "acoleman@hotmail.com",
+  "phone": "669-918-1862 2024",
+  "location": "San Jose, CA Deloitte"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ashley-"
+  },
+  {
+   "url": "www.ashleycoleman.com"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant",
+   "issuer": "CMC)"
+  },
+  {
+   "name": "Institute of Management Consultants",
+   "issuer": ""
+  },
+  {
+   "name": "Prosci Change Management Certification",
+   "issuer": "Prosci"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.053
+}

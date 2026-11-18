@@ -1,0 +1,144 @@
+{
+ "resume_id": "R0110",
+ "name": "Anjali Natarajan",
+ "headline": "Head of R&D",
+ "contact": {
+  "email": "anjali1994@gmail.com",
+  "phone": "+49 162-82344573",
+  "location": "Hamburg, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/anjali-natarajan-89bba5"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PGDM in Pharmaceutical Management",
+   "institution": "Indian Institute of Management Bangalore",
+   "dates": "Jul 2013"
+  },
+  {
+   "degree": "Bachelor of Science in Chemistry"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Bayer",
+   "location": "Hamburg",
+   "title": "Head of R&D",
+   "dates": "Apr 2025 - Jun 2026",
+   "bullets": [
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 8%",
+    "Trained 13 analysts on data integrity and ALCOA+ principles",
+    "Performed HPLC and dissolution analysis on 300+ batches per quarter with zero OOS invalidations",
+    "Exceeded territory sales targets by 15% across 250 prescribing doctors",
+    "Supported 8 successful USFDA and MHRA inspections with no critical observations",
+    "Led CAPA investigations that reduced batch deviations by 18%",
+    "Prepared and submitted 17 ANDA/eCTD dossiers to USFDA and EMA",
+    "Processed 483K+ adverse event reports in Argus Safety within regulatory timelines",
+    "Monitored 24 clinical trial sites across Phase II and III oncology studies"
+   ]
+  },
+  {
+   "company": "Lupin",
+   "location": "Mysuru, India",
+   "title": "Clinical Operations Manager",
+   "dates": "May 2020 - Mar 2025",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "Lupin",
+   "location": "Mysuru, India",
+   "title": "Head of Quality Assurance",
+   "dates": "May 2018 - Apr 2020",
+   "bullets": [
+    "Supported 5 successful USFDA and MHRA inspections with no critical observations",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of EUR 9.7M",
+    "Leda team of 13 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "company": "Dr. Reddy's Laboratories",
+   "location": "Chennai",
+   "title": "Senior Pharmacovigilance Physician",
+   "dates": "Dec 2013 - Apr 2018",
+   "bullets": [
+    "Exceeded territory sales targets by 52% across 75 prescribing doctors",
+    "Led CAPA investigations that reduced batch deviations by 45%",
+    "Prepared and submitted 12 ANDA/eCTD dossiers to USFDA and EMA",
+    "Grew the team by 26% in two years while keeping attrition below 17%"
+   ]
+  },
+  {
+   "company": "Dr. Reddy's Laboratories",
+   "location": "Chennai, India",
+   "title": "Medical Representative",
+   "dates": "Aug 2008 - Nov 2013",
+   "bullets": [
+    "Trained 6 analysts on data integrity and ALCOA+ principles",
+    "Processed 177K+ adverse event reports in Argus Safety within regulatory timelines",
+    "Validated 6 analytical methods per ICH Q2(R1) guidelines",
+    "Monitored 7 clinical trial sites across Phase II and III oncology studies",
+    "Performed HPLC and dissolution analysis on 75+ batches per quarter with zero OOS invalidations",
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 6%"
+   ]
+  }
+ ],
+ "skills": [
+  "ts fu es fo ys",
+  "7 fo a oa ae a t o 57",
+  "USFDA Audits",
+  "Stability Studies",
+  "Dissolution Testing",
+  "> Jes c n n pe] D",
+  "m FS ¥9 fo} = oO 2 aera",
+  "< & < o < o c",
+  "Cc n",
+  "Presentation Skills",
+  "Cross-functional Collaboration",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection",
+   "description": "Disproportionality analysis on spontaneous reports for 7 marketed molecules."
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets",
+   "dates": "Feb 2022",
+   "description": "Developed and evaluated orally disintegrating tablets using superdisintegrants."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Professional (CCRP)",
+   "issuer": "SoCRA",
+   "year": "2017"
+  },
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India",
+   "year": "2013"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate",
+   "year": "2026"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "Mar 2019"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English"
+  }
+ ]
+}

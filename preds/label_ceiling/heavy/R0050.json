@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0050",
+ "name": "Akshay Desai",
+ "headline": "Medical Officer",
+ "education": [
+  {
+   "degree": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+   "institution": "Seth GS Medical College"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Fortis Healthcare",
+   "title": "Medical Officer",
+   "dates": "11/2025 - Present",
+   "bullets": [
+    "Co-authored 8 peer-reviewed publications in indexed journals",
+    "Led a clinical audit on sepsis bundie compliance that improved adherence by 52%",
+    "Ran outpatient clinics seeing 24 patients per session with a focus on diabetes and hypertension"
+   ]
+  },
+  {
+   "company": "Christian Medical College Hospital",
+   "title": "Foundation Year 2 Doctor",
+   "dates": "08/2024 — 10/2025",
+   "bullets": [
+    "Presented case reports at 10 national conferences",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Supervised and taught 13 interns and medical students on ward rounds",
+    "Managed an average of 23 inpatients daily across general medicine and high-dependency units",
+    "Performed 50+ procedures including central lines, thoracentesis and lumbar punctures"
+   ]
+  }
+ ],
+ "skills": [
+  "Patient Counselling",
+  "Cross-functional Colla",
+  "Tear Leadership",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "description": "Cross-sectional study of 500 school students; presented at the state medical conference."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Resident Award",
+   "year": "(2023)"
+  }
+ ]
+}

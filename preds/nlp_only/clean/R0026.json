@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0026",
+ "name": "Apache Kafka",
+ "contact": {
+  "email": "sethi.gurpreet@yahoo.co.in",
+  "phone": "+91-9615716763"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/gurpreet-sethi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Computer Science and",
+   "institution": "B.E. (Computer Science and",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Systems Engineer",
+   "company": "Gurugram",
+   "dates": "06/2023 - Present",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "cutting deployment time from 29 hours to 15 minutes",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft Certified: Azure Designed and built 17 RESTful microservices in Java and JavaScript",
+   "issuer": null
+  },
+  {
+   "name": "Developer Associate",
+   "issuer": null
+  },
+  {
+   "name": "serving 26,000 requests per day with 99.95% uptime",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "Developed customer-facing features in Java used by 5.3M monthly active",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.046
+}

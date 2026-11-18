@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0183",
+ "name": "Thomas Michel",
+ "contact": {
+  "email": "thomas.michel@orange.fr",
+  "phone": "06 35 93 80 12"
+ },
+ "links": [
+  {
+   "url": "github.com/thomasmich"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software",
+   "institution": "Qualification Institution GPA / Honours",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Cloud & DevOps CI/CD",
+  "AWS",
+  "GitHub Actions"
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer Google Cloud",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.024
+}

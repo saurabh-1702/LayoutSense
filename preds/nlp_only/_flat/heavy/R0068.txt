@@ -1,0 +1,60 @@
+te
+|
+i Staff Machine Learning Engineer
+© EXPERIENCE LICENSES &
+Jun 2025 - Jun Staff Machine Learning Engineer CERTIFICATIONS
+2026 Feedzai, Lisbon
+Microsoft Certified: Power BI Data
+2 Grew the team by 28% in two years while Analyst Associate
+keeping attrition below 24% Microsoft - 2017
+° Introduced weekly operating reviews that cut
+decision turnaround from 8 days to 1 day TensorFlow Developer Certificate
+Partnered with senior leadership to define the Google - 2020
+annual roadmap and a budget of €1.6M
+Represented the function in executive steering Databricks Certified Data Engineer
+committees and board-level reporting Associate
+Led a team of 12 across 8 workstreams, Databricks 2015
+owning hiring, performance reviews and
+quarterly planning ACADEMIC
+rs)
+Mentored 4 junior colleagues, several of QUALIFICATIONS
+whom were promoted within 18 months
+jul 2017 - May Machine Master of Science in Statistics
+Learning Engineer
+2025 University of Lisbon
+EDP, Coimbra
+Sep 2012 - Jul 2014 - 18/20
+e Partnered with finance to build an anomaly
+detection system that flagged €168K in billing B.Sc. Information
+Technology
+errors Instituto Superior Técnico
+© Fine-tuned transformer models for ticket Aug 2008 - Jul 2012
+classification, automating 30% of manual
+triage
+@ TECHNICAL SKILLS
+Defined the company-wide metric layer in
+dbt, eliminating 16 conflicting KP! definitions
+° Developed a demand forecasting model that
+reduced inventory holding costs by 25%
+6 Authored SQL data quality checks across 150
+tables, reducing reporting incidents by 12%
+Deployed a retrieval-augmented chatbot over ED 0) 9 CID
+internal documentation, answering 9.2M
+employee queries per month
+Productionised ML models with Docker and
+Miflow, cutting model deployment time from
+weeks to 20 days
+Built a churn prediction model in Python (AUC LANGUAGE PROFICIENCY
+0.120) that helped retention tearns save
+Portuguese
+€12.8M in annual revenue
+Aug 2014 - Jun Associate Data Scientist
+2017 EDP, Coimbra (Hybrid)
+© Built a customer segmentation framework
+using clustering on 217K+ profiles to drive
+targeted campaigns
+Ran 7 A/B experiments on pricing and
+onboarding flows, lifting conversion by 15%
+& Reduced Spark job runtime by 24% through
+partitioning and broadcast join optimisation
+| ‘

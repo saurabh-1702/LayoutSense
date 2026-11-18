@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0295",
+ "name": "Yoga Pratama",
+ "headline": "Senior Portfolio Manager",
+ "contact": {
+  "email": "yoga.pratama@gmail.com",
+  "phone": "+62 853 9355 5892",
+  "location": "Jakarta, Indonesia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/yoga-pratama"
+  }
+ ],
+ "education": [
+  {
+   "dates": "June 2015",
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "Institut Teknologi Bandung",
+   "location": "Bandung"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "October 2023 - Present",
+   "title": "Senior Portfolio Manager",
+   "company": "Bank Central Asia",
+   "location": "Jakarta",
+   "bullets": [
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Managed loan portfolio of IDR 86.1B across 250 relationships with zero slippages in FY",
+    "Introduced weekly operating reviews that cut decision turnaround from 19 days to 1 day"
+   ]
+  },
+  {
+   "dates": "November 2018 - September 2023",
+   "title": "Risk Manager",
+   "company": "Bank Mandiri",
+   "location": "Surabaya",
+   "bullets": [
+    "Prepared pitch books and information memoranda for 4 sell-side mandates",
+    "Supported due diligence on 5 acquisitions, including working-capital and synergy analysis",
+    "Led the annual budgeting and rolling forecast process for a business unit with IDR 52.8B in revenue",
+    "Implemented an Anaplan-based planning model replacing 16 disconnected spreadsheets",
+    "Grew the assets under management of assigned clients by 56% year on year"
+   ]
+  },
+  {
+   "dates": "July 2015 - October 2018",
+   "title": "Equity Research Associate",
+   "company": "Mastercard",
+   "location": "Jakarta",
+   "bullets": [
+    "Built three-statement financial models and DCF valuations for 17 deals worth a combined IDR 66.8B",
+    "Identified cost savings of IDR 9.7B through vendor spend analysis and contract renegotiation",
+    "Automated monthly variance reporting in SAP S/4HANA, saving the finance team 30 hours per cycle",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management"
+   ]
+  }
+ ],
+ "skills": [
+  "FP&A",
+  "Risk Management",
+  "Treasury Management",
+  "Credit Analysis",
+  "DCF Valuation",
+  "SAP S/4HANA",
+  "VBA",
+  "Bloomberg Terminal",
+  "FactSet",
+  "Anaplan",
+  "Oracle Hyperion",
+  "Communication",
+  "Public Speaking",
+  "Stakeholder Management",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "dates": "June 2022",
+   "name": "Portfolio Optimisation Tool",
+   "description": "Mean-variance optimiser in Python with backtesting on 19 years of index data."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2024",
+   "name": "Financial Modeling & Valuation Analyst (FMVA)",
+   "issuer": "Corporate Finance Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Indonesian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Javanese",
+   "proficiency": "Beginner"
+  },
+  {
+   "language": "Javanese",
+   "proficiency": "Conversational"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0104",
+ "contact": {
+  "email": "nataliazielinski@gmail.com",
+  "phone": "+48 786 46444",
+  "location": "Wroctaw, Poland"
+ },
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Wroctaw University of Science and",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Supply Chain Six Green Belt",
+   "company": "ry 2) Certificates",
+   "dates": "Jan '24 — Jun '26",
+   "bullets": [
+    "Represented the function in executive steering",
+    "Introduced weekly operating reviews that cut Power BI",
+    "Built a supplier scorecard covering quality, cost",
+    "Mentored 3 junior colleagues, several of whom",
+    "Grew the team by 19% in two years while"
+   ]
+  },
+  {
+   "title": "Director of Operations",
+   "company": "Wroctaw University of Science and",
+   "dates": "Oct '23 — Dec '23",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "GPA: 4.3/5",
+   "dates": "Aug '10 — May '14",
+   "bullets": [
+    "Managed procurement spend of PLN 41M"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Ukrainian",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.071
+}

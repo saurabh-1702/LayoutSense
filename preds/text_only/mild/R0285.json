@@ -1,0 +1,121 @@
+{
+ "resume_id": "R0285",
+ "name": "Peng Liu",
+ "headline": "Attending Physician",
+ "contact": {
+  "email": "peng.liu@gmail.com",
+  "phone": "195 2884 4300",
+  "location": "Shenzhen, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pengliu3"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Sun Yat-sen University Guangzhou",
+   "degree": "Master of Medicine (Internal Medicine)",
+   "grade": "GPA: 3.76/4.0",
+   "dates": "2017-03"
+  },
+  {
+   "institution": "Peking Union Medical College ott",
+   "dates": "2014-05",
+   "grade": "U5",
+   "degree": "Bachelor of Medicine (MBBS)"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Attending Physician",
+   "company": "Huashan ine Hospital",
+   "location": "202"
+  },
+  {
+   "location": "Shenzhen",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to | day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of CNY 264K",
+    "Led a team of 7 across 19 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Presented case reports at 4 national conferences",
+    "Grew the team by 33% in two years while keeping attrition below 20%",
+    "Led a team of 14 across 12 workstreams, owning hiring, performance reviews and quarterly planning"
+   ],
+   "title": "Resident Physician",
+   "dates": "2017-06 ~ 2025-03",
+   "company": "Huashan Hospital"
+  }
+ ],
+ "skills": [
+  "Echocardiography",
+  "Central Line Insertion",
+  "C ritical Care",
+  "Telemedicine",
+  "Clinical Audit",
+  "Cerner",
+  "ICD-10 Coding"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score",
+   "description": "Audit review of 60 admissions validating NEWS2 thresholds. of 120 school students; presented at the state medical conference."
+  },
+  {
+   "name": "Retrospective Prevalence of Anaemia in Adolescents",
+   "description": "Cross-sectional study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Provider i",
+   "issuer": "American i Heart Association Network",
+   "year": "(2023)"
+  },
+  {
+   "name": "ACLS Clinical fis Trials",
+   "year": "(2024)"
+  },
+  {
+   "name": "Good Clinical Practice (GCP)"
+  },
+  {
+   "name": "NIDA USMLE Step 1 & 2 CK",
+   "issuer": "NBME",
+   "year": "(2017-05)"
+  },
+  {
+   "name": "PLAB 2",
+   "issuer": "General Medical Council",
+   "year": "(2025)"
+  },
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons",
+   "year": "(2016)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Workin",
+   "proficiency": "Proficiency)"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "(Limited Working)"
+  },
+  {
+   "language": "Mandarin"
+  },
+  {
+   "language": "Chinese",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional g Proficiency)"
+  }
+ ],
+ "_runtime_s": 0.481
+}

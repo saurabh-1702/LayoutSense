@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0157",
+ "name": "Ayse Kaya",
+ "headline": "Business Analyst",
+ "contact": {
+  "email": "aysekaya@gmail.com",
+  "phone": "0544 190 71 25",
+  "location": "Bursa, Turkey"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayse-kaya8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Computer Science and Engineering",
+   "dates": "09.2021 — 03.2025",
+   "institution": "istanbul Technical University"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst",
+   "company": "EY",
+   "dates": "05.2025 — Present",
+   "bullets": [
+    "Authored 15 thought-leadership articles and contributed to proposals worth TRY 16.1M",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Leda cost transformation programme identifying TRY 10.5M in annual savings for a Fortune 500 client"
+   ]
+  }
+ ],
+ "skills": [
+  "Financial Analysis",
+  "Strategy Development",
+  "Change Management",
+  "Alteryx",
+  "Think-cell",
+  "Python",
+  "Tableau",
+  "Jira",
+  "Power Bl"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "dates": "12.2023",
+   "description": "Fundraising and operating plan for an education non-profit serving 56,000 children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "(2023)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "istanbul Technical University",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C1)"
+  }
+ ]
+}

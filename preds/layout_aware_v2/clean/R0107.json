@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0107",
+ "name": "Facundo Pérez",
+ "contact": {
+  "email": "facundo.perez@gmail.com",
+  "phone": "+5493513220372",
+  "location": "Mendoza, Argentina"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/facundo-perez"
+  },
+  {
+   "url": "www.facundoperez.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.F.A. in Interaction Design",
+   "institution": "Universidad Nacional de Cérdoba",
+   "dates": "216"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Globant"
+  },
+  {
+   "title": "UX Researcher",
+   "dates": "Jan 2020 – Present",
+   "location": "Rosario",
+   "bullets": [
+    "Led ateam of 11 across 5 workstreams, owning hiring, performance reviews and quarterly planning Represented the function in executive steering committees and board-level reporting Partnered with senior leadership to define the annual roadmap and a budget of ARS 20.0M",
+    "Grew the team by 44% in two years while keeping attrition below 11%",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 29 days to 1 day",
+    "Reduced support tickets by 58% by simplifying the account settings experience Built and maintained a design system of 400+ components used by 12 product squads Redesigned the onboarding flow in Adobe XD, increasing activation by 25% across 16,000 new users",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Produced motion graphics and explainer videos with Sketch reaching 7.7M views",
+    "Improved WCAG 2.1 AA compliance from 6% to 96% across core journeys Ran discovery workshops and journey mapping with stakeholders across 15 markets",
+    "Created brand identity, packaging and campaign assets for 4 product launches Partnered with engineering to ship 3 features per quarter with pixel-perfect handoff in Adobe XD",
+    "Conducted 7 rounds of usability testing with 120 participants to validate checkout improvements"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech",
+   "description": "Token-based component library in Figma with documentation and dark"
+  },
+  {
+   "name": "Startup",
+   "description": "mode support.",
+   "tech": "Adobe Illustrator, Adobe XD, Adobe After Effects, Sketch"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "2023"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "Jun 2016"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "year": "Jan 2020"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "year": "2023"
+  },
+  {
+   "name": "Interaction Design Foundation"
+  },
+  {
+   "name": "UX Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "Jan 2014"
+  }
+ ],
+ "languages": [
+  {
+   "language": "sone English"
+  }
+ ]
+}

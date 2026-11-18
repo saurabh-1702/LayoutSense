@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0185",
+ "name": "STEPHANIE G. TAYLOR",
+ "contact": {
+  "email": "stephanie.taylor@icloud.com"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/stephanie-taylor"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Computer Applications",
+   "institution": "Massachusetts Institute of Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "PostgreSQL Apache Kafka Ci/CD Graphat"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store"
+  },
+  {
+   "name": "URL Shortener at Scale"
+  },
+  {
+   "name": "Campus Placement Portal"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "+ Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.025
+}

@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0299",
+ "name": "Bukola Adeyemi",
+ "contact": {
+  "email": "badeyemi@gmail.com",
+  "phone": "0816 340 1053",
+  "location": "Ibadan, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/bukola-adeyemi"
+  },
+  {
+   "url": "orcid.org/0000-0002-3748-4509"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBBS University of Ibadan 2 a",
+   "institution": "MBBS University of Ibadan 2008 2",
+   "dates": "2008"
+  }
+ ],
+ "experience": [
+  {
+   "title": "ae] 3 Reddington Hospital Head of Department",
+   "company": null,
+   "dates": "April 2020 August 2021",
+   "bullets": []
+  },
+  {
+   "title": "aa 4 Reddington Hospital Senior Consultant",
+   "company": "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 56%",
+   "dates": "January 2019 March 2020",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Central Line Insertion",
+  "Endotracheal Intubation",
+  "Cerner Telemedicine",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Project Title Description"
+  }
+ ],
+ "_runtime_s": 0.065
+}

@@ -1,0 +1,148 @@
+{
+ "resume_id": "R0270",
+ "name": "GEORGE PATEL",
+ "headline": "Associate Partner",
+ "contact": {
+  "email": "george.p@gmail.com",
+  "phone": "+44 704 998 6867",
+  "location": "Belfast, UK"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/george-patel5"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Business Administration",
+   "institution": "University of Surrey",
+   "dates": "May 2008",
+   "grade": "First Class Honours"
+  }
+ ],
+ "experience": [
+  {
+   "company": "PwC",
+   "location": "Manchester",
+   "title": "Associate Partner",
+   "dates": "Jan. 2020 to Current",
+   "bullets": [
+    "Authored 18 thought-leadership articles and contributed to proposals worth £8.8M",
+    "Delivered 11 strategy engagements for clients in banking, retail and telecom",
+    "Designed a target operating model for a 172K+-employee organisation post-merger",
+    "Built a market entry business case for a £1.4M investment in Southeast Asia",
+    "Drove a digital transformation roadmap that increased online sales by 44%",
+    "Conducted commercial due diligence on 5 private equity targets",
+    "Built Alteryx models to size a £290M addressable market across 13 segments",
+    "Led a cost transformation programme identifying £14.8M in annual savings for a Fortune 500 client",
+    "Managed a team of 8 consultants and client counterparts across 15 workstreams",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy"
+   ]
+  },
+  {
+   "company": "PwC",
+   "location": "Manchester",
+   "title": "Associate Director",
+   "dates": "Oct. 2018 to Dec. 2019",
+   "bullets": [
+    "Grew the team by 15% in two years while keeping attrition below 6%"
+   ]
+  },
+  {
+   "company": "Capgemini",
+   "location": "London",
+   "title": "Project Leader",
+   "dates": "Mar. 2017 to Sep. 2018",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 27 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 3 across 18 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of £11.6M"
+   ]
+  },
+  {
+   "company": "Bain & Company",
+   "location": "Manchester",
+   "title": "Project Leader",
+   "dates": "Dec. 2016 to Feb. 2017",
+   "bullets": [
+    "Drove a digital transformation roadmap that increased online sales by 45%",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Authored 22 thought-leadership articles and contributed to proposals worth £289K",
+    "Built a market entry business case for a £260M investment in Southeast Asia",
+    "Built Excel models to size a £3.8M addressable market across 19 segments"
+   ]
+  },
+  {
+   "company": "Boston Consulting Group",
+   "location": "London",
+   "title": "Business Analyst",
+   "dates": "Jun. 2008 to Nov. 2016",
+   "bullets": [
+    "Designed a target operating model for a 852K-employee organisation post-merger",
+    "Managed a team of 4 consultants and client counterparts across 14 workstreams",
+    "Delivered 23 strategy engagements for clients in banking, retail and telecom",
+    "Led a cost transformation programme identifying £38M in annual savings for a Fortune 500 client",
+    "Conducted commercial due diligence on 11 private equity targets"
+   ]
+  }
+ ],
+ "skills": [
+  "Hypothesis-driven Problem Solving",
+  "Market Sizing",
+  "Strategy Development",
+  "Stakeholder Management",
+  "Project Management",
+  "Financial Analysis",
+  "PowerPoint",
+  "Excel",
+  "Alteryx",
+  "Python",
+  "Problem Solving",
+  "Negotiation",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "dates": "Dec. 2012",
+   "description": "Fundraising and operating plan for an education non-profit serving 2.3M children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Prosci Change Management Certification",
+   "issuer": "Prosci",
+   "year": "Dec. 2016"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2013"
+  },
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "2016"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Boston Consulting Group",
+   "year": "2008"
+  },
+  {
+   "name": "Customer Champion Award",
+   "issuer": "PwC",
+   "year": "2019"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

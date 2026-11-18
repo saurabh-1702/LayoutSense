@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0291",
+ "name": "Ea RN <P NCB, ACT RMN Pimchanok Scientist Te op",
+ "headline": "Thongchai Junior Data spetiieninceanyslicuaiaa",
+ "contact": {
+  "email": "+~———-—pimehanok.t@gmail.comant",
+  "phone": "ne +66 61 353 7477",
+  "location": "Bangkok, Thailand"
+ },
+ "links": [
+  {
+   "url": "edeteeaeAAAawww.linkedin.comin/pimchanok-so"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "King Mongkut's University of Technology Thonburi",
+   "dates": "May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun. 2022 to Current",
+   "bullets": [
+    "antec ete renee eee eee mee Fine-tuned transformer models for ticket classification, automating 28% of manual triage",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 24 days",
+    "Ran 21 A/B experiments on pricing and onboarding. flows, lifting conversion by 3% ¢"
+   ],
+   "company": "Citi",
+   "title": "Junior Data Scientist",
+   "location": "Chiang Mai A"
+  }
+ ],
+ "skills": [
+  "SQL",
+  "R",
+  "Scala",
+  "eee",
+  "scikit-learn",
+  "Time Series Forecasting",
+  "XGBoost",
+  "XGI Computer Vision",
+  "Skills",
+  "Presentation",
+  "Time Management",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value \"Prediction",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value ‘marketing. spend.",
+   "tech": "Scala, Computer Vision, R"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2023"
+  },
+  {
+   "name": "Sonera erepo Data Engineer Associate",
+   "issuer": "Databricks",
+   "year": "Aug. 2022"
+  },
+  {
+   "name": "Microsoft Certified: Analyst Associate Power Bl Data",
+   "issuer": "Miesot",
+   "year": "moo"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Thai",
+   "proficiency": "othe a '"
+  },
+  {
+   "language": "\"English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "ee Mandarin Chinese",
+   "proficiency": "oO NR a) Fe tg ee Limited Working Proficiency"
+  }
+ ]
+}

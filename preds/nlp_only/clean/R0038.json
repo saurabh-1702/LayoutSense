@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0038",
+ "contact": {
+  "email": "pranavm930@outlook.com",
+  "phone": "+91-8854906778"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pranavmenon"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Computer Science optimising slow PostgreSQL queries",
+   "institution": "Indian Institute of Science — Cut cloud infrastructure costs by =27.8 crore annually by right-sizing",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Tamil",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Telugu",
+   "proficiency": null
+  },
+  {
+   "language": "Malayalam",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.104
+}

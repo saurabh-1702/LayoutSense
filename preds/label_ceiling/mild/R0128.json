@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0128",
+ "name": "RICCARDO BRUNO",
+ "headline": "Aspiring Junior Software Developer",
+ "contact": {
+  "email": "riccardo.bruno@hotmail.it",
+  "phone": "+39 380 2866974",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/riccardo-bruno"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Electronics and Communication Engineering",
+   "institution": "Politecnico di Milano",
+   "dates": "2022 - 2026"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "July 2025 - November 2025",
+   "title": "Backend Developer Intern",
+   "company": "UniCredit",
+   "location": "Turin",
+   "bullets": [
+    "Assisted with day-to-day software engineering operations and maintained accurate records",
+    "Built a tracker in Go that streamlined weekly reporting for a team of 14"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution",
+   "description": "Contributed 22 merged pull requests to a popular open-source CLI tool, adding plugin support.",
+   "tech": "Nextjs, Kotlin, Swift"
+  },
+  {
+   "name": "Expense Splitter App",
+   "dates": "December 2025",
+   "description": "Mobile app for splitting group expenses with OCR receipt scanning and UPI/PayPal settlement links."
+  },
+  {
+   "name": "Campus Placement Portal",
+   "dates": "January 2023",
+   "description": "Web portal used by 80 students to apply for drives, track status and download offer letters."
+  },
+  {
+   "name": "Realtime Chat Platform",
+   "description": "WebSocket chat service with end-to-end encryption, read receipts and presence indicators."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Politecnico di Milano",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "B2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  }
+ ]
+}

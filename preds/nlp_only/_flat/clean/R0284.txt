@@ -1,0 +1,53 @@
+% 9459 0388 ™ jia.kkoh93@gmail.com
+Jia Hui Koh
+9 Singapore @ linkedin.com/in/jiakoh
+Data Analyst @ www.jiakoh.com
+© Work Experience Languages Known
+Oct 2024 - Sep Data Analyst English Native
+2026
+Sea Limited, Singapore
+Mandarin Chinese C1
+° Designed and maintained 6 Airflow pipelines
+ingesting 95K+ records daily into Snowflake
+@ skills & Tools
+Partnered with finance to build an anomaly
+detection system that flagged $$43M in billing Scala
+errors
+° Ran 9 A/B experiments on pricing and Python
+onboarding flows, lifting conversion by 25%
+SAS
+Productionised ML models with Docker and
+MLflow, cutting model deployment time from
+A/B Testing
+weeks to 10 days
+Created executive dashboards in BigQuery XGBoost
+tracking 8 KPls, adopted by 75+ business users
+Hugging Face Transformers
+Computer Vision
+Time Series Forecasting
+Z LP
+NumPy
+BigQuery
+Apache Kafka
+Snowflake
+Power BI
+Tableau
+Plotly
+Matplotlib
+Excel
+Problem Solving
+Mentoring
+Attention to Detail
+Public Speaking
+2) Courses & Certifications
+Deep Learning Specialization
+DeepLearning.Al - Apr 2023
+SnowPro Core Certification
+Snowflake - 2024
+© Honors
+Customer Champion Award
+Sea Limited - 2026
+© Education & Qualifications
+BSc in Mathematics
+Singapore Management University
+Aug 2021 — Sep 2024

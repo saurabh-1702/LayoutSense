@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0139",
+ "name": "Neha Mishra",
+ "contact": {
+  "email": "nehamishra8@yahoo.co.in",
+  "phone": "+91-98420-39755",
+  "location": "Jaipur, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nehamishra-1e7590"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BMS (Bachelor of Management Studies)",
+   "institution": "Tata Institute of Social Sciences",
+   "dates": "June 2024"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Financial Analyst",
+   "company": "Amazon",
+   "dates": "July 2025 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Financial Analyst",
+   "company": null,
+   "dates": "July 2024 - June 2025",
+   "bullets": [
+    "Identified cost savings of 85 lakh through vendor spend analysis and contract renegotiation",
+    "Prepared pitch books and information memoranda for 13 sell-side mandates",
+    "Implemented an Anaplan-based planning model replacing 5 disconnected spreadsheets"
+   ]
+  }
+ ],
+ "skills": [
+  "Finance Treasury Management",
+  "M&A",
+  "Financial Modelling",
+  "Tools Excel (",
+  "SELECTED"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "Chartered Financial Analyst",
+   "issuer": "CFA)"
+  },
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": "CTP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.051
+}

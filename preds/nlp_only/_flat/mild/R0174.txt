@@ -1,0 +1,54 @@
+Hiroshi Sato
+Systems Engineer
++81 90 9138 3714 | hiroshi.sato87@gmail.com | Kyoto, Japan
+WORK EXPERIENCE TECHNICAL SKILLS
+Bosch Tokyo * Scala
+Systems Engineer Dec 2024 — Present ¢ JavaScript
+¢ Resolved 120+ production issues as part of the on-call rotation, * C#
+reducing mean time to recovery by 19% * Ruby
+° Java
+* Owned the payments integration with 12 third-party gateways,
+¢ Flutter
+reducing failed transactions by 29%
+* Node.js
+* Implemented a CI/CD pipeline with GitHub Actions and automated
+¢ Django
+tests, raising code coverage from 25% to 85%
+* Spring Boot
+* Collaborated with product and design to ship 7 major releases on
+* Vue.js
+schedule across web and mobile
+* Nextjs
+Hitachi Yokohama ¢ Docker
+Systems Engineer Oct 2023 — Nov 2024 ¢ Kubernetes
+* Developed internal tooling in Kubernetes that saved the support * GitHub Actions
+team 24 hours per week * CI/CD
+* Rebuilt the search experience with Elasticsearch, improving result * AWS
+relevance and click-through by 31%
+CERTIFICATES
+* Developed customer-facing features in Kubernetes used by 6.6M
+monthly active users Certified Kubernetes
+Administrator (CKA)
+* Built a real-time notification service using Kubernetes and Apache
+The Linux Foundation, 2021
+Kafka that processes 2.9M events per hour
+Microsoft Certified: Azure
+¢ Migrated a legacy monolith to containerised services on
+Developer Associate
+Kubernetes, cutting deployment time from 39 hours to 15 minutes Microsoft, Mar 2025
+HONOURS & AWARDS LANGUAGES
+* Star Performer Award, Bosch (2026) Japanese Native
+* Best Outgoing Student, Tokyo Institute of Technology (2021) English Professional Working
+Proficiency
+Mandarin Chinese _ Intermediate
+EDUCATION &
+QUALIFICATIONS
+Bachelor of Science in
+Electronics and Communication
+Engineering
+Tokyo Institute of Technology
+Sep 2019 — Sep 2023 | GPA: 3.81
+LINKS
+LinkedIn: linkedin.com/in/hiroshi-
+sato
+GitHub: github.com/hsato

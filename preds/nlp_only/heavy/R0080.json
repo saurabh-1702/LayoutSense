@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0080",
+ "education": [
+  {
+   "degree": "BA (Hons) Logistics and",
+   "institution": "RMIT University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management",
+   "issuer": null
+  },
+  {
+   "name": "Professional",
+   "issuer": "PMP)"
+  }
+ ],
+ "_runtime_s": 0.026
+}

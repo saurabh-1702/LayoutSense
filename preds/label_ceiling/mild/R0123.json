@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0123",
+ "name": "Ayu Gunawan",
+ "headline": "Digital Marketing Specialist",
+ "contact": {
+  "email": "ayu.g@gmail.com",
+  "phone": "+62 895-4609-7920",
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ayugunawan"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Digital Marketing Specialist",
+   "location": "Surabaya (Hybrid)",
+   "bullets": [
+    "Led a rebrand across 4 touchpoints in partnership with an external creative agency",
+    "Coordinated 18 influencer campaigns generating 1.2M impressions and 209K engagements",
+    "Grew Instagram and LinkedIn followers from 261K+ to over 3x within a year",
+    "Owned the go-to-market plan for a SaaS launch, generating IDR 77.3B pipeline in the first quarter",
+    "Launched 3 new product variants nationally, capturing 9% market share in the first year"
+   ]
+  }
+ ],
+ "skills": [
+  "Google Analytics 4",
+  "Google Ads",
+  "Ahrefs",
+  "HubSpot",
+  "Canva",
+  "SEMrush",
+  "Content Strategy",
+  "Social Media Marketing",
+  "Marketing Automation"
+ ],
+ "certifications": [
+  {
+   "name": "Google Ads Search Certification"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Traveloka"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ]
+}

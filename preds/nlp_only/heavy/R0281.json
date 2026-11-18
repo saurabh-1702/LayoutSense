@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0281",
+ "name": "STEFAN KOCH",
+ "contact": {
+  "email": "stefan_koch@gmx.de",
+  "phone": "49 179-52793432"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/stefankoch"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Electronics and Instrumentation",
+   "institution": "Technical University of Munich",
+   "dates": "2023 | Present"
+  }
+ ],
+ "skills": [
+  "SCADA",
+  "FPGA",
+  "Power Systems",
+  "Renewable Energy Integration",
+  "PSCAD",
+  "DigSILENT PowerFactory",
+  "KiCad",
+  "Time Management",
+  "Decision Making",
+  "Problem Solving",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Smart Energy Meter with loT"
+  },
+  {
+   "name": "Grid-tied Inverter Design"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "French",
+   "proficiency": "Beginner"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.053
+}

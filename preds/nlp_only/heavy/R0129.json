@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0129",
+ "name": "Baptiste Bonnet",
+ "contact": {
+  "email": "baptistebonnet@hotmail.fr",
+  "phone": "57 65 63 04",
+  "location": "Lille, France"
+ },
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Ecole Polytechnique Palaiseau",
+   "dates": "08.2013 ~ 07.2015"
+  },
+  {
+   "degree": "B.Sc. Mathematics",
+   "institution": "Ecole Polytechnique Palaiseau",
+   "dates": "08.2010 ~ 05.2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Finance Manager",
+   "company": "PwC",
+   "dates": "10.2023 ~ Now",
+   "bullets": [
+    "Led a team of 10 across 6 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €10.7M"
+   ]
+  },
+  {
+   "title": "Vice President",
+   "company": "Corporate Banking",
+   "dates": "03.2023 ~ 09.2023",
+   "bullets": [
+    "Managed a loan portfolio of €409K across 400 relationships with zero slippages in FY"
+   ]
+  },
+  {
+   "title": "Vice President",
+   "company": "Corporate Banking",
+   "dates": "08.2020 ~ 02.2023",
+   "bullets": [
+    "~ Grew the assets under management of assigned clients by 27% year on year"
+   ]
+  },
+  {
+   "title": "Risk Analyst",
+   "company": "TotalEnergies",
+   "dates": "08.2015 ~ 07.2020",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Anaplan",
+  "Capital 1Q",
+  "Python",
+  "Excel (",
+  "IFRS 9",
+  "DCF Valuation",
+  "Credit Analysis",
+  "Time Management",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "_ NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "~ Chartered Financial Analyst",
+   "issuer": "CFA)"
+  },
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": "CTP)"
+  },
+  {
+   "name": "~ CFA Level if Candidate",
+   "issuer": "CFA institute"
+  },
+  {
+   "name": "LANGUAGES",
+   "issuer": null
+  },
+  {
+   "name": "French",
+   "issuer": "Native); English"
+  }
+ ],
+ "_runtime_s": 0.061
+}

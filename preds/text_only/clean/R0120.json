@@ -1,0 +1,154 @@
+{
+ "resume_id": "R0120",
+ "name": "Sultan Al Mazrouei",
+ "headline": "Senior Frontend Engineer",
+ "contact": {
+  "email": "sultanalmazrouei32@outlook.com",
+  "phone": "+971 542885455",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sultanalmazrouei"
+  },
+  {
+   "url": "github.com/salmazrouei"
+  },
+  {
+   "url": "www.sultanalmazrouei.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Zayed University",
+   "dates": "06/2014",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "08/2019 - Present",
+   "title": "Senior Frontend Engineer",
+   "company": "SAP",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Developed customer-facing features in GitHub Actions used by 65,000 monthly active users",
+    "Implemented a CI/CD pipeline with GitHub 72% and automated tests, raising code coverage from 17% to 85%",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "12/2015 - 07/2019",
+   "title": "Associate Software Engineer",
+   "company": "SAP",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 37% quarter over quarter",
+    "Reduced p95 API latency by 32% by introducing Redis caching and optimising slow queries 62% 96%",
+    "Owned the payments integration with 4 third- party gateways, reducing failed transactions by 36%",
+    "Resolved 120+ production issues as part of the 92% on-call rotation, reducing mean time to recovery by 14%",
+    "Collaborated with product and design to ship 17 major releases on schedule across web and 54% 61% mobile",
+    "Rebuilt the search experience with CI/CD Elasticsearch, improving result relevance and click-through by 23% 39%",
+    "Cut cloud infrastructure costs by AED 6.0M annually by right-sizing instances and adopting spot capacity 55%"
+   ]
+  },
+  {
+   "dates": "08/2014",
+   "title": "Junior Software Developer"
+  },
+  {
+   "dates": "11/2015",
+   "company": "Cisco",
+   "location": "Abu Dhab",
+   "bullets": [
+    "Designed and built 7 RESTful microservices in MongoDB Apache Kafka C++ and Node.js, serving 552K requests per 78% day with 99.95% uptime",
+    "Developed internal tooling in C++ that saved Elasticsearch the support team 22 hours per week",
+    "Wrote technical design documents and led code reviews for a team of 9 engineers",
+    "Migrated a legacy monolith to containerised cccce services on Kubernetes, cutting deployment time from 18 hours to 15 minutes"
+   ]
+  }
+ ],
+ "skills": [
+  "o 76%",
+  "Or®@ fo}",
+  "a",
+  "S95(2)",
+  "2(2)",
+  "SJEXNSTZJAXAS",
+  "Actions",
+  "“I",
+  "JavaScript",
+  "Python",
+  "oO 3% g1 S o",
+  "m x no} © wn \" Tr wn",
+  "PostgreSQL",
+  "2 ° a oO a. 7)",
+  "FastAPI",
+  "r-) S o",
+  "Jenkins",
+  "GitHub Actions",
+  "Y Y",
+  "Terraform 95%",
+  "Microsoft Azure",
+  "Linux",
+  "Y Y 62%"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 80 students to apply for drives, track status and download offer letters.",
+   "tech": "Express.js, JavaScript"
+  },
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Node.js, Python"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "08/2014"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2015"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "2014"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2013"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "ece5o"
+  },
+  {
+   "proficiency": "Cl",
+   "language": "Hindi"
+  },
+  {
+   "language": "ry)",
+   "proficiency": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "ecooeo"
+  }
+ ],
+ "_runtime_s": 0.593
+}

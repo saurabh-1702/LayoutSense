@@ -1,0 +1,122 @@
+{
+ "resume_id": "R0235",
+ "name": "Chantelle Mahlangu",
+ "headline": "Chief Marketing Officer",
+ "contact": {
+  "email": "mahlangu.chantelle@gmail.com",
+  "phone": "+27-72-666-4048",
+  "location": "Cape Town, South Africa"
+ },
+ "links": [
+  {
+   "url": "chantellemahlangu.substack.com"
+  }
+ ],
+ "education": [
+  {
+   "dates": "2000 to 2003",
+   "degree": "BSc (Hons) Business Administration",
+   "institution": "Gordon Institute of Business Science",
+   "location": "Johannesburg",
+   "grade": "First Class Honours"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2024 to Present",
+   "title": "Chief Marketing Officer",
+   "company": "Nestlé",
+   "location": "Johannesburg",
+   "bullets": [
+    "Launched 12 new product variants nationally, capturing 22% market share in the first year",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 25 days to 1 day",
+    "Grew the team by 13% in two years while keeping attrition below 12%",
+    "Led a team of 9 across 24 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "2022 to 2024",
+   "title": "Chief Marketing Officer",
+   "company": "L'Oréal",
+   "location": "Cape Town",
+   "bullets": [
+    "Grew organic traffic by 18% in 12 months through technical SEO and a content calendar of 8 articles per month",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ZAR 23.2M"
+   ]
+  },
+  {
+   "dates": "2011 to 2021",
+   "title": "Senior Marketing Manager",
+   "company": "MTN Group",
+   "location": "Remote — South Africa",
+   "bullets": [
+    "Grew Instagram and LinkedIn followers from 9.2M to over 3x within a year",
+    "Ran consumer research with 60 respondents to shape positioning for a new category",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "2008 to 2011",
+   "title": "Marketing Manager",
+   "company": "Woolworths Holdings",
+   "location": "Cape Town",
+   "bullets": [
+    "Built a marketing attribution dashboard in Google Analytics 4 used in weekly leadership reviews",
+    "Built automated email nurture journeys in Google Analytics 4 that lifted MQL-to-SQL conversion by 47%",
+    "Managed a monthly paid media budget of ZAR 23.2M across Google Ads and Meta, achieving a 22x ROAS",
+    "Led arebrand across 5 touchpoints in partnership with an external creative agency"
+   ]
+  },
+  {
+   "dates": "2003 to 2007",
+   "title": "Marketing Executive",
+   "company": "Procter & Gamble",
+   "location": "Cape Town",
+   "bullets": [
+    "Coordinated 22 influencer campaigns generating 66,000 impressions and 664K engagements",
+    "Owned the go-to-market plan for a SaaS launch, generating ZAR 466K pipeline in the first quarter",
+    "Reduced customer acquisition cost by 54% through audience segmentation and creative testing"
+   ]
+  }
+ ],
+ "skills": [
+  "Marketing Automation",
+  "Copywriting",
+  "Market Research",
+  "Influencer Marketing",
+  "SEO",
+  "SEM",
+  "HubSpot",
+  "Mailchimp",
+  "Google Ads",
+  "Google Analytics 4",
+  "SEMrush",
+  "Marketo",
+  "Adaptability",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a ZAR 830K launch media plan."
+  }
+ ],
+ "awards": [
+  {
+   "year": "2001",
+   "name": "Dean's List",
+   "issuer": "Gordon Institute of Business Science"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0105",
+ "education": [
+  {
+   "degree": "M.Sc. Manufacturing Systems",
+   "institution": "Manufacturing Systems",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Engineering, Automobile Engineering",
+   "institution": "Ecole Polytechnique",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Lean Manufacturing * CFD",
+  "Minitab",
+  "Negotiation * Stakeholder Management",
+  "Team Leadership * Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "« Certified SolidWorks Professional",
+   "issuer": "CSWP) ~ Dassault Systemes"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "German",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.117
+}

@@ -1,0 +1,85 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{display:grid;grid-template-columns:1fr {{ s.side_w - 24 }}px;grid-template-rows:auto auto 1fr;padding:0 {{ s.mx - 16 }}px {{ s.mb }}px;column-gap:24px}
+.hd{grid-column:1/-1;grid-row:1;display:flex;justify-content:space-between;align-items:center;padding:{{ s.mt }}px 0 14px;border-bottom:4px solid {{ s.accent }};gap:16px}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs + 2 }}px;font-weight:800;line-height:1.05;color:{{ s.ink }}}
+.nm2{color:{{ s.accent }}}
+.hl{font-size:1.1em;color:{{ s.muted }};margin-top:4px;letter-spacing:1px}
+.cg{display:grid;grid-template-columns:auto auto;gap:4px 16px;font-size:.88em}
+.cg>div{display:flex;gap:6px;align-items:baseline}
+.cg .ic{color:{{ s.accent }}}
+.stats{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:12px 0 2px}
+.stat{background:{{ s.stripe }};border-radius:8px;padding:7px 10px;display:flex;align-items:baseline;gap:8px}
+.stat b{font-size:1.7em;color:{{ s.accent }};line-height:1}
+.stat span{font-size:.88em;color:{{ s.muted }}}
+.flow{grid-row:3;min-height:0}
+.sh{font-family:{{ s.head_font|safe }};font-weight:800;font-size:1.08em;letter-spacing:1.5px;color:{{ s.accent }};margin:{{ s.sec_gap + 5 }}px 0 6px;display:flex;align-items:center;gap:8px}
+.sh:after{content:"";flex:1;height:1px;background:{{ s.track }}}
+.yr{display:grid;grid-template-columns:{{ s.datecol - 6 }}px 16px 1fr;column-gap:8px}
+.yr .d{text-align:right;font-size:.84em;font-weight:700;color:{{ s.ink }};padding-top:.15em}
+.yr .ln{position:relative;border-left:2px solid {{ s.track }};margin-left:7px}
+.yr.eh .ln:before{content:"";position:absolute;left:-7px;top:.35em;width:10px;height:10px;border-radius:50%;background:{{ s.accent }};border:2px solid #fff;box-shadow:0 0 0 1px {{ s.accent }}}
+.yr .t2{color:{{ s.muted }}}
+.yr .bl{display:grid}
+.ga{display:grid;grid-template-columns:repeat(2,1fr);gap:8px 6px;margin:3px 0}
+.g{display:flex;flex-direction:column;align-items:center;text-align:center;font-size:.86em;line-height:1.2}
+.g .rg{position:relative;width:52px;height:52px;margin-bottom:3px}
+.g .rg svg{position:absolute;left:0;top:0}
+.g .rg b{position:absolute;left:0;right:0;top:17px;font-size:12px;color:{{ s.accent }}}
+.sl{margin:3px 0}
+.sl .muted{font-size:.88em}
+.ia{margin:4px 0}
+.ia .t1s{line-height:1.25}
+.pj{margin:5px 0}
+.tech{color:{{ s.muted }};font-size:.92em}
+.page.cont{padding-top:{{ s.mt }}px}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="hd p1only" data-region="header">
+    <div><div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>{% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}</div>
+    <div class="cg">
+      <div>{{ m.ic('phone', s.accent, 11) }}{{ m.F('contact.phone', p.contact.phone, 'nw') }}</div>
+      <div>{{ m.ic('mail', s.accent, 11) }}{{ m.F('contact.email', p.contact.email, 'nw') }}</div>
+      <div>{{ m.ic('pin', s.accent, 11) }}{{ m.F('contact.location', p.contact.location) }}</div>
+      {% for k in p.links %}<div>{{ m.ic('link', s.accent, 11) }}{{ m.F('links.'~loop.index0~'.url', k.url, 'nw') }}</div>{% endfor %}
+    </div>
+  </div>
+  <div class="stats p1only" data-region="stats">
+    {% for v, lab in s.stats %}<div class="stat"><b>{{ v }}</b><span>{{ lab }}</span></div>{% endfor %}
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order_main %}
+    {% if sec == 'experience' and p.experience %}{{ m.H('experience', s) }}
+      {% for e in p.experience %}{% set P = 'experience.' ~ loop.index0 %}
+      <div class="blk keep yr eh" data-group="sec_experience"><div class="d">{{ m.F(P~'.dates', e.dates) }}</div><div class="ln"></div><div><div class="t1">{{ m.F(P~'.title', e.title) }}</div><div class="t2">{{ m.F(P~'.company', e.company) }}{% if s.show_loc %}<span class="sp"> | </span>{{ m.F(P~'.location', e.location) }}{% endif %}</div></div></div>
+      {% for b in e.bullets %}<div class="blk yr" data-group="sec_experience"><div class="d"></div><div class="ln"></div><div class="bl"><span class="bm">{{ s.bullet }}</span>{{ m.F(P~'.bullets.'~loop.index0, b) }}</div></div>{% endfor %}
+      {% endfor %}
+    {% elif sec == 'projects' %}{{ m.proj_all(p, s) }}
+    {% elif sec == 'education' and p.education %}{{ m.H('education', s) }}
+      {% for e in p.education %}{% set P = 'education.' ~ loop.index0 %}
+      <div class="blk yr eh" data-group="sec_education"><div class="d">{{ m.F(P~'.dates', e.dates) }}</div><div class="ln"></div><div><div class="t1">{{ m.F(P~'.degree', e.degree) }}</div><div class="t2">{{ m.F(P~'.institution', e.institution) }}</div>{% if e.grade %}<div class="sm">{{ m.F(P~'.grade', e.grade) }}</div>{% endif %}</div></div>
+      {% endfor %}
+    {% elif sec == 'awards' %}{{ m.award_all(p, s, 'line') }}
+    {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'line') }}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="flow" data-flow="side" data-region="sidebar">
+  {% for sec in s.order_side %}
+    {% if sec == 'skills' and p.skills %}{{ m.H('skills', s) }}
+      {% for pair in p.skills|batch(2) %}{% set base = loop.index0 * 2 %}<div class="blk ga" data-group="sec_skills">
+        {% for k in pair %}{% set i = base + loop.index0 %}{% set pc = s.skill_pct[i] %}<div class="g"><div class="rg"><svg width="52" height="52" viewBox="0 0 52 52"><circle cx="26" cy="26" r="21" fill="none" stroke="{{ s.track }}" stroke-width="6"/><circle cx="26" cy="26" r="21" fill="none" stroke="{{ s.accent }}" stroke-width="6" stroke-dasharray="{{ (131.95 * pc / 100)|round(1) }} 200" transform="rotate(-90 26 26)" stroke-linecap="round"/></svg><b data-field="skill_level.{{ i }}">{{ pc }}%</b></div>{{ m.F('skills.'~i, k) }}</div>{% endfor %}
+      </div>{% endfor %}
+    {% elif sec == 'education' and p.education %}{{ m.H('education', s) }}
+      {% for e in p.education %}{% set P = 'education.' ~ loop.index0 %}
+      <div class="blk ia" data-group="sec_education"><div class="t1s">{{ m.F(P~'.degree', e.degree) }}</div><div class="muted sm">{{ m.F(P~'.institution', e.institution) }}</div><div class="sm">{{ m.F(P~'.dates', e.dates) }}{% if e.grade %}<span class="sp"> · </span>{{ m.F(P~'.grade', e.grade) }}{% endif %}</div></div>
+      {% endfor %}
+    {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'block') }}
+    {% elif sec == 'languages' and p.languages %}{{ m.H('languages', s) }}
+      {% for l in p.languages %}{% set P = 'languages.' ~ loop.index0 %}<div class="blk sdot sl" data-group="sec_languages"><span>{{ m.F(P~'.language', l.language, 'b') }}<br><span class="muted">{{ m.F(P~'.proficiency', l.proficiency) }}</span></span><span class="dots">{% for d in range(5) %}<i class="{{ 'on' if d < l.level else '' }}"></i>{% endfor %}</span></div>{% endfor %}
+    {% elif sec == 'awards' %}{{ m.award_all(p, s, 'block') }}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+</body></html>

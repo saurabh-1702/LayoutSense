@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0086",
+ "name": "MIGUEL MENDOZA",
+ "contact": {
+  "email": "miguel.m@gmail.com",
+  "phone": "0918 142 3511",
+  "location": "Taguig City, Philippines"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/miguel-mendoza7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mathematics",
+   "institution": "Mapua University",
+   "dates": "July 2021 — July 2025",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "October 2025 — Present",
+   "title": "Risk Analyst",
+   "company": "Bloomberg",
+   "location": "Makati City",
+   "bullets": [
+    "Built three-statement financial models and DCF valuations for 10 deals worth a combined PHP 17.1M",
+    "Analysed credit proposals for 150 mid-market clients, maintaining an NPA ratio below 1.8%",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management"
+   ]
+  }
+ ],
+ "skills": [
+  "FP&A",
+  "Equity Research",
+  "M&A",
+  "Basel III",
+  "Risk Management",
+  "IFRS 9",
+  "Capital lQ",
+  "Python",
+  "VBA"
+ ],
+ "projects": [
+  {
+   "name": "Valuation of a Listed FMCG Company",
+   "dates": "October 2024",
+   "description": "Equity research report with DCF and comparable-company analysis; recommendation tracked for 6 months."
+  },
+  {
+   "name": "Portfolio Optimisation Tool",
+   "description": "Mean-variance optimiser in Python with backtesting on 11 years of index data."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "proficiency": "Fluent",
+   "language": "English"
+  }
+ ]
+}

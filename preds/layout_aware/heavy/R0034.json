@@ -1,0 +1,139 @@
+{
+ "resume_id": "R0034",
+ "name": "Nandini Menon",
+ "headline": "Audit Partner",
+ "contact": {
+  "email": "nandini.menon@gmail.com",
+  "phone": "(+91) 9935510765",
+  "location": "Coimbatore, Yamil Nadu, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nandinimenon"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Com",
+   "institution": "Arnity University",
+   "dates": "Aug 2005 - May 2008",
+   "grade": "66.8%"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul. 2025 - Present",
+   "title": "Audit Partner",
+   "company": "Deloitte",
+   "location": "Chennai",
+   "bullets": [
+    "Documented and tested 4 SOX controls, closing all audit findings ahead of year-end",
+    "Performed balance sheet reconciliations for 80+ accounts and cleared ageing items worth INR 355 crore",
+    "Trained 13 junior accountants on Ind AS transition adjustments",
+    "Managed the month-end close for 5 legal entities, reducing the close cycle from 29 to 5 working days",
+    "Prepared consolidated financial statements under IFRS for a group with 8 subsidiaries",
+    "Implemented Microsoft Dynamics 365 for accounts payable, automating 60% of invoice processing"
+   ]
+  },
+  {
+   "dates": "Apr 2024 - Jun 2025",
+   "title": "Vice President — Finance",
+   "company": "KPMG",
+   "location": "Chennai",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Grew the team by 46% in two years while keeping attrition below 10%",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "May 2022 - Mar 2024",
+   "title": "Senior Audit Manager",
+   "company": "Citi",
+   "location": "Chennai",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Coordinated with external auditors and resolved 14 management letter points",
+    "Led a team of 13 across 21 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of %27.9 crore"
+   ]
+  },
+  {
+   "dates": "Mar 2014 - Apr 2022",
+   "title": "Financial Controller",
+   "company": "ITC Limited",
+   "location": "Coimbatore",
+   "bullets": [
+    "Managed the month-end close for 15 legal entities, reducing the close cycle from 12 to 5 working days",
+    "Filed GST and corporate tax returns with zero penalties across 16 consecutive years",
+    "Documented and tested 3 SOX controls, ciosing all audit findings ahead of year-end",
+    "Prepared consolidated financial statements under IFRS for a group with 12 subsidiaries"
+   ]
+  },
+  {
+   "dates": "Feb 2011 - Feb 2014",
+   "title": "Senior Tax Consultant",
+   "company": "HSBC",
+   "location": "Bengaluru",
+   "bullets": [
+    "Built a fixed-asset register for 6,000 assets and aligned depreciation with tax schedules",
+    "Trained 8 junior accountants on Ind AS transition adjustments",
+    "Performed balance sheet reconciliations for 180+ accounts and cleared ageing items worth 221 lakh"
+   ]
+  },
+  {
+   "dates": "Jun 2008 - Jan 2011",
+   "title": "Accounts Executive",
+   "company": "Grant Thornton Bharat",
+   "location": "Coimbatore",
+   "bullets": [
+    "Led statutory audits for 21 clients across manufacturing and retail with combined revenue of 2104 Cr",
+    "Reduced days sales outstanding by 30 days through tighter credit control and collections follow-up",
+    "Implemented CaseWare for accounts payable, automating 34% of invoice processing"
+   ]
+  }
+ ],
+ "skills": [
+  "US GAAP",
+  "Consolidation",
+  "Ind AS",
+  "Transfer Pricing",
+  "QuickBooks",
+  "CaseWare",
+  "Xero",
+  "Microsoft Dynamics 365",
+  "Cross-functional Collaboration",
+  "Attention to Detail",
+  "Conflict Resolution",
+  "Negotiation"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Accountant (CMA)",
+   "issuer": "IMA",
+   "year": "2022"
+  },
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "Apr 2008"
+  },
+  {
+   "name": "Certified Public Accountant (CPA)",
+   "issuer": "AICPA",
+   "year": "2026"
+  },
+  {
+   "name": "SAP Certified Application Associate — Financial Accounting",
+   "issuer": "SAP",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.443
+}

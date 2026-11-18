@@ -1,0 +1,33 @@
+E _ niall2003@outlook.com
+T +353 85 547 5891
+A Dublin, Ireland
+Li linkedin.com/in/niallkennedy8
+NIALL KENNEDY
+Gi github.com/niallkenne
+WORK HISTORY ACADEMIC QUALIFICATIONS
+Feb 2024 — Present BSc Computer Applications
+Frontend Engineer Dublin City University
+Intercom | Dublin Aug 2019
+> Owned the payments integration with 12 third-party gateways,
+COMPETENCIES
+reducing failed transactions by 45%
+Collaborated with product and design to ship 15 major releases Languages: Ruby, JavaScript, Scala, Python, Rust, C++
+on schedule across web and mobile Frameworks: Node.js, NET Core, Angular, GraphQL
+Reduced p95 API latency by 55% by introducing Redis caching Cloud & DevOps: GitHub Actions, Kubernetes, CI/CD,
+and optimising slow PostgreSQL queries Jenkins, AWS, Microsoft Azure
+Sep 2019 — Jan 2024 Databases: MongoDB, Redis, Elasticsearch, Cassandra
+Graduate Software Engineer
+LICENSES & CERTIFICATIONS
+Stripe | Remote — Ireland
+> Cut cloud infrastructure costs by €10.2M annually by right-sizing Meta Front-End Developer Professional Certificate
+instances and adopting spot capacity Coursera, 2021
+Migrated a legacy monolith to containerised services on HashiCorp Certified: Terraform Associate
+Kubernetes, cutting deployment time from 28 hours to 15 HashiCorp, 2026
+minutes
+LANGUAGES KNOWN
+Wrote technical design documents and led code reviews for a
+team of 3 engineers English Native
+Developed internal tooling in Jenkins that saved the support Irish Professional Working Proficiency
+team 27 hours per week
+Rebuilt the search experience with Elasticsearch, improving
+result relevance and click-through by 32%

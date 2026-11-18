@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0243",
+ "name": "Line Serre",
+ "contact": {
+  "location": "Hawassa, Ethiopia"
+ },
+ "projects": [
+  {
+   "name": "ealtime Chat Platform __ Technologies"
+  },
+  {
+   "name": "Tead } StHuls Actonss Ryton"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": null
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate HashiCorp",
+   "issuer": null
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "c2"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Tigrinya",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.023
+}

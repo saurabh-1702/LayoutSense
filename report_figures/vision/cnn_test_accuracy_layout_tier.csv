@@ -1,0 +1,6 @@
+layout,clean,mild,heavy,all
+single_column,0.9706,0.9706,0.9706,0.9706
+multi_column,1.0,1.0,1.0,1.0
+table_based,1.0,0.975,0.975,0.9833
+infographic,0.6923,0.6667,0.6667,0.6752
+ALL,0.9116,0.898,0.898,0.9025

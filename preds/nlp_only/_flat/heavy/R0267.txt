@@ -1,0 +1,47 @@
+pe acai a AN EN RNAI NIN BN NEN RO INN A th fim a ee AA ee A NN amr a SN A a BN NE te
+Emi
+Yamamoto
+igs nae aml aera tei slabemn Leontine nels enetioen seaman neem Sen titanate iment
+eae nei tlinnsalannic noes cerheiap scninreenin mai ee
+aa Minkedin.
+ine i cnet eres Sten i en ly pect tine aca iie aati ai _ | Veeco % sles ahinheesoittnsniiog
+«tae a
+sore [ra
+ssten cegeietin,
+o loepus ahaueeen teem poaren Pras Pe Cte eo ON ee aes eee
+| On2021-05/2005 ae ee
+4 > Led @ team of 13 across 14 workstreams, owning hiring, performance reviews and quarterly planning
+Zp P. Grew the team by 32% in two years while keeping attrition below 22%
+|» Partnered with senior leadership to define the annual roadmap and a budget of 48.98 _
+‘5 Mentored 3 junior colleagues, several of whom were promoted within 18 months |
+bs Mentored 7 junior colleagues, several of whom were promoted within 18 months
+en |
+Z >
+Developed a demand forecasting mode! that reduced inventory holding costs by 46%
+-<
+Built a churn prediction model in SQL (AUC 0.250) that helped retention teams save JPY 9.08 in annual revenue
+SPE MN A AOR 8 OE Mn np eng amin nna nmin itm: ete amt a iC tiem seme ieee imemramenes Le an amen tome ae amet Aare a
+- [orabio nye \Mercari “| Lead Data Analyst Fukuoka
+lay pace ecg Aerie, es Bei atin icnnamiienitiaaeamenetes Ne Re NN ah Se cn Ge: A 5 ff tel nanny Nee OE a i NN i Ro em tna a
+_ Defined the company-wide metric layer in dbt, eliminating 17 conflicting KPI definitions }
+fs.
+Built @ customer segmentation framework using clustering on S63K profiles to drive targeted campaigns:
+Z Authored SQL data quality checks across 250 tables, reducing reporting incidents by 13% -
+; ie
+deerme oe dit ea a ite _ cutting model deployment time from weeks to 9 days
+Se a. 0 amc Nei tee Pn aie Selmi at em eat ele ON A i th atime aN cme ae
+/B experiments on pricing and onboarding flows, liting conversion by 24%
+(patie! Neat £0 clalse Aavetice parties ans Soaccox bal Gece
+[+ by |
+2 Partnered with finance to build an anomaly detection system that flagged ¥331M in billing errors
+__ Deloitte _
+} - Created executive dashboards in Snowflake tracking 16 KPIs, adopted by 300+ business users
+|
+3 ih EAS ee aS | pats pap agli Rp ata: chi Sip eens ohio cetabintgs ee Bly aphid aie seat lato ite Aen Rs <i a records a Neen daily Nie gee I OBE into sialon, Hibenbtaiesncpnattied Snowflake Te eee en te en nial
+| GPA: 3,95/4.0
+Ate aon mn air Sts Ren incon nc ea Rte a
+LAMENESS ELAN NOLL REE ANE AN eS AE NON SP AN He i Omer
+{point
+Mbit deencennbmomtiaccmen AONE ve RN serine se site taerere sthreppei on, roan olor Ca Bebe
+Languages
+auy SRT

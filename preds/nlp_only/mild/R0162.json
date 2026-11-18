@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0162",
+ "name": "Marcus Davis",
+ "contact": {
+  "email": "marcusdavis@gmail.com",
+  "phone": "+1 (425) 294-7604",
+  "location": "Seattle, WA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/marcus-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Negotiated multi-year contracts worth $21.5M with procurement and legal Massachusetts Institute of",
+   "dates": "Nov 2025 — Current"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Sales Manager",
+   "company": "Bachelor of Science in",
+   "dates": "Nov 2025 — Current",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "stakeholders Technology",
+   "dates": "Jul 2018 — Jun 2022",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Business Development Representative",
+  "Snowflake",
+  "Seattle",
+  "WA",
+  "Jul 2022",
+  "Oct 2025",
+  "MEDDIC",
+  "enterprise accounts using",
+  "Account Management",
+  "LinkedIn Sales Navigator",
+  "Channel Sales",
+  "Upselling",
+  "Sales Navigator",
+  "Cold Calling",
+  "Zoho CRM",
+  "discovery framework",
+  "Outreach"
+ ],
+ "projects": [
+  {
+   "name": "Time Management"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Sales Software",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Certified Professional Sales",
+   "issuer": null
+  },
+  {
+   "name": "Person",
+   "issuer": "CPSP)"
+  },
+  {
+   "name": "NASP",
+   "issuer": ""
+  },
+  {
+   "name": "Salesforce Certified",
+   "issuer": "Salesforce"
+  },
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  }
+ ],
+ "_runtime_s": 0.035
+}

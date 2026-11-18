@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0212",
+ "name": "‘ELENA. SOKOLOV",
+ "headline": "Accounts Payable Specialist",
+ "education": [
+  {
+   "degree": "B.Sc. Accounting and Finance",
+   "institution": "HSE University",
+   "dates": "dune 2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "July 2025-Present",
+   "title": "Accounts Payable Specialist",
+   "company": "Citi",
+   "bullets": [
+    "Documented and tested 23 SOX controls, closing all audit findings ahead of year-end",
+    "implemented CaseWare for accounts payable, autemating 18% of invoice processing",
+    "Managed the month-end close for 3 legal entities, reducing the close cycle from 12 te 5 working days",
+    "Trained 14 junior accountants on ind AS transition adjustments"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified internal Auditor (CAA)",
+   "issuer": "Phe WA",
+   "year": "2028"
+  }
+ ]
+}

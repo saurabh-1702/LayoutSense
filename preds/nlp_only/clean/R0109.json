@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0109",
+ "name": "Niall O'Sullivan",
+ "contact": {
+  "email": "niallosullivan49@gmail.com",
+  "phone": "+353 853403539",
+  "location": "Galway, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niallosullivan"
+  },
+  {
+   "url": "github.com/niall82"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Data Science",
+   "institution": "University College Cork, Cork",
+   "dates": "Jun '17"
+  },
+  {
+   "degree": "BEng (Hons) Information Technology",
+   "institution": "Dublin City University",
+   "dates": "May '16"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Machine Learning Engineer",
+   "company": "Intercom",
+   "dates": "Jan '21 - Present",
+   "bullets": [
+    "Defined the company-wide metric layer in dbt, eliminating 4 conflicting KPI definitions",
+    "Ran 19 A/B experiments on pricing and onboarding flows, lifting conversion by 11%",
+    "Built a customer segmentation framework using clustering on 310K+ profiles to drive targeted campaigns"
+   ]
+  },
+  {
+   "title": "Junior Data Scientist",
+   "company": "Accenture",
+   "dates": "Aug '18 - Dec '20",
+   "bullets": [
+    "Built a churn prediction model in Scala (AUC 0.120) that helped retention teams save €7.1M in annual",
+    "Authored SQL data quality checks across 150 tables, reducing reporting incidents by 39%",
+    "Reduced Spark job runtime by 34% through partitioning and broadcast join optimisation",
+    "Designed and maintained 11 Airflow pipelines ingesting 69,000 records daily into Snowflake",
+    "Developed a demand forecasting model that reduced inventory holding costs by 47%",
+    "Partnered with finance to build an anomaly detection system that flagged €18.6M in billing errors"
+   ]
+  },
+  {
+   "title": "Analytics Associate",
+   "company": "ICON plc",
+   "dates": "Aug '17 - Jul '18",
+   "bullets": [
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 11 days",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 51,000 employee queries",
+    "Fine-tuned transformer models for ticket classification, automating 48% of manual triage",
+    "Created executive dashboards in Tableau tracking 24 KPIs, adopted by 200+ business users"
+   ]
+  }
+ ],
+ "skills": [
+  "Python",
+  "Scala",
+  "SAS",
+  "SQL",
+  "Tableau",
+  "Excel",
+  "Power BI",
+  "dbt",
+  "Snowflake",
+  "NumPy",
+  "Apache Spark",
+  "Airflow",
+  "BigQuery",
+  "Mentoring",
+  "Conflict Resolution"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "French",
+   "proficiency": "B2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.078
+}

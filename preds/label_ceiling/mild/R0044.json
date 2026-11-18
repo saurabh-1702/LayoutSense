@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0044",
+ "name": "Hanna Bekele",
+ "headline": "Associate Software Engineer",
+ "contact": {
+  "email": "hanna.bekele@gmail.com",
+  "phone": "+251 947495534",
+  "location": "Hawassa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hannabekele"
+  },
+  {
+   "url": "github.com/hannabekel"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Information Technology",
+   "institution": "Addis Ababa Science and Technology University",
+   "dates": "July 2015 — May 2019",
+   "grade": "2:1"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2020 — June 2026",
+   "title": "Associate Software Engineer",
+   "company": "Capgemini",
+   "bullets": [
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 26 hours to 15 minutes",
+    "Owned the payments integration with 6 third-party gateways, reducing failed transactions by 36%",
+    "Designed and built 17 RESTful microservices in Express.js and C++, serving 261K requests per day with 99.95% uptime",
+    "Developed customer-facing features in Express.js used by 8.0M monthly active users"
+   ]
+  },
+  {
+   "dates": "June 2019 — April 2020",
+   "title": "Software Developer",
+   "company": "Capgemini",
+   "bullets": [
+    "Built a real-time notification service using Rust and Apache Kafka that processes 68,000 events per hour",
+    "Introduced feature flags and canary releases, lowering production incidents by 26% quarter over quarter",
+    "Reduced p95 API latency by 53% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Cut cloud infrastructure costs by ETB 18.9M annually by right-sizing instances and adopting spot capacity",
+    "Collaborated with product and design to ship 24 major releases on schedule across web and mobile"
+   ]
+  }
+ ],
+ "skills": [
+  "0 HP",
+  "QO ++",
+  "Rust",
+  "Ruby on Rails",
+  "Express.js",
+  ".NET Core",
+  "Elasticsearch",
+  "Redis",
+  "DynamoDB",
+  "MongoDB",
+  "wes (ep) O - ."
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "2019"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "October 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Winner, Smart India Hackathon",
+   "year": "2017"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Capgemini",
+   "year": "2019"
+  },
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Capgemini",
+   "year": "2019"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "Fluent"
+  }
+ ]
+}

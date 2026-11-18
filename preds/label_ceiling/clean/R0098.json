@@ -1,0 +1,99 @@
+{
+ "resume_id": "R0098",
+ "name": "KARIN GUSTAFSSON",
+ "headline": "Software Developer",
+ "contact": {
+  "location": "Uppsala, Sweden"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/karingustafsson-1eb701"
+  },
+  {
+   "url": "github.com/kgustafsson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Software Engineering",
+   "institution": "Chalmers University of Technology",
+   "dates": "May 2024"
+  },
+  {
+   "degree": "B.Sc. Computer Science",
+   "institution": "KTH Royal Institute of Technology",
+   "dates": "Jun 2022"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Spotify",
+   "location": "Remote",
+   "title": "Software Developer",
+   "dates": "Jan 2026 - Present",
+   "bullets": [
+    "Designed and built 4 RESTful microservices in Node.js and Redis, serving 4,000 requests per day with 99.95% uptime",
+    "Reduced p95 API latency by 55% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Cut cloud infrastructure costs by SEK 23.2M annually by right-sizing instances and adopting spot capacity",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 21 hours to 15 minutes",
+    "Owned the payments integration with 21 third-party gateways, reducing failed transactions by 35%",
+    "Resolved 60+ production issues as part of the on-call rotation, reducing mean time to recovery by 52%"
+   ]
+  },
+  {
+   "company": "Klarna",
+   "location": "Uppsala",
+   "title": "Systems Engineer",
+   "dates": "Aug 2024 - Dec 2025",
+   "bullets": [
+    "Collaborated with product and design to ship 7 major releases on schedule across web and mobile",
+    "Introduced feature flags and canary releases, lowering production incidents by 20% quarter over quarter",
+    "Developed internal tooling in Swift that saved the support team 22 hours per week",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 22% to 85%",
+    "Wrote technical design documents and led code reviews for a team of 8 engineers",
+    "Developed customer-facing features in Swift used by 74K monthly active users"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "Python",
+  "Rust",
+  "Swift",
+  "Ruby on Rails",
+  "Express. js",
+  "Vue. js",
+  "Node. js",
+  "WS",
+  "Terraform",
+  "Kubernetes",
+  "Linux",
+  "MySQL",
+  "Apache Kafka",
+  "DynamoDB",
+  "Cassandra",
+  "Redis",
+  "MongoDB"
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer - Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "1st Place, Internal Hackathon",
+   "year": "2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Swedish"
+  },
+  {
+   "language": "English"
+  }
+ ]
+}

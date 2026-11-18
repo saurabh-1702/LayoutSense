@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0099",
+ "name": "Amna Javed",
+ "contact": {
+  "email": "amna_javed@gmail.com",
+  "phone": "0334-3179619",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/amnajaved-82"
+  },
+  {
+   "url": "github.com/amnajaved"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Data Science Institute of Business Administration",
+   "institution": "Data Science Institute of Business Administration",
+   "dates": "09.2022 - 02.2023"
+  },
+  {
+   "degree": "BA (Hons) Economics Lahore University of Management Distinction",
+   "institution": "BA (Hons) Economics Lahore University of Management 07.2019 - 05.2022 Distinction",
+   "dates": "07.2019 - 05.2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "fJaz—(itsi‘“‘Cs—s*@Y Analytics Associate",
+   "company": "month",
+   "dates": "02.2024 - 05.2026",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 7.8M profiles to drive targeted campaigns",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7 days"
+   ]
+  },
+  {
+   "title": "junior Data Scientist",
+   "company": "340M in annual revenue",
+   "dates": "05.2023 - 01.2024",
+   "bullets": [
+    "Built a churn prediction model in Time Series Forecasting (AUC 0.120) that helped retention teams save PKR"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Data Analytics Professional Certificate",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.116
+}

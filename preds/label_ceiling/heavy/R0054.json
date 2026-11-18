@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0054",
+ "links": [
+  {
+   "url": "linkedin.com/in/sharon-wanjiku-11"
+  },
+  {
+   "url": "github.com/sharon97"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "ideedoced weelig ; Operating reviews that cut decision turnaround from 16 days to 1 day",
+    "(rir chet idee the teed dices Partnered with budget of RES 700K)",
+    "Led a team of 5 across rh ti aa reviews and quarterly planning",
+    "Wrote design documents and led code reviews for a team of Pence",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months",
+    "Developed internal tooling in FastAPI that saved the support team 36 hours per week",
+    "Built a real-time notification service using FastAP! and Apache Kafka that processes 359K events per hour",
+    "Rebuilt the search expenence with Elusticsearch, unproving result relevance and click-through by 24%",
+    "Reduced p95 API latency by 44% by introducing Redis caching and opnmising slow PostgreSQL. queries",
+    "Collaborated with product and design to ship 19 major releases on schedule across web and mobile",
+    "Introduced feature flags and canary releases, lowering production incidents by 38% quarter over quarter",
+    "Grew the team by 38% in two years while keeping attrition below 2 5° 0"
+   ],
+   "title": "Senior Full Stack Engineer",
+   "dates": "Jan 2017-Ocr 2024",
+   "company": "Salesforce",
+   "location": "Mombasa"
+  },
+  {
+   "title": "Senior Backend Engineer",
+   "dates": "Deg 2014-Dec 2816",
+   "company": "Cellulant",
+   "location": "Mombasa",
+   "bullets": [
+    "Cur cloud infrastructure costs by KES 217M anoually by nght-seang instances and adopting spot capacity",
+    "Designed and built 19 RESTful microservices in JavaSenpt and TypeSenpt, serving 76,000 requests per day with 99.95% upnime",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 29 heurs fo 15 minutes",
+    "Represented the function in executive stvering commuttees and board. level reporting"
+   ]
+  },
+  {
+   "title": "Graduate Software Engineer",
+   "dates": "Sep 2009-Nov 2014",
+   "company": "Adobe",
+   "location": "Mombasa",
+   "bullets": [
+    "Developed customer-facing features in Ruby on Rails used by 362K+ monthly active users",
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 37%",
+    "Implemented a C1/CD pipeline with GitHub Actions and automated tests, raising code coverage from 22% to 85%",
+    "Owned the payments integration with 10 third-party gateways, reducing failed transactions by 44%"
+   ]
+  }
+ ],
+ "skills": [
+  "5 2",
+  "Ey",
+  "Ey 4 4",
+  "4 &",
+  "= =",
+  "Vuews",
+  "Next as",
+  "Angular",
+  "Ruts on Rails",
+  "Mutter",
+  "Mierostt Azure",
+  "Google Cloud Platform EE T EE LF",
+  "Jenkins",
+  "MySQL",
+  "Redis",
+  "Elasticsearch"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "dates": "Jun 2007",
+   "description": "Pull-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "MySQL, C++, Jenkans"
+  },
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 8.4M redirects/ minute with consistent hashing and Redis."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform",
+   "issuer": "Pashia orp",
+   "year": "201"
+  }
+ ]
+}

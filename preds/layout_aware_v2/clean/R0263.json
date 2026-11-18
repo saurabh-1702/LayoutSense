@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0263",
+ "name": "Ayu",
+ "headline": "UX Designer | 7+ Years in Design (UX/UI & Graphic)",
+ "contact": {
+  "email": "ayu_lestari@gmail.com",
+  "phone": "0813-9890-4312",
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayu-lestari-5fb4c3behance.net/ayulestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Design in",
+   "institution": "Binus University",
+   "dates": "2019",
+   "grade": "GPA: 3.38"
+  },
+  {
+   "degree": "Industrial Design"
+  }
+ ],
+ "skills": [
+  "one",
+  "EE Principle Figma Team Leadership Communication"
+ ],
+ "projects": [
+  {
+   "name": "1"
+  },
+  {
+   "name": "Design System for a Fintech",
+   "description": "Token-based component library in Figma with documentation and"
+  },
+  {
+   "name": "Startup",
+   "description": "dark-mode support."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Interaction Design Foundation"
+  },
+  {
+   "name": "UX",
+   "issuer": "Management"
+  },
+  {
+   "name": "Interaction",
+   "issuer": "Design"
+  },
+  {
+   "name": "Foundation"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

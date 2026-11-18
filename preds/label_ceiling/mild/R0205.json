@@ -1,0 +1,99 @@
+{
+ "resume_id": "R0205",
+ "name": "LIU Jiayi",
+ "contact": {
+  "email": "jliu@gmail.com",
+  "phone": "+86-189-7076-2993",
+  "location": "Chengdu, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jiayiliu-6b6e3f"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA in Finance",
+   "dates": "Aug 2020",
+   "institution": "China Europe International Business School",
+   "location": "Shanghai"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Visa",
+   "location": "Shanghai",
+   "title": "Portfolio Analyst",
+   "dates": "Oct 2023 - Present",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 9 disconnected spreadsheets",
+    "Built three-statement financial models and DCF valuations for 22 deals worth a combined CNY 375M",
+    "Analysed credit proposals for 200 mid-market clients, maintaining an NPA ratio below 1.8%"
+   ]
+  },
+  {
+   "company": "Industrial and Commercial Bank of China",
+   "location": "Chengdu",
+   "title": "Relationship Manager",
+   "dates": "Sep 2022 - Sep 2023",
+   "bullets": [
+    "Automated monthly variance reporting in Power BI, saving the finance team 6 hours per cycle",
+    "Supported due diligence on 13 acquisitions, including working-capital and synergy analysis",
+    "Identified cost savings of CNY 10.7M through vendor spend analysis and contract renegotiation",
+    "Grew the assets under management of assigned clients by 57% year on year",
+    "Prepared pitch books and information memoranda for 7 sell-side mandates"
+   ]
+  },
+  {
+   "company": "Ping An Insurance",
+   "location": "Chengdu",
+   "title": "Financial Analyst",
+   "dates": "Sep 2020 - Aug 2022",
+   "bullets": [
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Managed a loan portfolio of CNY 202M across 250 relationships with zero slippages in FY"
+   ]
+  }
+ ],
+ "skills": [
+  "Risk Management",
+  "Equity Research",
+  "Budgeting & Forecasting",
+  "Basel III",
+  "FactSet",
+  "Oracle Hyperion",
+  "Capital IQ",
+  "Power BI"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development",
+   "description": "Logistic-regression scorecard for retail loans validated with Gini and KS statistics."
+  },
+  {
+   "name": "Working Capital Improvement Study",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth CNY 155M in cash release."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "China Europe International Business School",
+   "year": "(2019)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Full Professional Proficiency)"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "(Full Professional Proficiency)"
+  }
+ ]
+}

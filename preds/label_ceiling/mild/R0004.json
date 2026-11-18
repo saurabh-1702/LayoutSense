@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0004",
+ "name": "Pawar Pooja",
+ "headline": "Software Developer",
+ "contact": {
+  "email": "pooja.pawar@outlook.com",
+  "phone": "+91 6289865863",
+  "location": "Nagpur, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pooja-power"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Tech in Electronics and Communication Engineering",
+   "institution": "Vellore Institute of Technology"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Software Developer",
+   "company": "Google",
+   "location": "Mumbai",
+   "bullets": [
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 22% to 85%",
+    "Wrote technical design documents and led code reviews for a team of 6 engineers",
+    "Designed and built 18 RESTful microservices in TypeScript and JavaScript, serving 71,000 requests per day with 99.95% uptime",
+    "Resolved 250+ production issues as part of the on-call rotation, reducing mean time to recovery by 38%"
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "company": "Google",
+   "location": "Mumbai",
+   "bullets": [
+    "Collaborated with product and design to ship 18 major releases on schedule across web and mobile",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 6 hours to 15 minutes",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 49%",
+    "Introduced feature flags and canary releases, lowering production incidents by 12% quarter over quarter",
+    "Owned the payments integration with 5 third-party gateways, reducing failed transactions by 52%"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "qQ [3 » ° =F be) nen",
+  "= ts) i?) so ee",
+  "@ o)",
+  "Ruby on Rails",
+  "Express.js",
+  "Spring Boot",
+  "Adaptability",
+  "Attention to Detail",
+  "Mentoring",
+  "Cross-functional Collaboration"
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "2026"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2021"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "2017"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "Basic"
+  }
+ ]
+}

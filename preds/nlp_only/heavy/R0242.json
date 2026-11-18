@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0242",
+ "name": "Oleksandr Koval",
+ "experience": [
+  {
+   "title": "Engineering Manager ~ Infrastructure",
+   "company": "AECOM Kyiv",
+   "dates": "64/2024 to Present",
+   "bullets": []
+  },
+  {
+   "title": "Head of Projects 01 7",
+   "company": "Jacobs Lviv",
+   "dates": "2023 to 03/2024",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a",
+    "Grew the team by 50% in two years while keeping attrition below 7%",
+    "Supervised construction of a 21-storey residential tower with a",
+    "Represented the function in executive steering committees and",
+    "Mentored 11 junior colleagues, several of whom were promoted",
+    "Represented the function in executive steering committees and"
+   ]
+  },
+  {
+   "title": "Senior Project Manager",
+   "company": "Arup Kyiv",
+   "dates": "05/2022 to 12/2022",
+   "bullets": [
+    "Scheduled a 6-month metro station package in STAAD.Pro",
+    "Prepared BOQs and rate analyses for tenders worth UAH 245M",
+    "Led a team of 13 across 13 workstreams, owning hiring, performance"
+   ]
+  },
+  {
+   "title": "Graduate Civil Engineer",
+   "company": "wsp Kyiv",
+   "dates": "07/2011 to 04/2022",
+   "bullets": [
+    "Delivered a 14 km highway stretch 16 weeks ahead of schedule",
+    "Coordinated 11 subcontractors and 120+ workers across civil and"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "“Eng. Civil Engineering"
+  },
+  {
+   "name": "Lviv Polyte Selected Projects"
+  }
+ ],
+ "_runtime_s": 0.112
+}

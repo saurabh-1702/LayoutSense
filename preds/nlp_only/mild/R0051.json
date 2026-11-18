@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0051",
+ "name": "KEVIN T. RIVERA",
+ "contact": {
+  "email": "kevin.rivera@gmail.com",
+  "phone": "+1 202-220-1286",
+  "location": "Washington, DC"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kevinrivera"
+  },
+  {
+   "url": "github.com/krivera"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mathematics Purdue University Summa Cum Laude",
+   "institution": "Qualification Institution Tenure",
+   "dates": "Expected Jul 2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Oracle Data Science Intern New York",
+   "company": "NY",
+   "dates": "Oct 2025 - Feb 2026",
+   "bullets": [
+    "Partnered with finance to build an anomaly detection system that flagged $295K in billing errors",
+    "Built a tracker in Tableau that streamlined weekly reporting for a team of 3"
+   ]
+  },
+  {
+   "title": "Analyst Intern Washington",
+   "company": "American Express Data",
+   "dates": "May 2024 - Oct 2024",
+   "bullets": [
+    "Collected and cleaned data from 24 sources to support a data science & analytics initiative",
+    "Built a tracker in A/B Testing that streamlined weekly reporting for a team of 9"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Project Description Technologies"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": "SnowPro Core Certification Snowflake"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.062
+}

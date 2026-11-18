@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0116",
+ "name": "‘Reza Teh ra ni ’",
+ "headline": "Sales Development Representative",
+ "contact": {
+  "email": "rezatehrani@gmail.com",
+  "phone": "Sal (313) 452-2487"
+ },
+ "links": [
+  {
+   "url": "cniaiandl"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Commerce",
+   "institution": "University of Tehran",
+   "dates": "Sep, 2021—Sep, 2025",
+   "grade": "Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct, 2025-Present",
+   "title": "Sales Development Representative",
+   "company": "HubSpot",
+   "location": "Philadelphia, PA",
+   "bullets": [
+    "Achieved 9% of annual quota for 21 consecutive years, closing $3.4M in new ARR",
+    "Onboarded and trained 11 new sales representatives on product and CRM workflows",
+    "Expanded distribution to 250 new retail outlets across 14 districts",
+    "Ranked #1 out of 12 account executives in the region for FY"
+   ]
+  }
+ ],
+ "skills": [
+  "Account Management",
+  "Channel Sales",
+  "Cold Calling",
+  "82B Sales",
+  "Key Account Management",
+  "Linkedin Sales Navigator",
+  "Salesforce CRM",
+  "Apollo.iio",
+  "Stakeholder Management",
+  "Presentation Skills",
+  "Communication"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Professional Sales Person (CPSP)",
+   "issuer": "NASP",
+   "year": "2023"
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salestorce",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "ove"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ]
+}

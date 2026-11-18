@@ -1,0 +1,39 @@
+E tejaskale@yahoo.co.in
+~ T +91 870-087-3627
+Tej as Ka e
+A Navi Mumbai, India
+Software Engineering Graduate Li_linkedin.com/in/tejaskale
+ACADEMIC BACKGROUND SKILLS & TOOLS
+Bachelor of Technology (Information Expected June 2027 Databases: Redis | MySQL | Cassandra | PostgreSQL
+Technology) Cloud & DevOps: GitHub Actions | Docker | Linux |
+Indian Institute of Technology Kharagpur, Kharagpur Kubernetes | Google Cloud Platform
+79.2% Frameworks: Spring Boot | Next.js | Express.js
+KEY PROJECTS Core Strengths: Conflict Resolution | Public Speaking
+Realtime Chat Platform December 2026 COURSES & CERTIFICATIONS
+WebSocket chat service with end-to-end encryption, read AWS Certified Solutions Architect — Associate
+receipts and presence indicators. Amazon Web Services, October 2026
+Tools: Kubernetes, Linux
+Campus Placement Portal December 2025 HONOURS & AWARDS
+Web portal used by 200 students to apply for drives, track Google Code Jam Round 2 Qualifier
+status and download offer letters. 2025
+Tools: Google Cloud Platform, PostgreSQL, Redis
+LANGUAGES
+INTERNSHIP EXPERIENCE
+Marathi Native
+November 2025 to February 2026
+English Advanced
+Software Developer Intern
+Hindi Beginner
+Infosys | Navi Mumbai
+Konkani Fluent
+* Supported the software engineering team on 6 live
+projects, preparing analyses and documentation
+* Built a tracker in GitHub Actions that streamlined weekly
+reporting for a team of 8
+June 2024 to November 2024
+Backend Developer Intern
+Bosch | Mumbai
+¢ Drafted standard operating procedures for 5 recurring
+tasks
+¢ Built a tracker in Linux that streamlined weekly reporting
+for a team of 12

@@ -1,0 +1,112 @@
+{
+ "resume_id": "R0002",
+ "name": "Madison D. Bennett",
+ "headline": "Nurse Supervisor",
+ "contact": {
+  "email": "madison.bennett@outlook.com",
+  "phone": "(312) 264-3163",
+  "location": "Chicago, IL"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/madison-bennett6"
+  },
+  {
+   "url": "www.madisonbennett.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSN",
+   "institution": "Purdue University",
+   "dates": "March 2019",
+   "grade": "GPA 3.44"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "June 2025 — Present",
+   "title": "Nurse Supervisor",
+   "company": "Northwestern Memorial Hospital",
+   "location": "Boston",
+   "bullets": [
+    "Participated in 5 code blue responses as a certified ACLS provider",
+    "Provided direct care to 18 patients per shift in a 14-bed medical-surgical ward",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 6%",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "June 2019 — May 2025",
+   "title": "Staff Nurse",
+   "company": "Northwestern Memorial Hospital",
+   "location": "Boston",
+   "bullets": [
+    "Implemented a fall-prevention bundle that reduced patient falls by 22%",
+    "Triaged 50+ patients monthly in the emergency department using the Manchester Triage System",
+    "Reduced hospital-acquired infection rates by 22% by leading hand-hygiene audits"
+   ]
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "Phlebotomy",
+  "Medication Administration",
+  "Infection Prevention",
+  "IV Cannulation",
+  "Patient Assessment",
+  "NABH Standards",
+  "Electronic Medical Records",
+  "Patient Charting",
+  "Cerner",
+  "JCI Standards",
+  "Adaptability",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "dates": "October 2021",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 12 months."
+  },
+  {
+   "name": "Community Health Camp",
+   "dates": "September 2021",
+   "description": "Organised 8 rural health camps screening 80 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association",
+   "year": "2019"
+  },
+  {
+   "name": "Critical Care Registered Nurse (CCRN)",
+   "issuer": "AACN",
+   "year": "2026"
+  },
+  {
+   "name": "Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Northwestern Memorial Hospital",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

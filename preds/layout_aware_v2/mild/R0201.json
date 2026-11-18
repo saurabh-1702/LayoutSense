@@ -1,0 +1,143 @@
+{
+ "resume_id": "R0201",
+ "name": "Gabriel Rodrigues Gomes",
+ "headline": "Director of Engineering",
+ "contact": {
+  "email": "gabrielgomes@gmail.com",
+  "phone": "+55 41 96804 6825",
+  "location": "Florianopolis, SC, Brazil"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/gabriel-gomes"
+  },
+  {
+   "url": "github.com/gabriel33"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Computer Science",
+   "dates": "July 2005 – July 2009",
+   "institution": "Insper"
+  }
+ ],
+ "experience": [
+  {
+   "company": "TOTVS",
+   "title": "Director of Engineering",
+   "dates": "December 2023 – Present",
+   "bullets": [
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "company": "Cisco",
+   "title": "Tech Lead",
+   "dates": "August 2020 – November 2023",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Built a real-time notification service using Apache Kafka and Apache Kafka that processes 681K events per hour",
+    "Led a team of 14 across 4 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of BRL 276K",
+    "Introduced weekly operating reviews that cut decision turnaround from 25 days to 1 day"
+   ]
+  },
+  {
+   "company": "Itau Unibanco",
+   "title": "Senior Backend Engineer",
+   "dates": "March 2017 – July 2020",
+   "bullets": [
+    "Designed and built 12 RESTful microservices in Python and Terraform, serving 89,000 requests per day with 99.95%",
+    "uptime",
+    "Developed customer-facing features in Python used by 788K monthly active users",
+    "Grew the team by 14% in two years while keeping attrition below 12%"
+   ]
+  },
+  {
+   "company": "Bosch",
+   "title": "Senior Software Engineer",
+   "dates": "February 2017",
+   "bullets": [
+    "Owned the payments integration with 12 third-party gateways, reducing failed transactions by 27%",
+    "Developed internal tooling in Jenkins that saved the support team 32 hours per week",
+    "Cut cloud infrastructure costs by BRL 24.6M annually by right-sizing instances and adopting spot capacity"
+   ]
+  },
+  {
+   "company": "Visa",
+   "title": "iOS Developer",
+   "dates": "January 2013 – January 2017",
+   "bullets": [
+    "Reduced p95 API latency by 43% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 12% to 85%",
+    "Resolved 150+ production issues as part of the on-call rotation, reducing mean time to recovery by 37%",
+    "Collaborated with product and design to ship 18 major releases on schedule across web and mobile"
+   ]
+  },
+  {
+   "company": "Honeywell",
+   "title": "Systems Engineer",
+   "dates": "August 2009 – December 2012",
+   "bullets": [
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 39 hours to 15 minutes",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 25%",
+    "Wrote technical design documents and led code reviews for a team of 14 engineers",
+    "Introduced feature flags and canary releases, lowering production incidents by 31% quarter over quarter"
+   ]
+  }
+ ],
+ "skills": [
+  "Python",
+  "Scala",
+  "Go",
+  "Swift",
+  "Vue.js",
+  "Next.js",
+  "FastAPI",
+  "Linux",
+  "Docker",
+  "Terraform",
+  "CI/CD",
+  "GitHub Actions",
+  "Jenkins",
+  "DynamoDB",
+  "PostgreSQL",
+  "MongoDB",
+  "Redis",
+  "Apache Kafka",
+  "MySQL"
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(2026)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect"
+  },
+  {
+   "name": "Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(October 2010)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Cisco",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  }
+ ]
+}

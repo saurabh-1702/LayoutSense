@@ -1,0 +1,117 @@
+{
+ "resume_id": "R0278",
+ "name": "Jun Sun",
+ "contact": {
+  "email": "jun.s@gmail.com",
+  "phone": "132 8096 2321",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jun-sun"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Laws (LL.B.)",
+   "institution": "Peking University",
+   "dates": "Sep 2014 to Mar 2018",
+   "grade": "GPA: 3.36"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Counsel",
+   "company": "King & Wood Mallesons",
+   "location": "Hangzhou",
+   "dates": "Oct 2024 to Present",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of CNY 24.9M",
+    "Leda team of 10 across 13 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 28% in two years while keeping attrition below 10%",
+    "Introduced weekly operating reviews that cut decision turnaround from 8 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 59% in two years while keeping attrition below 10%"
+   ]
+  },
+  {
+   "title": "Principal Associate",
+   "company": "Fangda Partners",
+   "location": "Chengdu",
+   "dates": "Mar 2024 to Sep 2024",
+   "bullets": [
+    "Builta GDPR/DPDP compliance programme covering 23 business units",
+    "Led legal due diligence for 20 acquisitions, reviewing 150+ contracts in Kira Systems",
+    "Advised on 23 cross-border M&A transactions with a combined deal value of CNY 18.8M",
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals"
+   ]
+  },
+  {
+   "title": "Counsel",
+   "company": "King & Wood Mallesons",
+   "location": "Hangzhou",
+   "dates": "Oct 2023 to Feb 2024",
+   "bullets": [
+    "Represented clients in 5 commercial arbitrations seated in Singapore and London",
+    "Trained business teams on contract playbooks and anti-bribery compliance",
+    "Managed a portfolio of 50 trademarks across 4 jurisdictions"
+   ]
+  },
+  {
+   "title": "Associate",
+   "company": "King & Wood Mallesons",
+   "location": "Hangzhou",
+   "dates": "May 2018 to Sep 2023",
+   "bullets": [
+    "Drafted and negotiated share purchase agreements, shareholders' agreements and term sheets",
+    "Reduced external counsel spend by 54% by bringing standard contract work in-house",
+    "Conducted legal research and prepared memos on securities and competition law issues"
+   ]
+  }
+ ],
+ "skills": [
+  "Arbitration",
+  "Mergers & Acquisitions",
+  "Regulatory Compliance",
+  "SCC Online",
+  "iManage",
+  "Manupatra",
+  "Kira Systems",
+  "Westlaw",
+  "LexisNexis",
+  "Public Speaking",
+  "Cross-functional Collaboration",
+  "Presentation Skills",
+  "Critical Thinking"
+ ],
+ "certifications": [
+  {
+   "name": "New York State Bar Admission",
+   "issuer": "New York State Board of Law Examiners",
+   "year": "Nov 2018"
+  },
+  {
+   "name": "Certified Information Privacy Professional (CIPP/E)",
+   "issuer": "TAPP",
+   "year": "2020"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Beginner"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Fluent"
+  }
+ ]
+}

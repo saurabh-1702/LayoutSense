@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0137",
+ "name": "Zainab Hussain",
+ "contact": {
+  "email": "zainabhussain@gmail.com",
+  "phone": "+92 313 097 7277",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/zainab-hussain-11"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BN (Hons) Nursing",
+   "institution": "Aga Khan University, Karachi",
+   "dates": "09/2014 ~ 07/2017"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Staff Nurse",
+   "company": "Aga Khan University Hospital",
+   "dates": "12/2018 ~ Present",
+   "bullets": [
+    "Provided direct care to 16 patients per shift in a 15-bed medical-surgical ward",
+    "Triaged 120+ patients monthly in the emergency department using the Manchester Triage System",
+    "Oversaw duty rosters for 7 nurses and managed ward inventory and consumables",
+    "Trained 14 newly joined nurses on medication safety and documentation in Epic EHR",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit"
+   ]
+  },
+  {
+   "title": "Clinical Nurse",
+   "company": "Aga Khan University Hospital",
+   "dates": "09/2017 ~ 11/2018",
+   "bullets": [
+    "Implemented a fall-prevention bundle that reduced patient falls by 59%",
+    "Participated in 9 code blue responses as a certified ACLS provider",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 11%",
+    "Managed ventilated patients in a 5-bed ICU, titrating vasoactive infusions per protocol",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Reduced hospital-acquired infection rates by 34% by leading hand-hygiene audits"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp"
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.036
+}

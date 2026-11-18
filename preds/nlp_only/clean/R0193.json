@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0193",
+ "name": "FLORENCIA PEREZ",
+ "contact": {
+  "email": "florenciaperez25@gmail.com",
+  "phone": "26 1384-8691"
+ },
+ "education": [
+  {
+   "degree": "BA, History",
+   "institution": "BA",
+   "dates": "Sep, 2021 - Jul, 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Teaching Assistant Intern",
+   "company": "St. Andrew's Scots School",
+   "dates": "Oct, 2024 - Dec, 2024",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Lesson Planning",
+  "Assessment Design",
+  "CBSE Curriculum",
+  "Student Counselling",
+  "STEM"
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners"
+  },
+  {
+   "name": "Flipped Classroom Pilot"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Beginner"
+  }
+ ],
+ "_runtime_s": 0.042
+}

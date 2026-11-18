@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0096",
+ "name": "Aspiring Maintenance",
+ "contact": {
+  "email": "noura.alfalasi@yahoo.com",
+  "phone": "550136992",
+  "location": "Abu Dhabi, United Arab"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/noura-alfalasi-703b96"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Mechanical",
+   "institution": "hala University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "savings.",
+  "Siemens NX",
+  "MATLAB",
+  "CATIA V5",
+  "Product Lifecycle CFD",
+  "Management",
+  "Lean Manufacturing PPAP",
+  "é) (°°)",
+  "PFMEA Siemens NX",
+  "‘ DS",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car Employee of the Quarter"
+  },
+  {
+   "name": "nationally. Gold Medal for Academic"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CATIA V5 Associate",
+   "issuer": "Daesault Systhines"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.026
+}

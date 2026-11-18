@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0226",
+ "name": "KITTISAK Email",
+ "contact": {
+  "phone": "092-199-8172",
+  "location": "Phuket, Thailand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nattapong"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering in Mechanical",
+   "institution": "Fad",
+   "dates": "Dec. 2025 | Present"
+  },
+  {
+   "degree": "Master (CSM)",
+   "institution": null,
+   "dates": "Apr 2028 | Nov. 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Engagement Manager . i",
+   "company": "Bachelor of Engineering in Mechanical",
+   "dates": "Dec. 2025 | Present",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "increased online sales by 16% Sep: } Honours",
+   "dates": "2043 | Jun. 2017",
+   "bullets": [
+    "Built Alteryx models to size a THB 177M",
+    "Managed a team of 14 consultants and client Consulting: Due Diligence | Stakeholder",
+    "Designed a target operating model for a 353K+- Tools: Power Bi | Alteryx | PowerPoint | Python",
+    "Built a market entry business case for a THB 83M",
+    "Led a cost transformation programme identifying KEY PROJECTS",
+    "Authored 10 thought-jleadership articles and",
+    "Facilitated executive workshops with C-suite COURSES & CERTIFICATIONS",
+    "Delivered 18 strategy engagements for clients in Lean Six Sigma Black Belt"
+   ]
+  },
+  {
+   "title": "Consultant Scrum Alliance.",
+   "company": "Certified Scrum Master (CSM)",
+   "dates": "Apr 2028 | Nov. 2025",
+   "bullets": [
+    "Introduced weekly operating reviews that cut institute of Management Consultants, Mar. 2015",
+    "Mentored 8 junior colleagues, several of whom PMI, Apr. 2022",
+    "Leda team of 8 across 9 workstreams, owning Prosci, 2017"
+   ]
+  }
+ ],
+ "_runtime_s": 0.071
+}

@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0217",
+ "name": "LORENZO BRUNO",
+ "contact": {
+  "email": "lorenzobruno@gmail.com",
+  "phone": "+39 388 7567690",
+  "location": "Naples, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lorenzo-bruno7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Architecture",
+   "institution": "Politecnico di Torino",
+   "dates": "07/2016 - 05/2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Structural Engineer",
+   "company": "Arup",
+   "dates": "05/2024 - Present",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of €57M",
+    "Introduced weekly operating reviews that cut decision turnaround from 27 days to 1 day",
+    "Grew the team by 58% in two years while keeping attrition below 21%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "o Led a team of 13 across 21 workstreams, owning hiring, performance reviews and quarterly",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Project Engineer",
+   "company": "Webuild",
+   "dates": "12/2022 - 04/2024",
+   "bullets": [
+    "Supervised construction of a 21-storey residential tower with a contract value of €244M",
+    "Prepared BOQs and rate analyses for tenders worth €377M",
+    "Scheduled a 11-month metro station package in Tekla Structures, recovering 22 weeks of",
+    "Conducted soil investigation reviews and foundation design for 4 bridges",
+    "Designed RCC and steel structures in SAP2000 for 24 commercial projects",
+    "Delivered a 22 km highway stretch 8 weeks ahead of schedule",
+    "Achieved 8,000 safe man-hours without a lost-time injury on site"
+   ]
+  },
+  {
+   "title": "Planning Engineer",
+   "company": "Webuild",
+   "dates": "07/2019 - 11/2022",
+   "bullets": [
+    "Managed client billing and variations, improving cash collection by 46%",
+    "Introduced BIM clash detection that cut rework costs by 45%",
+    "Coordinated 11 subcontractors and 50+ workers across civil and MEP activities"
+   ]
+  }
+ ],
+ "skills": [
+  "Steel Design",
+  "Highway Design",
+  "BIM",
+  "Site Supervision",
+  "Geotechnical Investigation",
+  "Tekla",
+  "Structures",
+  "AutoCAD",
+  "SAP2000",
+  "STAAD.Pro",
+  "Revit",
+  "Attention to Detail",
+  "Team Leadership",
+  "Presentation Skills",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH International General Certificate",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "Chartered Engineer",
+   "issuer": "CEng)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.046
+}

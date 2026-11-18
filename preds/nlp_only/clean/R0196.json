@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0196",
+ "contact": {
+  "email": "olivialopez87@gmail.com",
+  "phone": "+1 858-213-8559",
+  "location": "FY"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/olivia-lopez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration in Finance",
+   "institution": "FP&A Georgetown University",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.067
+}

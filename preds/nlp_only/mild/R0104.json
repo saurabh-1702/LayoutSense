@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0104",
+ "contact": {
+  "email": "nataliazielinski@gmail.com",
+  "phone": "+48 786 46444",
+  "location": "Wroctaw, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nataliazielinski-70"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Wroctaw University of Science and",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Supply Chain Six Sigma Green Belt",
+   "company": "ry 8",
+   "dates": "Jan '24 — Jun '26",
+   "bullets": [
+    "Led a team of 9 across 23 workstreams",
+    "Represented the function in executive steering",
+    "Introduced weekly operating reviews that cut Power Bl",
+    "Built a supplier scorecard covering quality, cost",
+    "Mentored 3 junior colleagues, several of whom",
+    "Grew the team by 19% in two years while"
+   ]
+  },
+  {
+   "title": "Director of Operations",
+   "company": "Wroctaw University of Science and",
+   "dates": "Oct '23 — Dec '23",
+   "bullets": [
+    "Managed procurement spend of PLN 41M"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Ukrainian",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.05
+}

@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez",
+ "headline": "Aspiring Logistics Coordinator",
+ "contact": {
+  "email": "gonzalez.david@gmail.com",
+  "phone": "621. 434 362",
+  "location": "Valencia, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/davidgonzalez-bod5e3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": "2027 (Expected)"
+  },
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "IE University",
+   "dates": "2025",
+   "grade": "Nota media: 8.8"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Mercadona",
+   "title": "Supply Chain Intern",
+   "dates": "Feb 2026 – May 2026",
+   "location": "Valencia",
+   "bullets": [
+    "Built a tracker in SAP APO that streamlined weekly reporting for a team of 8",
+    "Assisted with day-to-day supply chain & operations operations and maintained accurate records"
+   ]
+  },
+  {
+   "company": "Uber",
+   "title": "Procurement Intern",
+   "dates": "Oct 2024 – Mar 2025",
+   "location": "Barcelona",
+   "bullets": [
+    "Built a tracker in Kinaxis RapidResponse that streamlined weekly reporting for a team of 4",
+    "Prepared research summaries and presentation decks for 8 stakeholder meetings"
+   ]
+  }
+ ],
+ "skills": [
+  "Contract Negotiation",
+  "Vendor Management",
+  "Demand Planning",
+  "SAP APO",
+  "Kinaxis RapidResponse",
+  "SAP MM",
+  "Oracle SCM"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 15 delivery vans with time windows."
+  },
+  {
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 30% in a live DC."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fiaent"
+  },
+  {
+   "language": "French",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Catalan",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

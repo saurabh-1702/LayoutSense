@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0192",
+ "contact": {
+  "email": "farzanahaque@gmail.com",
+  "phone": "1635002800",
+  "location": "Rajshahi, Bangladesh"
+ },
+ "education": [
+  {
+   "degree": "MA in Human Resource Management",
+   "institution": "ee ~ Reduced voluntary attrition by 25% through stay interviews University of Dhaka",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Psychology",
+   "institution": "© People Operations Associate BRAC University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Upper Second",
+   "dates": "August 2023 - August 2024",
+   "bullets": []
+  },
+  {
+   "title": "© People Operations Associate BRAC University",
+   "company": "Grameenphone",
+   "dates": "April 2025 September 2020",
+   "bullets": [
+    "Launched an internal L&D academy that delivered 250"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign =, o"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday. ere"
+  },
+  {
+   "name": "SHRM Certified Professional",
+   "issuer": "SHRM-CP) et"
+  },
+  {
+   "name": "SHRM",
+   "issuer": "Auly"
+  }
+ ],
+ "_runtime_s": 0.063
+}

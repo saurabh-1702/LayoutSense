@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0198",
+ "name": "PHAN QUOC THANG",
+ "contact": {
+  "email": "thangp321@gmail.com",
+  "phone": "+81 90-1102-1765",
+  "location": "Kyoto, Japen"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Electrical and Electronics",
+   "institution": "RMIT University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Embedded C",
+  "intern Jan 2026",
+  "Mar 2026",
+  "PCB Design",
+  "Battery Management Systems",
+  "rs a >",
+  "FPGA",
+  "MATLAB/Simulink",
+  "Cadence Virtuoso",
+  "Altium Designer",
+  "DIgSILENT Powerfactory",
+  "Dec 2024",
+  "Apr 2025"
+ ],
+ "projects": [
+  {
+   "name": "Professional Certifications"
+  },
+  {
+   "name": "Smart Energy Meter with loT"
+  },
+  {
+   "name": "State Electrical Licensing Board"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Vietnamese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "c2"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.016
+}

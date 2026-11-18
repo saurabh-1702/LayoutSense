@@ -1,0 +1,49 @@
+RUBEN VAN DIJK
+CONTACT
+% +31 6 94589269 Systems Engineer
+™ ruben_vandijk@ziggo.nl
+9 Rotterdam, Netherlands EMPLOYMENT HISTORY
+SKILLS & TOOLS Systems Engineer — Just Eat Takeaway.com, Rotterdam
+Apr. 2022 - Present
+O > Reduced p95 API latency by 39% by introducing Redis caching
+and optimising slow PostgreSQL queries
+> Developed internal tooling in CI/CD that saved the support
+Python team 9 hours per week
+Node.js » Wrote technical design documents and led code reviews for a
+team of 13 engineers
+React > Built a real-time notification service using CI/CD and Apache
+Flutter Kafka that processes 498K+ events per hour
+> Implemented a CI/CD pipeline with GitHub Actions and
+WS automated tests, raising code coverage from 21% to 85%
+Microsoft Azure > Owned the payments integration with 12 third-party gateways,
+reducing failed transactions by 16%
+CI/CD
+Graduate Software Engineer — ASML, Rotterdam
+Docker Oct. 2020 - Mar. 2022
+> Cut cloud infrastructure costs by €159K annually by right-
+COURSES & sizing instances and adopting spot capacity
+CERTIFICATIONS > Resolved 150+ production issues as part of the on-call
+Oracle Certified Professional: rotation, reducing mean time to recovery by 14%
+> Introduced feature flags and canary releases, lowering
+production incidents by 31% quarter over quarter
+» Migrated a legacy monolith to containerised services on
+Kubernetes, cutting deployment time from 12 hours to 15
+minutes
+AWS Certified Developer — > Collaborated with product and design to ship 10 major
+Associate
+releases on schedule across web and mobile
+Amazon Web Services, 2019
+Google Cloud Professional ACADEMIC PROJECTS
+Cloud Developer
+Google Cloud, Jan. 2024 Distributed Key-Value Store Mar. 2023
+Raft-based replicated key-value store with leader election, log
+compaction and a gRPC client.
+Tools used: Node.js, C++, CI/CD, React
+Conversational
+Bachelor of Engineering,
+Software Engineering
+Delft University of Technology
+Sep. 2016 - Jul. 2020 | GPA: 8.7/10
+Just Eat Takeaway.com, 2023
+SOCIAL
+GitHub: github.com/rubenvandijk

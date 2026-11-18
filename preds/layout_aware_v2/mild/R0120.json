@@ -1,0 +1,165 @@
+{
+ "resume_id": "R0120",
+ "name": "Sultan Al Mazrouei",
+ "headline": "Senior Frontend Engineer",
+ "contact": {
+  "email": "sultanalmazrouei32@outlook.com",
+  "phone": "+971 542885455",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sultanalmazrouei"
+  },
+  {
+   "url": "github.com/salmazrouei"
+  },
+  {
+   "url": "www.sultanalmazrouei.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Zayed University",
+   "dates": "06/2014",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "08/2019",
+   "title": "Senior Frontend Engineer"
+  },
+  {
+   "dates": "Present",
+   "company": "SAP",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Developed customer-facing features in GitHub Actions used by 65,000 monthly active users",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code",
+    "coverage from 17% to 85% Represented the function in executive steering",
+    "committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "12/2015",
+   "title": "Associate Software Engineer"
+  },
+  {
+   "dates": "07/2019",
+   "company": "SAP",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 37% quarter",
+    "over quarter Reduced p95 API latency by 32% by",
+    "introducing Redis caching and optimising slow PostgreSQL queries Owned the payments integration with 4 third- party gateways, reducing failed transactions by",
+    "36% Resolved 120+ production issues as part of the",
+    "on-call rotation, reducing mean time to recovery by 14%",
+    "Collaborated with product and design to ship 17 major releases on schedule across web and mobile Rebuilt the search experience with",
+    "Elasticsearch, improving result relevance and click-through by 23%",
+    "Cut cloud infrastructure costs by AED 6.0M annually by right-sizing instances and adopting",
+    "spot capacity"
+   ]
+  },
+  {
+   "dates": "08/2014",
+   "title": "Junior Software Developer"
+  },
+  {
+   "dates": "11/2015",
+   "company": "Cisco",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Designed and built 7 RESTful microservices in",
+    "C++ and Node.js, serving 552K requests per day with 99.95% uptime Developed internal tooling in C++ that saved",
+    "the support team 22 hours per week Wrote technical design documents and led code",
+    "reviews for a team of 9 engineers",
+    "Migrated a legacy monolith to containerised",
+    "services on Kubernetes, cutting deployment time from 18 hours to 15 minutes"
+   ]
+  }
+ ],
+ "skills": [
+  "76%",
+  "PHP",
+  "Ruby",
+  "C++",
+  "79% !",
+  "JavaScript",
+  "Python",
+  "93%",
+  "Express.js",
+  "Next.js",
+  "Node.js",
+  "FastAPI",
+  "94%",
+  "92%",
+  "Jenkins",
+  "GitHub Actions",
+  "CI/CD",
+  "Terraform",
+  "WwW 4",
+  "Microsoft Azure",
+  "Linux",
+  "62%",
+  "Apache Kafka",
+  "Elasticsearch"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 80 students to apply for drives, track status and"
+  },
+  {
+   "description": "download offer letters.",
+   "tech": "Express.js, JavaScript",
+   "name": "Distributed Key-Value Store"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer"
+  },
+  {
+   "name": "Associate",
+   "issuer": "Amazon Web Services",
+   "year": "08/2014"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2015"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "2014"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2013"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Ci"
+  },
+  {
+   "language": "Hindi"
+  },
+  {
+   "language": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C2"
+  }
+ ]
+}

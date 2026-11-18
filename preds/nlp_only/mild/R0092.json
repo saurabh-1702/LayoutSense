@@ -1,0 +1,40 @@
+{
+ "resume_id": "R0092",
+ "name": "CATALINA VARGAS",
+ "contact": {
+  "email": "catalina_vargas@gmail.com",
+  "phone": "+57 321 3026465",
+  "location": "Colombia"
+ },
+ "education": [
+  {
+   "degree": "Master of Science in Computer",
+   "institution": "Master of Science in Computer",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Information Technology",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes",
+   "issuer": null
+  },
+  {
+   "name": "Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "The Linux Foundation",
+   "issuer": ""
+  },
+  {
+   "name": "Meta Front-End Developer",
+   "issuer": "Coursera «"
+  }
+ ],
+ "_runtime_s": 0.037
+}

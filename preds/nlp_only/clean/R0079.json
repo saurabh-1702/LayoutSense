@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0079",
+ "name": "Alia Al Dhaheri",
+ "contact": {
+  "phone": "+971 50 075 9773",
+  "location": "Sharjah, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alia-aldhaheri"
+  },
+  {
+   "url": "github.com/aaldhaheri"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Science",
+   "institution": "Zayed University",
+   "dates": "2021 - 2024"
+  }
+ ],
+ "skills": [
+  "Rust",
+  "Swift- Kotlin",
+  "Cloud & DevOps Linux",
+  "Google Cloud Platform",
+  "Docker",
+  "AWS",
+  "GitHub Actions",
+  "Microsoft Azure",
+  "Adaptability",
+  "Public Speaking",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store"
+  },
+  {
+   "name": "Food Delivery Clone"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.019
+}

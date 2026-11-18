@@ -1,0 +1,133 @@
+{
+ "resume_id": "R0055",
+ "name": "Prachi Parikh",
+ "headline": "Restaurant Manager | 7+ Years in Hospitality & Tourism",
+ "contact": {
+  "email": "prachi.parikh@gmail.com",
+  "phone": "+91-85993-83911",
+  "location": "Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/prachiparikh6"
+  }
+ ],
+ "education": [
+  {
+   "dates": "Oct, 2025",
+   "degree": "MBA (Hospitality and Tourism)",
+   "institution": "Amity University",
+   "location": "Noida",
+   "grade": "First Class with Distinction"
+  },
+  {
+   "dates": "May, 2019",
+   "degree": "Bachelor of Business Administration",
+   "institution": "Tata Institute of Social Sciences",
+   "location": "Mumbai, India",
+   "grade": "Percentage: 71.9%"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May, 2022 to Now",
+   "title": "Restaurant Manager",
+   "company": "ITC Limited",
+   "location": "Surat",
+   "bullets": [
+    "Planned and executed 9 large weddings and MICE events with budgets up to %27 lakh",
+    "Maintained HACCP compliance and achieved a 5-star food hygiene rating"
+   ]
+  },
+  {
+   "dates": "Sep, 2021 to Apr, 2022",
+   "title": "Revenue Analyst",
+   "company": "ITC Hotels",
+   "location": "Mumbai",
+   "bullets": [
+    "Handled VIP arrivals and guest escalations with a guest satisfaction score of 9.6/10",
+    "Trained 4 associates on brand standards, achieving 24% in mystery audits",
+    "Raised RevPAR by 14% through dynamic pricing and channel mix optimisation in TravelClick",
+    "Drove upselling programmes that generated INR 6.2 crore in incremental room revenue",
+    "Led a 6-member kitchen brigade serving 400 covers per day"
+   ]
+  },
+  {
+   "dates": "Jul, 2019 to Aug, 2021",
+   "title": "Reservations Agent",
+   "company": "Indian Hotels Company (Taj)",
+   "location": "Surat",
+   "bullets": [
+    "Managed front office operations for a 75-room five-star property with 57% average occupancy",
+    "Reduced food cost by 17% through menu engineering and supplier renegotiation",
+    "Improved TripAdvisor ranking from #21 to top 5 in the city through service recovery initiatives"
+   ]
+  }
+ ],
+ "skills": [
+  "HACCP",
+  "Event Planning",
+  "Menu Engineering",
+  "Housekeeping Management",
+  "Revenue Management",
+  "TravelClick",
+  "Delphi.fdc",
+  "Micros POS",
+  "IDeaS RMS",
+  "Opera PMS",
+  "Negotiation",
+  "Adaptability",
+  "Team Leadership",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "dates": "Jul, 2025",
+   "name": "Pre-opening of a Resort",
+   "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 50-key resort."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2026",
+   "name": "Food Safety Supervisor (FoSTaC)",
+   "issuer": "FSSAI"
+  },
+  {
+   "year": "2026",
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": "Wine & Spirit Education Trust"
+  },
+  {
+   "year": "2026",
+   "name": "ServSafe Manager",
+   "issuer": "National Restaurant Association"
+  },
+  {
+   "year": "2026",
+   "name": "Certified Revenue Management Executive (CRME)",
+   "issuer": "HSMAI"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2022",
+   "name": "Spot Award for Excellence",
+   "issuer": "ITC Hotels"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "Cl"
+  }
+ ]
+}

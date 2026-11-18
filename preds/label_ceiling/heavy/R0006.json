@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0006",
+ "name": "Daniel Pérez",
+ "headline": "Associate",
+ "contact": {
+  "email": "daniel.perez@gmail.com",
+  "phone": "+34-733870701",
+  "location": "Seville, Spain"
+ },
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": "2020 - 2022",
+   "grade": "Nota media: 7.6"
+  },
+  {
+   "degree": "BBA",
+   "institution": "ESADE",
+   "dates": "2013 - 2016",
+   "grade": "Notes media: 7.6"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate",
+   "dates": "2019 - 2026",
+   "company": "Indra",
+   "location": "Seville",
+   "bullets": [
+    "Delivered 11 strategy engagements for clients in banking, retail and telecom",
+    "Led a cost transformation programme identifying €304M in annual savings for a Fortune 500 client",
+    "Drove a digital transformation roadmap that increased online sales by 39%",
+    "Built Excel models to size a €724K addressable market across 19 segments"
+   ]
+  },
+  {
+   "title": "Business Analyst",
+   "dates": "2016 - 2019",
+   "company": "McKinsey & Company",
+   "location": "Barcelona",
+   "bullets": [
+    "Built a market entry business case for a €13.1M investment in Southeast Asia",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5- year strategy",
+    "Conducted commercial due diligence on 24 private equity targets",
+    "Managed a team of 10 consultants and client counterparts across 13 workstreams",
+    "Designed a target operating model for a 43,000-employee organisation post-merger"
+   ]
+  }
+ ],
+ "skills": [
+  "eereeeeeneenee"
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ]
+}

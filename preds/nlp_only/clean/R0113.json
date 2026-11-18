@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0113",
+ "name": "YAMADA Yuna",
+ "contact": {
+  "email": "yunayamada@gmail.com",
+  "phone": "+81 90-7437-2265",
+  "location": "Yokohama, Japan"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Science in Automobile Engineering",
+   "institution": "Tokyo Institute of Technology",
+   "dates": "Sep 2023 — Present"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car"
+  },
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified SolidWorks Professional",
+   "issuer": "CSWP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.015
+}

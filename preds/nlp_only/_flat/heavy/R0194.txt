@@ -1,0 +1,37 @@
+Tae eo ee Oe ee ee ee he eM Go Soo gw ine
+Johanne Hoffmann
+: moneys! AES
+° Indien sed gia bieena! inh omttutyctontal adtoratie
+tests, raising code coverage from 25% to 85% _
+° beg sced eotire gr ge ea eeen ees Dea
+incidents by 57% quarter over quarter
+07/2015. 11/2024 ha
+Associate Software Engineer
+SAP . wich | Berlin ence ; onigh loci wil led. colnou ty « Welt ick
+12 engineers
+Designed and built 19 RESTful microservices in MongoDB and C¥,
+serving 5.7M requests per day with 99.95% uptime
+Collaborated with product and design to ship 15 major releases on
+schedule across web and mobile
+Resolved 300+ production issues as part of the on-call rotation,
+reducing mean time to recovery by 28%
+Built a real-time notification service using MongoDB and Apache
+| Kubernetes Kafka that processes 6.6M events per hour
+Developed internal tooling in MongoDB that saved the support team
+[Cassandra 38 hours per week
+[Dynamods q 09/2013 - 06/2015
+PPostgresQu |
+Apache Kafka = “Rebuilt the search experience with Elasticsearch, improving result
+relevance and click-through by 48%
+* Owned the payments integration with 11 third-party gateways,
+° "Migrated a legacy monolith to containerised services on Kubernetes,
+cutting deployment time from 37 hours to 15 minutes _
+* Reduced p95 API latency by 57% by introducing Redis caching and
+optimising slow PostgreSQL queries
+“Notable Projects
+_
+Campus Placement Portal
+Nee OP rautorintn pls for deve Cathy ir gee
+:
+] Online Profiles
+com/infiohan

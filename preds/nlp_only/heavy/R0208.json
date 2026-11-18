@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0208",
+ "name": "Stefan Batory High School",
+ "contact": {
+  "phone": "48 608 597 313",
+  "location": "IB"
+ },
+ "education": [
+  {
+   "degree": "Teaching Qualification (Education)",
+   "institution": "Academy of Fine Arts in Warsaw",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Physics",
+   "institution": "AGH University of Krakéw",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners"
+  }
+ ],
+ "_runtime_s": 0.044
+}

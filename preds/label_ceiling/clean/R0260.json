@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0260",
+ "name": "Naveen Iyengar",
+ "headline": "Legal Counsel",
+ "contact": {
+  "email": "naveeni701@gmail.com",
+  "phone": "+91-83666-78839",
+  "location": "Mysuru, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/naveen-iyengar-929193"
+  }
+ ],
+ "education": [
+  {
+   "degree": "LL.M. (Intellectual Property Law)",
+   "institution": "Amity University",
+   "dates": "2019 — 2021",
+   "grade": "CGPA 7.23"
+  },
+  {
+   "degree": "BBA LLB (Hons.)",
+   "institution": "Christ University",
+   "dates": "2014 - 2019"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "August 2025- Present",
+   "title": "Legal Counsel",
+   "company": "J. Sagar Associates",
+   "location": "Mysuru",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 7 days to 1 day",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a team of 4 across 15 workstreams, Owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of #31.9 crore",
+    "Grew the team by 14% in two years while keeping attrition below 11%"
+   ]
+  },
+  {
+   "dates": "April 2025 - July 2025",
+   "title": "Legal Counsel",
+   "company": "Trilegal",
+   "location": "Mysuru",
+   "bullets": [
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals",
+    "Built a GDPR/DPDP compliance programme covering 23 business units",
+    "Led legal due diligence for 14 acquisitions, reviewing 400+ contracts in LexisNexis",
+    "Managed a portfolio of 60 trademarks across 22 jurisdictions",
+    "Trained business teams on contract playbooks and anti-bribery compliance",
+    "Reduced external counsel spend by 59% by bringing standard contract work in-house",
+    "Advised on 13 cross-border M&A transactions with a combined deal value of INR 8.4 crore"
+   ]
+  },
+  {
+   "dates": "May 2021 - March 2025",
+   "title": "Associate",
+   "company": "Khaitan & Co",
+   "location": "Mysuru",
+   "bullets": [
+    "Represented clients in 10 commercial arbitrations seated in Singapore and London",
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Drafted and negotiated share purchase agreements, shareholders' agreements and term sheets"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Moot Court — Philip C. Jessup",
+   "description": "Represented the university at national rounds; drafted memorials on state responsibility."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "New York State Bar Admission",
+   "issuer": "New York State Board of Law Examiners",
+   "year": "2021"
+  },
+  {
+   "name": "Fellow, Chartered Institute of Arbitrators",
+   "issuer": "CIArb",
+   "year": "2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Christ University",
+   "year": "2019"
+  },
+  {
+   "name": "Rising Star Award",
+   "issuer": "J. Sagar Associates",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Kannada",
+   "proficiency": "Fluent"
+  }
+ ]
+}

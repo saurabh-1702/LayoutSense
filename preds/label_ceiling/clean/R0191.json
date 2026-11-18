@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0191",
+ "name": "Ishita Agarwal",
+ "headline": "Aspiring Trainee Solicitor",
+ "contact": {
+  "email": "ishita1991@gmail.com",
+  "phone": "(+91) 7903876160",
+  "location": "Noida, India"
+ },
+ "education": [
+  {
+   "degree": "BA LLB (Hons.)",
+   "institution": "Symbiosis International University",
+   "dates": "2026",
+   "grade": "GPA: 7.75/10"
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "Ryan International School",
+   "dates": "2021",
+   "grade": "81.7%"
+  },
+  {
+   "degree": "Class X (CBSE)",
+   "institution": "Ryan International School",
+   "dates": "2019",
+   "grade": "93.5%"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Noida",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 13 stakeholder meetings",
+    "Collected and cleaned data from 3 sources to support a law initiative",
+    "Supported the law team on 7 live projects, preparing analyses and documentation"
+   ],
+   "company": "Cyril Amarchand Mangaldas",
+   "dates": "December 2024 – March 2025"
+  }
+ ],
+ "skills": [
+  "cessiineionl Gawain"
+ ],
+ "projects": [
+  {
+   "name": "Research Paper on Data Protection",
+   "description": "Comparative analysis of consent frameworks under GDPR and India's DPDP Act."
+  },
+  {
+   "name": "Bese Court - Philip C. Jessup",
+   "description": "Represented the university at national rounds; drafted memorials on state responsibility."
+  }
+ ]
+}

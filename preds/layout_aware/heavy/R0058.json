@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0058",
+ "name": "Juliana Costa",
+ "headline": "Recife. PE",
+ "contact": {
+  "phone": "(81)95419-8997"
+ },
+ "links": [
+  {
+   "url": "github.comfulianacos"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Stone Co.",
+   "dates": "May 2024}",
+   "bullets": [
+    "Resolved 300+ production issues as part of the on- call rotation, reducing mean time to recovery by 20% introduced fealure flags and canary releases",
+    "quarter improving result relevance and click-through by 12%",
+    "Reduced p95 API latency by 48% by introducing",
+    "Redis caching and optimising slow PostgreSQL"
+   ]
+  }
+ ],
+ "skills": [
+  "Ratton olaaiaeet hn",
+  "athe teem"
+ ],
+ "projects": [
+  {
+   "dates": "2022",
+   "name": "Open-source CLI Contribution"
+  },
+  {
+   "name": "Coon",
+   "description": "ee oe mere apes open-source CLI tool, adding plugin support.",
+   "tech": "Angular. Ruby on Rails, PHP"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "Gecember 2026",
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Areazon Web Services"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "italian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.173
+}

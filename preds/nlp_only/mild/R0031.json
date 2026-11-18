@@ -1,0 +1,102 @@
+{
+ "resume_id": "R0031",
+ "name": "Curriculum Vitae",
+ "contact": {
+  "email": "majumdar.tanushree@hotmail.com",
+  "phone": "+91 74341 18654",
+  "location": "Bhubaneswar, India"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "Indian Institute of Management Ahmedabad, Ahmedabad",
+   "dates": "Aug 2008 - Sep 2011"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Manager",
+   "company": "ee ie to les",
+   "dates": "Mar 2018 - Present",
+   "bullets": [
+    "Grew the team by 17% in two years while keeping attrition below 17%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of INR 44.2",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Senior Tax Consultant",
+   "company": "KPMG",
+   "dates": "May 2015 - Feb 2018",
+   "bullets": [
+    "Performed balance sheet reconciliations for 150+ accounts and cleared ageing items worth"
+   ]
+  },
+  {
+   "title": "Senior Tax Consultant",
+   "company": "working days",
+   "dates": "Jan 2015 - Apr 2015",
+   "bullets": [
+    "Reduced days sales outstanding by 24 days through tighter credit control and collections",
+    "Trained 9 junior accountants on Ind AS transition adjustments",
+    "Implemented"
+   ]
+  },
+  {
+   "title": "Audit Associate",
+   "company": "Grant Thornton Bharat",
+   "dates": "Oct 2011 - Dec 2014",
+   "bullets": [
+    "",
+    "Led statutory audits for 8 clients across",
+    "Coordinated",
+    "Prepared consolidated financial statements under IFRS for a group with 16 subsidiaries"
+   ]
+  }
+ ],
+ "skills": [
+  "Accounting US GAAP",
+  "Consolidation",
+  "GST",
+  "Transfer Pricing",
+  "SOX Compliance",
+  "Direct Taxation",
+  "Software CaseWare",
+  "SAP FICO",
+  "QuickBooks",
+  "Oracle NetSuite",
+  "Soft Skills Stakeholder Management",
+  "Communication",
+  "Public Speaking",
+  "PROFESSIONAL"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Accountant",
+   "issuer": "CMA)"
+  },
+  {
+   "name": "Chartered Accountant",
+   "issuer": "CA)"
+  },
+  {
+   "name": "Certified Public Accountant",
+   "issuer": "CPA)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Odia",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.07
+}

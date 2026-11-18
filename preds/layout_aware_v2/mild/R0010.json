@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0010",
+ "name": "NIALL KENNEDY",
+ "contact": {
+  "email": "niall2003@outlook.com",
+  "phone": "+353 85 547 5891",
+  "location": "Dublin, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niallkennedy8"
+  },
+  {
+   "url": "github.com/niallkenne"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Dublin City University",
+   "dates": "Aug 2019"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Feb 2024 – Present",
+   "title": "Frontend Engineer",
+   "company": "Intercom",
+   "location": "Dublin",
+   "bullets": [
+    "Owned the payments integration with 12 third-party gateways",
+    "reducing failed transactions by 45%",
+    "Collaborated with product and design to ship 15 major releases",
+    "on schedule across web and mobile",
+    "Reduced p95 API latency by 55% by introducing Redis caching",
+    "and optimising slow PostgreSQL queries"
+   ]
+  },
+  {
+   "dates": "Sep 2019 – Jan 2024",
+   "title": "Graduate Software Engineer",
+   "company": "Stripe",
+   "location": "Remote"
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "JavaScript",
+  "Scala",
+  "Python",
+  "Rust",
+  "C++",
+  "Node.js",
+  ".NET Core",
+  "Angular",
+  "GraphQL",
+  "GitHub Actions",
+  "Kubernetes",
+  "CI/CD",
+  "AWS",
+  "Microsoft Azure",
+  "MongoDB",
+  "Redis",
+  "Elasticsearch",
+  "Cassandra"
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2021"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

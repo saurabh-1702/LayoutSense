@@ -1,0 +1,51 @@
+CONTACT Jia Wei Subramaniam
+\% +60 13-5826566 Data Analyst | 3+ Years in Data Science & Analytics
+™ jia.subramaniam@gmail.co
+m PROFESSIONAL EXPERIENCE
+9 Penang, Malaysia
+Data Analyst — Novartis
+PROFESSIONAL 08.2023 — Present
+CERTIFICATIONS e Built a customer segmentation framework using clustering on 541K
+profiles to drive targeted campaigns
+TensorFlow Developer
+Certificate Deployed a retrieval-augmented chatbot over internal
+Google, 2026 documentation, answering 62,000 employee queries per month
+Microsoft Certified: Power Designed and maintained 6 Airflow pipelines ingesting 41,000
+BI Data Analyst Associate records daily into Snowflake
+Microsoft, 06.2026 Defined the company-wide metric layer in dbt, eliminating 8
+AWS Certified Machine conflicting KPI definitions
+Learning — Specialty Partnered with finance to build an anomaly detection system that
+Amazon Web Services, 2022
+flagged MYR 430M in billing errors
+SKILLS
+Looker
+Plotly
+U fe) = fo) © w es
+eee
+R
+Id
+Python
+AS
+Snowflake
+NumPy
+Apache Spark
+LP
+scikit-learn
+XGBoost
+Hugging Face Transformers
+> z a c > a m wn x z oO = z
+Native
+Fluent
+Advanced
+Asia Pacific University
+2019 - 2023
+HONORS
+University Merit
+Scholarship
+Asia Pacific University, 2022
+SOCIAL
+LinkedIn:
+linkedin.com/in/jiasubramania
+m
+GitHub:
+github.com/jiasubrama

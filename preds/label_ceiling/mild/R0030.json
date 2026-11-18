@@ -1,0 +1,82 @@
+{
+ "resume_id": "R0030",
+ "name": "Mrunal Trivedi",
+ "contact": {
+  "email": "mrunal.trivedi@gmail.com",
+  "phone": "79357 68685",
+  "location": "Surat, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mrunaltrivedi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Vellore Institute of Technology",
+   "dates": "2023 — 2026",
+   "grade": "GPA: 7.21/10"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Article Assistant",
+   "dates": "Feb 2026 — Apr 2026",
+   "company": "ITC Limited",
+   "location": "Surat",
+   "bullets": [
+    "Drafted standard operating procedures for 15 recurring tasks",
+    "Presented final internship findings to department leadership",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted"
+   ]
+  }
+ ],
+ "skills": [
+  "GST",
+  "Month-end Close",
+  "Statutory Audit",
+  "IndAS",
+  "CaseWare",
+  "QuickBooks",
+  "Microsoft Dynamics 365"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax practice."
+  },
+  {
+   "name": "Internal Controls Review",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended 8 control improvements."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Public Accountant (CPA)",
+   "issuer": "AICPA",
+   "year": "Apr 2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "ITC Limited",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "A2"
+  }
+ ]
+}

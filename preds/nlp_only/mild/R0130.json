@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0130",
+ "name": "Segun Afolabi",
+ "contact": {
+  "email": "safolabi@gmail.com",
+  "phone": "+234 8086332049",
+  "location": "Enugu, Nigeria"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/segunafolabi-31"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Regional Business Head Lagos Business School",
+   "dates": "09/2023 - Present"
+  },
+  {
+   "degree": "MEng Mechanical Engineering",
+   "institution": "in annual revenue with 32% net revenue retention Covenant University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Executive MBA",
+   "company": null,
+   "dates": "09/2023 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Regional Business Head Lagos Business School",
+   "company": "Schneider Electric",
+   "dates": "10/2013 - 09/2014",
+   "bullets": [
+    "Managed 21 key accounts generating NGN 323M MEng Mechanical Engineering",
+    "Shortened the average sales cycle by 22 days by 07/2007 - 04/2011 | Upper Second-Class (2:1)"
+   ]
+  }
+ ],
+ "skills": [
+  "Solution",
+  "years",
+  "Public",
+  "Procter & Gamble",
+  "Mentored 11 junior colleagues",
+  "several of whom KEY PROJECTS",
+  "owning",
+  "hiring",
+  "planning",
+  "NASP",
+  "Sandler Sales Foundations",
+  "Sandler Training",
+  "HubSpot Sales Software Certification",
+  "HubSpot Academy",
+  "committees and board-level reporting"
+ ],
+ "_runtime_s": 0.042
+}

@@ -1,0 +1,49 @@
+% 07906 800255 ™ efua2002@yahoo.com
+EFUA OFORI 9 Glasgow © www.linkedin.com/in/efua-ofori
+@ github.com/efuaofori
+@ NOTABLE PROJECTS LANGUAGES
+Food Delivery Clone English Mother tongue
+Full-stack food ordering app with live order tracking, payments and
+French Elementary Proficiency
+an admin dashboard.
+Tools used: Linux, Go
+Distributed Key-Value Store @ KEY SKILLS
+Raft-based replicated key-value store with leader election, log TypeScript
+compaction and a gRPC client.
+Tools used: Angular, .NET Core, Cassandra, Express.js (@) Sia
+URL Shortener at Scale
+@ le)
+Load-tested URL shortener handling 191K+ redirects/minute with
+consistent hashing and Redis. Angular
+Tools used: Angular, GitHub Actions
+Campus Placement Portal 08.2026 Vue.js
+Web portal used by 120 students to apply for drives, track status
+.NET Core
+and download offer letters.
+Tools used: GitHub Actions, Express.js, Kubernetes
+Express.js
+oO INTERNSHIP EXPERIENCE React
+11.2025 — SDE Intern GitHub Actions
+61.2026
+Barclays, Glasgow
+« Presented final internship findings to Linux
+department leadership
+Kubernetes
+« Collected and cleaned data from 7 sources to
+support a software engineering initiative Microsoft Azure
+Apache Kafka
+DynamoDB
+Redis
+Cassandra
+PROFESSIONAL
+rs
+CERTIFICATIONS
+AWS Certified Developer —
+Associate
+Amazon Web Services - 2026
+EDUCATIONAL
+re)
+QUALIFICATIONS
+BSc Computer Applications
+Ashesi University
+09.2024 — Present - First Class

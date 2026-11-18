@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0057",
+ "name": "Final-year Bachelor Student",
+ "contact": {
+  "email": "joanna.szymanski@gmail.com",
+  "phone": "+48 726132402",
+  "location": "Warsaw, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/joanna-szymanski"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in International Hospitality Management",
+   "institution": "SGH Warsaw School of Economics",
+   "dates": "Expected Jun 2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Front Office Intern",
+   "company": "Orbis Hotels",
+   "dates": "Sep 2025 - Dec 2025",
+   "bullets": [
+    "Built a tracker in IDeaS RMS that streamlined weekly reporting for a team of 11",
+    "Supported the hospitality & tourism team on 6 live projects, preparing analyses and documentation"
+   ]
+  },
+  {
+   "title": "Hotel Operations Trainee",
+   "company": "IHG Hotels & Resorts",
+   "dates": "Jan 2025 - Apr 2025",
+   "bullets": [
+    "Collected and cleaned data from 20 sources to support a hospitality & tourism initiative",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Assisted with day-to-day hospitality & tourism operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Event Planning",
+  "Housekeeping Management",
+  "Upselling",
+  "Guest Relations",
+  "Menu",
+  "Engineering",
+  "Fidelio",
+  "IDeaS RMS",
+  "Micros POS",
+  "Delphi.fdc",
+  "TravelClick",
+  "Communication",
+  "Adaptability",
+  "Problem Solving",
+  "Time Management"
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "German",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.071
+}

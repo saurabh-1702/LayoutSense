@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0122",
+ "name": "Jia Wei Subramaniam Science &",
+ "headline": "Data Analyst | 3+ Years in Data Analytics",
+ "links": [
+  {
+   "url": "gi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Informatio Technology",
+   "institution": "Asia Pacific Univ"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst",
+   "company": "Novartis",
+   "dates": "08.2023 ~ Present",
+   "bullets": [
+    "Built a customer segmentation framework using ustelite on 541K profiles to drive targeted campaigns",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 62,000 employee queries per month",
+    "Designed and maintained 6 Airflow pipelines ingesting 41,000 records dally into Snowflake",
+    "Defined the company-wide metric layer in dbt, eliminating 8 conflicting KPI definitions",
+    "Partnered with finance to build an anomaly detection system that flagged MYR 430M in billing errors"
+   ]
+  }
+ ],
+ "skills": [
+  "NumPy",
+  "Apache Spark",
+  "Pscikit-learn",
+  "XGBoost",
+  "Erugging Face Transformers"
+ ],
+ "certifications": [
+  {
+   "name": "‘TensorFlow Develop Certificate",
+   "issuer": "‘Google",
+   "year": "2026"
+  },
+  {
+   "name": "Microsoft Certified: Powel BI Data Analyst Associate",
+   "issuer": "Microsoft",
+   "year": "06.2026"
+  },
+  {
+   "name": "\"AWS Certified Machin ‘Learning - Specialty",
+   "issuer": "Amazon Web Saricee",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "/Malay"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent."
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Advanced"
+  }
+ ]
+}

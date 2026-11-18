@@ -1,0 +1,10 @@
+{
+ "resume_id": "R0179",
+ "projects": [
+  {
+   "name": "Python",
+   "description": "OR-Tools routing 6 vane with time windows."
+  }
+ ],
+ "_runtime_s": 0.663
+}

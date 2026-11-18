@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0001",
+ "name": "Ruan Jacobs",
+ "headline": "Management Consulting Graduate",
+ "contact": {
+  "email": "ruanji30egmail.com",
+  "phone": "07335 930182",
+  "location": "Glasgow, UK"
+ },
+ "education": [
+  {
+   "location": "Johannesburg, South Africa",
+   "institution": "University of the Witwatersrand",
+   "degree": "BSc (Hons) Mechanical Engineering",
+   "dates": "2023-2027 (Expected)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Nov 2025-Jan 2026",
+   "title": "Business Analyst Intern",
+   "company": "Bain &",
+   "location": "Manchester",
+   "bullets": [
+    "Authored 10 thought-leadership articles and contributed to proposals worth £125M",
+    "Prepared research summaries and presentation decks for 22 stakeholder meetings",
+    "Authored 14 thought-leadership articles and contributed to proposals worth GBP 132K",
+    "Assisted with day-to-day management consulting operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Market Sizing",
+  "Change Management",
+  "Hypothesi",
+  "engineering",
+  "PowerPoint",
+  "Excel",
+  "Think-ceil",
+  "Tableau"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan tan ekg ccipei serving 5.5M children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Scrum (CSM)",
+   "issuer": "Scrum Alliance",
+   "year": "(2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Bain & Company CERTIFICATIONS",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "isiXhosa",
+   "proficiency": "(Professional Working. Proficiency)"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "resume_id": "R0079",
+ "contact": {
+  "location": "Noon, Dubai"
+ },
+ "education": [
+  {
+   "degree": "BSc Computer Science",
+   "institution": "Zayed University",
+   "dates": "2021 - 2024"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store"
+  },
+  {
+   "name": "Food Delivery Clone"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "_runtime_s": 0.051
+}

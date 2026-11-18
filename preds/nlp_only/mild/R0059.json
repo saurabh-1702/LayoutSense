@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0059",
+ "name": "Priya Naidu",
+ "contact": {
+  "email": "priya.naidu@yahoo.co.in",
+  "phone": "93491 76516",
+  "location": "Hyderabad, Telangana"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Nursing Jamia Hamdard (Expected)",
+   "institution": "ualification College ES / Universi ty Year of Passing Grade",
+   "dates": "2027"
+  },
+  {
+   "degree": "Class XII (State Board) Delhi Public School",
+   "institution": "XII",
+   "dates": "2023"
+  },
+  {
+   "degree": "Class X (ICSE) Delhi Public School",
+   "institution": "Delhi Public School",
+   "dates": "2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "AIIMS New Delhi Student Nurse",
+   "company": "Hyderabad",
+   "dates": "05.2026 06.2026",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 6 stakeholder meetings",
+    "Collected and cleaned data from 5 sources to support a nursing initiative",
+    "Assisted with day-to-day nursing operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Proficiency Proficiency",
+  "Patient Assessment",
+  "Phlebotomy",
+  "Triage",
+  "Wound Care",
+  "NABH Standards",
+  "Cerner",
+  "Patient Charting",
+  "JCI Standards",
+  "EHR",
+  "fa re",
+  "Epic"
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Advanced Cardiovascular Life Support",
+   "issuer": "ACLS) American Heart Association"
+  },
+  {
+   "name": "Critical Care Registered Nurse",
+   "issuer": "CCRN) AACN"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.069
+}

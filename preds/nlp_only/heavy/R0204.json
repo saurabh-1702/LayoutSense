@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0204",
+ "name": "Final-year BA Student",
+ "contact": {
+  "email": "kelechi.ogunieye96@gmail.com",
+  "phone": "+234 812 681 5170",
+  "location": "Kano, Nigeria"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kelechi-ogunleye"
+  },
+  {
+   "url": "kelechiogunleye.framer.website"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "Covenant University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Design Systems Blender",
+  "Adobe Photoshop Adobe Illustrator",
+  "Problem Solving",
+  "Team Leadership Cross-functional",
+  "Collaboration",
+  "Communication"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "Human Factors International"
+  },
+  {
+   "name": "Google UX Design",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "French",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.02
+}

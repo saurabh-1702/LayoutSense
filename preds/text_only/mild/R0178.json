@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0178",
+ "name": "Eleanor Smith",
+ "headline": "Data Science & Analytics Graduate",
+ "contact": {
+  "email": "eleanor.s@outlook.com",
+  "phone": "+44 7206 919096",
+  "location": "Glasgow, United Kingdom"
+ },
+ "links": [
+  {
+   "url": ">-ami"
+  },
+  {
+   "url": "linkedin.com/in/eleanor-smith7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PhD in Machine Learning",
+   "institution": "Imperial College London"
+  },
+  {
+   "degree": "ML & Al: Testing",
+   "dates": "Aug 2023 - Present"
+  },
+  {
+   "degree": "BSc Data Science Deep Learning Specialization",
+   "institution": "Loughborough University",
+   "dates": "Jul 2020 - Jul 2023",
+   "grade": "First Class"
+  }
+ ],
+ "projects": [
+  {
+   "tech": "LangChain, Computer Vision, A/B",
+   "name": "Credit Risk Scoring Model",
+   "dates": "Feb 2026",
+   "description": "Gradient-boosted model on 15,000 loan applications with SHAP explanations and fairness checks."
+  },
+  {
+   "tech": "LangChain, Python",
+   "name": "Best Outgoing Student"
+  },
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-tuned DistiIBERT classifier achieving 94% F1 on a public misinformation dataset."
+  }
+ ],
+ "certifications": [
+  {
+   "issuer": "DeepLearning.Al",
+   "year": "Feb 2026",
+   "name": "Tableau Desktop Specialist"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Welsh",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.248
+}

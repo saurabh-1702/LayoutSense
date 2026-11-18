@@ -1,0 +1,119 @@
+{
+ "resume_id": "R0063",
+ "name": "Andrii Rudenko",
+ "headline": "Accounting Manager",
+ "contact": {
+  "email": "ete",
+  "phone": "“+380 97 423 93 64",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "wesinlensincoenitn/aidelseats419965"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in Commerce",
+   "institution": "Kyiv School of Economics",
+   "dates": "06/2015",
+   "grade": "aA: 3, 0 as/4"
+  },
+  {
+   "degree": "Be. Accounting",
+   "institution": "Ukrainian Catholic University",
+   "dates": "06/2013"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "07/2024 - Present",
+   "company": "Dea",
+   "title": "Accounting Manager",
+   "location": "“Lviv",
+   "bullets": [
+    "Grew the team by 27% in two years while keeping attrition below 6%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of UAH 1.7M",
+    "Led a team of 7 ucross 12 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Trained 13 junior accountants on Ind AS transition adjustments"
+   ]
+  },
+  {
+   "dates": "07/2023 - 06/2024",
+   "company": "Deloitte",
+   "title": "Accounting Manager",
+   "location": "Lviv",
+   "bullets": [
+    "Documented and tested 10 SOx controls, closing all audit findings ahead of yeorend.",
+    "Built a fixed-asset register for 65,000 assets and aligned depreciation with tax schedules",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "03/2019 06/2023",
+   "company": "ey",
+   "title": "Senior Tax Consultant",
+   "location": "Lviv",
+   "bullets": [
+    "“Reduced days sales outstanding by 24 days through tighter credit control and collections fllow-up",
+    "Managed the month-end close for 16 legal entities, reducing the close cycle from 8 to 5 working days",
+    "Led statutory audits for 9 elients acroys manufacturing and retail with combined revenue of UAH 4.1M",
+    "Filed GST and eapome tax returns with zero pensltive across 8 consecutive years"
+   ]
+  },
+  {
+   "dates": "ow/2015 022019",
+   "company": "PwC",
+   "title": "Accounts Payable Specialist",
+   "location": "Kyiv",
+   "bullets": [
+    "Performed bulance sheet reconciliations for 500+ accounts and cleared ageing items worth UAH 18,9M",
+    "Prepared consolidated financial statements under IFRS for a group with 3 subsidiaries",
+    "Coordinated with external auditors and resolved 7 management letter points",
+    "Implemented Alteryx for accounts payable, automating 10% of invoice processing"
+   ]
+  }
+ ],
+ "skills": [
+  "Reconciliations",
+  "GST",
+  "IFRS",
+  "SAP FIC O",
+  "Xero",
+  "Cc ‘ae Ware",
+  "Alteryx",
+  "Negotiation",
+  "Management",
+  "Mentoring"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool",
+   "description": "hi xceV/VBA tool matching purchase registers to GSTR- 2B, adopted by the firm's lux practice"
+  },
+  {
+   "name": "Internal Controls Review",
+   "description": "Mapped procure-to-pay controls for. a retail chain and recommended 12 control improvements."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Accountant (CMA)",
+   "year": "12/2015"
+  },
+  {
+   "name": "Certified Public Accountant (CPA)",
+   "year": "2025"
+  },
+  {
+   "year": "2018",
+   "name": "feet Certified Internal Auditor (CIA)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Na"
+  }
+ ]
+}

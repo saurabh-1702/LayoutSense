@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0084",
+ "name": "Darren Wong",
+ "contact": {
+  "email": "wong.darren@yahoo.com.sg",
+  "phone": "+65 8460 8489",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darrenwong-61"
+  },
+  {
+   "url": "www.darrenwong.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Medicine",
+   "institution": "Bachelor of Medicine",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Surgery (MBBS)",
+   "institution": "students on ward rounds University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "that improved adherence by 45%",
+   "dates": "2015-09 - 2016-06",
+   "bullets": [
+    "Ran outpatient clinics seeing 23 patients per Bachelor of Medicine",
+    "Supervised and taught 14 interns and medical Nanyang Technological",
+    "Presented case reports at 8 national conferences 2010-09 - 2015-07 «Upper",
+    "Managed an average of 14 inpatients daily across",
+    "Performed 150+ procedures including central",
+    "Co-authored 13 peer-reviewed publications in",
+    "Implemented an antibiotic stewardship protocol Medicine Insertion",
+    "Responded to emergencies as part of the rapid"
+   ]
+  },
+  {
+   "title": "@ Specialty Registrar Medicine",
+   "company": "response team during night shifts ice Critical Care",
+   "dates": "2019-10 - 2020",
+   "bullets": [
+    "Grew the team by 33% in two years while keeping © @ 77%",
+    "Partnered with senior leadership to define the",
+    "Leda team of 11 across 7 workstreams, owning"
+   ]
+  },
+  {
+   "title": "@ Resident Medical Officer Collaboration",
+   "company": "Cross-functional Problem W olving",
+   "dates": "2019-01 - 2019",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol 54% YO",
+    "Responded to emergencies as part of the rapid Decision",
+    "Co-authored 12 peer-reviewed publications in",
+    "Managed an average of 8 inpatients daily across PROFICIENCY",
+    "Performed 180+ procedures including central Native"
+   ]
+  },
+  {
+   "title": "@ Medical Officer CERTIFICATIONS",
+   "company": "lines, thoracentesis and lumbar punctures",
+   "dates": "2016-09 - 2018",
+   "bullets": [
+    "Ran outpatient clinics seeing 11 patients per NBME, 2023",
+    "Presented case reports at 9 national conferences American College of Surgeons",
+    "Led aclinical audit on sepsis bundle compliance 2024"
+   ]
+  }
+ ],
+ "_runtime_s": 0.091
+}

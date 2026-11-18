@@ -1,0 +1,86 @@
+\% +971 542885455 ™ sultanalmazrouei32@outlook.com
+Sultan Al Mazrouei
+9 Abu Dhabi, United Arab Emirates © linkedin.com/in/sultanalmazrouei
+Senior Frontend Engineer © github.com/salmazrouei © www.sultanalmazrouei.com
+1 2+ Years of Experience 4 Certifications 4 Languages
+Experience Skills
+08/2019 - © Senior Frontend Engineer
+Present SAP | Abu Dhabi o 76%
+« Developed customer-facing features in GitHub
+Actions used by 65,000 monthly active users Or®@ fo}
+« Implemented a CI/CD pipeline with GitHub
+a S95(2,2(2 SJEXNSTZJAXAS 72%
+Actions and automated tests, raising code
+coverage from 17% to 85%
+« Represented the function in executive steering
+committees and board-level reporting
+“I
+12/2015 - @ Associate Software Engineer
+07/2019 SAP | Abu Dhabi
+JavaScript Python
+« Introduced feature flags and canary releases,
+lowering production incidents by 37% quarter
+oO 3% g1 S o
+over quarter
+« Reduced p95 API latency by 32% by
+m x no} © wn " Tr wn
+introducing Redis caching and optimising slow
+PostgreSQL queries 62% 96%
+« Owned the payments integration with 4 third-
+party gateways, reducing failed transactions by 2 ° a oO a. 7) FastAPI
+36%
+« Resolved 120+ production issues as part of the r-) S o 92%
+on-call rotation, reducing mean time to
+recovery by 14% Jenkins GitHub Actions
+« Collaborated with product and design to ship
+17 major releases on schedule across web and 54% Y Y 61%
+mobile
+« Rebuilt the search experience with CI/CD Terraform
+Elasticsearch, improving result relevance and
+click-through by 23% © 95% 39%
+« Cut cloud infrastructure costs by AED 6.0M
+annually by right-sizing instances and adopting Microsoft Azure Linux
+spot capacity
+08/2014 - © Junior Software Developer 55% Y Y 62%
+11/2015 Cisco | Abu Dhab
+= Designed and built 7 RESTful microservices in MongoDB Apache Kafka
+C++ and Node.js, serving 552K requests per
+@ 78%
+day with 99.95% uptime
+« Developed internal tooling in C++ that saved
+Elasticsearch
+the support team 22 hours per week
+« Wrote technical design documents and led code Known
+Languages
+reviews for a team of 9 engineers
+« Migrated a legacy monolith to containerised Arabic cccce
+services on Kubernetes, cutting deployment Native
+time from 18 hours to 15 minutes English
+ece5o
+Cl
+Hindi
+Selected Projects ry)
+A2
+Campus Placement Portal French
+ecooeo
+Web portal used by 80 students to apply for drives, track status and C2
+download offer letters.
+Technologies: Express.js, JavaScript Education
+Distributed Key-Value Store BSc in Computer Applications
+Raft-based replicated key-value store with leader election, log Zayed University
+compaction and a gRPC client. 06/2014 « First Class
+Technologies: Node.js, Python
+Licenses &
+Certifications
+AWS Certified Developer —
+Associate
+Amazon Web Services, 08/2014
+HashiCorp Certified:
+Terraform Associate
+HashiCorp, 2015
+Oracle Certified Professional:
+Java SE 17 Developer
+Oracle, 2014
+Meta Front-End Developer
+Professional Certificate
+Coursera, 2013

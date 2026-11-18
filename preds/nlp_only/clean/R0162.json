@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0162",
+ "name": "Marcus Davis",
+ "contact": {
+  "email": "marcusdavis@gmail.com",
+  "phone": "+1 (425) 294-7604",
+  "location": "Seattle, WA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/marcus-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Massachusetts Institute of",
+   "dates": "Nov 2025 — Current"
+  }
+ ],
+ "skills": [
+  "Business Development Representative",
+  "Snowflake",
+  "Seattle",
+  "WA",
+  "Jul 2022",
+  "Oct 2025",
+  "MEDDIC",
+  "enterprise accounts using",
+  "Account Management",
+  "LinkedIn Sales Navigator",
+  "Channel Sales",
+  "Upselling",
+  "Cold Calling",
+  "Sales Navigator",
+  "Zoho CRM",
+  "discovery framework",
+  "Outreach"
+ ],
+ "projects": [
+  {
+   "name": "Time Management"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Sales Software",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Certified Professional Sales",
+   "issuer": null
+  },
+  {
+   "name": "Person",
+   "issuer": "CPSP)"
+  },
+  {
+   "name": "NASP",
+   "issuer": ""
+  },
+  {
+   "name": "Salesforce Certified",
+   "issuer": "Salesforce"
+  },
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  }
+ ],
+ "_runtime_s": 0.018
+}

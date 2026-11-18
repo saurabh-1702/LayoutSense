@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0212",
+ "contact": {
+  "email": "elena.sokolov@gmail.com",
+  "phone": "+7 (962) 939-26-79",
+  "location": "Novosibirsk, Russia"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Accounting and Finance",
+   "institution": "Citi HSE University",
+   "dates": "July 2025"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor",
+   "issuer": "CIA)"
+  },
+  {
+   "name": "The IIA",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Russian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "German",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.02
+}

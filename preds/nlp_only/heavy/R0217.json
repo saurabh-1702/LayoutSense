@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0217",
+ "name": "LORENZO BRUNO",
+ "contact": {
+  "phone": "+39 388 7567690",
+  "location": "Naptes, Italy"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Architecture",
+   "institution": "Politecnico di Torino",
+   "dates": "07/2016 - 05/2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Project Engineer 12/",
+   "company": ".",
+   "dates": "2022 - 04/2024",
+   "bullets": [
+    "Supervised construction of a 21-storey residential tower with a contract vibe of e244",
+    "Prepared BOQs and rate analyses for tenders worth €377M",
+    "Scheduled a 11-month metro station <r in Tekla Structures, recovering 22 weeks of",
+    "Conducted soil ipviaetialton reviews and Foundation design for 4 bridges",
+    "Achieved 8,000 safe man-hours without a lost-time injury on site"
+   ]
+  },
+  {
+   "title": "Planning Engineer",
+   "company": "Webuild",
+   "dates": "07/2019 - 11/2022",
+   "bullets": [
+    "Managed client billing and variations, improving cash collection by 46%",
+    "Introduced BIM clash detection that cut rework costs by 45%",
+    "Coordinated 11 subcontractors and 50+ workers across civil and MEP activities"
+   ]
+  }
+ ],
+ "skills": [
+  "Steel Design",
+  "Highway Design",
+  "BIM",
+  "Site Supervision",
+  "Geotechnical ae",
+  "Tekla",
+  "Structures",
+  "AutoCAD",
+  "SAP2000",
+  "STAAD.Pro",
+  "Revit",
+  "Attentior to Detail",
+  "Team Leadership",
+  "Presentation Skills",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH International General Certificate",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "« Chartered Engineer",
+   "issuer": "CEng)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.048
+}

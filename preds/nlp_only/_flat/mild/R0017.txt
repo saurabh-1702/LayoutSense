@@ -1,0 +1,32 @@
+rui.pereira@gmail.com
++351 931514298
+Aveiro, Portugal
+www.linkedin.com/in/rui-pereira-11
+Ru j Pe rei ra
+github.com/rpereira
+Business Intelligence Analyst www.ruipereira.com
+PROFESSIONAL BACKGROUND
+Oracle Lisbon
+Business Intelligence Analyst 09/2025 — Present
+« Ran 8 A/B experiments on pricing and onboarding flows, lifting conversion by 7%
+* Created executive dashboards in Hugging Face Transformers tracking 9 KPIs, adopted by 250+ business
+users
+« Defined the company-wide metric layer in dbt, eliminating 5 conflicting KPI definitions
+EDUCATION & QUALIFICATIONS
+BSc in Statistics 2022 — 2025
+Instituto Superior Técnico, Lisbon
+COMPETENCIES
+Languages: Python | Scala | R | SAS | SQL
+ML & AI: Hugging Face Transformers | PyTorch | scikit-learn | Computer Vision | LangChain | NLP
+Professional Skills: Conflict Resolution | Public Speaking | Presentation Skills | Decision Making
+PROJECTS
+Air Quality Forecasting
+LSTM model forecasting PM2.5 levels across 3 monitoring stations with a Streamlit dashboard.
+Tech: NLP, Computer Vision, LangChain, PyTorch
+COURSES & CERTIFICATIONS
+« TensorFlow Developer Certificate — Google (2024)
+* Deep Learning Specialization — DeepLearning.AI (10/2026)
+AWARDS
+« Kaggle Competitions Expert (2023)
+LANGUAGES
+Portuguese (Native), English (Advanced)

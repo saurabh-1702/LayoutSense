@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0289",
+ "name": "SACHINI JAYASINGHE",
+ "contact": {
+  "phone": "+94-721511021",
+  "location": "Colombe, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/sachini-jayasinghe-77"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MRCP (UK) «",
+   "institution": "University of Peradeniya",
+   "dates": "07.2020"
+  },
+  {
+   "degree": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+   "institution": "University of Colombo",
+   "dates": "09.2015 ~ 05.2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Specialty Registrar _ 01",
+   "company": "Asirl Hospitals",
+   "dates": "2026 - Present",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level resort",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Junior Resident 05",
+   "company": "National Hospital of Sri Lanka",
+   "dates": "2022 - 12.2025",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 16%",
+    "Performed 250+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Led a clinical audit on bundle compliance that improved adherence by 40%"
+   ]
+  },
+  {
+   "title": "Resident Physician",
+   "company": "_",
+   "dates": "06.2021 - 04.2022",
+   "bullets": [
+    "Responded to emergencies as part of the Yeia response team during night shifts",
+    "Ran outpatient clinics seeing 22 patients per session with a focus on diabetes and hypertension"
+   ]
+  }
+ ],
+ "skills": [
+  "Lumbar Puncture",
+  "Internal Maeicihe: Critical Care",
+  "Patient Counselling",
+  "Clinical Research",
+  "Endotracheal intubation",
+  "Telemedicine",
+  "Epic EHR",
+  "Clinical Audit",
+  "ICD-10 Coding",
+  "Cerner",
+  "Negotiation",
+  "cone Attention to Detail",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit 09"
+  }
+ ],
+ "_runtime_s": 0.079
+}

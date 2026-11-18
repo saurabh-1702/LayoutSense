@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0181",
+ "projects": [
+  {
+   "name": "Grid-tied Inverter Design",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "Xilinx Vivado, KiCad, Altium Designer"
+  },
+  {
+   "name": "Smart Energy Meter with loT",
+   "description": "ESP32-based meter streaming consumption data to a cloud dashboard.",
+   "tech": "KiCad, Altium Designer, Xilinx Vivado"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Professional Engineer (PE) — Electrical",
+   "issuer": "NCEES",
+   "year": "(2024)"
+  },
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH",
+   "year": "(2016)"
+  },
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board",
+   "year": "(2024)"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "aro a",
+   "language": "Urdu"
+  },
+  {
+   "proficiency": "(Native)",
+   "language": "English"
+  },
+  {
+   "proficiency": "(Advanced) (Conversational)",
+   "language": "Sindhi"
+  }
+ ]
+}

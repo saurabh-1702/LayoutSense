@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0171",
+ "education": [
+  {
+   "degree": "Doctor of Medicine (M.D.) Hanoi Medical University",
+   "institution": "Qualification — iti \" Institution — © Tenure “\" Grade",
+   "dates": "Aug2000-Aug2005"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ATLS Provider American College of Surgeons 205s",
+   "issuer": null
+  },
+  {
+   "name": "ACLS Provider American Heart Association | gsi",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Vietnamese",
+   "proficiency": "Mother tongue"
+  }
+ ],
+ "_runtime_s": 0.052
+}

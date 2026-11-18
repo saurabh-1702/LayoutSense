@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0062",
+ "name": "ANJALI SUBRAMANIAN",
+ "contact": {
+  "email": "anjalisubramanian@gmail.com",
+  "phone": "+91 837-574-4918"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anjali-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Electronics and",
+   "institution": "Indian Institute of Technology Delhi",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (HSC)",
+   "institution": "Bishop Cotton Boys' School",
+   "dates": null
+  },
+  {
+   "degree": "Class X (ICSE)",
+   "institution": "Bishop Cotton Boys’ School",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Mar 2026",
+  "Present",
+  "Graduate Engineer",
+  "Power Systems",
+  "Embedded C Tata Power",
+  "Coimbatore",
+  "VLSI",
+  "Power Electronics",
+  "filtering",
+  "HV Substations EV packs",
+  "DIgSILENT PowerFactory",
+  "saving =31 lakh in replacement",
+  "Xilinx Vivado costs",
+  "raising throughput by",
+  "MATLAB/Simulink 39%",
+  "ETAP PowerFactory",
+  "Critical Thinking Aug 2024",
+  "Feb 2026",
+  "Communication Electrical Engineer",
+  "NTPC Limited",
+  "Chennai"
+ ],
+ "projects": [
+  {
+   "name": "Siemens Certified PLC Programmer"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Kannada",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.065
+}

@@ -1,0 +1,43 @@
+\ +234 8059733060 © zainabo269@gmail.com
+ZAINAB
+9 Enugu, Nigeria @ www.linkedin.com/in/zainab-ogunleye-65
+OGUNLEYE @ github.com/zainab50
+© WORK HISTORY 3.) COMPETENCIES
+May 2024 to Associate Data Scientist
+Present Access Bank ED CD € EDO
+° Productionised ML models with Docker and
+MLflow, cutting model deployment time from
+weeks to 18 days
+Defined the company-wide metric layer in dbt,
+eliminating 21 conflicting KP! definitions
+Reduced Spark job runtime by 31% through
+partitioning and broadcast join optimisation
+EDUCATION &
+Fine-tuned transformer models for ticket re)
+QUALIFICATIONS
+classification, automating 45% of manual triage
+Deployed a retrieval-augmented chatbot over Science and
+MEng Computer
+internal documentation, answering 77,000
+Engineering
+employee queries per month
+Covenant University
+Jun 2023 to Apr Analytics Associate Apr 2023
+2024 Paystack
+° Developed a demand forecasting model that COURSES &
+reduced inventory holding costs by 30% rs)
+CERTIFICATIONS
+Built a churn prediction model in Looker (AUC
+0.180) that helped retention teams save NGN TensorFlow Developer Certificate
+8.6M in annual revenue Google - 2025
+o Built a customer segmentation framework
+using clustering on 2.0M profiles to drive Tableau Desktop Specialist
+Tableau - 2024
+targeted campaigns
+> Created executive dashboards in Looker
+tracking 12 KPls, adopted by 120+ business LANGUAGES
+users English Native
+AWARDS Igbo c2
+A
+> Dean's List, Covenant University (2021)
+» Spot Award for Excellence, Paystack (2024)

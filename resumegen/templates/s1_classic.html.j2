@@ -1,0 +1,42 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{padding:{{ s.mt }}px {{ s.mx }}px {{ s.mb }}px;display:flex;flex-direction:column}
+.hd{text-align:center;margin-bottom:6px}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs }}px;font-weight:700;letter-spacing:{{ s.name_ls }}px;line-height:1.15;color:{{ s.name_color }}}
+.hl{font-size:1.08em;color:{{ s.muted }};margin-top:2px}
+.ct{margin-top:5px;font-size:.95em}
+.ct .sp{color:{{ s.muted }}}
+.flow{flex:1}
+.sh{font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.1em;color:{{ s.accent }};border-bottom:{{ s.rule }}px solid {{ s.rule_color }};margin:{{ s.sec_gap }}px 0 4px;padding-bottom:1px;letter-spacing:.6px}
+.eh{margin-top:5px}
+.eh .t2{font-style:italic}
+.bl{margin:1px 0 1px {{ s.indent }}px}
+.ed{margin:4px 0}
+.pj{margin:4px 0}
+.pd{margin-left:0}
+.tech{color:{{ s.muted }};font-size:.93em}
+.tech .lbl{font-weight:600}
+.skl{margin:2px 0}
+.lg{margin:2px 0}
+.ci,.ai{margin:1px 0}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="hd p1only" data-region="header">
+    <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+    {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    <div class="ct">{{ m.contact_line(p, s) }}</div>
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order %}
+    {% if sec == 'experience' %}{{ m.exp_all(p, s, s.exp_v) }}
+    {% elif sec == 'education' %}{{ m.edu_all(p, s, s.edu_v) }}
+    {% elif sec == 'skills' %}{{ m.skills_all(p, s, s.skills_v, s.skill_sep) }}
+    {% elif sec == 'projects' %}{{ m.proj_all(p, s) }}
+    {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'line') }}
+    {% elif sec == 'awards' %}{{ m.award_all(p, s, 'line') }}
+    {% elif sec == 'languages' %}{{ m.lang_all(p, s, 'inline') }}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+</body></html>

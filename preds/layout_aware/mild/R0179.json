@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0179",
+ "name": "Rahel Girma",
+ "headline": "Head of Supply Chain",
+ "contact": {
+  "email": "rgirma@gmail.com",
+  "phone": "+251 921846696",
+  "location": "Hawassa, Ethiopia"
+ },
+ "education": [
+  {
+   "degree": "MSc Operations and Supply Chain Management",
+   "institution": "Addis Ababa University",
+   "dates": "2011"
+  },
+  {
+   "degree": "BEng (Hons) Industrial Engineering",
+   "institution": "Addis Ababa Science and Technology University",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Nestlé",
+   "title": "Head of Supply Chain",
+   "dates": "Apr 2016 Present",
+   "location": "Bahir Dar",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of ETB 11.0M",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Leda team of 4 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Built a supplier scorecard covering quality, cost and delivery for 300 vendors"
+   ]
+  },
+  {
+   "company": "Nestlé",
+   "title": "Regional Logistics Manager",
+   "dates": "May 2014 Mar 2016",
+   "location": "Bahir Dar",
+   "bullets": [
+    "Set up 11 new fulfilment centres processing 483K+ orders per day",
+    "Reduced inventory days by 10 while maintaining 46% service levels",
+    "Cut last-mile delivery cost per order by 12% through route optimisation",
+    "Grew the team by 38% in two years while keeping attrition below 11%"
+   ]
+  },
+  {
+   "company": "Ethiopian Airlines",
+   "title": "Senior Category Manager",
+   "dates": "Dec 2011 Apr 2014",
+   "location": "Hawassa",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Managed import logistics and customs clearance for 120+ containers per year",
+    "Improved forecast accuracy from 25% to 82% by introducing statistical models in Blue Yonder"
+   ]
+  },
+  {
+   "company": "Ethiopian Airlines",
+   "title": "Inventory Analyst",
+   "dates": "Jun 2005 Nov 2011",
+   "location": "Hawassa",
+   "bullets": [
+    "Negotiated freight contracts that saved ETB 11.3M annually",
+    "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%",
+    "Managed procurement spend of ETB 319K across 120 suppliers, delivering 23% savings"
+   ]
+  }
+ ],
+ "skills": [
+  "Contract Negotiation",
+  "Warehouse Management",
+  "Kinaxis RapidResponse",
+  "Basis",
+  "SNe"
+ ],
+ "projects": [
+  {
+   "name": "ProetTie"
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 6 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SNe"
+  },
+  {
+   "name": "ericson [Project ManagnenrProssonsl MP)",
+   "issuer": "PME"
+  },
+  {
+   "name": "SAPCeriicdAplictn Aste Souvng [SAP",
+   "year": "202"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply"
+  }
+ ],
+ "_runtime_s": 0.302
+}

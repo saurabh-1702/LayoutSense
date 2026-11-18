@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0223",
+ "contact": {
+  "email": "kwameappiah@gmail.com",
+  "phone": "+233 26 894 2211",
+  "location": "Tema, Ghana"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kwame-appiah-d7ef93"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Business Administration",
+   "institution": "Ashesi University, Berekuso",
+   "dates": "Sep 2013 | Jul 2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Regional Sales Manager",
+   "company": "Salesforce",
+   "dates": "Jul 2023 | Present",
+   "bullets": [
+    "Led a team of 6 across 6 workstreams, owning hiring, performance reviews and",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-fevel reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 30 days to 1",
+    "Built a pipeline of GHS 385K by prospecting 120+ enterprise accounts using Linkedin",
+    "Expanded distribution to 180 new retail outlets across 17 districts"
+   ]
+  },
+  {
+   "title": "Territory Sales Officer",
+   "company": "MTN Ghana",
+   "dates": "Sep 2017 | Oct 2020",
+   "bullets": [
+    "Onboarded and trained 14 new sales representatives on product and CRM workflows",
+    "Ranked #1 out of 5 account executives in the region for FY",
+    "Maintained 30% forecast accuracy in weekly pipeline reviews in Salesforce CRM"
+   ]
+  },
+  {
+   "title": "Territory Sales Officer",
+   "company": "framework",
+   "dates": "Oct 2016 | Aug 2017",
+   "bullets": [
+    "Managed 24 key accounts generating GHS 11.7M in annual revenue with 56% net",
+    "Achieved 15% of annual quota for 9 consecutive years, closing GHS 385M in new ARR"
+   ]
+  }
+ ],
+ "skills": [
+  "Sales Cold Calling",
+  "Channel Sales",
+  "Account Management",
+  "Key Account Management",
+  "PROFICIENCY"
+ ],
+ "_runtime_s": 0.057
+}

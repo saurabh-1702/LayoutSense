@@ -1,0 +1,57 @@
+Zainab Rana
+Senior Hardware Engineer
+Faisalabad, Pakistan ° +92 300 281 2663 ° zainab.rana@gmail.com
+Work Experience
+Senior Hardware Engineer April 2021 - August 2026
+Samsung | Karachi
+* Designed protection schemes for 13 132/33 kV substations using Xilinx Vivado
+* Reduced energy losses by 44% through power factor correction and harmonic filtering
+* Programmed Siemens PLCs to automate a packaging line, raising throughput by 46%
+* Developed firmware in Embedded C for a battery management system on 250+ EV packs
+* Performed load flow and short-circuit studies for 7 industrial clients
+* Designed 13-layer PCBs in Altium Designer for an industrial loT gateway
+« Led root cause analysis on transformer failures, saving PKR 18.6M in replacement costs
+* Verified RTL designs on FPGA, achieving timing closure at 50 MHz
+* Commissioned a 19 MW solar plant including inverters, transformers and SCADA integration
+Project Engineer — Electrical November 2016 - March 2021
+Engro Corporation | Faisalabad
+* Partnered with senior leadership to define the annual roadmap and a budget of PKR 4.6M
+* Grew the team by 29% in two years while keeping attrition below 7%
+* Introduced weekly operating reviews that cut decision turnaround from 13 days to 1 day
+¢ Mentored 8 junior colleagues, several of whom were promoted within 18 months
+* Represented the function in executive steering committees and board-level reporting
+« Led a team of 6 across 12 workstreams, owning hiring, performance reviews and quarterly planning
+Graduate Engineer - Power Systems August 2014 - October 2016
+Engro Corporation | Faisalabad
+* Designed 16-layer PCBs in Xilinx Vivado for an industrial loT gateway
+* Designed protection schemes for 5 132/33 kV substations using KiCad
+* Commissioned a 3 MW solar plant including inverters, transformers and SCADA integration
+¢ Verified RTL designs on FPGA, achieving timing closure at 60 MHz
+Embedded Engineer June 2013 - July 2014
+K-Electric | Faisalabad
+* Performed load flow and short-circuit studies for 4 industrial clients
+* Developed firmware in Embedded C for a battery management system on 400+ EV packs
+* Led root cause analysis on transformer failures, saving PKR 1.1M in replacement costs
+« Reduced energy losses by 59% through power factor correction and harmonic filtering
+* Programmed Siemens PLCs to automate a packaging line, raising throughput by 30%
+Academic Background
+MEng Electronics and Instrumentation April 2013
+NED University of Engineering and Technology, Karachi
+Upper Second Class Honours (2:1)
+Skills
+Renewable Energy Integration ) ( Battery Management Systems ) ( HV Substations ) ( PLC Programming
+Xilinx Vivado Altium Designer ) ( Adaptability
+Selected Projects
+Grid-tied Inverter Design
+Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.
+Tools: Xilinx Vivado, KiCad, Altium Designer
+Smart Energy Meter with loT
+ESP32-based meter streaming consumption data to a cloud dashboard.
+Tools: KiCad, Altium Designer, Xilinx Vivado
+Certificates
+¢ Professional Engineer (PE) —- Electrical — NCEES (2024)
+¢ NEBOSH IGC — NEBOSH (2016)
+¢ Electrical Supervisor Licence — State Electrical Licensing Board (2024)
+¢ Siemens Certified PLC Programmer — Siemens (2024)
+Languages Known
+Urdu (Native) | English (Advanced) | Sindhi (Conversational)

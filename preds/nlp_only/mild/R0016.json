@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0016",
+ "contact": {
+  "email": "arjunrawat@gmail.com",
+  "phone": "(+91) 9300039542",
+  "location": "Jaipur, Rajasthan"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/arjun-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc (Chemistry)",
+   "institution": "Vellore Institute of Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Primary School Teacher",
+   "company": "O",
+   "dates": "Aug '25 - Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Curriculum Design B.Sc (Chemistry)",
+  "Vellore Institute of Technology",
+  "First Class with Distinction",
+  "Special Educational Needs",
+  "Lesson Planning",
+  "Student Counselling",
+  "Moodle",
+  "Smart Board",
+  "Kahoot!",
+  "Canvas LMS"
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.073
+}

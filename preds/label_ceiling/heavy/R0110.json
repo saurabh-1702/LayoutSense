@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0110",
+ "name": "Anjali Natarajan",
+ "headline": "Head of R&D",
+ "experience": [
+  {
+   "company": "Bayer",
+   "location": "Hamburg",
+   "title": "Head of R&D",
+   "dates": "Apr 2025 - Jun 2026",
+   "bullets": [
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 8%",
+    "Trained 13 analysts on data integrity and ALCOA+ principles",
+    "Performed HPLC and dissolution analysis on 300+ batches per quarter with zero OOS invalidations",
+    "Exceeded territory sales targets by 15% across 250 prescribing doctors",
+    "Supported 8 successful USFDA and MHRA inspections with no critical observations",
+    "Led CAPA investigations that reduced batch deviations by 18%",
+    "Prepared and submitted 17 ANDA/eCTD dossiers to USFDA and EMA",
+    "Processed 483K+ adverse event reports in Argus Safety within regulatory timelines",
+    "Monitored 24 clinical trial sites across Phase Il and Ill oncology studies"
+   ]
+  },
+  {
+   "company": "Lupin",
+   "location": "Mysuru, india",
+   "title": "Clinical Operations Manager",
+   "dates": "May 2020 - Mar 2025",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "Lupin",
+   "location": "Mysuru, india",
+   "title": "Head of Quality Assurance",
+   "dates": "May 2018 - Apr 2020",
+   "bullets": [
+    "Supported 5 successful USFDA and MHRA inspections with no critical observations",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of EUR 9.7M",
+    "Led a team of 13 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "company": "Dr. Reddy's Laboratories",
+   "location": "Chennai",
+   "title": "Senior Pharmacovigilance Physician",
+   "dates": "Dec 2013 - Apr 2018",
+   "bullets": [
+    "Exceeded territory sales targets by 52% across 75 prescribing doctors",
+    "Prepared and submitted 12 ANDA/eCTD dossiers to USFDA and EMA",
+    "Grew the team by 26% in two years while keeping attrition below 17%"
+   ]
+  }
+ ],
+ "skills": [
+  "Presentation Skills"
+ ]
+}

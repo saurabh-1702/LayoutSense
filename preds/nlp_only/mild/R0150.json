@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0150",
+ "name": "Amanda Silva",
+ "contact": {
+  "email": "amanda.silva@gmail.com",
+  "phone": "(51) 99526-5903",
+  "location": "Curitiba, PR"
+ },
+ "education": [
+  {
+   "degree": "M.S. in Manufacturing Systems",
+   "institution": "Instituto Tecnolégico de",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Design Engineer « CFD",
+   "company": "Shell Sao Paulo ¢ Kaizen",
+   "dates": "Jul 2022 — Current",
+   "bullets": [
+    "Reduced unplanned downtime by 27% by introducing « APQP",
+    "Six Sigma",
+    "Led a team of 8 across 24 workstreams, owning hiring",
+    "Represented the function in executive steering committees",
+    "Minitab",
+    "« Time Management",
+    "Grew the team by 56% in two years while keeping attrition",
+    "Team Leadership",
+    "Introduced weekly operating reviews that cut decision",
+    "Mentored 8 junior colleagues, several of whom were Certified Reliability Engineer",
+    "Partnered with senior leadership to define the annual Six Sigma Green Belt"
+   ]
+  },
+  {
+   "title": "Production Engineer",
+   "company": "Dassault Systemes",
+   "dates": "Jun 2020 — Jun 2022",
+   "bullets": [
+    "Led 11 Kaizen events that saved BRL 201M annually in scrap NCEES, 2024",
+    "Designed 3 sheet-metal and casting components in Minitab University of Michigan, Dec 2023",
+    "Improved OEE of a 14-station assembly line from 37% to (CSWP)",
+    "Commissioned a new CNC machining cell, increasing AWARDS",
+    "Ran FEA in ANSYS to optimise a bracket design, reducing"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "BS, Aerospace Engineering"
+  },
+  {
+   "name": "Formula Student Race Car ONLINE PROFILES"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.051
+}

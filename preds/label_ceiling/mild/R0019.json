@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0019",
+ "name": "HARRY SMITH",
+ "headline": "General Ledger Accountant | 6+ Years in Accounting & Audit",
+ "contact": {
+  "email": "harry.smith@gmail.com",
+  "phone": "+44 (0)7435 884419",
+  "location": "Manchester, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/harrysmith"
+  }
+ ],
+ "education": [
+  {
+   "dates": "Sep 2017 — Mar 2020",
+   "degree": "BSc (Hons) Accounting and Finance",
+   "institution": "Loughborough University",
+   "location": "Loughborough",
+   "grade": "First Class Honours"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2023 — Present",
+   "title": "General Ledger Accountant",
+   "company": "KPMG",
+   "location": "Manchester",
+   "bullets": [
+    "Performed balance sheet reconciliations for 75+ accounts and cleared ageing items worth GBP 16.2M",
+    "Reduced days sales outstanding by 13 days through tighter credit control and collections follow-up",
+    "Led statutory audits for 22 clients across manufacturing and retail with combined revenue of £466K",
+    "Filed GST and corporate tax returns with zero penalties across 17 consecutive years",
+    "Prepared consolidated financial statements under IFRS for a group with 8 subsidiaries",
+    "Coordinated with external auditors and resolved 16 management letter points"
+   ]
+  },
+  {
+   "dates": "Jun 2020 — Apr 2023",
+   "title": "Audit Associate",
+   "company": "HSBC UK",
+   "location": "Glasgow",
+   "bullets": [
+    "Documented and tested 12 SOX controls, closing all audit findings ahead of year- end",
+    "Trained 7 junior accountants on Ind AS transition adjustments",
+    "Managed the month-end close for 3 legal entities, reducing the close cycle from 28 to 5 working days",
+    "Implemented Microsoft Dynamics 365 for accounts payable, automating 19% of invoice processing",
+    "Built a fixed-asset register for 31,000 assets and aligned depreciation with tax schedules"
+   ]
+  }
+ ],
+ "skills": [
+  "SOX Compliance",
+  "IFRS",
+  "Month-end Close",
+  "GST",
+  "Alteryx",
+  "Tally ERP 9",
+  "CaseWare",
+  "Xero",
+  "QuickBooks",
+  "Microsoft Dynamics 365"
+ ],
+ "projects": [
+  {
+   "dates": "Aug 2025",
+   "name": "GST Reconciliation Tool",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax practice."
+  },
+  {
+   "name": "Internal Controls Review",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended 6 control improvements."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2019",
+   "name": "ACCA Affiliate",
+   "issuer": "Association of Chartered Certified Accountants"
+  },
+  {
+   "year": "2021",
+   "name": "Certified Management Accountant (CMA)",
+   "issuer": "IMA"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2020",
+   "name": "Star Performer Award",
+   "issuer": "HSBC UK"
+  },
+  {
+   "year": "2022",
+   "name": "Employee of the Quarter",
+   "issuer": "HSBC UK"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Welsh",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

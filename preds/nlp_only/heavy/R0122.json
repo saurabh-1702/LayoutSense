@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0122",
+ "name": "Jia Wei Subramaniam",
+ "contact": {
+  "phone": "06.2026 22"
+ },
+ "education": [
+  {
+   "degree": "BEng (Hons) Informatio",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst",
+   "company": "“PROFESSIONAL ©",
+   "dates": "08.2023 ~ Present",
+   "bullets": []
+  }
+ ],
+ "languages": [
+  {
+   "language": "Malay",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.028
+}

@@ -1,0 +1,43 @@
+Niall O'Sullivan
+Machine Learning Engineer | 9+ Years in Data Science & Analytics
+Galway, Ireland | +353 853403539 | niallosullivan49@gmail.com | linkedin.com/in/niallosullivan | github.com/niall82
+EMPLOYMENT HISTORY
+Machine Learning Engineer — Intercom, Galway
+Jan '21 - Present
+* Defined the company-wide metric layer in dbt, eliminating 4 conflicting KPI definitions
+* Ran 19 A/B experiments on pricing and onboarding flows, lifting conversion by 11%
+* Built a customer segmentation framework using clustering on 310K+ profiles to drive targeted campaigns
+Junior Data Scientist — Accenture, Cork
+Aug '18 - Dec '20
+* Built a churn prediction model in Scala (AUC 0.120) that helped retention teams save €7.1M in annual
+revenue
+« Authored SQL data quality checks across 150 tables, reducing reporting incidents by 39%
+* Reduced Spark job runtime by 34% through partitioning and broadcast join optimisation
+* Designed and maintained 11 Airflow pipelines ingesting 69,000 records daily into Snowflake
+* Developed a demand forecasting model that reduced inventory holding costs by 47%
+¢ Partnered with finance to build an anomaly detection system that flagged €18.6M in billing errors
+Analytics Associate — ICON plc, Limerick
+Aug '17 - Jul '18
+* Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 11 days
+* Deployed a retrieval-augmented chatbot over internal documentation, answering 51,000 employee queries
+per month
+¢ Fine-tuned transformer models for ticket classification, automating 48% of manual triage
+* Created executive dashboards in Tableau tracking 24 KPIs, adopted by 200+ business users
+ACADEMIC BACKGROUND
+ell tt ame aerated edi tei a
+MSc Data Science Jun '17
+University College Cork, Cork, Ireland
+First Class Honours
+BEng (Hons) Information Technology May '16
+Dublin City University, Dublin
+SKILLS
+Languages: Python | Scala| SAS | SQL|R
+BI & Visualisation: Tableau | Excel | Power Bl
+Data Engineering: dbt | Snowflake | NumPy | Apache Spark | Airflow | BigQuery
+Interpersonal: Mentoring | Conflict Resolution
+LANGUAGES
+English (Native), French (B2), German (A2)
+HONOURS & AWARDS
+* Dean's List, Dublin City University (2015)
+* Employee of the Quarter, ICON plc (2017)
+¢ Best Paper Award, Student Research Symposium (2022)

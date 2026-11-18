@@ -1,0 +1,113 @@
+{
+ "resume_id": "R0049",
+ "name": "Ketaki Gandhi",
+ "contact": {
+  "email": "ketakigandhi@gmail.com",
+  "phone": "+91-86943-25287",
+  "location": "Ahmedabad, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ketaki-gandhi-914126"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MTech in Manufacturing Systems, First Class with Distinction",
+   "institution": "Nirma University",
+   "dates": "Sep 2002 — Jul 2004"
+  },
+  {
+   "degree": "B.E. in Aerospace Engineering",
+   "institution": "Nirma University",
+   "dates": "Jul 1998 — Jun 2002"
+  }
+ ],
+ "experience": [
+  {
+   "title": "VP Manufacturing",
+   "company": "Arup",
+   "dates": "Aug 2024 — Present",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of 73 lakh by reducing process variation",
+    "Designed 3 sheet-metal and casting components in Teamcenter for a new two-wheeler platform",
+    "Owned PPAP submissions for 17 suppliers and resolved 200 quality concerns",
+    "Managed a capex budget of %54 Cr for plant upgrades delivered on time",
+    "Improved OEE of a 20-station assembly line from 20% to 85% through SMED and TPM",
+    "Ran FEA in AutoCAD to optimise a bracket design, reducing weight by 18% without loss of stiffness"
+   ]
+  },
+  {
+   "title": "Head of Product Development",
+   "company": "Tata Steel",
+   "dates": "Jul 2017 — Jul 2024",
+   "bullets": [
+    "Leda team of 13 across 6 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 32% in two years while keeping attrition below 20%",
+    "Owned PPAP submissions for 24 suppliers and resolved 120 quality concerns",
+    "Introduced weekly operating reviews that cut decision turnaround from 27 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of 7615 Cr"
+   ]
+  },
+  {
+   "title": "Assistant Manager",
+   "company": "Production",
+   "dates": "Sep 2011 — Jun 2017",
+   "bullets": [
+    "Reduced unplanned downtime by 20% by introducing condition-based maintenance",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Design Engineer",
+   "company": "Bosch",
+   "dates": "Jul 2008 — Aug 2011",
+   "bullets": [
+    "Designed 8 sheet-metal and casting components in Teamcenter for a new two-wheeler platform",
+    "Managed a capex budget of %69 lakh for plant upgrades delivered on time",
+    "Commissioned a new CNC machining cell, increasing capacity by 56%",
+    "Achieved Six Sigma Green Belt savings of %8.3 crore by reducing process variation"
+   ]
+  },
+  {
+   "title": "Production Engineer",
+   "company": "Mahindra & Mahindra",
+   "dates": "Aug 2004 — Jun 2008",
+   "bullets": [
+    "Improved OEE of a 18-station assembly line from 23% to 85% through SMED and TPM",
+    "Led 4 Kaizen events that saved %6.1 Cr annually in scrap and rework",
+    "Ran FEA in CATIA VS to optimise a bracket design, reducing weight by 18% without loss of stiffness",
+    "Conducted DFMEA and design reviews with cross-functional teams for 9 programmes"
+   ]
+  }
+ ],
+ "skills": [
+  "AutoCAD",
+  "{ MATLAB SolidWorks",
+  "Injection Moulding Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  },
+  {
+   "name": "Design of a Robotic Gripper"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Gujarati",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.082
+}

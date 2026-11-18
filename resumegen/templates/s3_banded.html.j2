@@ -1,0 +1,42 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{padding:{{ s.mt }}px {{ s.mx }}px {{ s.mb }}px;display:flex;flex-direction:column}
+.hd{margin-bottom:6px}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs }}px;font-weight:700;line-height:1.1;letter-spacing:{{ s.name_ls }}px;color:{{ s.name_color }}}
+.hl{font-size:1.05em;font-style:italic;color:{{ s.muted }};margin:2px 0 4px}
+.ct{font-size:.94em;line-height:1.45}
+.ct .sp{color:{{ s.accent }}}
+.flow{flex:1}
+.sh{font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.02em;background:{{ s.accent2 }};color:{{ s.band_ink }};padding:2px 7px;margin:{{ s.sec_gap }}px 0 5px;letter-spacing:.8px}
+.eh{margin-top:6px}
+.bl{margin:1px 0 1px {{ s.indent }}px}
+.ed{margin:4px 0}
+.pj{margin:4px 0}
+.tech{font-size:.93em;color:{{ s.muted }}}
+.tech .lbl{font-weight:600}
+.skl{margin:2px 0}
+.ci,.ai{margin:1px 0}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="hd p1only" data-region="header">
+    <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+    {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    <div class="ct">
+      <div>{{ m.F('contact.location', p.contact.location) }}<span class="sp">{{ s.sep }}</span>{{ m.F('contact.phone', p.contact.phone, 'nw') }}<span class="sp">{{ s.sep }}</span>{{ m.F('contact.email', p.contact.email, 'nw') }}</div>
+      {% if p.links %}<div>{% for k in p.links %}<span class="lbl">{{ k.type }}: </span>{{ m.F('links.'~loop.index0~'.url', k.url, 'nw') }}{% if not loop.last %}<span class="sp">{{ s.sep }}</span>{% endif %}{% endfor %}</div>{% endif %}
+    </div>
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order %}
+    {% if sec == 'experience' %}{{ m.exp_all(p, s, s.exp_v) }}
+    {% elif sec == 'education' %}{{ m.edu_all(p, s, s.edu_v) }}
+    {% elif sec == 'skills' %}{{ m.skills_all(p, s, s.skills_v, s.skill_sep) }}
+    {% elif sec == 'projects' %}{{ m.proj_all(p, s) }}
+    {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'line') }}
+    {% elif sec == 'awards' %}{{ m.award_all(p, s, 'line') }}
+    {% elif sec == 'languages' %}{{ m.lang_all(p, s, 'inline') }}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+</body></html>

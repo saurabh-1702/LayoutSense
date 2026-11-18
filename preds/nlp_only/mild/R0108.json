@@ -1,0 +1,40 @@
+{
+ "resume_id": "R0108",
+ "contact": {
+  "email": "monika.mazur06@wp.pl",
+  "phone": "+48-511-606-662",
+  "location": "Gdansk, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/monika-mazur7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. Interaction Design",
+   "institution": "Warsaw University of Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Accessibility Usability Testing",
+  "(WCAG)",
+  "Information Design Systems",
+  "Architecture",
+  "Typography Branding",
+  "Adobe Illustrator Sketch",
+  "Miro Principle",
+  "Adobe XD Blender",
+  "i 94% )",
+  "Team Leadership Negotiation",
+  "Critical Thinking"
+ ],
+ "certifications": [
+  {
+   "name": "Google",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.025
+}

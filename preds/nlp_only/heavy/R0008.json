@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0008",
+ "name": "Bahir Dar",
+ "contact": {
+  "email": "yonas2000@gmail.com",
+  "phone": "+251 92 510 3206",
+  "location": "Bahir Dar, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yonas-mengistu"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Operations and Supply Chain",
+   "institution": "Jirama University",
+   "dates": null
+  },
+  {
+   "degree": "MEng Industrial Engineering",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "@ provects",
+   "dates": "2024 - 2025",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Upper Second Class Honours",
+   "dates": "2020 - 2024",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.038
+}

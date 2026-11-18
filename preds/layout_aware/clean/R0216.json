@@ -1,0 +1,114 @@
+{
+ "resume_id": "R0216",
+ "name": "Fahad Hussain",
+ "headline": "of Experience",
+ "contact": {
+  "email": "fahadhussain96@gmail.com",
+  "phone": "+92-313-9800302",
+  "location": "Peshawar, Pakistan"
+ },
+ "education": [
+  {
+   "degree": "MA in Economics",
+   "institution": "National College of Arts",
+   "dates": "Sep 2015 — Mar 2016",
+   "grade": "Merit"
+  },
+  {
+   "degree": "BSc Accounting and Finance",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "Sep 2012 - Jul 2015"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan 2024- Present",
+   "title": "Senior Credit Manager",
+   "company": "Meezan Bank",
+   "location": "Peshawar",
+   "bullets": [
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Grew the team by 17% in two years while keeping attrition below 17%",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 638K",
+    "Led a team of 12 across 16 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 29 days to 1 day",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day"
+   ]
+  },
+  {
+   "dates": "Nov 2018 - Dec 2023",
+   "title": "Portfolio Analyst",
+   "company": "Habib Bank Limited",
+   "location": "Peshawar",
+   "bullets": [
+    "Supported due diligence on 13 acquisitions, including working-capital and synergy analysis",
+    "Analysed credit proposals for 80 mid- market clients, maintaining an NPA ratio below 1.4%",
+    "Grew the assets under management of assigned clients by 26% year on year",
+    "Managed a loan portfolio of PKR 458K across 200 relationships with zero slippages in FY",
+    "Built three-statement financial models and DCF valuations for 6 deals worth a combined PKR 8.8M",
+    "Led the annual budgeting and rolling forecast process for a business unit with PKR 361K in revenue",
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights"
+   ]
+  },
+  {
+   "dates": "Jun 2016 - Oct 2018",
+   "title": "Relationship Officer",
+   "company": "Engro Corporation",
+   "location": "Peshawar",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 13 disconnected spreadsheets",
+    "Identified cost savings of PKR 2.5M through vendor spend analysis and contract renegotiation",
+    "Prepared pitch books and information memoranda for 16 sell-side mandates",
+    "Automated monthly variance reporting in Bloomberg Terminal, saving the finance team 9 hours per cycle"
+   ]
+  }
+ ],
+ "skills": [
+  "75% 55%",
+  "IFRS 9",
+  "Treasury Management",
+  "Credit Analysis",
+  "Budgeting & Forecasting",
+  "76%",
+  "56%",
+  "SAP S/4HANA",
+  "Anaplan",
+  "72%",
+  "61%",
+  "Bloomberg Oracle Hyperion Terminal",
+  "41%"
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study",
+   "dates": "Jun 2015",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth PKR 423M in cash release."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Bloomberg Market Concepts",
+   "issuer": "Bloomberg",
+   "year": "2017"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu"
+  },
+  {
+   "language": "ecooe",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional . Working ."
+  },
+  {
+   "proficiency": "e000 Proficiency",
+   "language": "Pashto"
+  }
+ ],
+ "_runtime_s": 0.119
+}

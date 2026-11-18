@@ -1,0 +1,80 @@
+{
+ "resume_id": "R0196",
+ "name": "OLIVIA LOPEZ",
+ "headline": "Credit Analyst",
+ "contact": {
+  "email": "olivialopez87@gmail.com",
+  "phone": "+1 858-213-8559",
+  "location": "San Diego, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/olivia-lopez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration in Finance",
+   "institution": "Georgetown University"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug. 2024 - Present",
+   "title": "Credit Analyst",
+   "company": "Goldman Sachs",
+   "location": "New York",
+   "bullets": [
+    "Managed a loan portfolio of $9.5M across 200 relationships with zero slippages in FY",
+    "Built three-statement financial models and DCF valuations for 11 deals worth a combined USD 12.9M",
+    "Analysed credit proposals for 500 mid-market clients, maintaining an NPA ratio below 1.10%"
+   ]
+  }
+ ],
+ "skills": [
+  "Equity Research",
+  "Credit Analysis",
+  "Budgeting & Forecasting",
+  "&A",
+  "Basel III",
+  "FP&A",
+  "Anaplan",
+  "FactSet",
+  "Python",
+  "Problem Solving",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Portfolio Optimisation Tool",
+   "description": "Mean-variance optimiser in Python with backtesting on 10 years of index data."
+  },
+  {
+   "name": "Working Capital Improvement Study",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth $714K in cash release."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Financial Modeling & Valuation Analyst (FMVA)",
+   "issuer": "Corporate Finance Institute",
+   "year": "2024"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM",
+   "year": "2022"
+  },
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "Jan. 2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

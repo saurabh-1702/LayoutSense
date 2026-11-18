@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0082",
+ "name": "Reza Rahimi",
+ "headline": "Pharmacist",
+ "contact": {
+  "email": "rezarahimi@gmail.com",
+  "phone": "+98 902 210 8861",
+  "location": "Tehran, Iran"
+ },
+ "links": [
+  {
+   "url": "wwwilinkedin.com/in/reza-rahimi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Microbiology",
+   "institution": "Isfahan University of Technology",
+   "dates": "Aug 2020 – Mar 2024"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Dec 2025 – Present",
+   "title": "Pharmacist",
+   "company": "Darou Pakhsh",
+   "location": "Tehran",
+   "bullets": [
+    "Exceeded territory sales targets by 53% across",
+    "120",
+    "prescribing doctors",
+    "Monitored 18 clinical trial sites across Phase II and III",
+    "oncology studies",
+    "Prepared and submitted 4 ANDA/eCTD dossiers to USFDA",
+    "and EMA",
+    "Led CAPA investigations that reduced batch deviations by",
+    "59%",
+    "Processed 7.0M adverse event reports in Argus Safety",
+    "within regulatory timelines"
+   ]
+  },
+  {
+   "dates": "Jun 2024 – Nov 2025",
+   "title": "Medical Representative",
+   "company": "GSK",
+   "location": "Tehran",
+   "bullets": [
+    "Supported 24 successful USFDA and MHRA inspections",
+    "with no critical observations",
+    "Performed HPLC and dissolution analysis on 180+ batches",
+    "per quarter with zero OOS invalidations",
+    "Developed an extended-release tablet formulation that cut",
+    "manufacturing cost by 10%",
+    "Trained 5 analysts on data integrity and ALCOA+ principles"
+   ]
+  }
+ ],
+ "skills": [
+  "Clinical Trial Monitoring",
+  "Method Validation",
+  "USFDA Audits",
+  "Deviation Management",
+  "eCTD",
+  "Submissions",
+  "SAP QM",
+  "Argus Safety",
+  "Empower 3"
+ ],
+ "projects": [
+  {
+   "name": "Formulation of Fast-Dissolving Tablets",
+   "description": "Developed and evaluated orally disintegrating tablets"
+  },
+  {
+   "description": "using superdisintegrants.",
+   "name": "Pharmacovigilance Signal Detection"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India",
+   "year": "2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Isfahan University of Technology",
+   "year": "2023"
+  },
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "GSK",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Azerbaijani",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Conversational"
+  }
+ ]
+}

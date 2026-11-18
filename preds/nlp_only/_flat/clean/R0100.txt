@@ -1,0 +1,45 @@
+© PROFESSIONAL BACKGROUND
+O
+Field Engineer
+Engro Corporation - Karachi
+¢ Developed firmware in Embedded C for a battery management system on
+SANA RANA
+120+ EV packs
+Field Engineer e Reduced energy losses by 56% through power factor correction and
+harmonic filtering
+a CONTACT DETAILS e Verified RTL designs on FPGA, achieving timing closure at 150 MHz
+\ +92 322 835 0290 O 09/2023 to 06/2024
+M sana.rana@ gmail.com Graduate Engineer - Power Systems
+9 Rawalpindi, Pakistan Bosch - Karachi
+© e Led root cause analysis on transformer failures, saving PKR 5.4M in
+linkedin.com/in/sana-rana2
+replacement costs
+-*- TECHNICAL SKILLS ¢ Designed 7-layer PCBs in Altium Designer for an industrial IoT gateway
+e Performed load flow and short-circuit studies for 19 industrial clients
+Renewable Energy Integration
+¢ Designed protection schemes for 11 132/33 kV substations using
+Nn FS n E lo) = DIgSILENT PowerFactory
+toIci< i) > @ NOTABLE PROJECTS
+COpraenavraz 5 Grid-tied Inverter Design
+Simulated and built a 1 kW single-phase inverter with MPPT control in
+(S| 3 0 B las
+Bis aE Simulink.
+oO FS = o Technologies: KiCad, DIgSILENT PowerFactory
+DIgSILENT PowerFactory
+© AcADEMIC QUALIFICATIONS
+Attention to Detail
+O
+= @ = S 2. 5 gq BEng (Hons) Electrical Engineering
+NED University of Engineering and Technology
+= 3 a) K feb} 5 feb) ia (e) 3 © 5 ot
+© LICENSES & CERTIFICATIONS
+@® LANGUAGES KNOWN
+2 Electrical Supervisor Licence
+Urdu State Electrical Licensing Board - 2026
+Native
+2 Siemens Certified PLC Programmer
+English Siemens - 2026
+1
+Sindhi © Honors
+2
+* Values in Action Award - Engro Corporation, 2025

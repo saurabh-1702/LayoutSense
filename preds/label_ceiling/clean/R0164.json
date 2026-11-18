@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0164",
+ "name": "7. A IN AB OGUNLEYE",
+ "contact": {
+  "email": "zainabo269@gmail.com",
+  "phone": "+234 8059733060",
+  "location": "Enugu, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/zainab-ogunleye-65"
+  },
+  {
+   "url": "github.com/zainab50"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Computer Science and Engineering",
+   "institution": "Covenant University",
+   "dates": "Apr 2023"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2024 to Present",
+   "title": "Associate Data Scientist",
+   "company": "Access Bank",
+   "bullets": [
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 18 days",
+    "Defined the company-wide metric layer in dbt, eliminating 21 conflicting KPI definitions",
+    "Reduced Spark job runtime by 31% through partitioning and broadcast join optimisation",
+    "Fine-tuned transformer models for ticket classification, automating 45% of manual triage",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 77,000 employee queries per month"
+   ]
+  },
+  {
+   "dates": "Jun 2023 to Apr 2024",
+   "title": "Analytics Associate",
+   "company": "Paystack",
+   "bullets": [
+    "Developed a demand forecasting model that reduced inventory holding costs by 30%",
+    "Built a churn prediction model in Looker (AUC 0.180) that helped retention teams save NGN 8.6M in annual revenue",
+    "Built a customer segmentation framework using clustering on 2.0M profiles to drive targeted campaigns",
+    "Created executive dashboards in Looker tracking 12 KPls, adopted by 120+ business users"
+   ]
+  }
+ ],
+ "skills": [
+  "ED",
+  "CD",
+  "EG",
+  "©"
+ ],
+ "certifications": [
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Google",
+   "year": "2025"
+  },
+  {
+   "name": "Tableau Desktop Specialist",
+   "issuer": "Tableau",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Covenant University",
+   "year": "(2021)"
+  },
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Paystack",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Igbo",
+   "proficiency": "C2"
+  }
+ ]
+}

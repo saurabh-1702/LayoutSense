@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0030",
+ "name": "Mrunal Trivedi",
+ "contact": {
+  "email": "mrunal.trivedi@gmail.com",
+  "phone": "79357 68685",
+  "location": "Surat, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mrunaltrivedi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Vellore Institute of Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Article Assistant",
+   "company": "ITC Limited",
+   "dates": "Feb 2026 — Apr 2026",
+   "bullets": [
+    "CaseWare",
+    "QuickBooks",
+    "Drafted standard operating procedures for 15 recurring tasks * Microsoft Dynamics 365",
+    "Presented final internship findings to department leadership",
+    "Shadowed senior colleagues and proposed process Educational Qualifications"
+   ]
+  },
+  {
+   "title": null,
+   "company": "Awards & Recognition",
+   "dates": "2023 — 2026",
+   "bullets": [
+    "CEO's Excellence Award, ITC Limited (2026)"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Language Proficiency"
+  },
+  {
+   "name": "GST Reconciliation Tool Marathi Native"
+  },
+  {
+   "name": "Internal Controls Review Skills & Tools"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Public Accountant",
+   "issuer": "AICPA"
+  }
+ ],
+ "_runtime_s": 0.034
+}

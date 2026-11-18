@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0220",
+ "name": "Akshay Parikh",
+ "headline": "Head of Academics",
+ "contact": {
+  "email": "akshay1993@gmail.com",
+  "phone": "+91-8975024231",
+  "location": "Ahmedabad, India"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Chemistry",
+   "institution": "Indian Institute of Science",
+   "grade": "CGPA: 8.89/10"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug 2025 - Till Date",
+   "title": "Head of Academics",
+   "company": "Manipal Institute of Technology",
+   "location": "Ahmedabad",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 23 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of =31.7 Cr",
+    "Grew the team by 41% in two years while keeping attrition below 7%",
+    "Grew the team by 58% in two years while keeping attrition below 21%"
+   ]
+  },
+  {
+   "dates": "May 2024 - Jul 2025",
+   "title": "Head of Academics",
+   "company": "DAV Public School",
+   "location": "Ahmedabad",
+   "bullets": [
+    "Coordinated the school's Canvas LMS rollout, training 6 teachers in blended learning",
+    "Led parent-teacher conferences and individualised learning plans for 9 students with SEN",
+    "Developed 80 digital lessons and assessments used across the district",
+    "Organised inter-school science fairs and olympiad coaching with 14 national-level qualifiers"
+   ]
+  },
+  {
+   "dates": "Feb 2020 - Apr 2024",
+   "title": "Head of Department",
+   "company": "Indian Institute of Technology Roorkee",
+   "location": "Vadodara",
+   "bullets": [
+    "Managed department budget and timetable for 3 faculty members",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 3 grade levels",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "Jul 2013 - Jan 2020",
+   "title": "Mathematics Teacher",
+   "company": "DAV Public School",
+   "location": "Ahmedabad",
+   "bullets": [
+    "Mentored 13 new teachers as part of the induction programme",
+    "Taught Mathematics to 10 sections of Grades 9-12, with 49% of students scoring above 90 in board exams",
+    "Raised average class performance by 18% through targeted remediation and formative assessment"
+   ]
+  }
+ ],
+ "skills": [
+  "Student Counselling",
+  "fa oo TS ml a) = = =",
+  "Q nm mM",
+  "Special Educational Needs",
+  "Blended Learning",
+  "Canvas LMS",
+  "Smart Board",
+  "Kahoot!",
+  "Moodle",
+  "Google Classroom"
+ ],
+ "certifications": [
+  {
+   "name": "Google Certified Educator Level 2",
+   "issuer": "Google for Education",
+   "year": "2015"
+  },
+  {
+   "name": "Qualified Teacher Status (QTS)",
+   "issuer": "Department for Education",
+   "year": "Jun 2015"
+  },
+  {
+   "name": "Central Teacher Eligibility Test (CTET)",
+   "issuer": "CBSE",
+   "year": "2025"
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English",
+   "year": "Jul 2017"
+  }
+ ]
+}

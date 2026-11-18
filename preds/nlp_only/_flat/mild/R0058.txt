@@ -1,0 +1,35 @@
+juliana.costa85@gmail.com
+(81) 95419-8997
+Juliana Costa oar>p>am Recife, PE
+www.linkedin.com/in/juliana-costa
+Junior Software Developer i github.com/julianacos
+EXPERIENCE EDUCATION & QUALIFICATIONS
+August 2024 - Present Master of Engineering in Distributed Systems
+Junior Software Developer Insper
+Stone Co. May 2024 | GPA 3.26
+Resolved 300+ production issues as part of the on- Bachelor of Science in Information Technology
+call rotation, reducing mean time to recovery by 20% Instituto Tecnoldgico de Aeronautica
+Introduced feature flags and canary releases, May 2022
+lowering production incidents by 33% quarter over
+quarter KEY SKILLS
+Rebuilt the search experience with Elasticsearch,
+improving result relevance and click-through by 12%
+Reduced p95 API latency by 48% by introducing
+Redis caching and optimising slow PostgreSQL
+queries
+PROJECTS
+Open-source CLI Contribution October 2022
+Contributed 3 merged pull requests to a popular
+open-source CLI tool, adding plugin support.
+Tools: Angular, Ruby on Rails, PHP
+CERTIFICATIONS
+Meta Front-End Developer Professional
+Certificate
+Coursera, December 2026
+AWS Certified Developer — Associate
+Amazon Web Services, 2025
+LANGUAGES KNOWN
+Portuguese Mother tongue
+English Limited Working Proficiency
+Italian Elementary Proficiency
+Elementary Proficiency

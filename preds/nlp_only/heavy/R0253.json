@@ -1,0 +1,43 @@
+{
+ "resume_id": "R0253",
+ "contact": {
+  "location": "Docker, Spring Boot, Next.js"
+ },
+ "projects": [
+  {
+   "name": "URL Shortener at Scale"
+  },
+  {
+   "name": "Open-source CLI Contribution @ 3"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "+ AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "« AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Korean",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.029
+}

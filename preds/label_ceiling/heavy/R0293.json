@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0293",
+ "name": "F E D E R | C 0 A LVA R E L",
+ "headline": "Interaction Designer",
+ "contact": {
+  "email": "federico_alvarez@gmail.com+549115",
+  "phone": "829-3111",
+  "location": "Rosario, Argentina"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/federicoalvarez-52"
+  },
+  {
+   "url": "federicoalvarez.framer.website"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BFA, industrial Design",
+   "dates": "07/2019 - 05/2023",
+   "institution": "Universidad de Buenos Aires",
+   "location": "Buenos Aires"
+  }
+ ],
+ "experience": [
+  {
+   "title": "interaction Designer",
+   "dates": "02/2025 - Current",
+   "company": "Ualé",
+   "location": "Mendoza",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 18 product launches",
+    "Improved WCAG 2.1 AA compliance from 5% to 96% across core journeys",
+    "Built and maintained a design system of 400+ components used by 18 product squads"
+   ]
+  },
+  {
+   "title": "Graphic Designer",
+   "dates": "06/2023 - 01/2025",
+   "company": "Mercado Libre",
+   "location": "Mendoza",
+   "bullets": [
+    "Redesigned the onboarding flow in Adobe Photoshop, increasing activation by 22% across 67K+ new users",
+    "Partnered with engineering to ship 8 features per quarter with pixel-perfect handoff in Adobe Photoshop",
+    "Conducted 19 rounds of usability testing with 400 participants to validate checkout improvements",
+    "Ran discovery workshops and journey mapping with stakeholders across 24 markets",
+    "Reduced support tickets by 12% by simplifying the account settings experience"
+   ]
+  }
+ ],
+ "skills": [
+  "Wireframing",
+  "Accessibility (WCAG)",
+  "Motion Design",
+  "Interaction Design",
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Adobe After Effects"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept",
+   "dates": "10/2026",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Adobe iliustrator, Adobe Photoshop, Adobe After Effects"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Mercado Libre",
+   "year": "(2025)"
+  },
+  {
+   "name": "Behance Featured Project",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

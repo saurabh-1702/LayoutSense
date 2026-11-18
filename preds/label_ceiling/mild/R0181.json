@@ -1,0 +1,134 @@
+{
+ "resume_id": "R0181",
+ "name": "Zainab Rana",
+ "headline": "Senior Hardware Engineer",
+ "contact": {
+  "email": "zainab.rana@gmail.com",
+  "phone": "+92 300 281 2663",
+  "location": "Faisalabad, Pakistan"
+ },
+ "education": [
+  {
+   "degree": "MEng Electronics and Instrumentation",
+   "dates": "April 2013",
+   "institution": "NED University of Engineering and Technology",
+   "location": "Karachi",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Hardware Engineer",
+   "dates": "April 2021 - August 2026",
+   "company": "Samsung",
+   "location": "Karachi",
+   "bullets": [
+    "Designed protection schemes for 13 132/33 kV substations using Xilinx Vivado",
+    "Reduced energy losses by 44% through power factor correction and harmonic filtering",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 46%",
+    "Developed firmware in Embedded C for a battery management system on 250+ EV packs",
+    "Performed load flow and short-circuit studies for 7 industrial clients",
+    "Designed 13-layer PCBs in Altium Designer for an industrial loT gateway",
+    "Led root cause analysis on transformer failures, saving PKR 18.6M in replacement costs",
+    "Verified RTL designs on FPGA, achieving timing closure at 50 MHz",
+    "Commissioned a 19 MW solar plant including inverters, transformers and SCADA integration"
+   ]
+  },
+  {
+   "title": "Project Engineer — Electrical",
+   "dates": "November 2016 - March 2021",
+   "company": "Engro Corporation",
+   "location": "Faisalabad",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 4.6M",
+    "Grew the team by 29% in two years while keeping attrition below 7%",
+    "Introduced weekly operating reviews that cut decision turnaround from 13 days to 1 day",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a team of 6 across 12 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Graduate Engineer - Power Systems",
+   "dates": "August 2014 - October 2016",
+   "company": "Engro Corporation",
+   "location": "Faisalabad",
+   "bullets": [
+    "Designed 16-layer PCBs in Xilinx Vivado for an industrial loT gateway",
+    "Designed protection schemes for 5 132/33 kV substations using KiCad",
+    "Commissioned a 3 MW solar plant including inverters, transformers and SCADA integration",
+    "Verified RTL designs on FPGA, achieving timing closure at 60 MHz"
+   ]
+  },
+  {
+   "title": "Embedded Engineer",
+   "dates": "June 2013 - July 2014",
+   "company": "K-Electric",
+   "location": "Faisalabad",
+   "bullets": [
+    "Performed load flow and short-circuit studies for 4 industrial clients",
+    "Developed firmware in Embedded C for a battery management system on 400+ EV packs",
+    "Led root cause analysis on transformer failures, saving PKR 1.1M in replacement costs",
+    "Reduced energy losses by 59% through power factor correction and harmonic filtering",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 30%"
+   ]
+  }
+ ],
+ "skills": [
+  "Renewable Energy Integration",
+  "Battery Management Systems",
+  "HV Substations",
+  "PLC Programming",
+  "Xilinx Vivado",
+  "Altium Designer",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Grid-tied Inverter Design",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "Xilinx Vivado, KiCad, Altium Designer"
+  },
+  {
+   "name": "Smart Energy Meter with loT",
+   "description": "ESP32-based meter streaming consumption data to a cloud dashboard.",
+   "tech": "KiCad, Altium Designer, Xilinx Vivado"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Professional Engineer (PE) —- Electrical",
+   "issuer": "NCEES",
+   "year": "(2024)"
+  },
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH",
+   "year": "(2016)"
+  },
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board",
+   "year": "(2024)"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "(Conversational)"
+  }
+ ]
+}

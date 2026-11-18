@@ -1,0 +1,113 @@
+{
+ "resume_id": "R0227",
+ "name": "GUO Yang",
+ "headline": "Group Brand Manager",
+ "contact": {
+  "email": "yangguo42@163.com",
+  "phone": "+65 82053031",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yangguo-73"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Marketing",
+   "institution": "Singapore Management University",
+   "dates": "2013",
+   "grade": "Upper Second-Class (2:1)"
+  },
+  {
+   "degree": "Bachelor of Arts in Mass Communication",
+   "institution": "Shanghai Jiao Tong University",
+   "dates": "2011",
+   "grade": "GPA: 3.35"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Bowe",
+   "bullets": [
+    "Built automated email nurture journeys in Marketo that lifted MQL-to-SQL conversion by 58%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 12 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of S$354M",
+    "Grew the team by 43% in two years while keeping attrition below 15%",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months"
+   ],
+   "title": "Performance Marketing Manager"
+  },
+  {
+   "dates": "Oct 2017 Dec 2023",
+   "bullets": [
+    "Coordinated 23 influencer campaigns generating 401K+ impressions and 61,000 engagements",
+    "Owned the go-to-market plan for a SaaS launch, generating S$16.9M pipeline in the first quarter",
+    "Ran consumer research with 300 respondents to shape positioning for a new category",
+    "Managed a monthly paid media budget of SGD 9.9M across Google Ads and Meta, achieving a 18x ROAS",
+    "Reduced customer acquisition cost by 28% through audience segmentation and creative testing",
+    "Grew organic traffic by 48% in 8 months through technical SEO and a content calendar of 11 articles per month",
+    "Launched 9 new product variants nationally, capturing 15% market share in the first year",
+    "Grew Instagram and LinkedIn followers from 10,000 to over 3x within a year",
+    "Built a marketing attribution dashboard in HubSpot used in weekly leadership reviews",
+    "Led a rebrand across 18 touchpoints in partnership with an external creative agency"
+   ],
+   "company": "Marina Bay Sands",
+   "title": "Social Media Executive"
+  }
+ ],
+ "skills": [
+  "Basic",
+  "Adaptability",
+  "a",
+  "Mailchimp",
+  "=",
+  "Proficient",
+  "Communication",
+  "Read",
+  "Write",
+  "‘Speak",
+  "_—s—~Proficiency"
+ ],
+ "certifications": [
+  {
+   "name": "Meta Certified Digital Marketing Associate",
+   "issuer": "‘Meta",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "Marina Bay Sands",
+   "year": "(2014)"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Marina Bay Sands",
+   "year": "(2017)"
+  },
+  {
+   "name": "Dean's List",
+   "issuer": "Shanghai Jiao Tong University",
+   "year": "(2012)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.284
+}

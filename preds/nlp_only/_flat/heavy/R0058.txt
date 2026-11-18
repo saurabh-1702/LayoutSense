@@ -1,0 +1,24 @@
+T (81)95419-8997
+Juliana Costa A Recife. PE
+Junior Software Developer Gi github.comfulianacos
+EXPERIENCE EDUCATION & QUALIFICATIONS
+Stone Co. May 2024} GPA 3.26
+* Resolved 300+ production issues as part of the on- Ratton olaaiaeet hn athe
+call rotation, reducing mean time to recovery by 20% teem
+* introduced fealure flags and canary releases, May 2022
+quarter REY SKILLS
+improving result relevance and click-through by 12%
++ Reduced p95 API latency by 48% by introducing
+Redis caching and optimising slow PostgreSQL
+PROJECTS
+Open-source CLI Contribution October 2022
+Coon ee oe mere apes
+open-source CLI tool, adding plugin support.
+Toots: Angular. Ruby on Rails, PHP
+CERTIFICATIONS
+Goursera, Gecember 2026
+AWS Certified Developer — Associate
+Areazon Web Services, 2025
+LANGUAGES KNOWN
+Portuguese Mother tongue
+italian Elementary Proficiency

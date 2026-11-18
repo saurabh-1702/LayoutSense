@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0040",
+ "name": "Zuzanna Szymanski",
+ "headline": "Senior Teacher",
+ "contact": {
+  "email": "zuzannaszymanski@o2.pl",
+  "phone": "+48 721 249 616",
+  "location": "Wroctaw, Poland"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/zuzanna-szymanski4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Mathematics",
+   "institution": "Warsaw University of Technology",
+   "grade": "Grade: 4.5/5.0"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Teacher",
+   "company": "Stefan Batory High School",
+   "bullets": [
+    "Developed 180 digital lessons and assessments used across the district",
+    "Raised average class performance by 23% through targeted remediation and formative assessment",
+    "Organised inter-school science fairs and olympiad coaching with 22 national-level qualifiers",
+    "Taught Mathematics to 5 sections of Grades 9-12, with 49% of students scoring above 90 in board exams"
+   ]
+  },
+  {
+   "title": "English Teacher",
+   "company": "Stefan Batory High School",
+   "bullets": [
+    "Mentored 3 new teachers as part of the induction programme",
+    "Led parent-teacher conferences and individualised learning plans for 23 students with SEN",
+    "Managed department budget and timetable for 4 faculty members",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 8 grade levels",
+    "Coordinated the school's Canvas LMS rollout, training 11 teachers in blended learning"
+   ]
+  }
+ ],
+ "skills": [
+  "Student Counselling",
+  "Lesson Planning",
+  "Classroom Management",
+  "CBSE Curriculum",
+  "Assessment Design",
+  "STEM Education",
+  "Microsoft Teams",
+  "Canvas LMS",
+  "Nearpod"
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners",
+   "description": "Phonics-based intervention for 75 students across 24 schools."
+  },
+  {
+   "name": "Flipped Classroom Pilot",
+   "description": "Ran a 3-month pilot in Grade 10 Physics; test scores improved by 9%."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Qualified Teacher Status (QTS)",
+   "issuer": "Department for Education",
+   "year": "2026"
+  },
+  {
+   "name": "TESOL Certificate",
+   "issuer": "Arizona State University",
+   "year": "2022"
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Stefan Batory High School",
+   "year": "2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

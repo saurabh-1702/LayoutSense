@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0293",
+ "contact": {
+  "email": "federico_alvarez@gmail.com",
+  "phone": "+549 115 829-3111",
+  "location": "Rosario, Argentina"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/federicoalvarez-52"
+  },
+  {
+   "url": "federicoalvarez.framer.website"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BFA, industrial Design",
+   "institution": "BFA",
+   "dates": "07/2019 - 05/2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "interaction Designer",
+   "company": "Ualé —- Mendoza",
+   "dates": "02/2025 - Current",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 18 product launches"
+   ]
+  },
+  {
+   "title": "Graphic Designer",
+   "company": "Mercado Libre ~ Mendoza",
+   "dates": "06/2023 - 01/2025",
+   "bullets": [
+    "Redesigned the onboarding flow in Adobe Photoshop, increasing activation by 22% across 67K+ new users",
+    "Partnered with engineering to ship 8 features per quarter with pixel-perfect handoff in Adobe Photoshop"
+   ]
+  }
+ ],
+ "skills": [
+  "Wireframing",
+  "Accessibility (WCAG)",
+  "Motion Design",
+  "Interaction Design",
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Adobe After Effects"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.062
+}

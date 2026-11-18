@@ -1,0 +1,28 @@
+{
+ "resume_id": "R0232",
+ "name": "NOOR EL",
+ "contact": {
+  "email": "noor_elamrani@kpnmail.nl",
+  "phone": "66 34 07 81",
+  "location": "The Hague, Netherlands"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/noor-elamrani-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Eindhoven University of Technology",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Dutch",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.034
+}

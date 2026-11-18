@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0173",
+ "name": "RYAN GOH",
+ "headline": "Pharmacist",
+ "contact": {
+  "email": "ryan.goho5@gmail.com",
+  "phone": "+65 8831 3016",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ryan-goh8"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Singapore Management University",
+   "location": "Singapore",
+   "degree": "BSc (Hons) Chemistry",
+   "dates": "Sep 2022 to Aug 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Pharmacist",
+   "dates": "Oct 2025 to Present",
+   "company": "Novartis",
+   "location": "Singapore",
+   "bullets": [
+    "Monitored 19 clinical trial sites across Phase II and III oncology studies",
+    "Performed HPLC and dissolution analysis on 80+ batches per quarter with zero OOS invalidations",
+    "Prepared and submitted 14 ANDA/eCTD dossiers to USFDA and EMA",
+    "Supported 24 successful USFDA and MHRA inspections with no critical observations"
+   ]
+  }
+ ],
+ "skills": [
+  "USFDA Audits",
+  "HPLC",
+  "Dissolution Testing",
+  "GC-MS",
+  "Stability Studies",
+  "eCTD Submissions",
+  "LIMS",
+  "Argus Safety",
+  "Presentation Skills",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection",
+   "description": "Disproportionality analysis on spontaneous reports for 16 marketed molecules."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Clinical Research Professional (CCRP)",
+   "issuer": "SoCRA",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  }
+ ]
+}

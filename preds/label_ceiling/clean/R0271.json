@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0271",
+ "name": "THANDIWE DLAMINI",
+ "headline": "Data Science & Analytics Graduate",
+ "contact": {
+  "email": "thandiwe.dlamini@gmail.com",
+  "phone": "+27-74-957-0109",
+  "location": "Pretoria, South Africa"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/thandiwe-dlamini-97"
+  }
+ ],
+ "education": [
+  {
+   "dates": "09/2023-05/2026",
+   "degree": "BSc Statistics",
+   "institution": "University of Cape Town",
+   "location": "Cape Town"
+  }
+ ],
+ "skills": [
+  "Scala",
+  "R",
+  "SAS",
+  "scikit-learn",
+  "LangChain",
+  "NLP",
+  "Computer Vision",
+  "Databricks",
+  "Apache Kafka",
+  "BigQuery",
+  "Looker",
+  "Plotly",
+  "Tableau",
+  "Matplotlib",
+  "Power BI",
+  "Problem Solving",
+  "Decision Making",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Air Quality Forecasting",
+   "description": "LSTM model forecasting PM2.5 levels across 23 monitoring stations with a Streamlit dashboard."
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "End-to-end Power BI dashboard on 251K+ transactions with drill-downs by region and category.",
+   "tech": "BigQuery, Tableau, Scala, Matplotlib"
+  },
+  {
+   "name": "Credit Risk Scoring Model",
+   "description": "Gradient-boosted model on 286K+ loan applications with SHAP explanations and fairness checks.",
+   "tech": "R, Scala, Tableau, scikit-learn"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "09/2025",
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "Basic"
+  }
+ ]
+}

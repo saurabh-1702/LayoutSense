@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0020",
+ "name": "Career History",
+ "contact": {
+  "email": "ahmed1997@outlook.com",
+  "phone": "+20 1505511077",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ahmedibrahim"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA, Sales and Marketing",
+   "institution": "Account Executive Nile University",
+   "dates": null
+  },
+  {
+   "degree": "B.A. in Economics",
+   "institution": "9.5M The American University in Cairo",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  }
+ ],
+ "_runtime_s": 0.041
+}

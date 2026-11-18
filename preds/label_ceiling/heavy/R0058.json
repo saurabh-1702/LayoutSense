@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0058",
+ "name": "Juliana Costa",
+ "headline": "Junior Software Developer",
+ "contact": {
+  "phone": "(81)95419-8997"
+ },
+ "links": [
+  {
+   "url": "Recife.PE"
+  },
+  {
+   "url": "github.comfulianacos"
+  }
+ ],
+ "education": [
+  {
+   "dates": "May 2024}",
+   "grade": "GPA 3.26",
+   "degree": "Ratton olaaiaeet hn athe teem"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Stone Co.",
+   "bullets": [
+    "Resolved 300+ production issues as part of the on- call rotation, reducing mean time to recovery by 20%",
+    "introduced fealure flags and canary releases, quarter",
+    "improving result relevance and click-through by 12%",
+    "Reduced p95 API latency by 48% by introducing Redis caching and optimising slow PostgreSQL"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution",
+   "dates": "October 2022",
+   "description": "Coon ee oe mere apes open-source CLI tool, adding plugin support.",
+   "tech": "Angular. Ruby on Rails, PHP"
+  }
+ ],
+ "certifications": [
+  {
+   "issuer": "Goursera",
+   "year": "Gecember 2026",
+   "name": "AWS Certified Developer — Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "italian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ]
+}

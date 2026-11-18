@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0287",
+ "name": "Daniel Johnson",
+ "contact": {
+  "email": "danieljohnson@yahoo.co.uk",
+  "phone": "+44 (0)7584 039285",
+  "location": "Birmingham, UK"
+ },
+ "education": [
+  {
+   "degree": "BA (Hons) Communication",
+   "institution": "Royal College of Art",
+   "grade": "Upper Second Design Class Honours (2:1)"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech",
+   "description": "Token-based component library in Figma with documentation and dark-mode Startup support.",
+   "tech": "Sketch, Figma"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Deliveroo",
+   "year": "(2025)"
+  },
+  {
+   "name": "Rising Star Award",
+   "issuer": "Revolut",
+   "year": "(2026)"
+  }
+ ],
+ "_runtime_s": 0.593
+}

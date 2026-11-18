@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0073",
+ "name": "Francesca Gallo",
+ "headline": "Director of Operations",
+ "contact": {
+  "email": "francescagallo22@outlook.it",
+  "phone": "+39 328 400 9103",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/francescagallo"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Politecnico di Milano",
+   "location": "Milan",
+   "degree": "BBA",
+   "dates": "Sep, 2010 — Jul, 2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Director of Operations",
+   "dates": "Apr, 2025 — Present",
+   "company": "Stellantis",
+   "location": "Bologna",
+   "bullets": [
+    "Grew the team by 20% in two years while keeping attrition below 20%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €424K",
+    "Led a team of 3 across 14 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 16% in two years while keeping attrition below 16%"
+   ]
+  },
+  {
+   "title": "Director of Operations",
+   "dates": "Oct, 2023 — Mar, 2025",
+   "company": "Uber",
+   "location": "Milan",
+   "bullets": [
+    "Negotiated freight contracts that saved €96K annually",
+    "Improved forecast accuracy from 17% to 82% by introducing statistical models in Excel",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Reduced inventory days by 22 while maintaining 31% service levels",
+    "Cut last-mile delivery cost per order by 36% through route optimisation",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Inventory Analyst",
+   "dates": "Oct, 2013 — Sep, 2023",
+   "company": "Uber",
+   "location": "Milan",
+   "bullets": [
+    "Managed import logistics and customs clearance for 120+ containers per year",
+    "Built a supplier scorecard covering quality, cost and delivery for 500 vendors",
+    "Managed procurement spend of EUR 7.2M across 120 suppliers, delivering 25% savings",
+    "Set up 24 new fulfilment centres processing 826K orders per day"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": "CIPS",
+   "year": "(2016)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Politecnico di Milano",
+   "year": "(2013)"
+  },
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Politecnico di Milano",
+   "year": "(2011)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  }
+ ]
+}

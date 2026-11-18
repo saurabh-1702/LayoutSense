@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0220",
+ "contact": {
+  "email": "akshay1993@gmail.com",
+  "phone": "+91-8975024231",
+  "location": "Ahmedabad, India"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Chemistry",
+   "institution": "Indian Institute of Science",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Academics",
+   "company": "(OM",
+   "dates": "Aug 2025 - Till Date",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "below 21%",
+  "Student Counselling",
+  "May 2024",
+  "Jul 2025",
+  "IB Curriculum Head of Academics",
+  "DAV Public School",
+  "Ahmedabad",
+  "IGCSE",
+  "training 6",
+  "Blended Learning",
+  "EE",
+  "district",
+  "Smart Board",
+  "Moodle",
+  "Head of Department",
+  "Vadodara"
+ ],
+ "certifications": [
+  {
+   "name": "Google Certified Educator Level 2",
+   "issuer": "Google for Education"
+  },
+  {
+   "name": "Qualified Teacher Status",
+   "issuer": "QTS)"
+  },
+  {
+   "name": "Department for Education",
+   "issuer": ""
+  },
+  {
+   "name": "Central Teacher Eligibility Test",
+   "issuer": "CTET)"
+  },
+  {
+   "name": "CBSE",
+   "issuer": ""
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.057
+}

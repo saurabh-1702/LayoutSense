@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0151",
+ "name": "Curriculum Vitae ANAND RAMESH",
+ "contact": {
+  "email": "anandr994@yahoo.com",
+  "phone": "0431 564 667",
+  "location": "Perth, WA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anand-ramesh8"
+  },
+  {
+   "url": "github.com/anandramesh"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.E. in Computer Science",
+   "institution": "College of Engineering Trivandrum, Thiruvananthapuram",
+   "dates": "July 2021"
+  },
+  {
+   "degree": "Bachelor of Computer Applications",
+   "institution": "Indian Institute of Technology Madras, Chennai",
+   "dates": "June 2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Graduate Software Engineer",
+   "company": "SEEK",
+   "dates": "December 2022 — Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Cloud & DevOps Microsoft Azure",
+  "Google Cloud Platform",
+  "GitHub Actions",
+  "Frameworks Django",
+  "GraphQL",
+  "Angular",
+  "Spring Boot",
+  "React",
+  "Swift",
+  "TypeScript",
+  "Kotlin",
+  "Scala"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud"
+  },
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.052
+}

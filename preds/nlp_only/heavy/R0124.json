@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0124",
+ "contact": {
+  "location": "San Jose, CA"
+ },
+ "education": [
+  {
+   "degree": "MSN, Community Health",
+   "institution": "Purdue University",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Nursing (BSN)",
+   "institution": "Johns Hopkins University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Triaged 80",
+  "zz Sr",
+  "Cerner eee well",
+  "for the unit",
+  "Electronic Medical Records"
+ ],
+ "projects": [
+  {
+   "name": "NABH Standards \"9"
+  },
+  {
+   "name": "Ventilator Management “sy"
+  },
+  {
+   "name": "Medication Administration r Pressure Ulcer Prevention Audit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council"
+  },
+  {
+   "name": "Pediatric Advanced Life Support",
+   "issuer": "PALS)"
+  },
+  {
+   "name": "American Heart Association",
+   "issuer": ""
+  },
+  {
+   "name": "& Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council"
+  }
+ ],
+ "_runtime_s": 0.022
+}

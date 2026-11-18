@@ -1,0 +1,127 @@
+{
+ "resume_id": "R0024",
+ "name": "Kumar Wong",
+ "contact": {
+  "email": "kumar.wong@gmail.com",
+  "phone": "+60 14-9819027",
+  "location": "Kuala Lumpur, Malaysia"
+ },
+ "education": [
+  {
+   "degree": "MBA (Marketing)",
+   "institution": "Taylor's University",
+   "dates": "Feb 2017—Jan 2018"
+  },
+  {
+   "degree": "BA in Mass Communication",
+   "institution": "Universiti Malaya",
+   "dates": "Jul 2010—May 2013"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug 2024-Aug 2026",
+   "title": "Group Brand Manager",
+   "company": "Nestlé",
+   "location": "Petaling Jaya",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 20 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of MYR 526K",
+    "Led a team of 9 across 16 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 14 across 4 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "Jan 2023-Jul 2024",
+   "title": "Head of Digital Marketing",
+   "company": "AirAsia",
+   "location": "Kuala Lumpur",
+   "bullets": [
+    "Ran consumer research with 250 respondents to shape positioning for a new category",
+    "Reduced customer acquisition cost by 59% through audience segmentation and creative testing",
+    "Owned the go-to-market plan for a SaaS launch, generating MYR 692K pipeline in the first quarter"
+   ]
+  },
+  {
+   "dates": "Jun 2016-Dec 2022",
+   "title": "Growth Marketer",
+   "company": "Unilever",
+   "location": "Kuala Lumpur",
+   "bullets": [
+    "Grew Instagram and LinkedIn followers from 2,000 to over 3x within a year",
+    "Coordinated 18 influencer campaigns generating 48K+ impressions and 293K+ engagements",
+    "Built automated email nurture journeys in Google Ads that lifted MQL-to-SQL conversion by 45%",
+    "Managed a monthly paid media budget of MYR 409M across Google Ads and Meta, achieving a 19x ROAS"
+   ]
+  },
+  {
+   "dates": "Aug 2013-May 2016",
+   "title": "Social Media Executive",
+   "company": "Axiata",
+   "location": "Kuala Lumpur",
+   "bullets": [
+    "Led a rebrand across 18 touchpoints in partnership with an external creative agency",
+    "Launched 13 new product variants nationally, capturing 9% market share in the first year",
+    "Grew organic traffic by 41% in 4 months through technical SEO and a content calendar of 8 articles per month",
+    "Built a marketing attribution dashboard in Google Ads used in weekly leadership reviews"
+   ]
+  }
+ ],
+ "skills": [
+  "Content Strategy",
+  "Email Marketing",
+  "Marketing",
+  "Copywriting Automation",
+  "Google Ads",
+  "Ahrefs",
+  "= ra) — n Q fe)",
+  "Negotiation",
+  "Problem Solving",
+  "Time Management",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Instagram Growth Experiment",
+   "description": "Grew a niche food account to 7.3M followers in 7 months using Reels and UGC."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "year": "2022",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "2025"
+  },
+  {
+   "name": "Content Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "2024"
+  },
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google",
+   "year": "Aug 2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Malay",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

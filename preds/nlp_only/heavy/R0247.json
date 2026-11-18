@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0247",
+ "name": "Sophie Kriiger",
+ "contact": {
+  "email": "kruger90@gmx.de",
+  "phone": "0172 47879598",
+  "location": "Main, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/sophie-kruger-81"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.A. Economics",
+   "institution": "University of Mannheim",
+   "dates": "August 2023"
+  },
+  {
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "Karlsruhe Institute of Technology, Karlsruhe",
+   "dates": "May 2021"
+  }
+ ],
+ "skills": [
+  "l inance DCF Valuation",
+  "Budgeting & Forecasting",
+  "Basel Il",
+  "IFRS 9",
+  "Tools Oracle Hyperion",
+  "VBA",
+  "Bloomberg Terminal",
+  "Power BI"
+ ],
+ "certifications": [
+  {
+   "name": "CFA Level IH Candidate",
+   "issuer": "CFA institute"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Pund Distributors",
+   "issuer": "NISM"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.058
+}

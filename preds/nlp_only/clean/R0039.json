@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0039",
+ "name": "G. Reshma",
+ "contact": {
+  "email": "reshmagowda@hotmail.com",
+  "phone": "+91 8721582401",
+  "location": "Bengaluru, Karnataka"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/reshma-"
+  },
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Arts in Christ University",
+   "institution": "Bachelor of Arts",
+   "dates": "Sep. 2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Representative",
+   "company": "DLF Limited Sales Development",
+   "dates": "Oct. 2013 ~ Oct. 2017",
+   "bullets": [
+    "Managed 21 key accounts generating =83 lakh in annual revenue with 54% net revenue retention",
+    "Ranked #1 out of 24 account executives in the region for FY",
+    "Expanded distribution to 300 new retail outlets across 20 districts",
+    "Shortened the average sales cycle by 28 days by introducing a structured discovery framework",
+    "Achieved 3% of annual quota for 15 consecutive years, closing 39.1 Cr in new ARR"
+   ]
+  }
+ ],
+ "skills": [
+  "Pipeline Management",
+  "Negotiation",
+  "Cold Calling",
+  "Distributor Management",
+  "B2B",
+  "Sales",
+  "Key Account Management",
+  "LinkedIn Sales Navigator",
+  "Apollo.io",
+  "Salesforce CRM",
+  "Outreach",
+  "Excel",
+  "Gong",
+  "Interpersonal Negotiation",
+  "Attention to Detail",
+  "Time Management"
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": null
+  },
+  {
+   "name": "Certified Professional Sales Person",
+   "issuer": "CPSP) NASP"
+  },
+  {
+   "name": "Salesforce Certified Administrator Salesforce",
+   "issuer": null
+  },
+  {
+   "name": "Sandler Sales Foundations Sandler Training",
+   "issuer": null
+  },
+  {
+   "name": "HubSpot Sales Software Certification HubSpot Academy",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Telugu",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.055
+}

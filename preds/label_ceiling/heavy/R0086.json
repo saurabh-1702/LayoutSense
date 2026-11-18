@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0086",
+ "name": "MIGUEL MENDOZA",
+ "contact": {
+  "phone": "0918 142 3511 miguel.mn@gmail.com",
+  "location": "Taguig City, Philippines"
+ },
+ "links": [
+  {
+   "url": "wwwlinkedin,convinimigue5encorete"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Mapua University i",
+   "dates": "July 2021 = July 2026",
+   "grade": "acum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "October 2025 — Present",
+   "title": "Risk Analyst",
+   "company": "Bloomberg",
+   "location": "Makati City",
+   "bullets": [
+    "Built financial models and DCF valuations for 10 deals worth a combined PHP 17.1M",
+    "Analysed credit proposals for 150 mid-market clients, maintaining an NPA ratio below 1.8%",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management"
+   ]
+  }
+ ],
+ "skills": [
+  "§",
+  "Equi Research F",
+  "M&A",
+  "Basel i",
+  "Risk Management. =",
+  "Capital",
+  "Q"
+ ],
+ "projects": [
+  {
+   "name": "Valuation of a Listed FMCG Company",
+   "dates": "October 2024",
+   "description": "Equity research report with DCF and comparable-company analysis; recommendation tracked for 6 months."
+  },
+  {
+   "name": "Portfolio Optimisation Tool",
+   "description": "Mean-variance optimiser in Python with backtesting on 11 years of index data."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "iii collie Certified ury Pr Tree (CTP) 9 5",
+   "issuer": "Assoc lation for Financial piprecaicnais",
+   "year": "20244"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino"
+  },
+  {
+   "language": "Englishy"
+  }
+ ]
+}

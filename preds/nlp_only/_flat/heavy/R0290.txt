@@ -1,0 +1,35 @@
+RUBEN VAN DIJK
+Systems Engineer
+EMPLOYMENT HISTORY
+Systems Engineer — Just Eat Takeaway.com, Rotterdam
+Apr. 2022 - Present
+» Reduced po5 API latency by 39% by introducing Redis caching
+and optimising slow PostgreSQL queries
+» Developed internal tooling in CI/CD that saved the support
+team 9 hours per week
+> Wrote technical design documents and led code reviews for a
+team of 13 engineers
++ Built a real-time notification service using CI/CD and Apache
+Kafka that processes 498K+ events per hour
++ Implemented a CI/CD pipeline with GitHub Actions and
+automated tests, raising code coverage from 21% to 85%
+» Owned the payments integration with 12 third-party gateways,
+reducing failed transactions by 16%
+Graduate Software Engineer — ASML, Rotterdam
+Oct, 2620 - Mar. 2022
+> Cut cloud infrastructure costs by €159K annually by right-
+sizing instances and adopting spot capacity
+> Resolved 150+ production issues as part of the on-call
+rotation, reducing mean time to recovery by 14%
+* Introduced feature flags and canary releases, lowering
+production incidents by 31% quarter over quarter
+» Migrated a legacy monolith to containerised services on
+Kubernetes, cutting deployment time from 12 hours to 15
+minutes
++ Collaborated with product and design to ship 10 major
+releases on schedule across web and mobile
+ACADEMIC PROJECTS
+Distributed Key-Value Store Mar. 2023
+Raft-based replicated key-value store with leader election, log
+compaction and a gRPC client,
+Tools used: Node. ja, C++, CI/CD, React

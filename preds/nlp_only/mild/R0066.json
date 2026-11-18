@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0066",
+ "name": "SHREYA GUPTA",
+ "contact": {
+  "email": "sgupta@gmail.com",
+  "phone": "84331 02359",
+  "location": "Lucknow, Uttar Pradesh, India"
+ },
+ "education": [
+  {
+   "degree": "Master of Arts in English",
+   "institution": "Teacher - St. Xavier's High School, Lucknow Lady Shri Ram College for",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. (Hons.) Chemistry",
+   "institution": "* Raised average class performance by 23% through targeted Indian Institute of Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Teacher",
+   "company": "English Advanced",
+   "dates": "November 2024 — Present",
+   "bullets": [
+    "Mentored 9 new teachers as part of the induction programme Hindi Beginner",
+    "Coordinated the school's Microsoft Teams rollout, training 17 Education"
+   ]
+  },
+  {
+   "title": "Teacher",
+   "company": "Women",
+   "dates": "October 2022 — October 2024",
+   "bullets": [
+    "Led parent-teacher conferences and individualised learning August 2019 — June 2021",
+    "Raised average class performance by 23% through targeted Indian Institute of Technology",
+    "Designed an inquiry-based science curriculum aligned to IB MYP September 2016 — May 2019",
+    "Taught Mathematics to 22 sections of Grades 9-12, with 39% of Competencies",
+    "IB Curriculum"
+   ]
+  },
+  {
+   "title": "Mathematics Teacher",
+   "company": "¢ Student Counselling",
+   "dates": "August 2021 — September 2022",
+   "bullets": [
+    "Managed department budget and timetable for 6 faculty ¢ Blended Learning",
+    "Developed 120 digital lessons and assessments used across the ¢ Smart Board",
+    "Organised inter-school science fairs and olympiad coaching with * Seesaw",
+    "Stakeholder Management",
+    "Critical Thinking",
+    "Team Leadership"
+   ]
+  }
+ ],
+ "_runtime_s": 0.091
+}

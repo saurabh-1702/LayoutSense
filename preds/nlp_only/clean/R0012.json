@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0012",
+ "contact": {
+  "email": "darren.teo@gmail.com",
+  "phone": "93409910",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darrenteo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) English Literature",
+   "institution": "LASALLE College of the Arts",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "© Marketing Manager",
+   "company": "Grab",
+   "dates": "Nov 2025 — Current",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Instagram Growth Experiment"
+  },
+  {
+   "name": "Consumer Survey on EV Adoption EDUCATIONAL"
+  },
+  {
+   "name": "LASALLE College of the Arts"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Digital Marketing",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.043
+}

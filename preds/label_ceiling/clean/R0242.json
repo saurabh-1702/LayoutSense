@@ -1,0 +1,147 @@
+{
+ "resume_id": "R0242",
+ "name": "Oleksandr Koval",
+ "headline": "Engineering Manager — Infrastructure",
+ "contact": {
+  "email": "oleksandrkoval@ukr.net",
+  "phone": "093 195 02 23",
+  "location": "Kyiv, Ukraine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/oleksandr-koval6"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Structural Engineering",
+   "institution": "Igor Sikorsky Kyiv Polytechnic Institute",
+   "dates": "05/2011",
+   "grade": "Diploma with Honours"
+  },
+  {
+   "degree": "B.Eng. Civil Engineering",
+   "institution": "Lviv Polytechnic National University",
+   "dates": "04/2009"
+  }
+ ],
+ "experience": [
+  {
+   "company": "AECOM",
+   "location": "Kyiv",
+   "title": "Engineering Manager — Infrastructure",
+   "dates": "04/2024 to Present",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day"
+   ]
+  },
+  {
+   "company": "Jacobs",
+   "location": "Lviv",
+   "title": "Head of Projects",
+   "dates": "01/2023 to 03/2024",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of UAH 22.7M",
+    "Grew the team by 50% in two years while keeping attrition below 7%",
+    "Supervised construction of a 21-storey residential tower with a contract value of UAH 7.2M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "Arup",
+   "location": "Kyiv",
+   "title": "Senior Project Manager",
+   "dates": "05/2022 to 12/2022",
+   "bullets": [
+    "Scheduled a 6-month metro station package in STAAD.Pro, recovering 7 weeks of delay",
+    "Prepared BOQs and rate analyses for tenders worth UAH 245M",
+    "Introduced BIM clash detection that cut rework costs by 59%",
+    "Conducted soil investigation reviews and foundation design for 24 bridges",
+    "Led a team of 13 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "company": "WwsP",
+   "location": "Kyiv",
+   "title": "Graduate Civil Engineer",
+   "dates": "07/2011 to 04/2022",
+   "bullets": [
+    "Delivered a 14 km highway stretch 16 weeks ahead of schedule",
+    "Managed client billing and variations, improving cash collection by 15%",
+    "Coordinated 11 subcontractors and 120+ workers across civil and MEP activities",
+    "Designed RCC and steel structures in STAAD.Pro for 12 commercial projects",
+    "Achieved 3.2M safe man-hours without a lost-time injury on site"
+   ]
+  }
+ ],
+ "skills": [
+  "Site Supervision",
+  "Quantity Estimation",
+  "HSE Compliance",
+  "Structural Analysis",
+  "Navisworks",
+  "Revit",
+  "STAAD.Pro",
+  "Public Speaking",
+  "Team Leadership",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building",
+   "dates": "11/2024",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "Navisworks, STAAD.Pro, Revit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH International General Certificate",
+   "issuer": "NEBOSH",
+   "year": "2017"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council",
+   "year": "2023"
+  },
+  {
+   "name": "Chartered Engineer (CEng)",
+   "issuer": "Institution of Civil Engineers",
+   "year": "2023"
+  },
+  {
+   "name": "Autodesk Certified Professional: Revit",
+   "issuer": "Autodesk",
+   "year": "2026"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2017"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "WSP",
+   "year": "(2011)"
+  },
+  {
+   "name": "ICI Award for Outstanding Concrete Structure",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Ukrainian",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

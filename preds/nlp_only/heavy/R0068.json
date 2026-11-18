@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0068",
+ "education": [
+  {
+   "degree": "Master of Science in Statistics",
+   "institution": "University of Lisbon",
+   "dates": "jul 2017"
+  },
+  {
+   "degree": "B.Sc. Information",
+   "institution": "errors Instituto Superior Técnico",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "18/20",
+   "dates": "Sep 2012 - Jul 2014",
+   "bullets": [
+    "Partnered with finance to build an anomaly",
+    "Fine-tuned transformer models for ticket Aug 2008 - Jul 2012"
+   ]
+  }
+ ],
+ "skills": [
+  "dbt",
+  "tables",
+  "reducing reporting incidents by 12%",
+  "internal documentation",
+  "answering 9.2M",
+  "employee queries per month",
+  "Miflow",
+  "cutting model deployment time from",
+  "weeks to 20 days",
+  "Portuguese",
+  "€12.8M in annual revenue",
+  "Aug 2014",
+  "Jun Associate Data Scientist",
+  "2017 EDP",
+  "Coimbra (Hybrid)",
+  "Built a customer segmentation framework",
+  "using clustering on 217K",
+  "targeted campaigns",
+  "onboarding flows",
+  "lifting conversion by 15%"
+ ],
+ "_runtime_s": 0.049
+}

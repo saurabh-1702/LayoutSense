@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0108",
+ "name": "Monika Mazur",
+ "headline": "Visual Designer",
+ "education": [
+  {
+   "degree": "B.A, Interaction Design",
+   "institution": "Warsaw University of Technology",
+   "dates": "just, 2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug 2025- Present",
+   "title": "Visual Designer",
+   "company": "\"Ogilvy",
+   "location": "Warsaw",
+   "bullets": [
+    "Led end-to-end design of a mobile banking app ‘rated 4.7 on the App Store",
+    "Improved WCAG 2.1 AA compliance from 14% to 96% across core journeys",
+    "Built and maintained a design system of 120+ components used by 12 product squads",
+    "Conducted 23 rounds of usability testing with 80 participants to validate checkout finprovecrenis"
+   ]
+  }
+ ],
+ "skills": [
+  "Team Leadership",
+  "Negotiation",
+  "Critical Thinking"
+ ],
+ "certifications": [
+  {
+   "issuer": "ce",
+   "year": "de 24",
+   "name": "Adobe Certified Professional in Visual Design"
+  },
+  {
+   "issuer": "Adobe",
+   "year": "202%",
+   "name": "Certified Usability Analyst (CUA)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Ogilvy",
+   "year": "(2026)"
+  }
+ ]
+}

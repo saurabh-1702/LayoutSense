@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0275",
+ "name": "IQRA ABBASI",
+ "headline": "Principal Hardware Engineer",
+ "contact": {
+  "email": "igqra.abbasi@gmail.com",
+  "phone": "0310-2641643"
+ },
+ "education": [
+  {
+   "degree": "MEng Power Systems",
+   "institution": "FAST National University of Computer and",
+   "location": "2014"
+  },
+  {
+   "institution": "nal"
+  },
+  {
+   "institution": "University ‘Of Sciences and Technology",
+   "dates": "“Aug 2004"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a",
+    "budget of PKR 13.8M",
+    "Grew the team by 50% in two years while keeping attrition below 5%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a",
+    "team of 4 across 18 workstreams, owning hiring, performance reviews and quarteriy planning",
+    "Performed load flow and short-circuit studies for 14 industrial clients Se",
+    "eat",
+    "Verified RTL designs on FPGA, achieving timing closure at 200 MHz",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Designed protection",
+    "schemes for 17 132/33 kV substations using Altium Designer",
+    "Led root cause analysis on transformer failures, saving PKR 240K in replacement costs",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 46%",
+    "Vr————=—E——r",
+    "Commissioned a 22 MW solar plant including inverters, transformers and SCADA integration",
+    "Designed 5-layer PCBs in PSCAD for an industrial loT gateway",
+    "Developed firmware in Embedded C for a battery management system on 60+ EV packs"
+   ],
+   "company": "ABB",
+   "title": "Lead Electrical Engineer",
+   "dates": "May 2024",
+   "location": "Karachi"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "LAL"
+  },
+  {
+   "name": "Professional"
+  },
+  {
+   "name": "Engineer (PE)",
+   "issuer": "rae cal"
+  },
+  {
+   "name": "Blectrical Supervisor Licence"
+  }
+ ],
+ "awards": [
+  {
+   "year": "(013)",
+   "name": "Star Performer Award",
+   "issuer": "Shel"
+  }
+ ]
+}

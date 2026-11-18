@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0074",
+ "name": "LAURA MEYER",
+ "contact": {
+  "phone": "151 37001619",
+  "location": "INFORMA"
+ },
+ "experience": [
+  {
+   "title": "Operations Executive",
+   "company": "Zalando",
+   "dates": "Mar 2025 - Present",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and"
+   ]
+  },
+  {
+   "title": "Inventory Analyst",
+   "company": "Hmport/Export Documentatio BMW Group",
+   "dates": "Oct 2023 - Feb 2025",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.026
+}

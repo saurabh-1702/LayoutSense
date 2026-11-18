@@ -1,0 +1,106 @@
+{
+ "resume_id": "R0011",
+ "name": "Ting Wang",
+ "headline": "Operations Manager",
+ "contact": {
+  "email": "tingwang@outlook.com",
+  "phone": "196 8322 7929",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ting-wang"
+  }
+ ],
+ "education": [
+  {
+   "dates": "From",
+   "degree": "Bachelor of Engineering in prasusteal Begnieeenk",
+   "institution": "Tongji University"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Shell",
+   "title": "Operations Manager",
+   "dates": "May '21 Present",
+   "location": "Shanghai",
+   "bullets": [
+    "Grew the team by 33% in two years while keeping attrition below 18%",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of CNY 758K",
+    "Led a team of 14 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "company": "Uber",
+   "title": "Demand Planner",
+   "dates": "Aug ‘19 Apr '21",
+   "location": "Shanghai",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 29% through route optimisation",
+    "Negotiated freight contracts that saved CNY 21.5M annually",
+    "Managed import logistics and customs clearance for 250+ containers per year"
+   ]
+  },
+  {
+   "company": "JD.com",
+   "title": "Operations Executive",
+   "dates": "Apr ‘17 Jul ‘19",
+   "location": "Hangzhou",
+   "bullets": [
+    "Reduced inventory days by 15 while maintaining 56% service levels",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%"
+   ]
+  },
+  {
+   "company": "PepsiCo",
+   "title": "Supply Chain Analyst",
+   "dates": "Jun '16 Mar ‘17",
+   "location": "Beijing",
+   "bullets": [
+    "Built a supplier scorecard covering quality, cost and delivery for 250 vendors",
+    "Set up 7 new fulfilment centres processing 170K+ orders per day",
+    "Managed procurement spend of CNY 131K across 120 suppliers, delivering 5% savings",
+    "Improved forecast accuracy from 40% to 82% by introducing statistical models in SAP APO"
+   ]
+  }
+ ],
+ "skills": [
+  "Transportation Management",
+  "Expert",
+  "Network Design",
+  "Import/Export Documentation",
+  "Vendor Management",
+  "vearateuien Management",
+  "Last-mile Delivery",
+  "Ariba",
+  "Basic",
+  "Oracle SCM"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 27% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 17 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SAS"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "PepsiCo",
+   "year": "(2017)"
+  }
+ ],
+ "_runtime_s": 0.41
+}

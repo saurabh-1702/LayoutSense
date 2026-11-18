@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0159",
+ "name": "Yash Dhillon",
+ "contact": {
+  "email": "yashdhillon@yahoo.co.in",
+  "phone": "+91 7081725954",
+  "location": "Gurugram, Haryana, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yash-dhillon-3ca1dec"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech in Structural Vellore Institute of Technology",
+   "institution": "Structural Vellore Institute of Technology 2020",
+   "dates": "2020"
+  },
+  {
+   "degree": "Bachelor of Technology (Civil",
+   "institution": "Bachelor of Technology",
+   "dates": "2018"
+  }
+ ],
+ "skills": [
+  "Engineering HSE Compliance",
+  "STAAD.Pro * SAP2000",
+  "Navisworks",
+  "Tekla Structures * Primavera P6",
+  "Critical Thinking * Time Management",
+  "Cross-functional Collaboration",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Study management. Tekla Structures"
+  }
+ ],
+ "_runtime_s": 0.037
+}

@@ -1,0 +1,47 @@
+{
+ "resume_id": "R0286",
+ "name": "Li linkedin.com/in/yasmin-tarouk7",
+ "contact": {
+  "phone": "59-618-667",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yasmin-tarouk7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Business Administration (MBA)",
+   "institution": "Business Analyst Nile University",
+   "dates": "Jun 2023 ~ Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst Nile University",
+   "company": "Master of Business Administration (MBA)",
+   "dates": "Jun 2023 ~ Present",
+   "bullets": [
+    "Conducted commercial due diligence on 20 private equity B.S, in Commerce",
+    "Designed a target operating mode! for a 33,000-employee Jul 2021 | Cum J amie",
+    "Led a cost transformation programme identifying LOP 16.4M SKILLS"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "A2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  },
+  {
+   "language": "French",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.043
+}

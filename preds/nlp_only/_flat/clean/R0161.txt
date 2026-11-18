@@ -1,0 +1,38 @@
+matheus.araujo@gmail.com
++1 (415) 698-2933
+San Francisco, CA, USA
+M a t h e u S A ra uj O
+linkedin.com/in/matheusaraujo
+Senior Software Engineer github.com/matheusaraujo
+Experience
+Senior Software Engineer — Mastercard, San Francisco, CA
+September 2024-Present
+> Cut cloud infrastructure costs by $280M annually by right-sizing instances and adopting spot
+capacity
+> Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time
+from 29 hours to 15 minutes
+> Developed customer-facing features in Redis used by 151K+ monthly active users
+> Developed internal tooling in Redis that saved the support team 35 hours per week
+Systems Engineer — Siemens, Rio de Janeiro, Brazil
+June 2019-August 2024
+> Designed and built 13 RESTful microservices in GraphQL and Cassandra, serving 631K requests
+per day with 99.95% uptime
+> Collaborated with product and design to ship 12 major releases on schedule across web and
+mobile
+> Resolved 200+ production issues as part of the on-call rotation, reducing mean time to recovery
+by 45%
+Education
+Bachelor of Science in Electronics and Communication Engineering July 2015-March 2019
+Instituto Tecnolégico de Aeronautica, Sdo José dos Campos, Brazil
+GPA: 3.11/4.0
+Technical Skills
+DynamoDB, Cassandra, Redis, Express.js, Angular, GraphQL
+Academic Projects
+Realtime Chat Platform
+WebSocket chat service with end-to-end encryption, read receipts and presence indicators.
+Open-source CLI Contribution
+Contributed 17 merged pull requests to a popular open-source CLI tool, adding plugin support.
+Courses & Certifications
+> HashiCorp Certified: Terraform Associate — HashiCorp (2026)
+Language Proficiency
+Portuguese (Mother tongue); English (Limited Working Proficiency); French (Elementary Proficiency)

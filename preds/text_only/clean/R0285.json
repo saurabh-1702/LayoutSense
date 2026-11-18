@@ -1,0 +1,126 @@
+{
+ "resume_id": "R0285",
+ "name": "Peng Liu",
+ "headline": "Attending Physician",
+ "contact": {
+  "email": "peng.liu@gmail.com",
+  "phone": "195 2884 4300",
+  "location": "Shenzhen, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pengliu3"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Sun Yat-sen University Guangzhou",
+   "degree": "Master of Medicine (Internal Medicine)",
+   "grade": "GPA: 3.76/4.0",
+   "dates": "2017-03"
+  },
+  {
+   "institution": "Peking Union Medical College",
+   "location": "Beijing",
+   "degree": "Bachelor of Medicine (MBBS)",
+   "dates": "2014-05"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Attending Physician",
+   "dates": "2025-04 ~ 2026-09",
+   "company": "Huashan Hospital",
+   "location": "Shenzhen",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of CNY 264K",
+    "Leda team of 7 across 19 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Presented case reports at 4 national conferences",
+    "Grew the team by 33% in two years while keeping attrition below 20%",
+    "Leda team of 14 across 12 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Resident Physician",
+   "dates": "2017-06 ~ 2025-03",
+   "company": "Huashan Hospital",
+   "location": "Shenzhen",
+   "bullets": [
+    "Ran outpatient clinics seeing 4 patients per session with a focus on diabetes and hypertension",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 17%",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Managed an average of 10 inpatients daily across general medicine and high-dependency units",
+    "Co-authored 8 peer-reviewed publications in indexed journals",
+    "Leda clinical audit on sepsis bundle compliance that improved adherence by 15%",
+    "Performed 400+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Supervised and taught 6 interns and medical students on ward rounds"
+   ]
+  }
+ ],
+ "skills": [
+  "Echocardiography",
+  "Central Line Insertion",
+  "Critical Care",
+  "Telemedicine",
+  "Clinical Audit",
+  "Cerner",
+  "ICD-10 Coding"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit",
+   "description": "Retrospective review of 60 admissions validating NEWS2 thresholds."
+  },
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "description": "Cross-sectional study of 120 school students; presented at the state medical conference."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACLS Provider",
+   "issuer": "American Heart Association",
+   "year": "(2023)"
+  },
+  {
+   "name": "Good Clinical Practice (GCP)",
+   "issuer": "NIDA Clinical Trials Network",
+   "year": "(2024)"
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK",
+   "issuer": "NBME",
+   "year": "(2017-05)"
+  },
+  {
+   "name": "PLAB 2",
+   "issuer": "General Medical Council",
+   "year": "(2025)"
+  },
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons",
+   "year": "(2016)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin"
+  },
+  {
+   "language": "Chinese",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "(Limited Working Proficiency)"
+  }
+ ],
+ "_runtime_s": 0.556
+}

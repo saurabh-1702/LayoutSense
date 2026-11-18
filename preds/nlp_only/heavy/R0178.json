@@ -1,0 +1,48 @@
+{
+ "resume_id": "R0178",
+ "name": "Eleanor Smith",
+ "contact": {
+  "email": "eleanor.s@outlook.com",
+  "phone": "+44 7206 91909",
+  "location": "Glasgow, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/eleanor-smith7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PhD in Machine Learning Languages: Scala, R, Python, SAS",
+   "institution": "Imperial College London ML & Al: LangChain, Computer Vision, A/B",
+   "dates": null
+  },
+  {
+   "degree": "BSc Data Science",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Tableau Desktop Specialist"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Loughborough University",
+   "issuer": "DeepLearning.Al,."
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Welsh",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.029
+}

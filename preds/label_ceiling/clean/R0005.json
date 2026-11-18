@@ -1,0 +1,134 @@
+{
+ "resume_id": "R0005",
+ "name": "= Hetal Joshi",
+ "headline": "Senior Software Engineer",
+ "contact": {
+  "email": "hetaljoshi@hotmail.com",
+  "phone": "+91-94193-95065",
+  "location": "Navi Mumbai, Maharashtra"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hetaljoshi-b6378a"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc (Computer Science)",
+   "institution": "SRM Institute of Science and Technology",
+   "dates": "Sep 2011 — Jun 2014",
+   "grade": "CGPA: 7.94/10"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Software Engineer",
+   "company": "HCLTech",
+   "location": "Navi Mumbai",
+   "dates": "Apr 2022 — Present",
+   "bullets": [
+    "Grew the team by 53% in two years while keeping attrition below 5%",
+    "Led a team of 5 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 10 days to 1 day",
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 54% in two years while keeping attrition below 15%"
+   ]
+  },
+  {
+   "title": "iOS Developer",
+   "company": "Goldman Sachs",
+   "location": "Remote — India",
+   "dates": "Dec 2016 — Mar 2022",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 42%",
+    "Developed customer-facing features in .NET Core used by 12,000 monthly active users",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 12% to 85%",
+    "Collaborated with product and design to ship 13 major releases on schedule across web and mobile",
+    "Reduced p95 API latency by 15% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Wrote technical design documents and led code reviews for a team of 4 engineers"
+   ]
+  },
+  {
+   "title": "Software Developer",
+   "company": "Zoho Corporation",
+   "location": "Navi Mumbai",
+   "dates": "Sep 2015 — Nov 2016",
+   "bullets": [
+    "Built a real-time notification service using Go and Apache Kafka that processes 39,000 events per hour",
+    "Designed and built 4 RESTful microservices in Go and Ruby, serving 3.0M requests per day with 99.95% uptime",
+    "Owned the payments integration with 19 third-party gateways, reducing failed transactions by 22%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 30 hours to 15 minutes"
+   ]
+  },
+  {
+   "title": "Associate Software Engineer",
+   "company": "Zoho Corporation",
+   "location": "Navi Mumbai",
+   "dates": "Sep 2014 — Aug 2015",
+   "bullets": [
+    "Cut cloud infrastructure costs by 116 crore annually by right-sizing instances and adopting spot capacity",
+    "Developed internal tooling in GraphQL that saved the support team 28 hours per week",
+    "Introduced feature flags and canary releases, lowering production incidents by 31% quarter over quarter",
+    "Resolved 60+ production issues as part of the on-call rotation, reducing mean time to recovery by 47%"
+   ]
+  }
+ ],
+ "skills": [
+  "Scala",
+  "JavaScript",
+  "Go",
+  "TypeScript",
+  "Ruby",
+  "Node.js",
+  "GraphQL",
+  "FastAPI",
+  ".NET Core",
+  "Kubernetes",
+  "AWS",
+  "Google Cloud Platform",
+  "Docker",
+  "Jenkins",
+  "Negotiation",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "Ruby, TypeScript, Google Cloud Platform"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(2022)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Zoho Corporation",
+   "year": "(2015)"
+  },
+  {
+   "name": "Engineering Excellence Award",
+   "year": "(2020)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C1)"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "(C1)"
+  }
+ ]
+}

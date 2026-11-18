@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0221",
+ "name": "Owen Edwards",
+ "headline": "Graphic Designer",
+ "contact": {
+  "email": "owenedwards@gmail.com",
+  "phone": "+44 792 596 0407",
+  "location": "Leeds, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-edwards"
+  },
+  {
+   "url": "dribbble.com/owenedwards"
+  }
+ ],
+ "education": [
+  {
+   "institution": "London School of Economics and Political Science",
+   "location": "London",
+   "degree": "BA in Psychology",
+   "grade": "Merit",
+   "dates": "Aug '20-Apr '23"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Graphic Designer",
+   "dates": "Jun '23—Present",
+   "company": "Deliveroo",
+   "location": "Leeds",
+   "bullets": [
+    "Reduced support tickets by 58% by simplifying the account settings experience",
+    "Produced motion graphics and explainer videos with Blender reaching 3.6M views",
+    "Improved WCAG 2.1 AA compliance from 17% to 96% across core journeys",
+    "Built and maintained a design system of 500+ components used by 10 product squads"
+   ]
+  }
+ ],
+ "skills": [
+  "User Research",
+  "Wireframing",
+  "Visual Design",
+  "Interaction Design",
+  "Typography",
+  "Adobe Illustrator",
+  "Sketch",
+  "Adobe After Effects",
+  "Blender",
+  "Framer"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept",
+   "dates": "Apr '21",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Framer, Adobe After Effects, Adobe Illustrator"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "(2024)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Deliveroo",
+   "year": "(2026)"
+  },
+  {
+   "name": "Red Dot Design Award",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "(Beginner)"
+  }
+ ]
+}

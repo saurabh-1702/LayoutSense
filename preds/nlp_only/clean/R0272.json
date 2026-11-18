@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0272",
+ "contact": {
+  "email": "efua2002@yahoo.com",
+  "phone": "07906 80025"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/efua-ofori"
+  },
+  {
+   "url": "github.com/efuaofori"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Ashesi University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "CTS LANGUAGES"
+  },
+  {
+   "name": "Food Delivery Clone English Mother tongue"
+  },
+  {
+   "name": "Distributed Key-Value Store @ KEY SKILLS"
+  },
+  {
+   "name": "Campus Placement Portal Vue.js"
+  },
+  {
+   "name": "oO INTERNSHIP EXPERIENCE React"
+  },
+  {
+   "name": "Barclays, Glasgow"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "_runtime_s": 0.033
+}

@@ -1,0 +1,17 @@
+{
+ "resume_id": "R0026",
+ "name": "GURPREET SETHI",
+ "experience": [
+  {
+   "title": "Siteran Kae",
+   "company": "Nykaa",
+   "location": "Gurugram",
+   "bullets": [
+    "Built a real-time notification service using Java and Apache Kafka that processes 454K+ events per hour",
+    "Qumed the payments integration wittyt? tied-party gateways, reducing transactions by 53%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 29 hours to 15 minutes",
+    "Designed and built 17 RESTful microservices in Java and JavaScript, ee"
+   ]
+  }
+ ]
+}

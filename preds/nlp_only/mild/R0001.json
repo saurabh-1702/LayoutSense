@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0001",
+ "name": "Ruan Jacobs",
+ "contact": {
+  "email": "ruanjl30@gmail.com",
+  "phone": "07335 93018",
+  "location": "Glasgow, UK"
+ },
+ "education": [
+  {
+   "degree": "BSc (Hons) Mechanical Engineering (Expected)",
+   "institution": "University of the Witwatersrand Johannesburg",
+   "dates": "2023-2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst Intern",
+   "company": "Bain & Company",
+   "dates": "Nov 2025-Jan 2026",
+   "bullets": [
+    "Authored 10 thought-leadership articles and contributed to proposals worth £12.5M",
+    "Prepared research summaries and presentation decks for 22 stakeholder meetings"
+   ]
+  },
+  {
+   "title": "Summer Associate",
+   "company": "IBM",
+   "dates": "Oct 2024—Feb 2025",
+   "bullets": [
+    "Authored 14 thought-leadership articles and contributed to proposals worth GBP 132K",
+    "Assisted with day-to-day management consulting operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Market Sizing",
+  "Change Management",
+  "Hypothesis-driven Problem Solving",
+  "Process Re",
+  "engineering",
+  "PowerPoint",
+  "Excel",
+  "Think-cell",
+  "Tableau",
+  "Decision Making",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Scrum Master",
+   "issuer": "CSM)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "isixhosa",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.044
+}

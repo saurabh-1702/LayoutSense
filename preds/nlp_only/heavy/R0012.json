@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0012",
+ "contact": {
+  "email": "darren.teo@gmail.com",
+  "phone": "93409910",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darrenteo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) English Literature",
+   "institution": "LASALLE College of the Arts",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Influencer Marketing",
+  "Marketing Automation",
+  "s Google Nee and Meta",
+  "Copywriting Email Marketing",
+  "eine a 21x ROAS",
+  "Conversion Rate HubSpot",
+  "t Grab",
+  "Singapore 75% 73%",
+  "658K impressions and 43",
+  "000 engagements Hootsuite Mailchimp"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption EDUCATIONAL"
+  },
+  {
+   "name": "LASALLE College of the Arts"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Digital Marketing",
+   "issuer": "Goursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.032
+}

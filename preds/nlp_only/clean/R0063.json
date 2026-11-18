@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0063",
+ "name": "Andrii Rudenko",
+ "contact": {
+  "email": "arudenko@i.ua",
+  "phone": "+380 97 423 93 64",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/andrii-rudenko-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in Commerce Kyiv School of Economics",
+   "institution": "in Commerce Kyiv School of Economics 06/2015 GPA: 3.85/4.0",
+   "dates": "06/2015"
+  },
+  {
+   "degree": "B.Sc. Accounting Ukrainian Catholic University",
+   "institution": "Catholic University",
+   "dates": "06/2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Manager Lviv",
+   "company": "Deloitte Accounting",
+   "dates": "07/2024 — Present",
+   "bullets": [
+    "Grew the team by 27% in two years while keeping attrition below 6%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of UAH 1.7M",
+    "Leda team of 7 across 12 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Trained 13 junior accountants on Ind AS transition adjustments"
+   ]
+  },
+  {
+   "title": "Manager Lviv",
+   "company": "Deloitte Accounting",
+   "dates": "07/2023 — 06/2024",
+   "bullets": [
+    "Documented and tested 10 SOX controls, closing all audit findings ahead of year-end",
+    "Built a fixed-asset register for 65,000 assets and aligned depreciation with tax schedules",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Tax Consultant Lviv",
+   "company": "EY",
+   "dates": "03/2019 — 06/2023",
+   "bullets": [
+    "Reduced days sales outstanding by 24 days through tighter credit control and collections follow-up",
+    "Managed the month-end close for 16 legal entities, reducing the close cycle from 8 to 5 working days",
+    "Led statutory audits for 9 clients across manufacturing and retail with combined revenue of UAH 4.1M",
+    "Filed GST and corporate tax returns with zero penalties across 8 consecutive years"
+   ]
+  },
+  {
+   "title": "PwC Accounts Payable Specialist Kyiv",
+   "company": null,
+   "dates": "08/2015 — 02/2019",
+   "bullets": [
+    "Performed balance sheet reconciliations for 500+ accounts and cleared ageing items worth UAH 18.9M",
+    "Prepared consolidated financial statements under IFRS for a group with 3 subsidiaries",
+    "Coordinated with external auditors and resolved 7 management letter points",
+    "Implemented Alteryx for accounts payable, automating 30% of invoice processing"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "Certified Management Accountant",
+   "issuer": "CMA) IMA"
+  },
+  {
+   "name": "Certified Public Accountant",
+   "issuer": "CPA) AICPA"
+  },
+  {
+   "name": "ACA ICAEW",
+   "issuer": null
+  },
+  {
+   "name": "Certified Internal Auditor",
+   "issuer": "CIA) The ITA"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Ukrainian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.1
+}

@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0267",
+ "name": "Emi Yamamoto",
+ "contact": {
+  "email": "emiy38@gmail.com",
+  "phone": "090-2282-0246",
+  "location": "Fukuoka, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/emiyamamoto1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Science in Business",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Arts in Economics Hitotsubashi University",
+   "institution": "Bachelor of Arts",
+   "dates": "1998-2002"
+  }
+ ],
+ "experience": [
+  {
+   "title": "LINE Yahoo Corporation Head of Data Science Fukuoka",
+   "company": "‘company RO neato",
+   "dates": "10/2025-Current",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day"
+   ]
+  },
+  {
+   "title": "Director of Analytics",
+   "company": "JPMorgan Chase",
+   "dates": "04/2021-09/2025",
+   "bullets": [
+    "Led a team of 13 across 14 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 32% in two years while keeping attrition below 22%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ¥48.9B",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "VP",
+   "company": "Rakuten Group",
+   "dates": "12/2018-03/2021",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 283K+ employee queries per month",
+    "Developed a demand forecasting model that reduced inventory holding costs by 46%",
+    "Built a churn prediction model in SQL (AUC 0.250) that helped retention teams save JPY 9.0B in annual revenue",
+    "Defined the company-wide metric layer in dbt, eliminating 17 conflicting KPI definitions",
+    "Built a customer segmentation framework using clustering on 563K profiles to drive targeted campaigns",
+    "Authored SQL data quality checks across 250 tables, reducing reporting incidents by 13%",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 9 days"
+   ]
+  },
+  {
+   "title": "Mercari Analytics Engineer Fukuoka",
+   "company": null,
+   "dates": "08/2009-06/2010",
+   "bullets": [
+    "Ran 14 A/B experiments on pricing and onboarding flows, lifting conversion by 24%",
+    "Reduced Spark job runtime by 42% through partitioning and broadcast join optimisation",
+    "Partnered with finance to build an anomaly detection system that flagged ¥331M in billing errors",
+    "Fine-tuned transformer models for ticket classification, automating 50% of manual triage",
+    "Created executive dashboards in Snowflake tracking 16 KPIs, adopted by 300+ business users",
+    "Designed and maintained 7 Airflow pipelines ingesting 364K+ records daily into Snowflake"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Databricks Certified Data Engineer Associate Databricks",
+   "issuer": null
+  },
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Deep Learning Specialization DeepLearning.AI"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.081
+}

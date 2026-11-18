@@ -1,0 +1,48 @@
+Muhammad Qureshi
+IOS Dei eloper
+Lahore, Pakistan * +92 334 1230721 «
+qureshi.muhammad@, gmail.com
+LinkedIn: www.linkedin.com /in/ muhammad-qureshi * GitHub:
+github.com/ muhammadqureshi
+Experience
+iOS
+Developer
+05/2025 - Present
+NetSol Technologies - Lahore
+> Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code from 5%
+coverage to 85%
+> Cut cloud infrastructure costs by PKR 370M annually by right-sizing instances and
+adopting spot capacity
+> Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 19 hours to 15
+minutes
+» Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 55%
+Associate Software Engineer 08/2021 - 04/2025
+Daraz * Lahore (Hybrid)
+» Owned the payments integration with 16 third-party gateways, reducing failed transactions by 41%
+, Collaborated with product and design to ship 19 major releases on schedule across web and mobile
+> Built a real-time notification service using Terraform and Apache Kafka that processes 9,000 events per hour
+> Reduced p95 API latency by 45% by introducing Redis caching and optimising slow PostgreSQL queries
+Academic Background
+BSc in Computer Applications 09/2018 - 07/2021
+Institute of Business Administration, Karachi
+First Class
+Competencies
+Java | C++ | Python | TypeScript | JavaScript | Kotlin | Ruby on Rails | GraphQL | Angular | .NET Core |
+Microsoft Azure | Docker | Google Cloud Platform | Terraform | CI/CD | Linux | MongoDB | Apache Kafka |
+MySQL | DynamoDB | Cassandra
+Notable Projects
+11/2020
+Expense Splitter App
+Mobile for splitting group expenses with OCR receipt scanning and UPI/PayPal ' settlement links. 4
+app
+Certificates
+» Google Cloud Professional Cloud Developer — Google Cloud (2020)
+, Microsoft Certified: Azure Developer Associate — Microsoft (12/2023)
+, Certified Kubernetes Administrator (CKA) — The Linux Housdiahos ns)
+.
+AWS Certified Solutions Architect — Associate — Amazon Web Services (04/2025)
+,
+Awards
+. Top Contributor, Hacktoberfest (2023)
+Language Proficiency
+Urdu (Native) * English (Fluent) * Pashto (Intermediate)

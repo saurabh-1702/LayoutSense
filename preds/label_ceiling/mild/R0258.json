@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0258",
+ "name": "Sakshi Agarwal",
+ "headline": "Human Resources Graduate",
+ "contact": {
+  "email": "sakshiagarwal@gmail.com",
+  "phone": "+91 7498353238",
+  "location": "Jaipur, Rajasthan, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshiagarwal"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons.) Psychology",
+   "institution": "Amity University",
+   "dates": "Jul 2024 - Now",
+   "grade": "Percentage: 90.9%"
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "DAV Public School, Noida",
+   "dates": "2024",
+   "grade": "89.7%"
+  },
+  {
+   "degree": "Class X (State Board)",
+   "institution": "DAV Public School",
+   "dates": "2022",
+   "grade": "92.7%"
+  }
+ ],
+ "skills": [
+  "Succession Planning",
+  "Labour Law Compliance",
+  "Learning & Development",
+  "Oracle HCM",
+  "BambooHR",
+  "Greenhouse"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "description": "Redesigned a survey for 120 employees and ran action-planning workshops with 3 teams."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Punjabi",
+   "proficiency": "A2"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "B2"
+  }
+ ]
+}

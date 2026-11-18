@@ -1,0 +1,128 @@
+{
+ "resume_id": "R0230",
+ "name": "GIORGOS PAPAGEORGIOU",
+ "headline": "HR Generalist",
+ "contact": {
+  "email": "giorgos.papageorgiou@gmail.com",
+  "phone": "695 856 9982",
+  "location": "Athens, Greece"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/giorgos-papageorgiou"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "University of Patras",
+   "dates": "Sep. 2018 — Jun. 2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "HR Generalist",
+   "company": "Amazon",
+   "dates": "Mar. 2026 — Present",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of €17.8M",
+    "Leda team of 8 across 19 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 17% in two years while keeping attrition below 25%",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "People Operations Associate",
+   "company": "Accenture",
+   "dates": "Dec. 2022 — Feb. 2026",
+   "bullets": [
+    "Launched an internal L&D academy that delivered 50 training hours per quarter",
+    "Reduced voluntary attrition by 13% through stay interviews and targeted retention plans",
+    "Managed end-to-end hiring for 6 roles per quarter, reducing time-to-hire from 14 to 14 days",
+    "Partnered with business leaders of a 250-employee division on workforce planning and org design",
+    "Ran campus hiring at 10 universities, onboarding 250 graduate trainees"
+   ]
+  },
+  {
+   "title": "Payroll Executive",
+   "company": "Unilever",
+   "dates": "Aug. 2021 — Nov. 2022",
+   "bullets": [
+    "Handled 19 employee relations cases including investigations and disciplinary hearings",
+    "Led annual compensation benchmarking and salary review for 65,000 employees",
+    "Rolled out LinkedIn Recruiter across 17 countries, digitising onboarding for 201K employees",
+    "Designed a performance management framework adopted company-wide",
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership"
+   ]
+  }
+ ],
+ "skills": [
+  "LinkedIn Recruiter",
+  "Workday",
+  "Oracle HCM",
+  "Excel",
+  "Greenhouse",
+  "BambooHR",
+  "Talent Acquisition",
+  "Employer Branding",
+  "Performance Management",
+  "HR Analytics",
+  "Compensation & Benefits",
+  "Labour Law Compliance"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "description": "Redesigned a survey for 400 employees and ran action-planning workshops with 9 teams."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "People Analytics Certificate",
+   "issuer": "Wharton Online",
+   "year": "Aug. 2020"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "2022"
+  },
+  {
+   "name": "Professional in Human Resources (PHR)",
+   "issuer": "HRCI",
+   "year": "2020"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Star Performer Award",
+   "issuer": "Accenture",
+   "year": "(2025)"
+  },
+  {
+   "name": "HR Champion of the Year",
+   "year": "(2023)"
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "University of Patras",
+   "year": "(2021)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Greek",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Basic"
+  }
+ ]
+}

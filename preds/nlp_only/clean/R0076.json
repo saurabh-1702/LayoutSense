@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0076",
+ "contact": {
+  "email": "khushi.patil@gmail.com",
+  "phone": "+91 800-127-8091"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+   "institution": "Telemedicine Seth GS Medical College",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "The Shri Ram School",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Diagnostic Ultrasound rounds",
+  "Central Line Insertion",
+  "adherence by 31%",
+  "Internal Medicine * Performed 200",
+  "procedures including central lines",
+  "thoracentesis",
+  "OO and lumbar punctures",
+  "Clinical Audit",
+  "re"
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.095
+}

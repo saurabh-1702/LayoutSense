@@ -1,0 +1,42 @@
+KEVIN T. RIVERA
+Final-year B.S. Student |
+Email kevin.rivera@gmail.com | Phone +1 202-220-1286
+Address Washington, DC | LinkedIn linkedin.com/in/kevinrivera
+GitHub | github.com/krivera
+ACADEMIC BACKGROUND
+Qualification Institution Tenure
+B.S. in Mathematics Purdue University Expected Jul 2027 Summa Cum Laude
+INDUSTRY EXPOSURE
+Tenure Company Location
+Oct 2025 - Feb 2026 Oracle Data Science Intern New York, NY
+* Partnered with finance to build an anomaly detection system that flagged $295K in billing errors
+¢ Built a tracker in Tableau that streamlined weekly reporting for a team of 3
+May 2024 - Oct 2024 American Express Data Analyst Intern Washington, DC
+* Collected and cleaned data from 24 sources to support a data science & analytics initiative
+* Built a tracker in A/B Testing that streamlined weekly reporting for a team of 9
+SELECTED PROJECTS
+Project Description Technologies
+Resume Screening with Named-entity extraction and job-description matching pipeline | dbt, Hugging Face
+NLP built with spaCy and BERT. Transformers, Airflow
+Fake News Detection Fine-tuned DistilBERT classifier achieving 94% F1 on a public Scala, SQL, scikit-learn
+misinformation dataset.
+Retail Sales Dashboard End-to-end Power BI dashboard on 76K+ transactions with
+drill-downs by region and category.
+Air Quality Forecasting LSTM model forecasting PM2.5 levels across 16 monitoring Matplotlib, NumPy,
+stations with a Streamlit dashboard. LangChain, Scala
+TECHNICAL SKILLS
+Languages Python « SAS « Scala + SQL
+ML & Al Hugging Face Transformers * A/B Testing * NLP « scikit-learn * LangChain
+Data Engineering NumPy ¢ Airflow + dbt
+BI & Visualisation Plotly * Power BI + Tableau * Looker + Matplotlib
+Zl
+| Core Strengths Conflict Resolution + Presentation Skills
+ACHIEVEMENTS
+Award Awarded By Year
+Employee of the Quarter American Express 2024
+PROFESSIONAL CERTIFICATIONS
+Certification Issued By
+SnowPro Core Certification Snowflake Dec 2026
+LANGUAGES KNOWN
+Language Proficiency
+English Native

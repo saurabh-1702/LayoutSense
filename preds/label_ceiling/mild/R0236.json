@@ -1,0 +1,88 @@
+{
+ "resume_id": "R0236",
+ "name": "b AM A AL H ARBI",
+ "headline": "Marketing Graduate",
+ "contact": {
+  "email": "lama_alharbi@gmail.com",
+  "phone": "+966-566891863",
+  "location": "Dammam, Saudi Arabia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lama-alharbi"
+  },
+  {
+   "url": "www.lamaalharbi.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "King Fahd University of Petroleum and Minerals",
+   "dates": "Jul. 2023 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "nan aS Ait: 2020",
+   "title": "Brand Management Intern",
+   "company": "Almarai",
+   "location": "Jeddah",
+   "bullets": [
+    "Coordinated 7 influencer campaigns generating 893K impressions and 320K+ engagements",
+    "Assisted with day-to-day marketing operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Mailchimp",
+  "Google Analytics 4",
+  "Salesforce Marketing Cloud",
+  "Meta Ads Manager",
+  "Content Strategy",
+  "Social Media Marketing",
+  "Brand Strategy",
+  "Conversion Rate Optimisation",
+  "Critical Thinking",
+  "Adaptability",
+  "Cross-functional Collaboration",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a SAR 447K launch media plan."
+  },
+  {
+   "name": "Growth Experiment Instagram",
+   "dates": "Aug. 2025",
+   "description": "Grew a niche food account to 369K+ followers in 8 months using Reels and UGC."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google",
+   "year": "2026"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Fluent"
+  }
+ ]
+}

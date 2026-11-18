@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0089",
+ "name": "Hamza Rana",
+ "contact": {
+  "email": "hamzarana77@gmail.com",
+  "phone": "+92 321 6773008",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hamza-rana-4dfe09"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Business Analytics",
+   "institution": "NED University of Engineering and Technology Karachi",
+   "dates": "Sep 2001 — May 2002"
+  },
+  {
+   "degree": "BEng (Hons) Computer Science and Engineering @ 2:1",
+   "institution": "NED University of Engineering and Technology Karachi",
+   "dates": "Sep 1997 — Jun 2001"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Data Science",
+   "company": "Google",
+   "dates": "Sep 2024 — Current",
+   "bullets": [
+    "Defined the company-wide metric layer in dbt, eliminating 6 conflicting KPI definitions",
+    "Led a team of 8 across 3 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Staff Machine Learning Engineer",
+   "company": "Google",
+   "dates": "Nov 2015 — Aug 2024",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 13.6M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Grew the team by 36% in two years while keeping attrition below 12%",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Machine Learning Engineer",
+   "company": "Careem",
+   "dates": "May 2009 — Oct 2015",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 3.3M profiles to drive targeted",
+    "Built a churn prediction model in Python (AUC 0.250) that helped retention teams save PKR 5.3M in",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7",
+    "Ran 17 A/B experiments on pricing and onboarding flows, lifting conversion by 12%"
+   ]
+  },
+  {
+   "title": "Senior Data Analyst",
+   "company": "Oracle",
+   "dates": "Feb 2007 — Apr 2009",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 27,000 employee",
+    "Partnered with finance to build an anomaly detection system that flagged PKR 12.0M in billing errors",
+    "Fine-tuned transformer models for ticket classification, automating 29% of manual triage",
+    "Reduced Spark job runtime by 53% through partitioning and broadcast join optimisation"
+   ]
+  },
+  {
+   "title": "Junior Data Scientist",
+   "company": "IBM",
+   "dates": "Jun 2002 — Jan 2007",
+   "bullets": [
+    "Created executive dashboards in LangChain tracking 18 KPIs, adopted by 180+ business users",
+    "Authored SQL data quality checks across 60 tables, reducing reporting incidents by 52%",
+    "Developed a demand forecasting model that reduced inventory holding costs by 56%",
+    "Designed and maintained 21 Airflow pipelines ingesting 3.9M records daily into Snowflake"
+   ]
+  }
+ ],
+ "skills": [
+  "CRyTorch"
+ ],
+ "projects": [
+  {
+   "name": "Credit Risk Scoring Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.AI"
+  },
+  {
+   "name": "AWS Certified Machine Learning",
+   "issuer": "Specialty"
+  },
+  {
+   "name": "Google Data Analytics Professional Certificate",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.105
+}

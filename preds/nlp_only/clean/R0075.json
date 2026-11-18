@@ -1,0 +1,33 @@
+{
+ "resume_id": "R0075",
+ "name": "MADHURIMA SINHA",
+ "contact": {
+  "email": "-madhurima.sinha@gmail.com",
+  "phone": "+91-9103656165",
+  "location": "Jamshedpur, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/madhurima-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc in Nursing Christian Medical College wuly216 =",
+   "institution": "Nursing Christian Medical College",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Phlebotomy",
+  "ACLS",
+  "Medication Administration",
+  "Infection Prevention",
+  "Patient Charting",
+  "JCI Standards",
+  "NABH Standards",
+  "Professional Skills Critical Thinking",
+  "Cross-functional Collaboration"
+ ],
+ "_runtime_s": 0.018
+}

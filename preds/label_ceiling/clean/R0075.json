@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0075",
+ "name": "MADHURIMA SINHA",
+ "headline": "Nurse Supervisor | 10+ Years in ar",
+ "contact": {
+  "email": "madhurima.sinha@gmail.com-madhurima.sinha@gmail.comcom",
+  "phone": "+91-9103656165",
+  "location": "Jamshedpur, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/madhurima-sinha-79"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc in Nursing",
+   "institution": "Christian Medical College",
+   "dates": "wuly216"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2022 - Present",
+   "company": "Max Super Speciality Hospital",
+   "title": "Nurse Supervisor",
+   "location": "Jamshedpur",
+   "bullets": [
+    "Triaged 250+ patients monthly in the emergency department using the Manchester Triage System",
+    "Implemented a fall-prevention bundle that reduced patient falls by 42%",
+    "Leda team of 10 across 15 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "June 2021 - December 2021",
+   "company": "Max Super Speciality Hospital",
+   "title": "Senior Staff Nurse",
+   "location": "Jamshedpur",
+   "bullets": [
+    "Managed ventilated patients in a 5-bed ICU, titrating vasoactive infusions per protocol",
+    "Participated in 13 code blue responses as a certified ACLS provider",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 17%",
+    "Oversaw duty rosters for 7 nurses and managed ward inventory and consumables"
+   ]
+  },
+  {
+   "dates": "August 2016 - May 2021",
+   "company": "Narayana Health",
+   "title": "Registered Nurse",
+   "bullets": [
+    "Reduced hospital-acquired infection rates by 27% by leading hand-hygiene audits",
+    "Provided direct care to 5 patients per shift in a 5-bed medical-surgical ward",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit"
+   ]
+  }
+ ],
+ "skills": [
+  "Phlebotomy",
+  "ACLS",
+  "Medication Administration",
+  "Infection Prevention",
+  "Patient Charting",
+  "JCI Standards",
+  "NABH Standards",
+  "Critical Thinking",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 3 months."
+  },
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 16 rural health camps screening 180 residents for hypertension and diabetes.",
+   "dates": "September 2021"
+  }
+ ],
+ "awards": [
+  {
+   "name": "DAISYAvardfrEmeNmayNu®"
+  }
+ ]
+}

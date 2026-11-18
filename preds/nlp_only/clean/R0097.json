@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0097",
+ "name": "Dilshan Rajapaksha",
+ "contact": {
+  "email": "dilshanrajapaksha@gmail.com",
+  "phone": "+94 76 988 8367",
+  "location": "Galle, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/dilshanrajapaksha-ed6ded"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "Sri Lanka Institute of Information Technology, Malabe",
+   "dates": "2021 - 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Field Engineer",
+   "company": "Jacobs",
+   "dates": "May, 2025 - Jul, 2026",
+   "bullets": [
+    "Reduced energy losses by 49% through power factor correction and harmonic filtering",
+    "Designed 16-layer PCBs in MATLAB/Simulink for an industrial loT gateway",
+    "» Programmed Siemens PLCs to automate a packaging line, raising throughput by 15%"
+   ]
+  }
+ ],
+ "skills": [
+  "PLC Programming",
+  "Protection & Relay Coordination",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "» Certified Energy Manager",
+   "issuer": "CEM)"
+  },
+  {
+   "name": "» NEBOSH IGC",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "» Professional Engineer",
+   "issuer": "PE)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.026
+}

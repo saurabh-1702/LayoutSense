@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0176",
+ "name": "Theatre Nurse",
+ "contact": {
+  "email": "camilleb479@free.fr",
+  "phone": "06 66 76 04 14",
+  "location": "Marseille, France"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/camille-bernard"
+  },
+  {
+   "url": "www.camillebernard.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "CHU de Bordeaux, Marseille Université Claude Bernard Lyon 1",
+   "dates": "04/2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "« Participated in 14 code blue as a",
+   "dates": "08/2015 - 03/2018",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp"
+  }
+ ],
+ "_runtime_s": 0.04
+}

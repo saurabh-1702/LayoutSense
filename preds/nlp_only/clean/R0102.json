@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0102",
+ "name": "Kayla Patel",
+ "contact": {
+  "email": "kaylapatel17@outlook.com",
+  "phone": "503.572.9253",
+  "location": "Portland, OR"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kayla-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business",
+   "institution": "a 500-key resort. Georgetown University",
+   "dates": "September 2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Events Manager",
+   "company": "Hindi Basic",
+   "dates": "May 2022 — Present",
+   "bullets": [
+    "SynXis",
+    "Fidelio",
+    "Delphi.fdc"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "ACADEMIC BACKGROUND"
+  }
+ ],
+ "_runtime_s": 0.04
+}

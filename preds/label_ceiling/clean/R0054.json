@@ -1,0 +1,143 @@
+{
+ "resume_id": "R0054",
+ "name": "Sharon Wanjiku",
+ "contact": {
+  "email": "swanjiku@gmail.com",
+  "phone": "+254 700 486 186",
+  "location": "Mombasa, Kenya"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sharon-wanjiku-11"
+  },
+  {
+   "url": "github.com/sharon97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Science",
+   "institution": "Jomo Kenyatta University of Agriculture and Technology",
+   "dates": "Aug 2006—Aug 2009",
+   "grade": "First Class Honours"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Engineering",
+   "dates": "Nov 2024—Present",
+   "company": "Bloomberg",
+   "location": "Mombasa",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of KES 790K",
+    "Leda team of 5 across 16 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Wrote technical design documents and led code reviews for a team of 4 engineers",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Full Stack Engineer",
+   "dates": "Jan 2017—Oct 2024",
+   "company": "Salesforce",
+   "location": "Mombasa",
+   "bullets": [
+    "Developed internal tooling in FastAPI that saved the support team 36 hours per week",
+    "Built a real-time notification service using FastAPI and Apache Kafka that processes 359K events per hour",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 24%",
+    "Reduced p95 API latency by 44% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Collaborated with product and design to ship 19 major releases on schedule across web and mobile",
+    "Introduced feature flags and canary releases, lowering production incidents by 38% quarter over quarter",
+    "Grew the team by 38% in two years while keeping attrition below 25%"
+   ]
+  },
+  {
+   "title": "Senior Backend Engineer",
+   "dates": "Dec 2014—Dec 2016",
+   "company": "Cellulant",
+   "location": "Mombasa",
+   "bullets": [
+    "Cut cloud infrastructure costs by KES 217M annually by right-sizing instances and adopting spot capacity",
+    "Designed and built 19 RESTful microservices in JavaScript and TypeScript, serving 76,000 requests per day with 99.95% uptime",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 29 hours to 15 minutes",
+    "Represented the function in executive steering committees and board- level reporting"
+   ]
+  },
+  {
+   "title": "Graduate Software Engineer",
+   "dates": "Sep 2009—Nov 2014",
+   "company": "Adobe",
+   "location": "Mombasa",
+   "bullets": [
+    "Developed customer-facing features in Ruby on Rails used by 362K+ monthly active users",
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 37%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 22% to 85%",
+    "Owned the payments integration with 10 third-party gateways, reducing failed transactions by 44%"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "> a Ss) ie E- ot",
+  "Nn a a e>",
+  "a 2) > a)",
+  "Ss S 2.",
+  "Z",
+  "ext.Js",
+  "Angular",
+  "Is aS ~ O° 5 re iy — n",
+  "54272 sa & + io) BR",
+  "9 ° n ° > b> N I BR oO",
+  "Google Cloud Platform",
+  "Jenkins",
+  "Elasticsearch"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "dates": "Jun 2007",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "MySQL, C++, Jenkins"
+  },
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 8.4M redirects/minute with consistent hashing and Redis."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "2022"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2025"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "Feb 2009"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2011"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Kikuyu",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Swahili",
+   "proficiency": "Conversational"
+  }
+ ]
+}

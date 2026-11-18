@@ -1,0 +1,59 @@
+Curriculum Vitae
+Esi Appiah
+Location Takoradi, Ghana
+Telephone +233 59 219 8212
+Email esi.appiah04@gmail.com
+GitHub github.com/esiappiah
+Website www.esiappiah.com
+KEY SKILLS
+Languages Ruby ¢ Go e TypeScript ¢ C# « C++
+Cloud & DevOps Docker ¢ AWS e GitHub Actions e Terraform ¢ Google Cloud Platform
+Frameworks Django e .NET Core e Express.js
+PROFESSIONAL
+EXPERIENCE
+December 2025 — Now Senior Full Stack Engineer
+Google, Kumasi
+Migrated a legacy monolith to containerised services on Kubernetes, cutting
+deployment time from 32 hours to 15 minutes
+Wrote technical design documents and led code reviews for a team of 14 engineers
+Collaborated with product and design to ship 8 major releases on schedule across
+web and mobile
+Resolved 75+ production issues as part of the on-call rotation, reducing mean time
+to recovery by 56%
+Mentored 13 junior colleagues, several of whom were promoted within 18 months
+January 2022 — Software Engineer
+November 2025 MTN Ghana, Takoradi
+Cut cloud infrastructure costs by GHS 12.8M annually by right-sizing instances and
+adopting spot capacity
+Owned the payments integration with 16 third-party gateways, reducing failed
+transactions by 36%
+Developed customer-facing features in Ruby used by 184K+ monthly active users
+Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising
+code coverage from 9% to 85%
+Built a real-time notification service using Ruby and Apache Kafka that processes
+43,000 events per hour
+October 2020 — Software Engineer
+December 2021 mPharma, Takoradi
+Developed internal tooling in Terraform that saved the support team 38 hours per
+week
+Designed and built 13 RESTful microservices in Terraform and C#, serving 326K+
+requests per day with 99.95% uptime
+NOTABLE PROJECTS
+URL Shortener at Scale
+Load-tested URL shortener handling 773K redirects/minute with consistent hashing and
+Redis.
+Tech: Ruby, Docker
+EDUCATION
+September 2017 — July BSc in Computer Applications
+2020 Ashesi University, Berekuso
+PROFESSIONAL
+CERTIFICATIONS
+2023 Meta Front-End Developer Professional Certificate, Coursera
+2022 AWS Certified Developer — Associate, Amazon Web Services
+2021 AWS Certified Solutions Architect — Associate, Amazon Web Services
+AWARDS
+2019 University Merit Scholarship, Ashesi University
+LANGUAGE
+PROFICIENCY
+English Native
+Ga Fluent

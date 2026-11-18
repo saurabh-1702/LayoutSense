@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0251",
+ "name": "Sakshi Negi",
+ "headline": "Aspiring Social Media Executive",
+ "contact": {
+  "email": "sakshin739@gmail.com",
+  "phone": "(+91) 9188773335",
+  "location": "Chandigarh, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshinegi-58"
+  }
+ ],
+ "education": [
+  {
+   "institution": "College University",
+   "degree": "MA (Communication)"
+  },
+  {
+   "institution": "Symbiosis International University",
+   "dates": "2026",
+   "degree": "B.A. in English Literature"
+  },
+  {
+   "institution": "Amity University",
+   "dates": "2024",
+   "grade": "CGPA: 8.35/10",
+   "degree": "Class XII (ISC)"
+  },
+  {
+   "institution": "Delhi Public School",
+   "dates": "2021",
+   "grade": "84.7%"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Go-to-Market Plan for a D2C",
+   "description": "Live project covering positioning, pricing and a INR 18.2 crore launch media plan."
+  },
+  {
+   "name": "Skincare Brand"
+  },
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 50 urban respondents; findings presented to a client."
+  },
+  {
+   "name": "Instagram Growth Proficiency Declaration",
+   "description": "Grew a niche food account to 52K+ followers in 5 months using Reels Experiment and UGC. hereby declare that the information furnished above is true to the best of my knowledge and belief."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Speak"
+  }
+ ],
+ "_runtime_s": 0.311
+}

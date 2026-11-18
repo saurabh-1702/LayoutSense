@@ -1,0 +1,24 @@
+{
+ "resume_id": "R0167",
+ "skills": [
+  "NABH Standards",
+  "Electronic Medical Records"
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "As-Salam International Hospital",
+   "year": "(2014)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "v"
+  },
+  {
+   "language": "French"
+  }
+ ],
+ "_runtime_s": 0.73
+}

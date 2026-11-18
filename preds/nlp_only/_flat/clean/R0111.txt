@@ -1,0 +1,28 @@
+Derek Anderson
+derek.anderson@gmail.com +1 (614) 618-9191
+Columbus, OH LinkedIn www.linkedin.com/in/derek-anderson
+EDUCATION
+Qualification Institution Period Result
+BBA, Logistics and Supply Chain | Carnegie Mellon University 2022 - 2026
+Management
+SKILLS & TOOLS
+Inventory Optimisation, Strategic Sourcing, Lean, Cost Reduction, Network Design
+Oracle SCM, Blue Yonder, Tableau, SQL
+NOTABLE PROJECTS
+Project Description Year
+Warehouse Layout Slotting analysis that reduced picker travel distance by 39%
+Optimisation in a live DC.
+Vehicle Routing Model Python OR-Tools model for routing 17 delivery vans with Aug. 2025
+time windows.
+INDUSTRY EXPOSURE
+Period Company Role Location
+— Presented final internship findings to department leadership
+— Assisted with day-to-day supply chain & operations operations and maintained accurate records
+— Built a tracker in Blue Yonder that streamlined weekly reporting for a team of 6
+LICENSES & CERTIFICATIONS
+Certification Issued By Year
+APICS CPIM ASCM 2024
+ACHIEVEMENTS
+Award Awarded By Year
+LANGUAGE PROFICIENCY
+Language Proficiency

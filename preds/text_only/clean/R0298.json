@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0298",
+ "name": "JOHN PAUL GARCIA",
+ "headline": "Civil Engineering & Construction Graduate",
+ "contact": {
+  "email": "john.garcia@gmail.com",
+  "phone": "+63-929-143-5760",
+  "location": "Davao City, Philippines"
+ },
+ "links": [
+  {
+   "url": "www.johngarcia.com"
+  }
+ ],
+ "education": [
+  {
+   "institution": "University of the Philippines",
+   "location": "Quezon City, Philippines",
+   "degree": "Master of Science in Structural Engineering Engineering"
+  },
+  {
+   "institution": "Steel Mapua University Manila",
+   "degree": "Bachelor of Science in Structural Engineering",
+   "dates": "2021 — 2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025 — Present – 2025 — 2026",
+   "title": "Civil Engineering Intern",
+   "company": "Ayala Corporation",
+   "location": "Davao City",
+   "bullets": [
+    "Supported the civil engineering & construction team on 9 live projects, preparing analyses and documentation",
+    "Presented final internship findings to department leadership",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted"
+   ]
+  }
+ ],
+ "skills": [
+  "AutoCAD",
+  "Site Supervision",
+  "Value Engineering Design",
+  "Project Planning",
+  "Contract Administration",
+  "Cross-functional Collaboration",
+  "Presentation Skills",
+  "Mentoring",
+  "Attention to Detail"
+ ],
+ "projects": [
+  {
+   "tech": "STAAD.Pro MS Project Diliman Navisworks MS Project, Navisworks",
+   "name": "Pervious Concrete Mix Study",
+   "dates": "2025",
+   "description": "Lab study of 20 mix designs for urban stormwater management."
+  },
+  {
+   "name": "Design of a G+5 Residential Building IS",
+   "description": "Complete structural design in ETABS with seismic analysis per 1893.",
+   "tech": "STAAD.Pro, AutoCAD, MS Project, Navisworks"
+  }
+ ],
+ "awards": [
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Mapua University",
+   "year": "2026"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Ayala Corporation",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.293
+}

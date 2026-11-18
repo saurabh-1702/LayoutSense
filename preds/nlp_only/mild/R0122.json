@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0122",
+ "name": "Jia Wei Subramaniam",
+ "contact": {
+  "email": "jia.subramaniam@gmail.co",
+  "phone": "+60 13-5826566"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jiasubramania"
+  },
+  {
+   "url": "github.com/jiasubrama"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst",
+   "company": "PROFESSIONAL",
+   "dates": "08.2023 — Present",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google",
+   "issuer": "documentation"
+  },
+  {
+   "name": "Microsoft Certified: Power e Designed and maintained 6 Airflow pipelines ingesting 41,000",
+   "issuer": null
+  },
+  {
+   "name": "BI Data Analyst Associate records daily into Snowflake",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft",
+   "issuer": "e Defined the company-wide metric layer in dbt"
+  },
+  {
+   "name": "conflicting KPI definitions",
+   "issuer": null
+  },
+  {
+   "name": "Partnered with finance to build an anomaly detection system that",
+   "issuer": null
+  },
+  {
+   "name": "flagged MYR 430M in billing errors",
+   "issuer": null
+  },
+  {
+   "name": "EE eS Se a ee",
+   "issuer": null
+  },
+  {
+   "name": "Wn AS",
+   "issuer": null
+  },
+  {
+   "name": "Apache Spark",
+   "issuer": null
+  },
+  {
+   "name": "= LP",
+   "issuer": null
+  },
+  {
+   "name": "Hugging Face Transformers",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Malay",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.034
+}

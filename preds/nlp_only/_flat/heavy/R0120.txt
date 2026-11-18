@@ -1,0 +1,51 @@
+Sditea Al Ma:
+zrouel meee to Sites is “com ov on maou
+i Senior Frontend Engineer - @ github.com . Ones
+12 Berna EA
+——- tats Ao
+ee ee ee
+* Resolved 120+ production issues as part of the
+— a”
+- 8 FeCo Jenkins
+17 tale Viletiee on thecal ; across web and 54%
+mobile "
+* Rebuilt the search experience with CCD
+Elasticsearch, improving result relevance and ;
+_ dlick-through by 23%
+08/2014- @ Junior rs: EE Developer (55) : 62%)
+11/2015 ~ Cisco | Abu Dhabi
++ Designed and built 7 RESTful microse:
+C++ and Node.js, serving 552K S per
+day with 99.95% uptime @)
+* Developed internal tooling in C++ that saved
+ee ee
+Languages Known
+* Migrated a legacy monolith to containerised Arabic enees
+_ $@rvices on Kubernetes, cutting deployment —
+time from 18 hours to 15 minutes English eee0
+Cl
+Hindi
+Selected Projects
+A2
+Campus Placement Portal French
+Web portal used by 80 students to apply for drives, track status and C2 @e¢e7esd
+download offer letters.
+Technologies: Express.js, JavaScript Education
+Distributed Key-Value Store BSc in Computer Applications
+Raft-based replicated key-value store with leader election, log Zayed University
+compaction and a gRPC client. 06/2014 - First Class
+Technologies: Node.js, Python
+Licenses &
+Certifications
+AWS Certified Developer —
+Associate
+Amazon Web Services, 08/2014
+HashiCorp Certified:
+Terraform Associate
+HashiCorp, 2015
+Oracle Certified Professional:
+Java SE 17 Developer
+Oracle, 2014
+Meta Front-End Developer
+Professional Certificate
+Coursera, 2013

@@ -1,0 +1,36 @@
+{
+ "resume_id": "R0215",
+ "name": "Joao Silva Rodrigues",
+ "contact": {
+  "email": "joaorodrigues@gmail.com",
+  "phone": "927 236 551",
+  "location": "Porto, Portugal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/joaorodrigues"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Baker McKenzie Legal Counsel",
+   "company": "Porto",
+   "dates": "Jan 2025 Jan 2025",
+   "bullets": [
+    "Represented clients in 11 commercial arbitrations seated in Singapore and London",
+    "Managed a portfolio of 300 trademarks across 11 jurisdictions",
+    "Trained business teams on contract playbooks and anti-bribery compliance",
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals",
+    "Drafted and negotiated share purchase agreements, shareholders' agreements and term sheets"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Information Privacy Professional",
+   "issuer": "CIPP/E)"
+  }
+ ],
+ "_runtime_s": 0.025
+}

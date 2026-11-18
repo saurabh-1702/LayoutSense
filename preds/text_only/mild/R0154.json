@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0154",
+ "name": "E",
+ "headline": "Accounting & Audit Graduate",
+ "contact": {
+  "email": "isabelagomes@hotmail.com",
+  "phone": "+55 48 95578-2077",
+  "location": "Rio de Janeiro, RJ"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/isabela-gomes-64"
+  }
+ ],
+ "education": [
+  {
+   "grade": "Month-end",
+   "degree": "Bachelor of Science in Commerce",
+   "dates": "2022-09 — 2026-05"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Sao Paulo",
+   "dates": "2024 2025-08 — 2025-11",
+   "title": "Audit Intern",
+   "company": "Citi"
+  }
+ ],
+ "skills": [
+  "Insper",
+  "Transfer Pricing",
+  "GST",
+  "Direct Taxation",
+  "QuickBooks",
+  "SAP FICO",
+  "Alteryx",
+  "semesters)",
+  "CaseWare"
+ ],
+ "projects": [
+  {
+   "name": "Internal Controls Review",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended 8 control improvements."
+  },
+  {
+   "name": "GST Reconciliation Tool",
+   "description": "Excel/VBA tool matching purchase registers to GSTR- 2B, adopted by the firm's tax practice."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACCA Affiliate",
+   "issuer": "Association of Chartered Certified Accountants",
+   "year": "2025"
+  },
+  {
+   "name": "Certified Management Accountant (CMA)",
+   "year": "2024-06",
+   "issuer": "IMA"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.254
+}

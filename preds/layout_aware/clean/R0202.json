@@ -1,0 +1,102 @@
+{
+ "resume_id": "R0202",
+ "name": "Mauricio Gomez",
+ "headline": "Aspiring Accounts Executive",
+ "contact": {
+  "email": "mauricio.gomez@gmail.com",
+  "phone": "+57 3013501593",
+  "location": "Cartagena, Colombia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mauricio-gomez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Commerce",
+   "institution": "Universidad EAFIT",
+   "dates": "06.2026",
+   "grade": "GPA 3.51"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "09.2025 — 12.2025",
+   "title": "Tax Intern",
+   "company": "Bancolombia",
+   "location": "Cartagena",
+   "bullets": [
+    "Built a tracker in QuickBooks that streamlined weekly reporting for a team of 11",
+    "Collected and cleaned data from 15 sources to support a accounting & audit initiative",
+    "Drafted standard operating procedures for 8 recurring tasks"
+   ]
+  }
+ ],
+ "skills": [
+  "Consolidation",
+  "GST",
+  "Ind AS",
+  "Transfer Pricing",
+  "Oracle NetSuite",
+  "QuickBooks",
+  "Alteryx",
+  "CaseWare",
+  "Team Leadership",
+  "Adaptability",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax practice."
+  },
+  {
+   "name": "Internal Controls Review",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended 21 control improvements."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "2025"
+  },
+  {
+   "name": "ACA",
+   "issuer": "ICAEW",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Bancolombia",
+   "year": "2025"
+  },
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Universidad EAFIT",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.059
+}

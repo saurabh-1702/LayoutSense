@@ -1,0 +1,28 @@
+{
+ "resume_id": "R0292",
+ "contact": {
+  "email": "siennakelly36@icloud.com",
+  "phone": "+61 424 232 650",
+  "location": "Sydney, NSW, Australia Payroll Executive"
+ },
+ "education": [
+  {
+   "degree": "MBA (HR)",
+   "institution": "Mentoring University of Western Australia",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Commerce",
+   "institution": "RMIT University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Onboarding hours per quarter",
+  "HR Analytics",
+  "workforce planning and org design",
+  "reducing",
+  "SAP SuccessFactors"
+ ],
+ "_runtime_s": 0.048
+}

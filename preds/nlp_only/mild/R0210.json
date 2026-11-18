@@ -1,0 +1,96 @@
+{
+ "resume_id": "R0210",
+ "name": "Vishnu Rao",
+ "contact": {
+  "email": "vishnu.rao@gmail.com",
+  "phone": "+91 779-827-8897",
+  "location": "Bengaluru, Karnataka"
+ },
+ "education": [
+  {
+   "degree": "DNB (Obstetrics and",
+   "institution": "> Co-authored 24 peer-reviewed publications in indexed journals Christian Medical College",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Medicine and",
+   "institution": "Bachelor of Medicine",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Surgery (MBBS)",
+   "institution": "All India Institute of Medical",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Department",
+   "company": "PLAB 2",
+   "dates": "Jul. 2020 - Present",
+   "bullets": [
+    "Supervised and taught 6 interns and medical students on ward",
+    "Ran outpatient clinics seeing 20 patients per session with a focus NIDA Clinical Trials Network, 2013",
+    "Responded to emergencies as part of the rapid response team ACADEMIC",
+    "Managed an average of 23 inpatients daily across general DNB (Obstetrics and",
+    "Co-authored 24 peer-reviewed publications in indexed journals Christian Medical College",
+    "Performed 120+ procedures including central lines, thoracentesis Jul. 2008"
+   ]
+  },
+  {
+   "title": "Clinical Lead",
+   "company": "Bachelor of Surgery (MBBS)",
+   "dates": "Jun. 2018 - Jun. 2020",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround May 2005",
+    "Grew the team by 27% in two years while keeping attrition below LANGUAGES KNOWN"
+   ]
+  },
+  {
+   "title": "Attending Physician",
+   "company": "Telugu Limited Working",
+   "dates": "Sep. 2016 - May 2018",
+   "bullets": [
+    "Presented case reports at 10 national conferences",
+    "Partnered with senior leadership to define the annual roadmap"
+   ]
+  },
+  {
+   "title": "Consultant v Emergency Medicine",
+   "company": "within 18 months » Evidence-based Medicine",
+   "dates": "Feb. 2014 - Aug. 2016",
+   "bullets": [
+    "Ran outpatient clinics seeing 10 patients per session with a focus",
+    "Represented the function in executive steering committees and",
+    "Communication"
+   ]
+  },
+  {
+   "title": "Resident Medical Officer",
+   "company": "board-level reporting",
+   "dates": "Oct. 2010 - Jan. 2014",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol that reduced",
+    "Responded to emergencies as part of the rapid response team",
+    "Managed an average of 15 inpatients daily across general"
+   ]
+  },
+  {
+   "title": "Junior Resident",
+   "company": "medicine and high-dependency units",
+   "dates": "Oct. 2008 - Sep. 2010",
+   "bullets": [
+    "Performed 50+ procedures including central lines, thoracentesis",
+    "Led a clinical audit on sepsis bundle compliance that improved",
+    "Supervised and taught 6 interns and medical students on ward",
+    "Co-authored 22 peer-reviewed publications in indexed journals"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Prevalence of Anaemia in Adolescents"
+  }
+ ],
+ "_runtime_s": 0.104
+}

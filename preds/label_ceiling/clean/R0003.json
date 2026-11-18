@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0003",
+ "name": "Alia Al Shamsi",
+ "headline": "Aspiring UI/UX Designer",
+ "contact": {
+  "email": "aalshamsi@hotmail.com",
+  "phone": "+971 548789348",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "education": [
+  {
+   "degree": "MDes Visual Communication",
+   "institution": "Zayed University",
+   "dates": "August 2025 - July 2026",
+   "grade": "Upper Second Class Honours (2:1)"
+  },
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "American University of Sharjah",
+   "dates": "September 2022 -July 2025",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "skills": [
+  "User Research",
+  "Typography",
+  "Design Systems",
+  "Principle",
+  "Sketch",
+  "Maze",
+  "Adobe Photoshop",
+  "Blender",
+  "Negotiation",
+  "Cross-functional Collaboration",
+  "Decision Making",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech Startup",
+   "description": "Token-based component library in Figma with documentation and dark-mode support.",
+   "tech": "Blender, Principle, Sketch"
+  },
+  {
+   "name": "Accessible Transit App Concept",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Maze, Principle, Adobe Photoshop"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Interaction Design Foundation - UX Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2026"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2026"
+  }
+ ]
+}

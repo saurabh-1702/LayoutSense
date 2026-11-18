@@ -1,0 +1,37 @@
+Machine Learning Engineer
+Deliverco - Remote — United Kingdom
+> Fine-tuned transformer models for ticket classification,
+automating 13% of manual triage
+Designed and maintained 6 Airflow pipelines ingesting 247K+
+records daily into Snowflake
+Built a churn prediction model in R (AUC 0.150) that helped
+retention teams save £13.9M in annual revenue
+Productionised ML models with Docker and MLflow, cutting
+model deployment time from weeks to 29 days
+Associate Data Scientist
+Barclays - Bristol
+tf Built a customer segmentation framework using clustering on
+5.7M profiles to drive targeted campaigns
+Authored SQL data quality checks across 180 tables, reducing
+reporting incidents by 39%
+Partnered with finance to build an anomaly detection system
+that flagged £56M in billing errors
+Developed a demand forecasting model that reduced
+inventory holding costs by 32%
+Reduced Spark job runtime by 33% through partitioning and
+broadcast join optimisation
+Jul 2621 — May 2
+Data Analyst
+GSK - London
+- Ran 19 A/B experiments on pricing and onboarding flows,
+lifting conversion by 9%
+Created executive dashboards in SAS tracking 18 KPIs,
+adopted by 75+ business users
+Deployed a retrieval-augmented chatbot over internal
+documentation, answering 886K employee queries per month
+Defined the company-wide metric layer in dbt, eliminating 5
+conflicting KP! definitions
+EDUCATION & QUALIFICATIONS
+BA Economics
+Central Saint Martins, University of the Arts London
+Distinction

@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0240",
+ "contact": {
+  "email": "kevinwu@126.com",
+  "phone": "+486 196 2480 7307",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/kevin-wu-87"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Automobile Engineering",
+   "institution": "Tongji University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Honours",
+   "dates": "July 2018 - May 2022",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "teams for 12 programmes",
+  "April 2024 @) Production Engineer",
+  "CATL",
+  "Hangzhou",
+  "reducing process variation",
+  "condition-based maintenance",
+  "APQP Kaizen",
+  "through SMED and TPM",
+  "quality concerns",
+  "delivered on time PPAP PFMEA",
+  "August 2022- @) Quality Engineer",
+  "March 2024 Haier Group",
+  "Suzhou 2) 76% i",
+  "increasing",
+  "capacity by 51% MATLAB ANSYS",
+  "and rework",
+  "Minitab Teamcenter"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car AutoCAD"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.04
+}

@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0065",
+ "name": "° Lily Zhao",
+ "headline": "Final-year BBA Student",
+ "contact": {
+  "email": "lilyzhao@gmail.com",
+  "phone": "86-193-5877-5898",
+  "location": "Guangzhou, China"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lily-zhao1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA in Tourism Management",
+   "dates": "Expected 05/2027",
+   "institution": "China Europe International Business School",
+   "location": "Shanghai",
+   "grade": "GPA 3.45/4.00"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "02/2026 — 03/2026",
+   "title": "Hotel Operations Trainee",
+   "company": "Jinjiang International",
+   "location": "Guangzhou",
+   "bullets": [
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Assisted with day-to-day hospitality & tourism operations and maintained accurate records",
+    "Collected and cleaned data from 21 sources to support a hospitality & tourism initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "Menu Engineering",
+  "Cost Control",
+  "Team Supervision",
+  "Housekeeping Management",
+  "IDeaS RMS",
+  "Delphi.fdc",
+  "Micros POS",
+  "SynXis"
+ ],
+ "projects": [
+  {
+   "name": "Pre-opening of a Resort",
+   "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 180-key resort."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "(Beginner)"
+  }
+ ]
+}

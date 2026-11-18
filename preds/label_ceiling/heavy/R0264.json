@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0264",
+ "name": "MERT OZTURK",
+ "contact": {
+  "email": "moaturk@®gmail.com",
+  "phone": "+31 (0681044759)",
+  "location": "Uwecht, Netherlands"
+ },
+ "links": [
+  {
+   "url": "CESTINE"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Automobile Engineering",
+   "institution": "Sabana University",
+   "dates": "2021 - 2025",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul 2025 - “*",
+   "title": "Quality Engineer",
+   "company": "ASML",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of EUR 682K by reducing process variation",
+    "Reduced unplanned downtime by 26% by introducing condition-based maintenance",
+    "Led 3 Kaizen events that saved €225K annually in scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "Product Lifecycle Management",
+  "Six Sigma",
+  "DRMEA",
+  "jes",
+  "Injection Moulding",
+  "MATLAB",
+  "es",
+  "Creo",
+  "Detision Meking",
+  "Time Management",
+  "Attention to Detail"
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "ttinn da"
+  },
+  {
+   "language": "English",
+   "proficiency": ">"
+  },
+  {
+   "language": "Curawin",
+   "proficiency": "A2"
+  },
+  {
+   "language": "Bench",
+   "proficiency": "a"
+  }
+ ]
+}

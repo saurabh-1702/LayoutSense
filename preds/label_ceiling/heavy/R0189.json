@@ -1,0 +1,122 @@
+{
+ "resume_id": "R0189",
+ "name": "Muhammad Qureshi Devdyper",
+ "headline": "IOS",
+ "contact": {
+  "email": "queeshmubarnmad@ralcom*",
+  "phone": "+92 334 1230721 wwwdinkedin.com",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "/in/mubammad-qureshi"
+  },
+  {
+   "url": "grhub.com/"
+  }
+ ],
+ "education": [
+  {
+   "dates": "Mw F/R",
+   "degree": "BSc in Computer Applications",
+   "institution": "Institute of Business Administration",
+   "location": "Karachi",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "company": "NetSol ‘Technologies",
+   "location": "Lahore",
+   "bullets": [
+    "frown nie C1/CD pipeline with GitHub Actors and automated tests, raising code Coverage Wo Implemented a",
+    "and adopiing pot Capacity Cur cloud infrastructure costs by PKR 370M aonually by fight-sizing instances",
+    "Kubernetes, cutting deployment time from 19 hours ws 1S Migeated a legacy monolith to containersed services on",
+    "Ea MINES relevance and chek-through by 58% Rebuilt the search experience with Blasticsearch, improving result"
+   ],
+   "dates": "58 Sa »b / BAS",
+   "title": "Associate Software Engineer"
+  },
+  {
+   "company": "Daraz",
+   "location": "Lahore (Hybrid)",
+   "bullets": [
+    "the integsation with 16 third-party gateways, reducing failed nanwactions ly 41% Owned payments",
+    "wh indmobile. Collaborated with product and design t ship 19 major releases on achedule acon",
+    "Sercaform and Apache Kafka thar processes 9,000 events per Nour Built a real-time notification service using",
+    "Reduced API latency by 45% by introducing Redis caching and optimising slow PosrgredQl. queries p95"
+   ]
+  }
+ ],
+ "skills": [
+  "C++",
+  "Python",
+  "TypeScripr",
+  "JavaScript",
+  "Kodin",
+  "Ruby on Rails",
+  "GeaphQu.",
+  "Angulac{",
+  "NETCore",
+  "Java",
+  "‘Terraform",
+  "C1/CD",
+  "Linux",
+  "MongoDB",
+  "Apache",
+  "Microsoft Azure",
+  "Docker",
+  "Google Cloud Platform",
+  "MySQL",
+  "DynamoDB",
+  "€ ‘aswandra"
+ ],
+ "projects": [
+  {
+   "name": "Expense Splitter App",
+   "description": "and UPI/PayPal settlement bivike. Mobile app for splitting group expenses with OCR receipt scanning"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Cloud Professional Cloud Developer Google",
+   "issuer": "Google Cloud",
+   "year": "(2020)"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(12/2023)"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "(2026)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(04/2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Top Contributor, Hacktoberfest",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Muent)"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "(Intermediate)"
+  }
+ ]
+}

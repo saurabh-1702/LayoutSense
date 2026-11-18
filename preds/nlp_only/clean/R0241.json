@@ -1,0 +1,130 @@
+{
+ "resume_id": "R0241",
+ "name": "Maryam Ghorbani",
+ "contact": {
+  "email": "maryam.g@yahoo.com",
+  "phone": "+98 9150134090",
+  "location": "Shiraz, Iran"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/maryam-ghorbani-31"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Business Administration",
+   "institution": "University of Tehran",
+   "dates": "Aug 1999 - Feb 2003"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Chief Risk Officer",
+   "company": "EY",
+   "dates": "Dec 2022 - Present",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 22 disconnected spreadsheets",
+    "Analysed credit proposals for 400 mid-market clients, maintaining an NPA ratio below 1.5%",
+    "Prepared pitch books and information memoranda for 17 sell-side mandates",
+    "Grew the assets under management of assigned clients by 12% year on year",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Automated monthly variance reporting in VBA, saving the finance team 12 hours per cycle"
+   ]
+  },
+  {
+   "title": "Chief Financial Officer",
+   "company": "Standard Chartered",
+   "dates": "Apr 2020 - Nov 2022",
+   "bullets": [
+    "Grew the team by 30% in two years while keeping attrition below 5%",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Managing Director",
+   "company": "Standard Chartered",
+   "dates": "Jul 2017 - Mar 2020",
+   "bullets": [
+    "Identified cost savings of IRR 336M through vendor spend analysis and contract renegotiation",
+    "Partnered with senior leadership to define the annual roadmap and a budget of IRR 5.2B",
+    "Introduced weekly operating reviews that cut decision turnaround from 22 days to 1 day"
+   ]
+  },
+  {
+   "title": "Head of FP&A",
+   "company": "Amazon",
+   "dates": "Nov 2016 - Jun 2017",
+   "bullets": [
+    "Analysed credit proposals for 200 mid-market clients, maintaining an NPA ratio below 1.5%",
+    "Implemented an Anaplan-based planning model replacing 7 disconnected spreadsheets",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Led a team of 14 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Senior Vice President",
+   "company": "Risk",
+   "dates": "Apr 2014 - Oct 2016",
+   "bullets": [
+    "Led the annual budgeting and rolling forecast process for a business unit with IRR 44.4B in revenue",
+    "Built three-statement financial models and DCF valuations for 6 deals worth a combined IRR 73.9B",
+    "Grew the assets under management of assigned clients by 51% year on year",
+    "Managed a loan portfolio of IRR 8.6B across 120 relationships with zero slippages in FY"
+   ]
+  },
+  {
+   "title": "Relationship Officer",
+   "company": "Bank Mellat",
+   "dates": "May 2003 - Mar 2014",
+   "bullets": [
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Automated monthly variance reporting in VBA, saving the finance team 5 hours per cycle",
+    "Prepared pitch books and information memoranda for 24 sell-side mandates",
+    "Supported due diligence on 21 acquisitions, including working-capital and synergy analysis"
+   ]
+  }
+ ],
+ "skills": [
+  "Financial Modelling",
+  "Treasury Management",
+  "Risk Management",
+  "Oracle Hyperion",
+  "SAP S/4HANA",
+  "Anaplan",
+  "VBA",
+  "Capital IQ",
+  "Critical Thinking",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Valuation of a Listed FMCG Company"
+  },
+  {
+   "name": "Working Capital Improvement Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": "CTP)"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.125
+}

@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0238",
+ "name": "Tejas Kale",
+ "contact": {
+  "email": "tejaskale@yahoo.co.in",
+  "phone": "+91 870-087-3627",
+  "location": "Navi Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tejaskale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology (Information Databases: Redis",
+   "institution": "Indian Institute of Technology Kharagpur, Kharagpur Kubernetes",
+   "dates": "Expected June 2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Software Developer Intern",
+   "company": "English Advanced",
+   "dates": "November 2025 to February 2026",
+   "bullets": [
+    "Supported the software engineering team on 6 live"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Bosch | Mumbai"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Realtime Chat Platform",
+   "issuer": null
+  },
+  {
+   "name": "WebSocket chat service with end-to-end encryption",
+   "issuer": "read AWS Certified Solutions Architect"
+  },
+  {
+   "name": "receipts and presence indicators. Amazon Web Services",
+   "issuer": ""
+  },
+  {
+   "name": "Tools: Kubernetes",
+   "issuer": "Linux"
+  }
+ ],
+ "_runtime_s": 0.034
+}

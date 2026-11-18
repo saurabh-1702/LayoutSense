@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0222",
+ "name": "ALVAREZ MARTINEZ",
+ "contact": {
+  "email": "luciaalvarez@gmail.com",
+  "phone": "761 165 258",
+  "location": "Barcelona, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lucia-"
+  },
+  {
+   "url": "github.com/lalvarez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Data Science",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst Specialty",
+   "company": "AWS Certified Machine Learning",
+   "dates": "05/2025-06/2026",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Resume Screening with NLP -R"
+  }
+ ],
+ "_runtime_s": 0.035
+}

@@ -1,0 +1,146 @@
+{
+ "resume_id": "R0129",
+ "name": "Baptiste Bonnet",
+ "headline": "Finance Manager",
+ "contact": {
+  "email": "baptistebonnet@hotmail.fr",
+  "phone": "+33 7 57 65 63 04",
+  "location": "Lille, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/baptistebonnet-2edb04"
+  }
+ ],
+ "education": [
+  {
+   "institution": "ESCP Business School",
+   "location": "Paris, France",
+   "degree": "Executive MBA",
+   "dates": "08.2013 ~ 07.2015"
+  },
+  {
+   "institution": "Ecole Polytechnique",
+   "location": "Palaiseau",
+   "degree": "B.Sc. Mathematics",
+   "dates": "08.2010 ~ 05.2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Finance Manager",
+   "company": "PwC",
+   "location": "Paris",
+   "dates": "10.2023 ~ Now",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of €14.3M",
+    "Led a team of 10 across 6 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 60% in two years while keeping attrition below 8%",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €10.7M"
+   ]
+  },
+  {
+   "title": "Vice President, Corporate Banking",
+   "company": "BNP Paribas",
+   "location": "Lille",
+   "dates": "03.2023 ~ 09.2023",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 20 disconnected spreadsheets",
+    "Automated monthly variance reporting in Python, saving the finance team 34 hours per cycle",
+    "Managed a loan portfolio of €409K across 400 relationships with zero slippages in FY",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Vice President, Corporate Banking",
+   "company": "AXA",
+   "location": "Nantes",
+   "dates": "08.2020 ~ 02.2023",
+   "bullets": [
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Analysed credit proposals for 250 mid-market clients, maintaining an NPA ratio below 1.23%",
+    "Prepared pitch books and information memoranda for 7 sell-side mandates",
+    "Grew the assets under management of assigned clients by 27% year on year",
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day"
+   ]
+  },
+  {
+   "title": "Risk Analyst",
+   "company": "TotalEnergies",
+   "location": "Lille",
+   "dates": "08.2015 ~ 07.2020",
+   "bullets": [
+    "Supported due diligence on 16 acquisitions, including working-capital and synergy analysis",
+    "Identified cost savings of €21.4M through vendor spend analysis and contract renegotiation",
+    "Built three-statement financial models and DCF valuations for 16 deals worth a combined €24.4M",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management"
+   ]
+  }
+ ],
+ "skills": [
+  "Anaplan",
+  "Capital 1Q",
+  "Python",
+  "Excel (Advanced)",
+  "IFRS 9",
+  "DCF Valuation",
+  "Credit Analysis",
+  "Time Management",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development",
+   "description": "Logistic-regression scorecard for retail loans validated with Gini and KS statistics."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM",
+   "year": "(10.2016)"
+  },
+  {
+   "name": "Chartered Financial Analyst (CFA)",
+   "issuer": "CFA Institute",
+   "year": "(2023)"
+  },
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "(2015)"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute",
+   "year": "(2019)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "AXA",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Intermediate)"
+  },
+  {
+   "language": "German",
+   "proficiency": "(Basic)"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "(Intermediate)"
+  }
+ ],
+ "_runtime_s": 0.317
+}

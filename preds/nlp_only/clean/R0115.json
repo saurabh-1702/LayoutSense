@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0115",
+ "name": "Sagar Thakkar",
+ "contact": {
+  "email": "sagar.t@yahoo.co.in",
+  "phone": "+91-98723-10806",
+  "location": "Nashik, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sagar-thakkar-81377b"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. in Mass Communication",
+   "institution": "Tata Institute of Social Sciences",
+   "dates": "2022 - 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Brand Executive",
+   "company": "ITC Limited",
+   "dates": "10.2025 - Present",
+   "bullets": [
+    "Leda rebrand across 11 touchpoints in partnership with an external creative",
+    "» Owned the go-to-market plan for a SaaS launch, generating 740.8 crore pipeline",
+    "» Built automated email nurture journeys in Meta Ads Manager that lifted MQL-to",
+    "Ran consumer research with 300 respondents to shape positioning for a new"
+   ]
+  }
+ ],
+ "skills": [
+  "Marketing SEM",
+  "Copywriting",
+  "Marketing Automation",
+  "SEO",
+  "Tools Marketo",
+  "HubSpot",
+  "Google Ads",
+  "Canva",
+  "Meta Ads Manager",
+  "Google Analytics 4"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.044
+}

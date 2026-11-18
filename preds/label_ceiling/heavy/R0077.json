@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0077",
+ "name": "Selam Wolde",
+ "headline": "Aspiring Guest Relations Executive",
+ "contact": {
+  "email": "selam.wolde97@gmail.com",
+  "phone": "+251 929831891",
+  "location": "Bahir Dar, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "wwwlinkedin.com/in/selam-wolde"
+  },
+  {
+   "url": "www.selamwolde.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) International Hospitality Management",
+   "dates": "2024 - 2027 (Expected)",
+   "institution": "Jimma University",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Industrial Trainee",
+   "dates": "11/2025 - 02/2026",
+   "company": "Ethiopian Airlines",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 9 stakeholder meetings",
+    "Drafted standard operating procedures for 4 recurring tasks"
+   ]
+  }
+ ],
+ "skills": [
+  "Guest Relations",
+  "Front Office Operations",
+  "HACCP",
+  "Team Supervision",
+  "TravelClick",
+  "Delphi.fde",
+  "Micros POS",
+  "SynxXis",
+  "IDeaS RMS",
+  "Negotiation",
+  "Team Leadership"
+ ],
+ "projects": [
+  {
+   "name": "Pre-opening of a Resort",
+   "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 500-key resort."
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Ethiopian Airlines",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Full Professional Proficiency)"
+  }
+ ]
+}

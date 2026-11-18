@@ -1,0 +1,133 @@
+{
+ "resume_id": "R0249",
+ "name": "Sneha Nair",
+ "headline": "Senior Product Marketing Manager",
+ "contact": {
+  "email": "snehanair@rediffmail.com",
+  "phone": "88504 04724",
+  "location": "Kochi, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/snehanair"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.A. (Mass Communication)",
+   "dates": "Apr '15",
+   "institution": "Indian Institute of Mass Communication",
+   "location": "New Delhi",
+   "grade": "CGPA: 9.32/10"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Product Marketing Manager",
+   "dates": "Oct '22 — Present",
+   "company": "Paytm",
+   "location": "Kochi",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of 19 lakh",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Grew the team by 33% in two years while keeping attrition below 24%",
+    "Led a team of 3 across 21 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 25% in two years while keeping attrition below 25%"
+   ]
+  },
+  {
+   "title": "Digital Marketing Specialist",
+   "dates": "Dec '16 — Sep '22",
+   "company": "HT Media",
+   "location": "Kochi",
+   "bullets": [
+    "Built a marketing attribution dashboard in Meta Ads Manager used in weekly leadership reviews",
+    "Built automated email nurture journeys in Meta Ads Manager that lifted MQL-to-SQL conversion by 31%",
+    "Ran consumer research with 80 respondents to shape positioning for a new category",
+    "Leda rebrand across 7 touchpoints in partnership with an external creative agency",
+    "Coordinated 3 influencer campaigns generating 43,000 impressions and 683K engagements",
+    "Grew Instagram and LinkedIn followers from 17,000 to over 3x within a year"
+   ]
+  },
+  {
+   "title": "Digital Marketing Specialist",
+   "dates": "May '15 — Nov 'l6",
+   "company": "HT Media",
+   "location": "Kochi",
+   "bullets": [
+    "Grew organic traffic by 33% in 6 months through technical SEO and a content calendar of 17 articles per month",
+    "Reduced customer acquisition cost by 46% through audience segmentation and creative testing",
+    "Launched 20 new product variants nationally, capturing 16% market share in the first year",
+    "Managed a monthly paid media budget of %42 lakh across Google Ads and Meta, achieving a 18x ROAS"
+   ]
+  }
+ ],
+ "skills": [
+  "Social Media Marketing",
+  "Marketing Automation",
+  "Performance Marketing",
+  "SEM",
+  "Influencer Marketing",
+  "Go- to-Market Strategy",
+  "Meta Ads Manager",
+  "Canva",
+  "SEMrush",
+  "Mailchimp",
+  "Salesforce Marketing Cloud",
+  "Time Management",
+  "Team Leadership",
+  "Problem Solving",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Instagram Growth Experiment",
+   "description": "Grew a niche food account to 152K+ followers in 7 months using Reels and UGC."
+  },
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 500 urban respondents; findings presented to a client."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "(2017)"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "(2026)"
+  },
+  {
+   "name": "Meta Certified Digital Marketing Associate",
+   "issuer": "Meta",
+   "year": "(2017)"
+  },
+  {
+   "name": "Google Ads Search Certification",
+   "issuer": "Google",
+   "year": "(2014)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "HT Media",
+   "year": "(2019)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "(Intermediate)"
+  }
+ ],
+ "_runtime_s": 0.172
+}

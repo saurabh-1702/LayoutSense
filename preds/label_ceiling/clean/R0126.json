@@ -1,0 +1,131 @@
+{
+ "resume_id": "R0126",
+ "name": "Carlos Rodriguez",
+ "contact": {
+  "email": "carlosrodriguez@gmail.com",
+  "phone": "+34 677 760 163",
+  "location": "Seville, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/carlos-rodriguez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master in Advanced Nursing Practice",
+   "institution": "Universidad de Sevilla",
+   "dates": "September 2012 - May 2014"
+  },
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "Universidad de Navarra",
+   "dates": "July 2009 - July 2012",
+   "grade": "Nota media: 8.4"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "November 2023 - Current",
+   "title": "Infection Control Nurse Lead",
+   "company": "Hospital Universitario La Paz",
+   "location": "Seville",
+   "bullets": [
+    "Leda team of 14 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Grew the team by 18% in two years while keeping attrition below 13%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €22.8M"
+   ]
+  },
+  {
+   "dates": "August 2021 - October 2023",
+   "title": "Nurse Supervisor",
+   "company": "Hospital Universitario La Paz",
+   "location": "Seville",
+   "bullets": [
+    "Trained 7 newly joined nurses on medication safety and documentation in Epic EHR",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "June 2021 - July 2021",
+   "title": "Clinical Nurse Specialist",
+   "company": "Hospital Universitario La Paz",
+   "location": "Seville",
+   "bullets": [
+    "Implemented a fall-prevention bundle that reduced patient falls by 28%",
+    "Reduced hospital-acquired infection rates by 23% by leading hand-hygiene audits",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 5%",
+    "Triaged 75+ patients monthly in the emergency department using the Manchester Triage System",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day"
+   ]
+  },
+  {
+   "dates": "July 2014 - May 2021",
+   "title": "Clinical Nurse",
+   "company": "Hospital Universitario La Paz",
+   "location": "Seville",
+   "bullets": [
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Provided direct care to 17 patients per shift in a 7-bed medical-surgical ward",
+    "Oversaw duty rosters for 6 nurses and managed ward inventory and consumables",
+    "Participated in 13 code blue responses as a certified ACLS provider",
+    "Managed ventilated patients in a 6-bed ICU, titrating vasoactive infusions per protocol"
+   ]
+  }
+ ],
+ "skills": [
+  "JCI Standards",
+  "Cerner",
+  "Epic EHR",
+  "Electronic Medical Records",
+  "Patient Charting",
+  "NABH Standards",
+  "Infection Prevention",
+  "Paediatric Care",
+  "Critical Care",
+  "BLS"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "dates": "April 2013",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 11 months."
+  },
+  {
+   "name": "Community Health Camp",
+   "dates": "April 2022",
+   "description": "Organised 17 rural health camps screening 120 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council",
+   "year": "2023"
+  },
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Hospital Universitario La Paz",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

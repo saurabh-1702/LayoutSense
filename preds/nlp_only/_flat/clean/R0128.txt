@@ -1,0 +1,35 @@
+RICCARDO BRUNO \% +39 380 2866974 © riccardo.bruno@hotmail.it
+9 Turin, Italy © linkedin.com/in/riccardo-bruno
+Aspiring Junior Software Developer
+® Notable Projects Languages Known
+Open-source CLI Contribution Italian Native
+——
+Contributed 22 merged pull requests to a popular open-source CLI
+English C1
+tool, adding plugin support.
+Stack: Next.js, Kotlin, Swift Spanish B2
+Expense Splitter App December 2025
+Mobile app for splitting group expenses with OCR receipt scanning German A2
+and UPI/PayPal settlement links.
+@ skills & Tools
+Campus Placement Portal January 2023
+Web portal used by 80 students to apply for drives, track status and
+download offer letters.
+Realtime Chat Platform
+WebSocket chat service with end-to-end encryption, read receipts
+and presence indicators.
+oO Internship Experience
+July 2025 - Backend Developer Intern © Academic Background
+November 2025 UniCredit, Turin
+» Assisted with day-to-day software B.Sc. Electronics and
+engineering operations and maintained Communication Engineering
+accurate records Politecnico di Milano
+> Built a tracker in Go that streamlined weekly 2022 - 2026
+reporting for a team of 14
+a) Honours & Awards
+Best Outgoing Student
+Politecnico di Milano - 2026
+oO Certifications
+Oracle Certified Professional: Java
+SE 17 Developer
+Oracle - 2025

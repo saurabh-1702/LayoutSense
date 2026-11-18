@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0223",
+ "contact": {
+  "email": "kwameappiah@gmail.com",
+  "phone": "+233 26 894 2211",
+  "location": "Tema, Ghana"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kwame-appiah-d7ef93"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Business Administration",
+   "institution": "Ashesi University, Berekuso",
+   "dates": "Sep 2013 | Jul 2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Regional Sales Manager",
+   "company": "Salesforce",
+   "dates": "Jul 2023 | Present",
+   "bullets": []
+  },
+  {
+   "title": "Area Sales Manager",
+   "company": "day",
+   "dates": "Nov 2020 | Jun 2023",
+   "bullets": [
+    "Built a pipeline of GHS 385K by prospecting 120+ enterprise accounts using LinkedIn",
+    "Expanded distribution to 180 new retail outlets across 17 districts"
+   ]
+  },
+  {
+   "title": "Territory Sales Officer",
+   "company": "MTN Ghana",
+   "dates": "Sep 2017 | Oct 2020",
+   "bullets": [
+    "Onboarded and trained 14 new sales representatives on product and CRM workflows",
+    "Ranked #1 out of 5 account executives in the region for FY",
+    "Maintained 30% forecast accuracy in weekly pipeline reviews in Salesforce CRM",
+    "Shortened the average sales cycle by 18 days by introducing a structured discovery"
+   ]
+  },
+  {
+   "title": "Territory Sales Officer",
+   "company": "framework",
+   "dates": "Oct 2016 | Aug 2017",
+   "bullets": [
+    "Managed 24 key accounts generating GHS 11.7M in annual revenue with 56% net",
+    "Negotiated multi-year contracts worth GHS 10.5M with procurement and legal"
+   ]
+  }
+ ],
+ "skills": [
+  "Sales Cold Calling",
+  "Channel Sales",
+  "Account Management",
+  "Key Account Management",
+  "Tools Salesforce CRM",
+  "HubSpot CRM",
+  "Outreach",
+  "Professional Skills Team Leadership",
+  "Stakeholder Management",
+  "Communication"
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  },
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.093
+}

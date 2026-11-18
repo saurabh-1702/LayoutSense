@@ -1,0 +1,119 @@
+{
+ "resume_id": "R0165",
+ "name": "RAMON AQUINO",
+ "contact": {
+  "email": "raquino@yahoo.com",
+  "phone": "+63-918-103-0153",
+  "location": "Cebu City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ramonaquino4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA @",
+   "institution": "Mapzta University",
+   "dates": "April 2013"
+  },
+  {
+   "degree": "B.S., Industrial Engineering",
+   "institution": "Mapzta University",
+   "dates": "May 2011"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Warehouse Operations Manager",
+   "company": "Nestlé",
+   "dates": "June 2020 - Present",
+   "bullets": [
+    "Led a team of 8 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day",
+    "Grew the team by 34% in two years while keeping attrition below 9%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PHP 334M"
+   ]
+  },
+  {
+   "title": "Inventory Analyst",
+   "company": "L'Oréal",
+   "dates": "June 2014 - May 2020",
+   "bullets": [
+    "Managed import logistics and customs clearance for 180+ containers per year",
+    "Set up 14 new fulfilment centres processing 538K orders per day",
+    "Built a supplier scorecard covering quality, cost and delivery for 120 vendors",
+    "Cut last-mile delivery cost per order by 24% through route optimisation",
+    "Improved forecast accuracy from 59% to 82% by introducing statistical models in SAP APO"
+   ]
+  },
+  {
+   "title": "Warehouse Executive",
+   "company": "SM Investments",
+   "dates": "May 2013 - May 2014",
+   "bullets": [
+    "Negotiated freight contracts that saved PHP 126K annually",
+    "Managed procurement spend of PHP 1.6M across 120 suppliers, delivering 20% savings",
+    "Reduced inventory days by 12 while maintaining 37% service levels",
+    "Implemented a warehouse management system in 8 sites, improving pick accuracy to 99.8%",
+    "Led the monthly S&OP process across sales, finance and manufacturing"
+   ]
+  }
+ ],
+ "skills": [
+  "SAP APO",
+  "Ariba",
+  "SAP MM",
+  "Cost Reduction",
+  "Warehouse Management",
+  "Strategic Sourcing",
+  "Vendor Management"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation"
+  },
+  {
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM"
+  },
+  {
+   "name": "« APICS Certified Supply Chain Professional",
+   "issuer": "CSCP)"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": "CIPS"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.047
+}

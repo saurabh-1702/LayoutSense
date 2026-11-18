@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0128",
+ "education": [
+  {
+   "degree": "B.Sc, Electronicsand",
+   "institution": "accurate records ~ Politecnico di Milano",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution"
+  },
+  {
+   "name": "Expense Splitter App"
+  },
+  {
+   "name": "Campus Placement Portal"
+  },
+  {
+   "name": "Realtime Chat Platform"
+  }
+ ],
+ "_runtime_s": 0.031
+}

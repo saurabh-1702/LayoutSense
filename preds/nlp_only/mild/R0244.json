@@ -1,0 +1,33 @@
+{
+ "resume_id": "R0244",
+ "name": "Keta ki",
+ "contact": {
+  "email": "etaki.fernandes93@gmail.com",
+  "phone": "(+91) 8002132096"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ketakifernandes"
+  }
+ ],
+ "skills": [
+  "Class XII (ISC)",
+  "International School",
+  "Ahmedabad",
+  "SOP nee ee",
+  "Cost Reduction eececee",
+  "Transportation eeee iG.",
+  "Management Class X (ICSE)",
+  "Inventory Optimisation eee",
+  "Tableau eee0e"
+ ],
+ "projects": [
+  {
+   "name": "Coupa ee Vehicle Routing Model"
+  },
+  {
+   "name": "Warehouse Layout Optimisation"
+  }
+ ],
+ "_runtime_s": 0.095
+}

@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0160",
+ "contact": {
+  "phone": "+63 995 127 5766",
+  "location": "Quezon City"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/princess-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mechanical Engineering",
+   "institution": "Mapta University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Design Engineer",
+   "company": "Cy",
+   "dates": "May 2025 — Present",
+   "bullets": [
+    "Commissioned a new CNC machining cell, increasing capacity by 37%",
+    "Led 17 Kaizen events that saved PHP 245M annually in scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "Magna Cum Laude"
+ ],
+ "projects": [
+  {
+   "name": "Lean Manufacturing"
+  },
+  {
+   "name": "Formula Student Race Car"
+  },
+  {
+   "name": "Minitab 2] Certificates"
+  }
+ ],
+ "_runtime_s": 0.065
+}

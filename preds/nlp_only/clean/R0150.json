@@ -1,0 +1,154 @@
+{
+ "resume_id": "R0150",
+ "name": "Amanda Silva",
+ "contact": {
+  "email": "amanda.silva@gmail.com",
+  "phone": "(51) 99526-5903",
+  "location": "Curitiba, PR"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/amanda-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.S. in Manufacturing Systems",
+   "institution": "Instituto Tecnoldgico de",
+   "dates": null
+  },
+  {
+   "degree": "BS, Aerospace Engineering",
+   "institution": "Insper",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Sentor Design Engineer ¢ CFD",
+   "company": "Shell Sao Paulo ¢ Kaizen",
+   "dates": "Jul 2022 — Current",
+   "bullets": [
+    "APQP",
+    "Reduced unplanned downtime by 27% by introducing",
+    "Injection Moulding",
+    "Six Sigma",
+    "Led a team of 8 across 24 workstreams, owning hiring",
+    "Creo",
+    "ANSYS",
+    "Represented the function in executive steering committees",
+    "Minitab",
+    "Time Management",
+    "Grew the team by 56% in two years while keeping attrition",
+    "Negotiation",
+    "Team Leadership",
+    "Introduced weekly operating reviews that cut decision"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "BS, Aerospace Engineering"
+  },
+  {
+   "name": "Formula Student Race Car ONLINE PROFILES"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "turnaround from 20 days to 1 day",
+   "issuer": null
+  },
+  {
+   "name": "Mentored 8 junior colleagues",
+   "issuer": "several of whom were Certified Reliability Engineer"
+  },
+  {
+   "name": "promoted within 18 months ASQ",
+   "issuer": ""
+  },
+  {
+   "name": "Partnered with senior leadership to define the annual Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "roadmap and a budget of BRL 462K",
+   "issuer": null
+  },
+  {
+   "name": "CATIA V5 Associate",
+   "issuer": null
+  },
+  {
+   "name": "Shell Sao Paulo Dassault Systemes",
+   "issuer": "Production Engineer"
+  },
+  {
+   "name": "Professional Engineer",
+   "issuer": "PE)"
+  },
+  {
+   "name": "Led 11 Kaizen events that saved BRL 201M annually in scrap NCEES",
+   "issuer": ""
+  },
+  {
+   "name": "and rework",
+   "issuer": null
+  },
+  {
+   "name": "Lean Manufacturing Certificate",
+   "issuer": null
+  },
+  {
+   "name": "Designed 3 sheet-metal and casting components in Minitab University of Michigan",
+   "issuer": ""
+  },
+  {
+   "name": "for a new two-wheeler platform Certified SolidWorks Professional",
+   "issuer": null
+  },
+  {
+   "name": "Improved OEE of a 14-station assembly line from 37% to",
+   "issuer": "CSWP)"
+  },
+  {
+   "name": "85% through SMED and TPM Dassault Systemes",
+   "issuer": ""
+  },
+  {
+   "name": "Commissioned a new CNC machining cell",
+   "issuer": "increasing AWARDS"
+  },
+  {
+   "name": "capacity by 21%",
+   "issuer": null
+  },
+  {
+   "name": "SAE BAJA",
+   "issuer": "Best Design"
+  },
+  {
+   "name": "Ran FEA in ANSYS to optimise a bracket design",
+   "issuer": "reducing"
+  },
+  {
+   "name": "weight by 23% without loss of stiffness",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.049
+}

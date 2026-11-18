@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0077",
+ "name": "Bahir Dar",
+ "contact": {
+  "email": "selam.wolde97@gmail.com",
+  "phone": "+251 929831891",
+  "location": "Bahir Dar, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/selam-wolde"
+  },
+  {
+   "url": "www.selamwolde.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) International Hospitality Management (Expected)",
+   "institution": "Jimma University",
+   "dates": "2024 - 2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Industrial Trainee",
+   "company": "Ethiopian Airlines",
+   "dates": "11/2025 - 02/2026",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 9 stakeholder meetings",
+    "Drafted standard operating procedures for 4 recurring tasks"
+   ]
+  }
+ ],
+ "skills": [
+  "Guest Relations",
+  "Front Office Operations",
+  "HACCP",
+  "Team Supervision",
+  "TravelClick",
+  "Delphi.fde",
+  "Micros POS",
+  "SynxXis",
+  "IDeaS RMS",
+  "Negotiation",
+  "Team Leadership"
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.019
+}

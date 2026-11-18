@@ -1,0 +1,55 @@
+Muhammad Qureshi
+IOS Devdyper
+Lahore, Pakistan * +92 334 1230721 * queeshmubarnmad@ ralcom
+wwwdinkedin.com /in/mubammad-qureshi * Github: grhub.com /
+LinkedIn:
+Ce co ce. (eo Fae
+NetSol ‘Technologies ‘ Lahore frown nie oO
+C1/CD pipeline with GitHub Actors and automated tests, raising code Coverage Wo
+, Implemented a and adopiing pot Capacity
+Cur cloud infrastructure costs by PKR 370M aonually by fight-sizing instances
+, Kubernetes, cutting deployment time from 19 hours ws 1S
+, Migeated a legacy monolith to containersed services on
+Ea 5
+MINES relevance and chek-through by 58%
+» Rebuilt the search experience with Blasticsearch, improving result 58
+Sa »b / BAS
+Associate Software Engineer : we ee ie eo
+Daraz - Lahore (Hybrid) :
+the integsation with 16 third-party gateways, reducing failed nanwactions ly 41%
+» Owned payments wh indmobile.
+Collaborated with product and design t ship 19 major releases on achedule acon ss
+> Sercaform and Apache Kafka thar processes 9,000 events per Nour Win}
+, Built a real-time notification service using ;
+Reduced API latency by 45% by introducing Redis caching and optimising slow PosrgredQl. queries
+» p95
+_ 7 ee.
+Academic Background OT
+Mw F/R .
+=
+BSc in Computer Applications ;
+Institute of Business Administration, Karachi
+First Class
+Competencies 5 ee Ee ee
+|
+C++ Python | TypeScripr | JavaScript | Kodin | Ruby on Rails | GeaphQu. | Angulac{ NETCore|
+Java | | ‘Terraform | C1/CD | Linux | MongoDB { Apache Kata}
+Microsoft Azure | Docker { Google Cloud Platform | he
+MySQL | DynamoDB | € ‘aswandra
+Notable Projects
+Expense Splitter App and UPI/PayPal settlement bivike.
+Mobile app for splitting group expenses with OCR receipt scanning
+Certificates
+Cloud Professional Cloud Developer ~ Google Cloud (2020)
+, Google
+Microsoft Certified: Azure Developer Associate ~ Microsoft (12/2023)
+,
+Certified Kubernetes Administrator (CKA) ~ The Linux Foundation (2026)
+,
+AWS Certified Solutions Architect — Associate ~ Amazon Web Services (04/2025)
+, : :
+ee < on
+Awards
+, Top Contributor, Hacktoberfest (2023)
+Language Proficiency
+Urdu (Native) * English (Muent) * Pashto (Intermediate)

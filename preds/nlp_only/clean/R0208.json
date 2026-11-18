@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0208",
+ "name": "Stefan Batory High School - Krakow",
+ "contact": {
+  "email": "szymanski.tomasz@gmail.com",
+  "phone": "+48 608 597 313",
+  "location": "IB"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tomasz-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Teaching Qualification (Education)",
+   "institution": "Academy of Fine Arts in Warsaw",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Physics",
+   "institution": "AGH University of Krakow",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Science Teacher",
+   "company": "O",
+   "dates": "09/2025 - Present",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Seesaw ee0ee08 Reading Programme for Early Learners"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.05
+}

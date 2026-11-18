@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0010",
+ "name": "NIALL KENNEDY",
+ "contact": {
+  "email": "niall2003@outlook.com",
+  "phone": "+353 85 547 5891",
+  "location": "Dublin, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niallkennedy8"
+  },
+  {
+   "url": "github.com/niallkenne"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Frontend Engineer Dublin City University",
+   "dates": "Feb 2024 — Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Frontend Engineer Dublin City University",
+   "company": "BSc Computer Applications",
+   "dates": "Feb 2024 — Present",
+   "bullets": [
+    "Owned the payments integration with 12 third-party gateways"
+   ]
+  }
+ ],
+ "skills": [
+  "reducing failed transactions by 45%",
+  "JavaScript",
+  "Scala",
+  "Python",
+  "Rust",
+  "NET Core",
+  "Angular",
+  "GraphQL",
+  "Kubernetes",
+  "CI/CD",
+  "AWS",
+  "Microsoft Azure",
+  "Sep 2019",
+  "Jan 2024 Databases: MongoDB",
+  "Redis",
+  "Elasticsearch",
+  "Cassandra",
+  "Graduate Software Engineer"
+ ],
+ "certifications": [
+  {
+   "name": "Stripe",
+   "issuer": "Remote"
+  },
+  {
+   "name": "Cut cloud infrastructure costs by €10.2M annually by right-sizing Meta Front-End Developer Professional Certificate",
+   "issuer": null
+  },
+  {
+   "name": "instances and adopting spot capacity Coursera",
+   "issuer": ""
+  },
+  {
+   "name": "Migrated a legacy monolith to containerised services on HashiCorp Certified: Terraform Associate",
+   "issuer": null
+  },
+  {
+   "name": "Kubernetes",
+   "issuer": "cutting deployment time from 28 hours to 15 HashiCorp"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.034
+}

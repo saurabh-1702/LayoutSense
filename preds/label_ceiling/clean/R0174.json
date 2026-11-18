@@ -1,0 +1,109 @@
+{
+ "resume_id": "R0174",
+ "name": "Hiroshi Sato",
+ "headline": "Systems Engineer",
+ "contact": {
+  "email": "hiroshi.sato87@gmail.com",
+  "phone": "+81 90 9138 3714",
+  "location": "Kyoto, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hiroshi-sato"
+  },
+  {
+   "url": "github.com/hsato"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Electronics and Communication Engineering",
+   "institution": "Tokyo Institute of Technology",
+   "dates": "Sep 2019 — Sep 2023",
+   "grade": "GPA: 3.81"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Bosch",
+   "location": "Tokyo",
+   "title": "Systems Engineer",
+   "dates": "Dec 2024 — Present",
+   "bullets": [
+    "Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by 19%",
+    "Owned the payments integration with 12 third-party gateways, reducing failed transactions by 29%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 25% to 85%",
+    "Collaborated with product and design to ship 7 major releases on schedule across web and mobile"
+   ]
+  },
+  {
+   "company": "Hitachi",
+   "location": "Yokohama",
+   "title": "Systems Engineer",
+   "dates": "Oct 2023 — Nov 2024",
+   "bullets": [
+    "Developed internal tooling in Kubernetes that saved the support team 24 hours per week",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 31%",
+    "Developed customer-facing features in Kubernetes used by 6.6M monthly active users",
+    "Built a real-time notification service using Kubernetes and Apache Kafka that processes 2.9M events per hour",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 39 hours to 15 minutes"
+   ]
+  }
+ ],
+ "skills": [
+  "Scala",
+  "JavaScript",
+  "C#",
+  "Ruby",
+  "Java",
+  "Flutter",
+  "Node.js",
+  "Django",
+  "Spring Boot",
+  "Vue.js",
+  "Next.js",
+  "Docker",
+  "Kubernetes",
+  "GitHub Actions",
+  "CI/CD",
+  "AWS"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "2021"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "Mar 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Star Performer Award",
+   "issuer": "Bosch",
+   "year": "(2026)"
+  },
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Tokyo Institute of Technology",
+   "year": "(2021)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

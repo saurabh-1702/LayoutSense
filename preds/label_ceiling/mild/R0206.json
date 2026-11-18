@@ -1,0 +1,106 @@
+{
+ "resume_id": "R0206",
+ "name": "Alejandro Hernandez Pérez",
+ "contact": {
+  "email": "alejandrohernandez@hotmail.com",
+  "phone": "44 6494 7947",
+  "location": "Canctin, Mexico"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alejandro-hernandez2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Industrial Engineering",
+   "institution": "Instituto Tecnoldgico Aut6nomo de México",
+   "dates": "06/2022",
+   "grade": "Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Procurement Manager",
+   "company": "Gr upo Bimbo, i",
+   "location": "Canct .",
+   "dates": "01/2025 — Current",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Implemented a warehouse management system in 14 sites, improving pick accuracy to 99.8%",
+    "Managed import logistics and customs clearance for 120+ containers per year"
+   ]
+  },
+  {
+   "title": "Operations Executive",
+   "company": "Shell",
+   "location": "Mexico City",
+   "dates": "07/2022 — 12/2024",
+   "bullets": [
+    "Set up 3 new fulfilment centres processing 23,000 orders per day",
+    "Cut last-mile delivery cost per order by 14% through route optimisation",
+    "Managed procurement spend of MXN 7.0M across 50 suppliers, delivering 8% savings",
+    "Built a supplier scorecard covering quality, cost and delivery for 50 vendors",
+    "Reduced inventory days by 7 while maintaining 36% service levels",
+    "Negotiated freight contracts that saved MXN 395M annually",
+    "Improved forecast accuracy from 31% to 82% by introducing statistical models in SAP MM"
+   ]
+  }
+ ],
+ "skills": [
+  "Last-mile Delivery",
+  "Demand Planning",
+  "Inventory Optimisation",
+  "SAP APO",
+  "Blue Yonder",
+  "Tableau",
+  "SAP MM",
+  "Attention to Detail",
+  "Problem Solving",
+  "Critical Thinking",
+  "Mentoring"
+ ],
+ "projects": [
+  {
+   "dates": "06/2023",
+   "name": "Warehouse Layout Optimisation",
+   "description": "travel distance by 49% ina live Slotting analysis that reduced picker DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "model for rou ting 22 delivery vans with time Python OR-Tools windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "APICS Certified Supply Chain Professional (CSCP)",
+   "issuer": "ASCM",
+   "year": "2021"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "05/2023"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2020"
+  },
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "01/2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

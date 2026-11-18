@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0114",
+ "name": "Moritz Wagner",
+ "contact": {
+  "email": "moritzwagner@outlook.de",
+  "phone": "177 72391053",
+  "location": "Munich, Germany"
+ },
+ "links": [
+  {
+   "url": "Apollo.io"
+  },
+  {
+   "url": "www.linkedin.com/in/moritz-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master in Management",
+   "institution": "bookings University of Mannheim",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Mechanical Engineering",
+   "institution": "Dean's List, University of Stuttgart ( ) University of Stuttgart",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Manager",
+   "company": "Business Development",
+   "dates": "Sep 2025 - Now",
+   "bullets": [
+    "HubSpot CRM",
+    "Gong",
+    "Zoho CRM",
+    "LinkedIn Sales Navigator",
+    "Apollo.io",
+    "Time Management",
+    "Communication"
+   ]
+  },
+  {
+   "title": "Sales Development Representative",
+   "company": "SAP",
+   "dates": "Oct 2020 - Aug 2025",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  }
+ ],
+ "_runtime_s": 0.069
+}

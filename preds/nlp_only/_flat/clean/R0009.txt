@@ -1,0 +1,42 @@
+MICHAEL L. JOHNSON
+Phoenix, AZ - (480) 443-7967 - michaelj638@gmail.com
+LinkedIn: linkedin.com/in/michael-johnson1 - GitHub: github.com/michael59
+Academic Background
+Carnegie Mellon University Pittsburgh, PA
+B.A. in Economics Expected 05/2027
+Industry Exposure
+Roche San Francisco
+Data Science Intern 07/2025 - 10/2025
+° Developed a demand forecasting model that reduced inventory holding costs by 51%
+¢ Drafted standard operating procedures for 7 recurring tasks
+° Assisted with day-to-day data science & analytics operations and maintained accurate records
+IBM New York
+Data Analyst Intern 06/2024 - 09/2024
+¢ Drafted standard operating procedures for 7 recurring tasks
+° Supported the data science & analytics team on 12 live projects, preparing analyses and documentation
+* Collected and cleaned data from 14 sources to support a data science & analytics initiative
+Projects
+Fake News Detection
+Fine-tuned DistiIBERT classifier achieving 94% F1 on a public misinformation dataset.
+Tools: Time Series Forecasting, Scala, R
+Retail Sales Dashboard
+End-to-end Power BI dashboard on 88,000 transactions with drill-downs by region and category.
+Tools: SQL, Matplotlib, Time Series Forecasting, Airflow
+Customer Lifetime Value Prediction 02/2026
+Probabilistic BG/NBD model to rank customers by expected value for marketing spend.
+Tools: Excel, Apache Spark, Time Series Forecasting, Python
+Resume Screening with NLP
+Named-entity extraction and job-description matching pipeline built with spaCy and BERT.
+Tools: Excel, Tableau, LangChain
+Skills & Tools
+Airflow, Apache Spark, dbt, LangChain, A/B Testing, PyTorch, Time Series Forecasting, Looker, Tableau, Matplotlib, Excel, Scala, R, SAS,
+Python, SQL, Negotiation, Public Speaking
+Language Proficiency
+English (Native)
+Licenses & Certifications
+° Databricks Certified Data Engineer Associate — Databricks (2026)
+° SnowPro Core Certification — Snowflake (2025)
+Awards & Recognition
+* Dean's List, Carnegie Mellon University (2026)
+° Kaggle Competitions Expert (2026)
+° Spot Award for Excellence, IBM (2024)

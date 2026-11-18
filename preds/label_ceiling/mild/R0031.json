@@ -1,0 +1,125 @@
+{
+ "resume_id": "R0031",
+ "name": "Tanushree Majumdar",
+ "headline": "Audit Manager",
+ "contact": {
+  "email": "majumdar.tanushree@hotmail.com",
+  "phone": "+91 74341 18654",
+  "location": "Bhubaneswar, India"
+ },
+ "education": [
+  {
+   "dates": "Aug 2008 - Sep 2011",
+   "degree": "Bachelor of Commerce",
+   "institution": "Indian Institute of Management Ahmedabad",
+   "location": "Ahmedabad",
+   "grade": "CGPA 7.07"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Mar 2018 - Present",
+   "title": "Audit Manager",
+   "company": "Citi",
+   "location": "Kolkata",
+   "bullets": [
+    "Grew the team by 17% in two years while keeping attrition below 17%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of INR 44.2 crore",
+    "Led a team of 10 across 12 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 8 days to 1 day",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "May 2015 - Feb 2018",
+   "title": "Senior Tax Consultant",
+   "company": "KPMG",
+   "location": "Kolkata",
+   "bullets": [
+    "Performed balance sheet reconciliations for 150+ accounts and cleared ageing items worth R77 1oGr",
+    "Filed GST and corporate tax returns with zero penalties across 5 consecutive years",
+    "Built a fixed-asset register for 5.7M assets and aligned depreciation with tax schedules",
+    "Managed the month-end close for 19 legal entities, reducing the close cycle from 16 to 5 working days"
+   ]
+  },
+  {
+   "dates": "Jan 2015 - Apr 2015",
+   "title": "Senior Tax Consultant",
+   "company": "HDFC Bank",
+   "location": "Bhubaneswar",
+   "bullets": [
+    "Reduced days sales outstanding by 24 days through tighter credit control and collections follow-up",
+    "Trained 9 junior accountants on Ind AS transition adjustments",
+    "CaseWare for accounts payable, automating 36% of invoice processing Implemented"
+   ]
+  },
+  {
+   "dates": "Oct 2011 - Dec 2014",
+   "title": "Audit Associate",
+   "company": "Grant Thornton Bharat",
+   "location": "Bhubaneswar",
+   "bullets": [
+    "Documented and tested 11 SOX controls, closing all audit findings ahead of year-end",
+    "manufacturing and retail with combined revenue of Led statutory audits for 8 clients across 19.1 crore",
+    "with external auditors and resolved 6 management letter points Coordinated",
+    "Prepared consolidated financial statements under IFRS for a group with 16 subsidiaries"
+   ]
+  }
+ ],
+ "skills": [
+  "US GAAP",
+  "Consolidation",
+  "GST",
+  "Transfer Pricing",
+  "SOX Compliance",
+  "Direct Taxation",
+  "CaseWare",
+  "SAP FICO",
+  "QuickBooks",
+  "Oracle NetSuite",
+  "Stakeholder Management",
+  "Communication",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "year": "2020",
+   "name": "Certified Management Accountant (CMA)",
+   "issuer": "IMA"
+  },
+  {
+   "year": "May 2019",
+   "name": "Chartered Accountant (CA)",
+   "issuer": "Institute of Chartered Accountants of India"
+  },
+  {
+   "year": "Jan 2018",
+   "name": "ACA",
+   "issuer": "ICAEW"
+  },
+  {
+   "year": "2023",
+   "name": "Certified Public Accountant (CPA)",
+   "issuer": "AICPA"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Odia",
+   "proficiency": "(C1)"
+  },
+  {
+   "language": "Odia",
+   "proficiency": "A2"
+  }
+ ]
+}

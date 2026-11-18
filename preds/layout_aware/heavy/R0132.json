@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0132",
+ "name": "wen O k oro 0",
+ "headline": "Designer",
+ "contact": {
+  "email": "oweno244@gmail.com",
+  "phone": "+44 (0)7383 356643",
+  "location": "Belfast, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-okoro-be2427"
+  },
+  {
+   "url": "owenokoro.design"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "Loughborough University",
+   "dates": "May 2022",
+   "grade": "Upper Second Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Sep 2025- Present",
+   "company": "id aig, 0 <",
+   "location": "Revolut",
+   "bullets": [
+    "Redesigned the onboarding flow in Adobe Photoshop, increasing activation by 56% across 565K new users",
+    "Produced motion graphics and explainer videos with Adobe After Effects reaching 3.9M views"
+   ]
+  },
+  {
+   "dates": "Jun 2024-Aug 2025",
+   "title": "Graphic Designer",
+   "company": "BBC",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 4 product launches",
+    "Improved WCAG 2.1 AA compliance from 25% to 96% across core journeys",
+    "Conducted 12 rounds of usability testing with 150 participants to validate checkout improvements",
+    "Reduced support tickets by 57% by simplifying the account settings experience",
+    "Built and maintained a design system of 200+ components used by 12 product squads"
+   ]
+  },
+  {
+   "dates": "Jul 2022-May",
+   "title": "Visual Designer",
+   "bullets": [
+    "Partnered with engineering to ship 22 features per quarter with pixei-perfect handoff in Adobe After Effects",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Ran discovery workshops and journey mapping with stakeholders across 13 markets"
+   ]
+  }
+ ],
+ "skills": [
+  "ORS",
+  "Motion Design",
+  "hawiiae",
+  "59%)",
+  "ve”)",
+  "Design Systems",
+  "Miro",
+  "62%)",
+  "Adobe After Effects",
+  "Adobe Photoshop",
+  "Qo",
+  "9",
+  "S)"
+ ],
+ "awards": [
+  {
+   "name": "Gold Medai for Academic Excellence",
+   "issuer": "Loughborough University",
+   "year": "(2022)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.153
+}

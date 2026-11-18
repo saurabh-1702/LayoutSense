@@ -1,0 +1,27 @@
+PHAN QUOC THANG
++81 90-1103-1765 | thangp321@gmail.com | Kyoto, Japan
+Academic Projects Professional Certifications
+Smart Energy Meter with loT Electrical Supervisor Licence
+ESP32-based meter streaming consumption data to a cloud dashboard. State Electrical Licensing Board, 2025
+Technologies: DigSILENT PowerFactory, MATLAB/Simulink Language Proficiency
+Grid-tied Inverter Design Jul 2025 Vietnamese Native
+Simulated and built a 1 kW single-phase inverter with MPPT control in English C2
+Simulink. Korean B2
+Technologies: DigSILENT PowerFactory, MATLAB/Simulink
+Skills & Tools
+Internships
+» Embedded C
+Electrical Engineering Intern Jan 2026 — Mar 2026 » PCB Design
+Hitachi » Battery Management Systems
+>» Built a tracker in DIgSILENT PowerFactory that streamlined weekly » FPGA
+reporting for a team of 12 >» MATLAB/Simulink
+» Collected and cleaned data from 8 sources to support a electrical & » Cadence Virtuoso
+electronics engineering initiative » Altium Designer
+» DigSILENT PowerFactory
+Graduate Apprentice Dec 2024 — Apr 2025
+Toyota Motor Corporation Education & Qualifications
+» Drafted standard operating procedures for 13 recurring tasks B.E. in Electrical and Electronics
+» Shadowed senior colleagues and proposed process improvements Engineering
+that the team adopted RMIT University Vietnam
+» Assisted with day-to-day electrical & electronics engineering Jun 2026
+operations and maintained accurate records

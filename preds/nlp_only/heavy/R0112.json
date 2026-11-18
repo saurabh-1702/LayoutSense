@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0112",
+ "contact": {
+  "location": "San Francisco, CA"
+ },
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "Georgetown University",
+   "dates": null
+  },
+  {
+   "degree": "BS, Mechanical Engineering",
+   "institution": "Purdue University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant",
+   "issuer": "CMC)"
+  },
+  {
+   "name": "Institute of Management Consultants",
+   "issuer": ""
+  },
+  {
+   "name": "& Prosci Change Management Certification",
+   "issuer": "Prosci"
+  }
+ ],
+ "_runtime_s": 0.066
+}

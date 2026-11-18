@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0010",
+ "name": "NIALL KENNEDY Li",
+ "contact": {
+  "phone": "+553 .85.547",
+  "location": "Debi, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedisz.com/in/niallhennedy#"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "dates": "Ang 2619"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "feb 004 > Present",
+   "title": "Frontend Engineer",
+   "company": "Intercom",
+   "location": "Dublin",
+   "bullets": [
+    "Owned the payments integranon with t2 third-party gateways, reducing failed transactions by 45%",
+    "Collaborated witb product and design to ship 15 major releases on schedule acrass web and mobile",
+    "Reduced p95 API latency by 55% by introdueing Redis caching"
+   ]
+  },
+  {
+   "dates": "Sep 2019. Jon 2008",
+   "title": "Graduate Software Engineer",
+   "company": "Stnpe",
+   "location": "Remote Ireland",
+   "bullets": [
+    "Cut cloud infrastructure costs by €10.2M annually br right-cxing Meta",
+    "Migrated a legacy monolith to containensed services on Kuberneres, curnng deployment time from 28 hours to 15 minutes",
+    "Woeote technreal design documents and led code reviews for a ream of 3 engineers",
+    "Developed internal tooling in Jenkins that saved the support team 27 hours per week",
+    "Rebuilr the search expenence with Elastiesearch, improving result relevance and click-through by 32%"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "Node.js",
+  "NET",
+  "Angular",
+  "GitHub",
+  "C1/CD"
+ ],
+ "certifications": [
+  {
+   "name": "Front-End Developer Professional Certificate",
+   "issuer": "Comeves",
+   "year": "B21"
+  }
+ ],
+ "_runtime_s": 0.414
+}

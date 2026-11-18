@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0015",
+ "name": "Pooja Negi",
+ "contact": {
+  "email": "pooja.negi@yahoo.co.in",
+  "phone": "+91-8830060101",
+  "location": "Jaipur, Rajasthan, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/poojanegi-19"
+  },
+  {
+   "url": "dribbble.com/poojanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Design (Visual National Institute of Design",
+   "institution": "Qualification Institution Year Result",
+   "dates": "2022"
+  },
+  {
+   "degree": "Bachelor of Design (Graphic",
+   "institution": "Bachelor of Design (",
+   "dates": "2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "CRED UI/UX Designer",
+   "company": null,
+   "dates": "Oct 2022 | Sep 2025",
+   "bullets": [
+    "Partnered with engineering to ship 15 features per quarter with pixel-perfect handoff in Adobe XD",
+    "Conducted 5 rounds of usability testing with 300 participants to validate checkout improvements",
+    "Reduced support tickets by 18% by simplifying the account settings experience",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store"
+   ]
+  }
+ ],
+ "skills": [
+  "‘Design sd Branding",
+  "Adobe After Effects * Sketch"
+ ],
+ "projects": [
+  {
+   "name": "Project Description Technologies"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "Interaction Design Foundation",
+   "issuer": "UX Management Interaction Design Foundation"
+  },
+  {
+   "name": "Google UX Design Professional Certificate Google",
+   "issuer": null
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design Adobe",
+   "issuer": null
+  },
+  {
+   "name": "NN/g UX Certification Nielsen Norman Group",
+   "issuer": null
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA) Human Factors International"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.055
+}

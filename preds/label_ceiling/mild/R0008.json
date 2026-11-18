@@ -1,0 +1,104 @@
+{
+ "resume_id": "R0008",
+ "name": "Yonas Mengistu",
+ "headline": "Inventory Analyst",
+ "contact": {
+  "email": "yonas2000@gmail.com",
+  "phone": "+251 925103206",
+  "location": "Bahir Dar, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yonas-mengistu"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Operations and Supply Chain Management",
+   "institution": "Jimma University",
+   "dates": "2024 - 2025"
+  },
+  {
+   "degree": "MEng Industrial Engineering",
+   "institution": "Addis Ababa Science and Technology University",
+   "dates": "2020 - 2024",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Mar 2026 - Current",
+   "title": "Inventory Analyst",
+   "company": "Ethiopian Airlines",
+   "location": "Bahir Dar",
+   "bullets": [
+    "Improved forecast accuracy from 19% to 82% by introducing statistical models in Oracle SCM",
+    "Reduced inventory days by 17 while maintaining 46% service levels",
+    "Led the monthly S&OP process across sales, finance and manufacturing"
+   ]
+  },
+  {
+   "dates": "May 2025 —- Feb 2026",
+   "title": "Operations Executive",
+   "company": "Ethiopian Airlines",
+   "location": "Bahir Dar",
+   "bullets": [
+    "Implemented a warehouse management system in 12 sites, improving pick accuracy to 99.8%",
+    "Cut last-mile delivery cost per order by 33% through route optimisation",
+    "Built a supplier scorecard covering quality, cost and delivery for 60 vendors",
+    "Set up 17 new fulfilment centres processing 198K orders per day",
+    "Managed import logistics and customs clearance for 60+ containers per year"
+   ]
+  }
+ ],
+ "skills": [
+  "Last-mile Delivery",
+  "o pr ray =) 2) bo} ° + o c. ° =) =< o =) o a o) = a) 3 ee",
+  "ee 15 ix fo Fo ye FO",
+  "= ral) - n © =z go fe}} © oO 3 oO =) cr",
+  "Cost Reduction",
+  "Excel",
+  "SAP APO",
+  "(eo) =i 9 fal @ Ww oO z",
+  "Presentation Skills",
+  "Stakeholder Management",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 20 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "APICS Certified Supply Chain Professional (CSCP)",
+   "issuer": "ASCM",
+   "year": "Oct 2026"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2026"
+  },
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "Feb 2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "Fluent"
+  }
+ ]
+}

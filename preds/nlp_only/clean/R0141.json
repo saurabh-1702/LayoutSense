@@ -1,0 +1,125 @@
+{
+ "resume_id": "R0141",
+ "name": "Rutuja Parikh",
+ "contact": {
+  "email": "rutuja.parikh@gmail.com",
+  "phone": "+91-9967030008",
+  "location": "Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rutuja-parikh"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech (Geotechnical Engineering)",
+   "institution": "BITS Pilani",
+   "dates": null
+  },
+  {
+   "degree": "B.E. in Structural Engineering",
+   "institution": "Indian Institute of Technology Bombay",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Structural Engineer",
+   "company": "WSP",
+   "dates": "Dec 2023 - Present",
+   "bullets": [
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of %564 crore",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 26% in two years while keeping attrition below 9%",
+    "Led a team of 9 across 16 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Junior Structural Engineer",
+   "company": "DLF Limited",
+   "dates": "Mar 2017 - Nov 2023",
+   "bullets": [
+    "Scheduled a 3-month metro station package in Primavera P6, recovering 22 weeks of delay",
+    "Coordinated 11 subcontractors and 60+ workers across civil and MEP activities",
+    "Designed RCC and steel structures in Navisworks for 4 commercial projects",
+    "Supervised construction of a 13-storey residential tower with a contract value of =10.3 Cr"
+   ]
+  },
+  {
+   "title": "Junior Structural Engineer",
+   "company": "Larsen & Toubro",
+   "dates": "Jun 2016 - Feb 2017",
+   "bullets": [
+    "Conducted soil investigation reviews and foundation design for 19 bridges",
+    "Delivered a 5 km highway stretch 8 weeks ahead of schedule",
+    "Managed client billing and variations, improving cash collection by 45%",
+    "Introduced BIM clash detection that cut rework costs by 42%",
+    "Prepared BOQs and rate analyses for tenders worth 765 Cr",
+    "Achieved 680K safe man-hours without a lost-time injury on site"
+   ]
+  }
+ ],
+ "skills": [
+  "Value Engineering",
+  "Reinforced Concrete Design",
+  "Contract Administration",
+  "Primavera P6",
+  "STAAD.Pro",
+  "Tekla Structures",
+  "Revit",
+  "Navisworks",
+  "SAP2000"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "Pervious Concrete Mix Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "NEBOSH International General Certificate",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  },
+  {
+   "name": "Chartered Engineer",
+   "issuer": "CEng)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.062
+}

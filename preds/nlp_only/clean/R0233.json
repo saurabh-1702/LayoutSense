@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0233",
+ "name": "SOPHIE MORRISON",
+ "contact": {
+  "email": "sophiemorrison@gmail.com",
+  "phone": "778-552-0109",
+  "location": "Vancouver, BC"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sophiemorrison-75003b"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Accounting and Finance",
+   "institution": "University of Waterloo, Waterloo",
+   "dates": "Sep. 2017 - Apr. 2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Investment Banking Analyst",
+   "company": "RBC",
+   "dates": "Mar. 2023 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Relationship Officer",
+   "company": "BMO Financial Group",
+   "dates": "Jun. 2021 - Jan. 2023",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "FactSet",
+  "Anaplan",
+  "Bloomberg Terminal",
+  "IFRS 9",
+  "DCF Valuation",
+  "Treasury Management"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development"
+  },
+  {
+   "name": "Working Capital Improvement Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute"
+  },
+  {
+   "name": "Chartered Financial Analyst",
+   "issuer": "CFA)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.053
+}

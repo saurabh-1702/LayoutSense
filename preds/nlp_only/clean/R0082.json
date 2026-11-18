@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0082",
+ "name": "Reza Rahimi",
+ "contact": {
+  "phone": "+98 902 210 8861",
+  "location": "Tehran, Iran"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/reza-rahimi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Microbiology",
+   "institution": "Pharmacist Isfahan University of Technology",
+   "dates": "Dec 2025 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Pharmacist Isfahan University of Technology",
+   "company": "BS",
+   "dates": "Dec 2025 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Pharmacist Isfahan University of Technology",
+   "company": "Darou Pakhsh",
+   "dates": "Aug 2020 - Mar 2024",
+   "bullets": [
+    "Exceeded territory sales targets by 53% across 120"
+   ]
+  }
+ ],
+ "skills": [
+  "prescribing doctors",
+  "Method Validation",
+  "oncology studies USFDA Audits",
+  "Deviation Management",
+  "eCTD",
+  "SAP QM",
+  "Argus Safety",
+  "Empower 3"
+ ],
+ "projects": [
+  {
+   "name": "Medical Representative Pharmacovigilance Signal Detection"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Performed HPLC and dissolution analysis on 180+ batches",
+   "issuer": null
+  },
+  {
+   "name": "per quarter with zero OOS invalidations Registered Pharmacist",
+   "issuer": null
+  },
+  {
+   "name": "Developed an extended-release tablet formulation that cut Pharmacy Council of India",
+   "issuer": ""
+  },
+  {
+   "name": "manufacturing cost by 10% Achievements",
+   "issuer": null
+  },
+  {
+   "name": "Trained 5 analysts on data integrity and ALCOA+ principles",
+   "issuer": null
+  },
+  {
+   "name": "Dean's List",
+   "issuer": "Isfahan University of Technology"
+  },
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "GSK"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Azerbaijani",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.057
+}

@@ -1,0 +1,114 @@
+{
+ "resume_id": "R0262",
+ "contact": {
+  "email": "lakshmi.r@rediffmail.com",
+  "phone": "+91 853-296-8291",
+  "location": "Chennai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lakshmirajendran"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Tech in Aerospace Engineering",
+   "institution": "Senior Project Engineer Anna University",
+   "dates": "2024 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Project Engineer Anna University",
+   "company": "B.Tech in Aerospace Engineering",
+   "dates": "2024 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Senior Project Engineer Anna University",
+   "company": "NTPC Limited",
+   "dates": "2013 - 2017",
+   "bullets": [
+    "Partnered with senior leadership to define the annual",
+    "Represented the function in executive steering",
+    "Grew the team by 13% in two years while keeping attrition"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Maruti Suzuki India | Chennai"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "85% through SMED and TPM",
+   "issuer": null
+  },
+  {
+   "name": "Led 11 Kaizen events that saved =37.1 crore annually in CATIA V5 Associate",
+   "issuer": null
+  },
+  {
+   "name": "scrap and rework Dassault Systemes",
+   "issuer": ""
+  },
+  {
+   "name": "Owned PPAP submissions for 10 suppliers and resolved 120 Six Sigma Green Belt",
+   "issuer": "quality concerns ASQ"
+  },
+  {
+   "name": "Reduced unplanned downtime by 58% by introducing",
+   "issuer": null
+  },
+  {
+   "name": "condition-based maintenance HONORS",
+   "issuer": "Best Outgoing Student"
+  },
+  {
+   "name": "Quality Engineer Anna University",
+   "issuer": ""
+  },
+  {
+   "name": "Nestlé",
+   "issuer": "Bengaluru"
+  },
+  {
+   "name": "Managed a capex budget of INR 44.6 crore for plant LANGUAGE PROFICIENCY",
+   "issuer": null
+  },
+  {
+   "name": "upgrades delivered on time",
+   "issuer": null
+  },
+  {
+   "name": "English Native",
+   "issuer": null
+  },
+  {
+   "name": "Conducted DFMEA and design reviews with cross-functional",
+   "issuer": null
+  },
+  {
+   "name": "teams for 24 programmes",
+   "issuer": null
+  },
+  {
+   "name": "Designed 10 sheet-metal and casting components in",
+   "issuer": null
+  },
+  {
+   "name": "MATLAB for a new two-wheeler platform",
+   "issuer": null
+  },
+  {
+   "name": "Commissioned a new CNC machining cell",
+   "issuer": "increasing"
+  },
+  {
+   "name": "capacity by 15%",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.056
+}

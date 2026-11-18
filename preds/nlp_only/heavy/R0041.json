@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0041",
+ "name": "AIDEN FLETCHER",
+ "contact": {
+  "email": "fletcher@outlook.com",
+  "phone": "+44 718 965 3586"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/aiden-fletcher8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Advanced Clinical Practice - 2:1",
+   "institution": "University of Surrey Guildford",
+   "dates": "Apr 2021"
+  },
+  {
+   "degree": "BSc (Hons) Nursing",
+   "institution": "University of Surrey Guildford",
+   "dates": "Jun 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Emergency Department Nurse",
+   "company": "Royal Free London NHS Foundation Trust",
+   "dates": "Sep 2024 — Jun 2026",
+   "bullets": [
+    "Participated in 4 code blue responses as a certified ACLS provider",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 11%"
+   ]
+  },
+  {
+   "title": "Junior Staff Nurse",
+   "company": "s and St Thomas’ NHS Foundation Trust",
+   "dates": "May 2021 — Aug 2024",
+   "bullets": [
+    "Managed ventilated patients in a 13-bed ICU, titrating vasoactive infusions per protocol",
+    "Oversaw duty rosters for 9 nurses and managed ward inventory and consumables",
+    "Trained 6 newly joined nurses on medication safety and documentation in Patient Charting",
+    "Reduced hospital-acquired infection rates by 23% by leading hand-hygiene audits",
+    "o Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Triaged 75+ patients monthly in the emergency department using the Manchester Triage",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit"
+   ]
+  }
+ ],
+ "skills": [
+  "Infection Prevention",
+  "Critical Care",
+  "Ventilator Management",
+  "IV Cannulation",
+  "Patient Charting",
+  "Epic EHR",
+  "NABH Standards",
+  "Electronic Medical Records",
+  "JC!",
+  "Standards",
+  "Cerner",
+  "Attention to Detail",
+  "Problem Solving",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp"
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Basic Life Support",
+   "issuer": "BLS)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.069
+}

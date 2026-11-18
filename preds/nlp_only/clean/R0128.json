@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0128",
+ "contact": {
+  "email": "riccardo.bruno@hotmail.it",
+  "phone": "+39 380 2866974",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/riccardo-bruno"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Electronics and",
+   "institution": "accurate records Politecnico di Milano",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Campus Placement Portal January 2023",
+  "track status and",
+  "download offer letters.",
+  "Realtime Chat Platform",
+  "read receipts",
+  "and presence indicators."
+ ],
+ "projects": [
+  {
+   "name": "ts Languages Known"
+  },
+  {
+   "name": "English C1"
+  },
+  {
+   "name": "Expense Splitter App"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java",
+   "issuer": null
+  },
+  {
+   "name": "SE 17 Developer",
+   "issuer": "Oracle"
+  }
+ ],
+ "_runtime_s": 0.016
+}

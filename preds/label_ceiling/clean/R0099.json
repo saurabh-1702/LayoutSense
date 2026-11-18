@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0099",
+ "name": "Amna Javed",
+ "headline": "Analytics Associate",
+ "contact": {
+  "email": "amna_javed@gmail.com",
+  "phone": "0334-3179619",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/amnajaved-82"
+  },
+  {
+   "url": "github.com/amnajaved"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Data Science",
+   "institution": "Institute of Business Administration",
+   "dates": "09.2022 - 02.2023"
+  },
+  {
+   "degree": "BA (Hons) Economics",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "07.2019 - 05.2022",
+   "grade": "Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "02.2024 - 05.2026",
+   "company": "fJaz—(itsi‘“‘Cs—s*@Y)",
+   "title": "Analytics Associate",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 8.1M employee queries per month",
+    "Built a customer segmentation framework using clustering on 7.8M profiles to drive targeted campaigns",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7 days"
+   ]
+  },
+  {
+   "dates": "05.2023 - 01.2024",
+   "company": "jazi",
+   "title": "junior Data Scientist",
+   "bullets": [
+    "Built a churn prediction model in Time Series Forecasting (AUC 0.120) that helped retention teams save PKR 340M in annual revenue",
+    "Created executive dashboards in Time Series Forecasting tracking 22 KPIs, adopted by 80+ business users",
+    "Authored SQL data quality checks across 150 tables, reducing reporting incidents by 51%"
+   ]
+  }
+ ],
+ "skills": [
+  "Scala",
+  "Python",
+  "SAS",
+  "TensorFlow",
+  "Hugging Face Transformers",
+  "Time Series Forecasting",
+  "NLP"
+ ],
+ "projects": [
+  {
+   "name": "Air Quality Forecasting",
+   "description": "LSTM model forecasting PM2.5 levels across 14 monitoring stations with a Streamlit dashboard."
+  },
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-tuned DistiIBERT classifier achieving 94% Fi ona public misinformation dataset.",
+   "tech": "SAS, Scala"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Data Analytics Professional Certificate",
+   "year": "2024"
+  }
+ ]
+}

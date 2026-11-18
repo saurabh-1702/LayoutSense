@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0095",
+ "name": "Megan T. Martinez",
+ "headline": "Analyst",
+ "contact": {
+  "email": "megan.martinez@yahoo.com",
+  "phone": "+1 (858) 749-2676",
+  "location": "San Diego, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/megan-martinez-663243"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Commerce",
+   "institution": "Georgia Institute of Technology",
+   "dates": "2019"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Deloitte",
+   "title": "Analyst",
+   "dates": "2021",
+   "location": "New York, NY",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Built SQL models to size a $154M addressable market across 8 segments",
+    "Drove a digital transformation roadmap that increased online sales by 30%"
+   ]
+  },
+  {
+   "company": "EY",
+   "title": "Business Analyst",
+   "dates": "Oct. 2019 – Aug. 2021",
+   "location": "New York, NY",
+   "bullets": [
+    "Conducted commercial due diligence on 24 private equity targets",
+    "Authored 6 thought-leadership articles and contributed to proposals worth $606K",
+    "Designed a target operating model for a 42,000-employee organisation post-merger",
+    "Delivered 10 strategy engagements for clients in banking, retail and telecom",
+    "Built a market entry business case for a $648K investment in Southeast Asia"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Ea"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Conversational"
+  }
+ ]
+}

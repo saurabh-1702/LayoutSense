@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0091",
+ "name": "Jannatul Akter",
+ "contact": {
+  "email": "jannatul.a@gmail.com",
+  "phone": "01596-879609",
+  "location": "Sylhet, Bangladesh"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/jannatul-akter"
+  }
+ ],
+ "education": [
+  {
+   "dates": "May 2022",
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "North South University",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "September 2025 - Present",
+   "title": "Project Engineer — Electrical",
+   "company": "Walton Group",
+   "bullets": [
+    "Designed protection schemes for 3 132/33 kV substations using DIgSILENT PowerFactory",
+    "Reduced energy losses by 23% through power factor correction and harmonic filtering",
+    "Developed firmware in Embedded C for a battery management system on 200+ EV packs"
+   ]
+  },
+  {
+   "dates": "April 2024 - August 2025",
+   "title": "Field Engineer",
+   "company": "Samsung",
+   "bullets": [
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 21%",
+    "Performed load flow and short-circuit studies for 21 industrial clients",
+    "Designed 8-layer PCBs in ETAP for an industrial loT gateway",
+    "Verified RTL designs on FPGA, achieving timing closure at 75 MHz"
+   ]
+  },
+  {
+   "dates": "June 2022 - March 2024",
+   "title": "Graduate Engineer — Power Systems",
+   "company": "Summit Power",
+   "bullets": [
+    "Commissioned a 6 MW solar plant including inverters, transformers and SCADA integration",
+    "Led root cause analysis on transformer failures, saving BDT 22.1M in replacement costs"
+   ]
+  }
+ ],
+ "skills": [
+  "SCADA",
+  "Load Flow Analysis",
+  "VLSI",
+  "DIgSILENT PowerFactory",
+  "ETAP",
+  "Altium Designer",
+  "Cadence Virtuoso",
+  "KiCad",
+  "Cross-functional Collaboration",
+  "Negotiation",
+  "Problem Solving"
+ ],
+ "certifications": [
+  {
+   "year": "2023",
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

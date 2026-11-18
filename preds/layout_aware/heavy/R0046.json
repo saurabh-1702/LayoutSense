@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0046",
+ "name": "Alejandro Castillo",
+ "headline": "Content Marketing Associate",
+ "contact": {
+  "email": "alejandro.castiltlo93@hotmail.com",
+  "phone": "858.676.9688",
+  "location": "San Diego, CA, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alejandro-castillo"
+  },
+  {
+   "url": "alejandrocastillo.substack.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Instituto Tecnolégico Autonomo de México",
+   "dates": "2020 - 2024",
+   "grade": "GPA: 3.55/4.0"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "June 2024 - Present",
+   "title": "Content Marketing Associate",
+   "company": "Microsoft",
+   "location": "Guadalajara, Mexico",
+   "bullets": [
+    "Launched 15 new product variants nationally, capturing 8% market share in the first year",
+    "Owned the go-to-market plan for a SaaS launch, generating $127M pipeline in the first quarter",
+    "Grew organic traffic by 44% in 11 months through technical SEO and a content calendar of 15 articles per month",
+    "Coordinated 10 influencer campaigns generating 438K+ impressions and 32,000 engagements",
+    "Managed a monthly paid media budget of $24.9M across Google Ads and Meta, achieving a 21x ROAS"
+   ]
+  }
+ ],
+ "skills": [
+  "Email Marketing",
+  "Copywriting",
+  "Content Strategy",
+  "Influencer Marketing",
+  "SEO",
+  "Go-to-Market Strategy",
+  "Maiichimp",
+  "Canva",
+  "Marketo",
+  "Meta Ads Manager",
+  "SEMrush",
+  "Hootsuite"
+ ],
+ "projects": [
+  {
+   "name": "Go-to-Market Plan for a 02C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a $14.2M launch media plan."
+  },
+  {
+   "name": "Instagram Growth Experiment",
+   "dates": "September 2024",
+   "description": "Grew a niche food account to 67K+ followers in 3 months using Reels and UGC."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Profictency"
+  }
+ ],
+ "_runtime_s": 0.157
+}

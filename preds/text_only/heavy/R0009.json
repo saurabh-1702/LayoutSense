@@ -1,0 +1,80 @@
+{
+ "resume_id": "R0009",
+ "name": "MICHAEL L. JOHNSON",
+ "contact": {
+  "location": "Piresbwegh, PA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/michachjehnsent"
+  },
+  {
+   "url": "github.com/michael?"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Fxpected 05/2627",
+   "company": "Sun Francisen OF",
+   "title": "Data Science lntera"
+  },
+  {
+   "dates": "72025 - 10/2025",
+   "bullets": [
+    "Developed « demand forecasting model that reduced inventory holding costs by 51%",
+    "Denfted standard operating procedures for 7 recurting tasks",
+    "Assisted with day-to-day data science & analytics operanons and mamtained accurate records"
+   ],
+   "company": "IBM",
+   "location": "New York",
+   "title": "Data Analyst"
+  }
+ ],
+ "skills": [
+  "3Q1.",
+  "Matplodih",
+  "Series Prediction ck ae",
+  "Fools",
+  "Excel",
+  "Apache Spark",
+  "Time Seties Forecasting",
+  "Pyth Resume Screening with NLP",
+  "Aico Age Spt",
+  "Lagan",
+  "A",
+  "Teng Torch",
+  "Tae Sei Forsning",
+  "her",
+  "‘bin",
+  "Meiptalta tied tea Rete",
+  "hai AA thio",
+  "‘ileal"
+ ],
+ "projects": [
+  {
+   "name": "Fake News Detection DistilBEIRT",
+   "description": "Fine-raned dassificr actueving 94% Fl on a public musinformanon deraset.",
+   "tech": "Tane Sories forecasting, Seala, R Tume Forceasting, Airflose"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "Ead-t9-end Power BI dashboard on 88,000 transactions with drill-downs by region and category."
+  },
+  {
+   "name": "Customer Lifetime Value",
+   "dates": "02/2826"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Kaggle Expert",
+   "year": "(2026)"
+  },
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "1BM",
+   "year": "(2024)"
+  }
+ ],
+ "_runtime_s": 0.405
+}

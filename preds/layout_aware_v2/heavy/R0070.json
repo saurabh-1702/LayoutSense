@@ -1,0 +1,184 @@
+{
+ "resume_id": "R0070",
+ "name": "Sayali Apte",
+ "headline": "Chief Risk Officer",
+ "contact": {
+  "email": "sayaliapte@outiook.com"
+ },
+ "links": [
+  {
+   "url": "wwew.linkedin.com/in/sayali-aptes"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons.) Economics",
+   "institution": "Tata Institute"
+  },
+  {
+   "institution": "of Social Sciences",
+   "dates": "2002 ~ – 2005",
+   "grade": "63.8%"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Identified cost savings of INR 2.6 crore through vendor",
+    "spend analysis",
+    "and contract renegotiation",
+    "Supported due diligence on 22 acquisitions, including",
+    "working-capital",
+    "and synergy analysis",
+    "Led the annual budgeting and rolling forecast process",
+    "for a business unit with 16.7 crore in revenue",
+    "Managed a loan portfolio of $35.6 crore across 75",
+    "relationships",
+    "with zero slippages in FY",
+    "saving the finance team 4 hours per cycle",
+    "Analysed credit proposals for 150 mid-market clients",
+    "maintaining",
+    "an NPA ratio below 1.9%",
+    "Grew the assets under management of assigned",
+    "clients by 53% year on year",
+    "Built three-statement",
+    "financial models and DCF",
+    "valuations for 22 deals worth a combined 7568 crore",
+    "Prepared pitch books and information memoranda for",
+    "15 sell-side mandates"
+   ],
+   "dates": "2019 – 2024",
+   "title": "Head"
+  },
+  {
+   "title": "of Treasury",
+   "company": "Unilever",
+   "location": "Pune",
+   "bullets": [
+    "Introduced weekly",
+    "ng",
+    "reviews",
+    "that cut decision turnaround",
+    "from 11 days to 1 day",
+    "Grew the team by 48% in two years while keeping",
+    "attrition below 11%",
+    "Led a team of 3 across 24 workstreams, owning hiring",
+    "performance",
+    "reviews and quarterly planning",
+    "Identified cost savings of 44.7 Cr through vendor",
+    "spend analysis and contract renegotiation",
+    "Partnered with senior leadership to define the annual",
+    "roadmap and a budget of %33 lakh",
+    "Mentored 12 junior colleagues, several of whom were",
+    "promoted",
+    "within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of 7666 crore"
+   ],
+   "dates": "2013 – 2019"
+  },
+  {
+   "dates": "2011 – 2013",
+   "title": "Finance Manager",
+   "company": "ICICI Bank",
+   "location": "Vadodara",
+   "bullets": [
+    "Automated monthly variance reporting in Python, saving the finance team 16 hours per cycle",
+    "Implemented an Anaplan-based planning model replacing 9 disconnected spreadsheets Led the annual budgeting and rolling forecast process for a business unit with €410 Cr in revenue Presented quarterly business reviews to the CFO and board with actionable margin insights Analysed credit proposals for 300 mid-market clients, maintaining an NPA ratio below 1,3%",
+    "Supported due diligence on 5 acquisitions, including working-capital and synergy analysis"
+   ]
+  },
+  {
+   "dates": "2005 – =~ 2011",
+   "title": "Credit Analyst",
+   "company": "Bajaj Finserv",
+   "location": "Vadodara",
+   "bullets": [
+    "Managed a loan portfolio of 25.7 crore across 500 relationships with zero slippages in FY Built three-statement financial models and DCF valuations for 20 deals worth a combined INR 773 crore Monitored market and liquidity risk limits, producing daily VaR reports for senior management Prepared pitch books and information memoranda for 19 sell-side mandates Grew the assets under management of assigned clients by 52% year on year"
+   ]
+  }
+ ],
+ "skills": [
+  "FactSet",
+  "Python",
+  "Oracle Hyperion",
+  "Capital",
+  "IQ",
+  "SAP S/4HANA",
+  "Bloomberg",
+  "Terminal",
+  "Treasury Management",
+  "Risk Management",
+  "IFRS",
+  "9",
+  "Stakeholder Management",
+  "Problem",
+  "Solving",
+  "Mentoring"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development",
+   "description": "Logistic-regression"
+  },
+  {
+   "description": "with Gini and KS statistics.",
+   "name": "Working Capital Improvement Study",
+   "dates": "2026"
+  },
+  {
+   "description": "ee",
+   "name": "5"
+  },
+  {
+   "name": "oe"
+  },
+  {
+   "name": "eos",
+   "description": "Equity research report with DCF and comparable"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Chartered Financial Analyst (CFA)",
+   "issuer": "CFA Institute",
+   "year": "2014"
+  },
+  {
+   "name": "Modeling & Valuation"
+  },
+  {
+   "name": "Analyst (FMVA)",
+   "issuer": "Corporate Finance Institute",
+   "year": "2016"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM",
+   "year": "2013"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute",
+   "year": "2009"
+  },
+  {
+   "name": "Market Concepts",
+   "issuer": "Bleaomberg",
+   "year": "2010"
+  },
+  {
+   "name": "Financial Risk Manager (FRM)",
+   "issuer": "GARP",
+   "year": "2623"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi"
+  },
+  {
+   "language": "English",
+   "proficiency": "Konkani"
+  }
+ ]
+}

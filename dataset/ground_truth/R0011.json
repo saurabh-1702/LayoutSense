@@ -1,0 +1,170 @@
+{
+  "resume_id": "R0011",
+  "name": "Ting Wang",
+  "headline": "Operations Manager",
+  "contact": {
+    "location": "Hangzhou, China",
+    "phone_e164": "+8619683227929",
+    "city": "Hangzhou",
+    "country": "China",
+    "email": "tingwang@outlook.com",
+    "phone": "196 8322 7929"
+  },
+  "links": [
+    {
+      "url": "www.linkedin.com/in/ting-wang",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Industrial Engineering",
+      "institution": "Tongji University",
+      "year": "2016",
+      "start": "2012-09",
+      "end": "2016-05",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Operations Manager",
+      "company": "Shell",
+      "location": "Shanghai",
+      "start_text": "May '21",
+      "end_text": "Present",
+      "bullets": [
+        "Grew the team by 33% in two years while keeping attrition below 18%",
+        "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day",
+        "Partnered with senior leadership to define the annual roadmap and a budget of CNY 758K",
+        "Led a team of 14 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+        "Mentored 10 junior colleagues, several of whom were promoted within 18 months"
+      ],
+      "start": "2021-05",
+      "end": "present"
+    },
+    {
+      "title": "Demand Planner",
+      "company": "Uber",
+      "location": "Shanghai",
+      "start_text": "Aug '19",
+      "end_text": "Apr '21",
+      "bullets": [
+        "Cut last-mile delivery cost per order by 29% through route optimisation",
+        "Negotiated freight contracts that saved CNY 21.5M annually",
+        "Managed import logistics and customs clearance for 250+ containers per year"
+      ],
+      "start": "2019-08",
+      "end": "2021-04"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "JD.com",
+      "location": "Hangzhou",
+      "start_text": "Apr '17",
+      "end_text": "Jul '19",
+      "bullets": [
+        "Reduced inventory days by 15 while maintaining 56% service levels",
+        "Led the monthly S&OP process across sales, finance and manufacturing",
+        "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%"
+      ],
+      "start": "2017-04",
+      "end": "2019-07"
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "company": "PepsiCo",
+      "location": "Beijing",
+      "start_text": "Jun '16",
+      "end_text": "Mar '17",
+      "bullets": [
+        "Built a supplier scorecard covering quality, cost and delivery for 250 vendors",
+        "Set up 7 new fulfilment centres processing 170K+ orders per day",
+        "Managed procurement spend of CNY 131K across 120 suppliers, delivering 5% savings",
+        "Improved forecast accuracy from 40% to 82% by introducing statistical models in SAP APO"
+      ],
+      "start": "2016-06",
+      "end": "2017-03"
+    }
+  ],
+  "skills": [
+    "Transportation Management",
+    "Network Design",
+    "Import/Export Documentation",
+    "Vendor Management",
+    "Warehouse Management",
+    "Last-mile Delivery",
+    "Ariba",
+    "Oracle SCM",
+    "Coupa",
+    "Tableau",
+    "SQL",
+    "SAP APO",
+    "Presentation Skills",
+    "Adaptability"
+  ],
+  "projects": [
+    {
+      "name": "Warehouse Layout Optimisation",
+      "description": "Slotting analysis that reduced picker travel distance by 27% in a live DC."
+    },
+    {
+      "name": "Vehicle Routing Model",
+      "description": "Python OR-Tools model for routing 17 delivery vans with time windows."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "APICS Certified Supply Chain Professional (CSCP)",
+      "issuer": "ASCM",
+      "year": "2022"
+    },
+    {
+      "name": "Project Management Professional (PMP)",
+      "issuer": "PMI",
+      "year": "2024"
+    },
+    {
+      "name": "CIPS Level 4 Diploma in Procurement and Supply",
+      "issuer": "CIPS",
+      "year": "2025"
+    },
+    {
+      "name": "SAP Certified Application Associate – Sourcing",
+      "issuer": "SAP",
+      "year": "2020"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Employee of the Quarter",
+      "issuer": "PepsiCo",
+      "year": "2017"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin Chinese",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Advanced"
+    },
+    {
+      "language": "Cantonese",
+      "proficiency": "Conversational"
+    }
+  ],
+  "_meta": {
+    "layout": "table_based",
+    "template": "t3_form",
+    "n_pages": 2,
+    "industry": "supply_chain",
+    "level": "senior",
+    "years_experience": 10,
+    "origin_country": "China",
+    "work_country": "China",
+    "date_format": "MMM 'YY"
+  }
+}

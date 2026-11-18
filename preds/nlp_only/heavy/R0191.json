@@ -1,0 +1,34 @@
+{
+ "resume_id": "R0191",
+ "name": "Ishita Agarwal",
+ "contact": {
+  "email": "ishital991@gmail.com",
+  "phone": "(+91) 7903876160",
+  "location": "Noida, India"
+ },
+ "education": [
+  {
+   "degree": "BA LLB (Hons.) Symbiosis International University",
+   "institution": "Class XH (State Board) Ryan International School i a, ee",
+   "dates": "2026"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Amarchand Mangaldas Summer Associate",
+   "company": "Cyril",
+   "dates": "March 2026 May 2026",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 13 stakeholder meetings",
+    "Collected and cleaned data from 3 sources to support a law initiative",
+    "Supported the law team on 7 live projects, preparing analyses and documentation",
+    "Assisted with day-to-day law operations and maintained accurate records",
+    "Supported the law team on 10 live projects, preparing analyses and documentation"
+   ]
+  }
+ ],
+ "skills": [
+  "Corporate Law Contract Drafting"
+ ],
+ "_runtime_s": 0.031
+}

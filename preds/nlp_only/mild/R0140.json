@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0140",
+ "name": "Mohammed Al",
+ "contact": {
+  "email": "mohammed.alhashimi01@gmail.com",
+  "phone": "056 447 6942",
+  "location": "Dubai, United"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mohammed-alhashimi8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Partnered with senior leadership to Zayed University",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Economics",
+   "institution": "steering committees and board-level American University of Sharjah",
+   "dates": null
+  },
+  {
+   "degree": "BA",
+   "institution": "BA",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "define the annual roadmap and a",
+   "dates": "Jul 2019 - Jul 2020",
+   "bullets": [
+    "Represented the function in executive BA (Hons) Economics"
+   ]
+  },
+  {
+   "title": null,
+   "company": "reporting",
+   "dates": "Jul 2016 - Apr 2019",
+   "bullets": [
+    "Mentored 8 junior colleagues, several",
+    "Grew the team by 59% in two years",
+    "Introduced weekly operating reviews",
+    "Led a team of 8 across 20 Equity Research",
+    "Presented quarterly business reviews",
+    "Analysed credit proposals for 180 Dag ome",
+    "Prepared pitch books and information Languages Known",
+    "Led the annual budgeting and rolling",
+    "Managed a loan portfolio of AED 342M",
+    "Monitored market and liquidity risk 8) Certifications",
+    "Identified cost savings of AED 1.2M",
+    "Grew the assets under management",
+    "Built three-statement financial models",
+    "Implemented an Anaplan-based",
+    "Automated monthly variance reporting",
+    "Supported due diligence on 8"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study"
+  },
+  {
+   "name": "Portfolio Optimisation Tool"
+  },
+  {
+   "name": "Credit Scorecard Development"
+  },
+  {
+   "name": "Valuation of a Listed FMCG Company"
+  }
+ ],
+ "_runtime_s": 0.052
+}

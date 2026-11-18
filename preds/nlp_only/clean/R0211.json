@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0211",
+ "name": "Location Mendoza",
+ "contact": {
+  "email": "martin.romero@hotmail.com",
+  "phone": "+54 9341065690",
+  "location": "Mendoza, Argentina"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/martin-romero"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Nursing",
+   "institution": null,
+   "dates": "2010 - 2014"
+  }
+ ],
+ "skills": [
+  "Systems Electronic Medical Records",
+  "Epic EHR",
+  "Patient Charting",
+  "Clinical Triage",
+  "Ventilator Management",
+  "Critical Care",
+  "Patient Assessment",
+  "Infection",
+  "Prevention",
+  "Wound Care",
+  "Core Strengths Mentoring",
+  "Team Leadership",
+  "Conflict Resolution",
+  "Public Speaking",
+  "PROFESSIONAL",
+  "BACKGROUND",
+  "Jan 2025",
+  "Present Infection Control Nurse Lead",
+  "Hospital Italiano de Buenos Aires",
+  "Mendoza",
+  "Triaged 200",
+  "Manchester Triage System",
+  "days to 1 day",
+  "Jun 2024",
+  "Hospital Aleman",
+  "ward",
+  "cutting 30-day",
+  "readmissions by 8%",
+  "multidisciplinary rounds",
+  "reporting",
+  "Oct 2014",
+  "May 2024 Junior Staff Nurse",
+  "consumables",
+  "titrating vasoactive infusions",
+  "per protocol",
+  "SELECTED"
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit"
+  },
+  {
+   "name": "Community Health Camp"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Advanced Cardiovascular Life Support",
+   "issuer": "ACLS)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.025
+}

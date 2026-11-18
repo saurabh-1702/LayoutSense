@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0038",
+ "name": "Pranav Menon",
+ "headline": "Junior Software Developer | 6+ Years in Software Engineering",
+ "contact": {
+  "email": "pranavm930@outlook.com",
+  "phone": "+91-8854906778",
+  "location": "Coimbatore, Tamil Nadu"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pranavmenon"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Computer Science",
+   "institution": "Indian Institute of Science",
+   "dates": "Jul 2017 - Jun 2020",
+   "grade": "CGPA - 7.4"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Software Developer",
+   "company": "Uber",
+   "location": "Chennai",
+   "dates": "Oct 2021 - Present",
+   "bullets": [
+    "Collaborated with product and design to ship 5 major releases on schedule across web and mobile",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 14% to 85%",
+    "Developed internal tooling in Ruby on Rails that saved the support team 34 hours per week"
+   ]
+  },
+  {
+   "title": "Junior Software Developer",
+   "company": "Uber",
+   "location": "Chennai",
+   "dates": "Aug 2020 - Sep 2021",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 58% quarter over quarter",
+    "Reduced p95 API latency by 51% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Cut cloud infrastructure costs by =27.8 crore annually by right-sizing instances and adopting spot capacity",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 39%"
+   ]
+  }
+ ],
+ "skills": [
+  "Swift",
+  "Rust",
+  "Go",
+  "C#",
+  "Python",
+  "NET Core",
+  "Ruby on Rails",
+  "Flutter",
+  "GitHub Actions",
+  "Jenkins",
+  "Docker",
+  "Linux",
+  "Cl/CD"
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2026"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2026"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "2026"
+  },
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Google Code Jam Round 2 Qualifier",
+   "year": "2020"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Tamil",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Telugu",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Malayalam",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

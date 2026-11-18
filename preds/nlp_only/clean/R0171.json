@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0171",
+ "name": "Da Nang",
+ "contact": {
+  "location": "Da Nang, Vietnam"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/linhtran"
+  },
+  {
+   "url": "www.linhtran.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Medicine (M.D.) Hanoi Medical University /",
+   "institution": "Qualification Institution Tenure",
+   "dates": "Aug2000-Aug2005"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Officer",
+   "company": "Vinmec International Hospital Medical",
+   "dates": "Oct 2005-Sep 2010",
+   "bullets": [
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 45%",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Presented case reports at 24 national conferences"
+   ]
+  }
+ ],
+ "skills": [
+  "Cerner",
+  "Epic EHR",
+  "ICD-10 Coding",
+  "Critical Care",
+  "Public Speaking * Team Leadership"
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "ATLS Provider American College of Surgeons",
+   "issuer": null
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK NBME",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.029
+}

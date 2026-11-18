@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0157",
+ "name": "Ayse Kaya",
+ "contact": {
+  "email": "aysekaya@gmail.com",
+  "phone": "0544 190 71 25",
+  "location": "Bursa, Turkey"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayse-kaya8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Computer Science and Engineering",
+   "institution": "istanbul Technical University",
+   "dates": "09.2021 — 03.2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst",
+   "company": "EY",
+   "dates": "05.2025 — Present",
+   "bullets": [
+    "Authored 15 thought-leadership articles and contributed to proposals worth TRY 16.1M",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Leda cost transformation programme identifying TRY 10.5M in annual savings for a Fortune 500 client"
+   ]
+  }
+ ],
+ "skills": [
+  "Financial Analysis",
+  "Strategy Development",
+  "Change Management",
+  "Alteryx",
+  "Think-cell",
+  "Python",
+  "Tableau",
+  "Jira",
+  "Power Bl"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant",
+   "issuer": "CMC)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.025
+}

@@ -1,0 +1,33 @@
+Pimchanok Thongchai
+Junior Data Scientist
+Email pimchanok.t@gmail.com Phone +66 61 353 7477
+Address Bangkok, Thailand LinkedIn www.linkedin.com/in/pimchanok-
+thongchai8
+CORE COMPETENCIES
+Languages SQL, R, Scala
+scikit-learn, Time Series Forecasting, XGBoost, Computer Vision
+Core Strengths Presentation Skills, Time Management, Negotiation
+WORK HISTORY
+Period Company Location
+Jun. 2022 to Current Citi Junior Data Scientist Chiang Mai
+¢ Fine-tuned transformer models for ticket classification, automating 28% of manual triage
+¢ Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 24 days
+¢ Ran 21 A/B experiments on pricing and onboarding flows, lifting conversion by 5%
+NOTABLE PROJECTS
+| Project Description Technologies
+Customer Lifetime Value Probabilistic BG/NBD model to rank customers by expected Scala, Computer Vision, R
+Prediction value for marketing spend.
+ACADEMIC QUALIFICATIONS
+| Qualification | Institution | Period
+nae
+ee Information Technology Thonburi a
+CERTIFICATIONS
+Certification Issued By Year
+SnowPro Core Certification Snowflake 2023
+Databricks Certified Data Engineer Associate Databricks Aug. 2022
+Microsoft Certified: Power BI Data Analyst Associate Microsoft 2024
+TensorFlow Developer Certificate Google 2021
+LANGUAGE PROFICIENCY
+| Language Proficiency
+English Limited Working Proficiency
+Mandarin Chinese Limited Working Proficiency

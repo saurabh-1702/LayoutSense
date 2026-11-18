@@ -1,0 +1,152 @@
+{
+ "resume_id": "R0226",
+ "name": "NATTAPONG KITTISAK",
+ "headline": "Engagement Manager | 9+ Years in Management Consulting",
+ "contact": {
+  "email": "nkittisak@gmail.com",
+  "phone": "092-199-8172",
+  "location": "Phuket, Thailand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nattapong-kittisak"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering in Mechanical Engineering",
+   "institution": "King Mongkut's University of Technology Thonburi",
+   "dates": "Sep. 2013 | Jun. 2017",
+   "grade": "Honours"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Dec. 2025 | Present",
+   "title": "Engagement Manager",
+   "company": "IBM",
+   "location": "Chiang Mai (Hybrid)",
+   "bullets": [
+    "Drove a digital transformation roadmap that increased online sales by 16%",
+    "Built Alteryx models to size a THB 177M addressable market across 21 segments",
+    "Managed a team of 14 consultants and client counterparts across 19 workstreams",
+    "Designed a target operating model for a 353K+- employee organisation post-merger",
+    "Built a market entry business case for a THB 8.3M investment in Southeast Asia",
+    "Led a cost transformation programme identifying THB 492K in annual savings for a Fortune 500 client",
+    "Authored 10 thought-leadership articles and contributed to proposals worth THB 5.3M",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Delivered 18 strategy engagements for clients in banking, retail and telecom"
+   ]
+  },
+  {
+   "dates": "Apr. 2020 | Nov. 2025",
+   "title": "Consultant",
+   "company": "Bain & Company",
+   "location": "Bangkok",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 8 across 9 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Built Python models to size a THB 16.6M addressable market across 21 segments",
+    "Grew the team by 26% in two years while keeping attrition below 18%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of THB 15.4M",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "Sep. 2018 | Mar. 2020",
+   "title": "Analyst",
+   "company": "Deloitte",
+   "location": "Chiang Mai",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Drove a digital transformation roadmap that increased online sales by 17%",
+    "Managed a team of 14 consultants and client counterparts across 24 workstreams",
+    "Authored 8 thought-leadership articles and contributed to proposals worth THB 277M",
+    "Designed a target operating model for a 830K- employee organisation post-merger"
+   ]
+  },
+  {
+   "dates": "Sep. 2017 | Aug. 2018",
+   "title": "Associate Consultant",
+   "company": "Deloitte",
+   "location": "Chiang Mai",
+   "bullets": [
+    "Built a market entry business case for a THB 3.4M investment in Southeast Asia",
+    "Led a cost transformation programme identifying THB 5.3M in annual savings for a Fortune 500 client",
+    "Delivered 14 strategy engagements for clients in banking, retail and telecom",
+    "Conducted commercial due diligence on 13 private equity targets"
+   ]
+  }
+ ],
+ "skills": [
+  "Due Diligence",
+  "Stakeholder Management",
+  "Agile Transformation",
+  "Power BI",
+  "Alteryx",
+  "PowerPoint",
+  "Python",
+  "Adaptability",
+  "Team Leadership",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non-profit serving 233K+ children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Lean Six Sigma Black Belt",
+   "issuer": "IASSC",
+   "year": "2025"
+  },
+  {
+   "name": "Certified Scrum Master (CSM)",
+   "issuer": "Scrum Alliance",
+   "year": "2017"
+  },
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "Mar. 2015"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "Apr. 2022"
+  },
+  {
+   "name": "Prosci Change Management Certification",
+   "issuer": "Prosci",
+   "year": "2017"
+  }
+ ],
+ "awards": [
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "King Mongkut's University of Technology Thonburi",
+   "year": "2015"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Thai",
+   "proficiency": "Native"
+  },
+  {
+   "proficiency": "Professional Working Proficiency",
+   "language": "English"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

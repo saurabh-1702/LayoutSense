@@ -1,0 +1,133 @@
+{
+ "resume_id": "R0257",
+ "name": "Jason R. Anderson",
+ "headline": "Frontend Engineer",
+ "contact": {
+  "email": "jason,anderson86@hotmail.comAustin",
+  "phone": "737-830-2432",
+  "location": "TX"
+ },
+ "links": [
+  {
+   "url": "linkedin.corm/in/jason-anderson8github"
+  },
+  {
+   "url": "com/jason65"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MS, Computer Science",
+   "dates": "2022-03",
+   "institution": "Massachusetts Institute of Technology",
+   "location": "Cambridge, MA"
+  },
+  {
+   "degree": "B.S. in Computer Applications",
+   "dates": "2020-06",
+   "institution": "Georgia Institute of Technology",
+   "location": "Atlanta, GA"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Frontend Engineer",
+   "dates": "2025-08 — Now",
+   "company": "Aironb",
+   "location": "Austin (Hybrid)",
+   "bullets": [
+    "Owned the payments integration with 5 third-party gateways, reducing failed transactions by 22%",
+    "Wisercanes a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 12% to 85%",
+    "Resolved 500+ production issues as part of the on-call rotation, reducing mean time to recovery by 23%",
+    "Wrote technical design documents and led code reviews for a team of 13 engineers",
+    "Designed and built 15 RESTful microservices in Ruby on Rails and C#, serving 38,000 requests per day with 99.95% uptime"
+   ]
+  },
+  {
+   "title": "Frontend Engineer",
+   "dates": "2025-01 — 2025-07",
+   "company": "Walmart",
+   "location": "New York, NY",
+   "bullets": [
+    "Collaborated with product and design to ship 17 major releases on schedule across web and mobile",
+    "dicetes customer-facing features in Java used by 9,000 monthly active users",
+    "Developed internal tooling in Java that saved the support team 40 hours per week",
+    "Cut cloud infrastructure costs by $8.4M annually by right-sizing instances and adopting spot capacity",
+    "Built a real-time notification service using Java and Apache Kafka that processes 8,000 events per hour"
+   ]
+  },
+  {
+   "title": "Systems Engineer",
+   "dates": "2022-05 ~ 2024-12",
+   "company": "Walmart",
+   "location": "New York, NY",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 41% quarter over quarter",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 40%",
+    "Reduced p95 API latency by 18% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  }
+ ],
+ "skills": [
+  "Java",
+  "TypeScript",
+  "C#",
+  "C++",
+  "PHP",
+  "Python",
+  "Flutter",
+  "Ruby on Rails",
+  "GraphQt",
+  "Express.",
+  "s",
+  "Spring Boot",
+  "Microsoft Azure",
+  "CI/CD",
+  "Linux",
+  "Redis",
+  "MongoDB"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard."
+  },
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client",
+   "tech": "Spring Boot, Cl/CD"
+  },
+  {
+   "name": "Expense Splitter App",
+   "dates": "2020-06",
+   "description": "Mobile app for splitting group expenses with OCR receipt scanning and UPI/PayPal settlement links.",
+   "tech": "Flutter, TypeScript"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "(2025-07)"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(Advanced)"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "(Beginner)"
+  }
+ ]
+}

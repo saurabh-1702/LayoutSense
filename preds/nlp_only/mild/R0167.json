@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0167",
+ "name": "Islam Abdelrahman",
+ "contact": {
+  "email": "islam.abdelrahman@gmail.com",
+  "phone": "0106 062 7153"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/islamabdelrahman-22"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Nursing Practice",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "DNP)",
+   "institution": "DNP",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Bachelor of Science",
+   "dates": null
+  },
+  {
+   "degree": "BSN)",
+   "institution": "BSN",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "ee"
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.096
+}

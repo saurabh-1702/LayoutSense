@@ -1,0 +1,34 @@
+Amna Javed
+Analytics Associate
+Email amna_javed@gmail.com |Mobile | 0334-3179619
+|Location | Lahore, Pakistan LinkedIn linkedin.com/in/amnajaved-82
+/GitHub github.com/amnajaved
+WORK HISTORY
+02.2024 - 05.2026 fJaz—(itsi‘“‘Cs—s*@Y Analytics Associate
+~ Deployed a retrieval-augmented chatbot over internal documentation, answering 8.1M employee queries per
+month
+> Built a customer segmentation framework using clustering on 7.8M profiles to drive targeted campaigns
+> Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7 days
+05.2023 - 01.2024 jazi is—‘—SSCsdY junior Data Scientist
+> Built a churn prediction model in Time Series Forecasting (AUC 0.120) that helped retention teams save PKR
+340M in annual revenue
+~ Created executive dashboards in Time Series Forecasting tracking 22 KPIs, adopted by 80+ business users
+~ Authored SQL data quality checks across 150 tables, reducing reporting incidents by 51%
+ACADEMIC QUALIFICATIONS
+MSc Data Science Institute of Business Administration 09.2022 - 02.2023
+BA (Hons) Economics Lahore University of Management 07.2019 - 05.2022 Distinction
+Sciences
+COMPETENCIES
+Languages Scala | Python | SAS
+TensorFlow | Hugging Face Transformers | Time Series Forecasting | NLP
+PROJECTS
+Project |Description er
+Air Quality Forecasting LSTM model forecasting PM2.5 levels across 14
+monitoring stations with a Streamlit dashboard.
+Fake News Detection Fine-tuned DistiIBERT classifier achieving 94% Fi ona SAS, Scala
+public misinformation dataset.
+HONORS
+ward Awarded By Year
+CERTIFICATIONS
+Google Data Analytics Professional Certificate 2024
+LANGUAGE PROFICIENCY

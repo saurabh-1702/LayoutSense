@@ -1,0 +1,117 @@
+{
+ "resume_id": "R0213",
+ "name": "Sanjaya Bandara",
+ "headline": "Curriculum Developer",
+ "contact": {
+  "email": "sbandara@outlook.com",
+  "phone": "071 376 9349",
+  "location": "Galle, Sri Lanka"
+ },
+ "education": [
+  {
+   "institution": "University of Colombo",
+   "degree": "MA in English",
+   "dates": "2019-08 - 2020-05"
+  },
+  {
+   "institution": "University of Moratuwa",
+   "degree": "BSc in Chemistry",
+   "grade": "Upper Second-Class (2:1)",
+   "dates": "2016-07 - 2019-06"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Curriculum Developer",
+   "company": "Ladies' College",
+   "dates": "2025-07 - Present",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 24 days to 1 day",
+    "Grew the team by 55% in two years while keeping attrition below 16%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of LKR 20.3M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 4 junior colleagues, several of whom were promoted within 18 months",
+    "Led ateam of 4 across 7 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "English Teacher",
+   "company": "Ladies' College",
+   "dates": "2020-08 - 2025-06",
+   "bullets": [
+    "Coordinated the school's Moodle rollout, training 21 teachers in blended learning",
+    "Managed department budget and timetable for 4 faculty members",
+    "Taught Mathematics to 7 sections of Grades 9-12, with 43% of students scoring above 90 in board exams",
+    "Mentored 10 new teachers as part of the induction programme",
+    "Raised average class performance by 15% through targeted remediation and formative assessment",
+    "Organised inter-school science fairs and olympiad coaching with 7 national-level qualifiers",
+    "Led parent-teacher conferences and individualised learning plans for 5 students with SEN",
+    "Developed 120 digital lessons and assessments used across the district",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 12 grade levels"
+   ]
+  }
+ ],
+ "skills": [
+  "Curriculum Design",
+  "IB Curriculum",
+  "Classroom Management",
+  "STEM Education",
+  "Kahoot!",
+  "Seesaw",
+  "Microsoft Teams",
+  "Moodle",
+  "Public Speaking",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Flipped Classroom Pilot",
+   "description": "Ran a 12-month pilot in Grade 10 Physics; test scores improved by 8%."
+  },
+  {
+   "name": "Reading Programme for Early Learners",
+   "description": "Phonics-based intervention for 80 students across 3 schools."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "TESOL Certificate",
+   "issuer": "Arizona State University",
+   "year": "(2022)"
+  },
+  {
+   "name": "Qualified Teacher Status (QTS)",
+   "issuer": "Department for Education",
+   "year": "(2025-02)"
+  },
+  {
+   "name": "Google Certified Educator Level 2",
+   "issuer": "Google for Education",
+   "year": "(2023)"
+  },
+  {
+   "name": "Central Teacher Eligibility Test (CTET)",
+   "issuer": "CBSE",
+   "year": "(2024-01)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C2)"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "(B2)"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "(B2)"
+  }
+ ],
+ "_runtime_s": 0.552
+}

@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0289",
+ "name": "SACHINI JAYASINGHE",
+ "headline": "Specialty Registrar",
+ "contact": {
+  "email": "jayasinghe.sachini@gmail.com",
+  "phone": "+94-721511021",
+  "location": "Colombe, Sri Lanka"
+ },
+ "education": [
+  {
+   "degree": "MRCP (UK)",
+   "dates": "07.2020 « 03.2021",
+   "institution": "University of Peradeniya",
+   "grade": "Upper Second-Class (2:1)"
+  },
+  {
+   "degree": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+   "dates": "09.2015 ~ 05.2020",
+   "institution": "University of Colombo"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Specialty Registrar",
+   "dates": "01,2026 - Present",
+   "company": "Asirl Hospitals",
+   "bullets": [
+    "Grew the team by 44% in two years while keeping attrition below 16%",
+    "Represented the function in executive steering committees and board-level resort",
+    "Led a team of 5 across 20 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of LKR 3. 6M",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Junior Resident",
+   "dates": "05,2022 - 12.2025",
+   "company": "National Hospital of Sri Lanka",
+   "bullets": [
+    "Supervised and taught 13 interns and medical students on ward rounds",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 16%",
+    "Performed 250+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Co-authored 5 peer-reviewed publications in indexed journals",
+    "Led a clinical audit on bundle compliance that improved adherence by 40%"
+   ]
+  },
+  {
+   "title": "Resident Physician",
+   "dates": "06.2021 - 04.2022",
+   "company": "National Hospital of Sri Lanka",
+   "bullets": [
+    "Responded to emergencies as part of the Yeia response team during night shifts",
+    "Presented case reports at 11 national conferences",
+    "Managed an average of 23 inpatients daily across general medicine and high-dependency units",
+    "Ran outpatient clinics seeing 22 patients per session with a focus on diabetes and hypertension"
+   ]
+  }
+ ],
+ "skills": [
+  "Lumbar Puncture",
+  "Internal Maeicihe",
+  "Critical Care",
+  "Patient Counselling",
+  "Clinical Research",
+  "Endotracheal intubation",
+  "Telemedicine",
+  "Epic EHR",
+  "Clinical Audit",
+  "ICD-10 Coding",
+  "Cerner",
+  "Negotiation",
+  "cone",
+  "Attention to Detail",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "OLA Sepsis Early Warning Score Audit",
+   "dates": "09,2020",
+   "description": "Retrospective review of 500 admissions validating NEWS2 thresholds."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "National Hospital of Sri Lanka",
+   "year": "(2022)"
+  }
+ ]
+}

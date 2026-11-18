@@ -1,0 +1,154 @@
+{
+ "resume_id": "R0210",
+ "name": "Vishnu Rao",
+ "headline": "Head of Department",
+ "contact": {
+  "email": "vishnu.rao@gmail.com",
+  "phone": "+91 779-827-8897",
+  "location": "Bengaluru, Karnataka"
+ },
+ "education": [
+  {
+   "degree": "DNB (Obstetrics and Gynaecology)",
+   "institution": "Christian Medical College",
+   "dates": "Jul. 2008"
+  },
+  {
+   "degree": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+   "institution": "All India Institute of Medical Sciences",
+   "dates": "May 2005"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Department",
+   "dates": "Jul. 2020 - Present",
+   "company": "Fortis Healthcare",
+   "location": "Bengaluru",
+   "bullets": [
+    "Supervised and taught 6 interns and medical students on ward rounds",
+    "Ran outpatient clinics seeing 20 patients per session with a focus on diabetes and hypertension",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Managed an average of 23 inpatients daily across general medicine and high-dependency units",
+    "Co-authored 24 peer-reviewed publications in indexed journals",
+    "Performed 120+ procedures including central lines, thoracentesis and lumbar punctures"
+   ]
+  },
+  {
+   "title": "Clinical Lead",
+   "dates": "Jun. 2018 - Jun. 2020",
+   "company": "Max Super Speciality Hospital",
+   "location": "Bengaluru",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 25 days to 1 day",
+    "Grew the team by 27% in two years while keeping attrition below 22%"
+   ]
+  },
+  {
+   "title": "Attending Physician",
+   "dates": "Sep. 2016 - May 2018",
+   "company": "Manipal Hospitals",
+   "location": "Bengaluru",
+   "bullets": [
+    "Presented case reports at 10 national conferences",
+    "Partnered with senior leadership to define the annual roadmap and a budget of INR 185 crore",
+    "Led a team of 11 across 13 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Consultant",
+   "dates": "Feb. 2014 - Aug. 2016",
+   "company": "Medanta - The Medicity",
+   "location": "Bengaluru",
+   "bullets": [
+    "Ran outpatient clinics seeing 10 patients per session with a focus on diabetes and hypertension",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Resident Medical Officer",
+   "dates": "Oct. 2010 - Jan. 2014",
+   "company": "Christian Medical College Hospital",
+   "location": "Bengaluru",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 52%",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Managed an average of 15 inpatients daily across general medicine and high-dependency units"
+   ]
+  },
+  {
+   "title": "Junior Resident",
+   "dates": "Oct. 2008 - Sep. 2010",
+   "company": "Apollo Hospitals",
+   "location": "Bengaluru",
+   "bullets": [
+    "Performed 50+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 22%",
+    "Supervised and taught 6 interns and medical students on ward rounds",
+    "Co-authored 22 peer-reviewed publications in indexed journals"
+   ]
+  }
+ ],
+ "skills": [
+  "Clinical Research",
+  "Endotracheal Intubation",
+  "Critical Care",
+  "Evidence-based Medicine",
+  "Emergency Medicine",
+  "Epic EHR",
+  "Clinical Audit",
+  "ICD-10 Coding",
+  "Adaptability",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "description": "Cross-sectional study of 120 school students; presented at the state medical conference."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "PLAB 2",
+   "issuer": "General Medical Council",
+   "year": "2011"
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK",
+   "issuer": "NBME",
+   "year": "Apr. 2017"
+  },
+  {
+   "name": "Good Clinical Practice (GCP)",
+   "issuer": "NIDA Clinical Trials Network",
+   "year": "2013"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "All India Institute of Medical Sciences",
+   "year": "(2008)"
+  },
+  {
+   "name": "Values in Action Award",
+   "issuer": "Christian Medical College Hospital",
+   "year": "(2014)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Telugu",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Kannada",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

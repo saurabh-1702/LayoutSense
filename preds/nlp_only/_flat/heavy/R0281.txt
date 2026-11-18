@@ -1,0 +1,32 @@
+stefan_koch@gmx.de =
+49 179-52793432 &
+STEFAN KOCH dlc,
+Guana»
+Electrical & Electronics Engineering Graduate linkedin.com/in/stefankoch @
+Academic Background
+Bachelor of Science in Electronics and Instrumentation 2023 | Present
+Technical University of Munich, Munich
+Final grade: 1.5
+Internships
+Electrical Engineering Intern 2026
+Mercedes-Benz Group - Hamburg
+» Assisted with day-to-day electrical & electronics engineering operations and maintained accurate
+records
+» Built a tracker in KiCad that streamlined weekly reporting for a team of 8
+Selected Projects
+Smart Energy Meter with loT
+ESP32-based meter streaming consumption data to a cloud dashboard.
+Grid-tied Inverter Design
+Simulated and built a 1 KW single-phase inverter with MPPT control in Simulink.
+Tech: PSCAD, DigSILENT PowerFactory
+Skills
+Engineering: SCADA | FPGA| Power Systems | Renewable Energy Integration
+Tools: PSCAD | DigSILENT PowerFactory | KiCad
+Professional Skills: Time Management | Decision Making | Problem Solving | Negotiation
+Certificates
+» NEBOSH IGC — NEBOSH (2025)
+» Siemens Certified PLC Programmer — Siemens (2025)
+Language Proficiency
+German (Native) « English (Advanced) * French (Beginner) « Turkish (Conversational)
+Achievements
+>» Team Excellence Award, Mercedes-Benz Group (2026)

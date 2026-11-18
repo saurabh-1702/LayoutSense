@@ -1,0 +1,143 @@
+{
+ "resume_id": "R0156",
+ "name": "Muhammad Chaudhry",
+ "headline": "Staff ff Software are Engineet",
+ "contact": {
+  "email": "muhammadchaudhry!7@outlook.com",
+  "phone": "+92 301 320 7341",
+  "location": "Rawalpindi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/muhammad-chaudhry"
+  },
+  {
+   "url": "github.com/muhammadch"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Science"
+  },
+  {
+   "degree": "MEng Computer",
+   "institution": "National University of Sciences and",
+   "dates": "Jul 2014 - Feb 2015"
+  },
+  {
+   "degree": "MEng Electronics and Redis Communication Engineering Emerging",
+   "institution": "FAST National University of Computer and Sciences",
+   "dates": "Aug 2010 - May 2014"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun 2024- Current",
+   "title": "Staff Software Engineer",
+   "company": "Jazz",
+   "location": "Rawalpindi",
+   "bullets": [
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 8% to 85%",
+    "Developed customer-facing features in Jenkins used by 52,000 monthly active users",
+    "Grew the team by 19% in two years while keeping attrition below 10%"
+   ]
+  },
+  {
+   "dates": "Nov 2017- May 2024",
+   "title": "Backend Engineer Technology",
+   "company": "Careem",
+   "location": "Lahore",
+   "bullets": [
+    "Reduced p95 API latency by 48% by introducing caching and optimising slow PostgreSQL queries",
+    "Designed and built 23 RESTful microservices in Node.js and AWS, serving 902K requests per day with 99.95% uptime",
+    "Collaborated with product and design to ship 11 major releases on schedule across web and mobile",
+    "Owned the payments integration with 21 third-party gateways, reducing failed transactions by 15%",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 25%"
+   ]
+  },
+  {
+   "dates": "Jan 2017 - Oct 2017",
+   "title": "Systems Engineer",
+   "company": "Careem",
+   "location": "Remote — Pakistan",
+   "bullets": [
+    "Cut cloud infrastructure costs by PKR 815K annually by right-sizing instances and adopting spot 60% 58% capacity",
+    "Introduced feature flags and canary releases, lowering production incidents by 14% quarter over quarter",
+    "Built a real-time notification service using AWS and Apache Kafka that processes 817K events per hour"
+   ]
+  },
+  {
+   "dates": "May 2015- Dec 2016",
+   "title": "Software Developer",
+   "company": "NetSol Technologies",
+   "location": "Rawalpindi",
+   "bullets": [
+    "77%",
+    "Resolved 250+ production issues as part of the on- call rotation, reducing mean time to recovery by 55%",
+    "Migrated a legacy monolith to containerised 93% 91% services on Kubernetes, cutting deployment time from 15 hours to 15 minutes",
+    "Developed internal tooling in AWS that saved the support team 11 hours per week"
+   ]
+  }
+ ],
+ "skills": [
+  "Vue.js",
+  "Ruby on Rails",
+  "Node.js",
+  "Next.js",
+  "Jenkins",
+  "@ «0%",
+  "AWS",
+  "Apache Kafka",
+  "DynamoDB",
+  "Elasticsearch",
+  "Decision Making",
+  "Adaptability",
+  "Team Leadership",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "dates": "Dec 2019",
+   "description": "Web portal used by 50 students to apply for drives, track status and download offer letters.",
+   "tech": "MongoDB"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer CI/CD",
+   "issuer": "Oracle",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Careem",
+   "year": "(2017)"
+  },
+  {
+   "name": "Engineering Excellence Award",
+   "year": "(2014)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "."
+  },
+  {
+   "proficiency": "Native",
+   "language": "English"
+  },
+  {
+   "proficiency": "Intermediate",
+   "language": "Punjabi"
+  },
+  {
+   "proficiency": "Fluent",
+   "language": "Django"
+  }
+ ],
+ "_runtime_s": 0.561
+}

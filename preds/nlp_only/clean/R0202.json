@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0202",
+ "contact": {
+  "email": "mauricio.gomez@gmail.com",
+  "phone": "+57 3013501593",
+  "location": "Cartagena, Colombia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mauricio-gomez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Commerce Accounting: Consolidation",
+   "institution": "Commerce Accounting: Consolidation",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Interpersonal: Team Leadership | Adaptability | Conflict"
+  },
+  {
+   "name": "GST Reconciliation Tool Resolution"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "adopted by the firm's tax practice.",
+   "issuer": null
+  },
+  {
+   "name": "Internal Controls Review Certified Internal Auditor",
+   "issuer": "CIA)"
+  },
+  {
+   "name": "Mapped procure-to-pay controls for a retail chain and The IIA",
+   "issuer": ""
+  },
+  {
+   "name": "recommended 21 control improvements. ACA",
+   "issuer": "ICAEW"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.031
+}

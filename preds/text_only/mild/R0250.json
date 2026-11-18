@@ -1,0 +1,138 @@
+{
+ "resume_id": "R0250",
+ "name": "Ngozi Eze",
+ "headline": "Managing Director",
+ "contact": {
+  "email": "ngozi2000@gmail.com",
+  "phone": "+234 902 759 8911",
+  "location": "Abuja, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ngozi-eze-c24b38"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc General Management",
+   "institution": "School"
+  },
+  {
+   "institution": "KPMG",
+   "dates": "Feb 2007 - Jan 2008",
+   "degree": "BA in Economics"
+  },
+  {
+   "institution": "Covenant University",
+   "dates": "Sep 2000 - Aug 2003"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Mar 2024 - Present",
+   "title": "Managing Director",
+   "company": "Lagos Business",
+   "bullets": [
+    "Managed a team of 9 consultants and client counterparts across 7 workstreams",
+    "Authored 6 thought-leadership articles and contributed to proposals worth NGN 553K",
+    "Led a cost transformation programme identifying NGN 6.5M in annual savings for a Fortune 500",
+    "Conducted commercial due diligence on 13 private equity targets",
+    "Designed a target operating model for a 343K+- employee organisation post-merger"
+   ]
+  },
+  {
+   "dates": "Apr 2023 - Feb 2024",
+   "title": "Managing Director Director",
+   "bullets": [
+    "Leda team of 14 across 22 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of NGN 24.2M",
+    "Introduced weekly operating reviews that cut decision turnaround from 24 days to 1 day",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "Nov 2019 - Mar 2023",
+   "company": "SAP",
+   "bullets": [
+    "Built PowerPoint models to size a NGN 420K addressable market across 14 segments",
+    "Drove a digital transformation roadmap that increased online sales by 15%"
+   ]
+  },
+  {
+   "dates": "Jan 2017 - Oct 2019",
+   "title": "Associate Director",
+   "company": "McKinsey & Company",
+   "bullets": [
+    "Led a cost transformation programme identifying NGN 22.6M in annual savings for a Fortune 500 client",
+    "Authored 12 thought-leadership articles and contributed to proposals worth NGN 120M",
+    "Grew the team by 54% in two years while keeping attrition below 8%"
+   ]
+  },
+  {
+   "dates": "Jan 2015 - Dec 2016",
+   "title": "Associate Director",
+   "company": "McKinsey & Company",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Conducted commercial due diligence on 16 private equity targets",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "Oct 2003 - Dec 2014",
+   "title": "Associate Consultant",
+   "company": "Capgemini",
+   "bullets": [
+    "Designed a target operating model for a 367K- employee organisation post-merger",
+    "Delivered 19 strategy engagements for clients in banking, retail and telecom",
+    "Managed a team of 7 consultants and client counterparts across 11 workstreams",
+    "Built a market entry business case for a NGN 16.5M investment in Southeast Asia"
+   ]
+  }
+ ],
+ "skills": [
+  "Hypothesis-driven Problem Solving",
+  "client",
+  "Market Sizing",
+  "Due Diligence",
+  "Project Management",
+  "Stakeholder Management",
+  "Think-cell",
+  "SQL",
+  "PowerPoint",
+  "EY"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "2016"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "McKinsey & Company",
+   "year": "2017"
+  },
+  {
+   "name": "Client Impact Award",
+   "year": "2012"
+  },
+  {
+   "name": "Outstanding Contribution Award",
+   "year": "2010"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Igbo",
+   "proficiency": "Professional Working Proficiency Hausa Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.62
+}

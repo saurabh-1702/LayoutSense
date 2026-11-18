@@ -1,0 +1,51 @@
+Thomas Michel
+Senior Mobile Engineer
+Ratan: thomas.michel@orange. fr 06 35 93 80 12
+github.com/thomasmich
+Professional
+a
+Period “nt ee PS OS (2 Ee
+=
+May 2021 — September | BNP Paribas Mobile Engineer
+2026
+* Leda team of 3 across 10 workstreams, owning hiring, performance reviews and quarterly planning
+* Partnered with senior leadership to define the annual roadmap and a budget of €122M
+* Mentored 12 junior colleagues, several of whom were promoted within 18 months
+* Introduced weekly operating reviews that cut decision turnaround from 30 days to 1 day
+. Ae the function in executive steering committees and board-level reporting
+bad
+Grew the team by 19% in two years while keeping attrition below 19%
+* Developed internal tooling in Python that saved the support team 38 hours per week
+* Owned the payments integration with 9 third-party gateways, reducing failed transactions by 34%
+* Designed and built 10 RESTful microservices in Python and GitHub Actions, serving 42,000 requests per day with
+99.95% uptime
+* Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%
+¢ Wrote technical design documents and led code reviews for a team of 3 engineers
+* Cut cloud infrastructure costs by €2.4M annually by right-sizing instances and adopting spot capacity
+* Built a real-time notification service using Python and Kafka that processes 817K events per hour
+a
+2018
+* Developed customer-facing features in Kotlin used by 241K+ monthly active users
+* Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 7% to 85%
+* Introduced feature flags and canary releases, lowering production incidents by 41% quarter over quarter
+August 2015 — Schneider Electric Graduate Software Engineer Paris
+December 2017
+* Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 54%
+* Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 27 hours to 15
+minutes
+* Collaborated with product and design to ship 16 major releases on schedule across web and mobile
+Education
+a
+Bachelor of Science in Software | INSA Lyon
+Engineering
+Technical Skills
+Cloud & DevOps CI/CD | AWS | GitHub Actions
+Languages Rust | PHP | Python | C++ | Kotlin
+Language Proficiency
+Language Proficiency
+French Native
+English @2,
+Spanish B2
+Certifications
+Google Cloud Professional Cloud Developer Google Cloud 2016
+| Ist Place, Internal Hackathon _ 2016

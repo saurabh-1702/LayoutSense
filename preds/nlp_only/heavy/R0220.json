@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0220",
+ "name": "seinen Teel",
+ "contact": {
+  "location": "triton"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Chemistry",
+   "institution": "indian Institute of Science",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Certified Educator Level 2",
+   "issuer": "Googte for Education"
+  },
+  {
+   "name": "% Qualified Teacher Status",
+   "issuer": "QTS)"
+  },
+  {
+   "name": "Department for Education",
+   "issuer": ""
+  },
+  {
+   "name": "% Central Teacher Eligibility Test",
+   "issuer": "CTET)"
+  },
+  {
+   "name": "CBSE.",
+   "issuer": null
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English"
+  }
+ ],
+ "_runtime_s": 0.058
+}

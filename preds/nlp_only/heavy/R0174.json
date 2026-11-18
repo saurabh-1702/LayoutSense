@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0174",
+ "name": "Hiroshi Sato",
+ "contact": {
+  "email": "sato87@gmail.com",
+  "phone": "+81 90 9138 3714",
+  "location": "Kyoto, Japan"
+ },
+ "links": [
+  {
+   "url": "github.com/hsato"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Bachelor of Science",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Systems Engineer JavaScript",
+   "company": "Bosch Tokyo * Scala",
+   "dates": "Dec 2024 — Present",
+   "bullets": [
+    "Resolved 120+ production issues as part of the on-call rotation, * CH",
+    "Owned the payments integration with 12 third-party gateways",
+    "Flutter",
+    "Spring Boot",
+    "Collaborated with product and design to ship 7 major releases on",
+    "Developed internal tooling in Kubernetes that saved the support GitHub Actions"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "+ Developed customer-facing features in Kubernetes used by 6.6M",
+   "issuer": null
+  },
+  {
+   "name": "Certified Kubernetes",
+   "issuer": null
+  },
+  {
+   "name": "monthly active users",
+   "issuer": null
+  },
+  {
+   "name": "_* Built a real-time notification service using Kubernetes and Apache Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "The Linax Faundation",
+   "issuer": ""
+  },
+  {
+   "name": "Kafka that processes 2.9M events per hour",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft Certified: Azure",
+   "issuer": null
+  },
+  {
+   "name": "Migrated a legacy monolith to containerised services on",
+   "issuer": null
+  },
+  {
+   "name": "Developer Associate",
+   "issuer": null
+  },
+  {
+   "name": "Kubernetes",
+   "issuer": "cutting deployment time from 39 hours to 15 minutes Microsoft"
+  }
+ ],
+ "_runtime_s": 0.03
+}

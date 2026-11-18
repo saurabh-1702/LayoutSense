@@ -1,0 +1,102 @@
+{
+ "resume_id": "R0112",
+ "name": "Ash ley Colema n",
+ "contact": {
+  "email": "acoleman@hotmail.com",
+  "phone": "669-918-1862",
+  "location": "San Jose, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ashley-coleman"
+  },
+  {
+   "url": "www.ashleycoleman.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "Georgetown University"
+  },
+  {
+   "degree": "BS, Mechanical Engineering",
+   "institution": "Purdue University"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate",
+   "company": "EY",
+   "location": "San Francisco, CA",
+   "bullets": [
+    "Designed a target operating model for a 292K+-employee organisation post-merger",
+    "Drove a digital transformation roadmap that increased online sales by 33%",
+    "Delivered 4 strategy engagements for clients in banking, retail and telecom"
+   ]
+  },
+  {
+   "title": "Senior Business Analyst",
+   "company": "Deloitte",
+   "location": "New York",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Authored 20 thought-leadership articles and contributed to proposals worth $23.8M",
+    "Built a market entry business case for a $11.0M investment in Southeast Asia",
+    "Managed a team of 10 consultants and client counterparts across 11 workstreams",
+    "Built Tableau models to size a $179M addressable market across 7 segments"
+   ]
+  },
+  {
+   "title": "Associate Consultant",
+   "company": "McKinsey & Company",
+   "location": "San Francisco, CA",
+   "bullets": [
+    "Conducted commercial due diligence on 18 private equity targets",
+    "Leda cost transformation programme identifying $428M in annual savings for a Fortune 500 client"
+   ]
+  }
+ ],
+ "skills": [
+  "ai dee",
+  "Operating Model Design",
+  "Process Re-engineering",
+  "Stakeholder Management",
+  "Jira",
+  "Python",
+  "Tableau",
+  "SQL",
+  "Decision Making",
+  "Attention to Detail",
+  "Negotiation",
+  "roamcesterente"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non-profit serving 226K children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "2022"
+  },
+  {
+   "name": "Prosci Change Management Certification",
+   "issuer": "Prosci",
+   "year": "2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "wet"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ]
+}

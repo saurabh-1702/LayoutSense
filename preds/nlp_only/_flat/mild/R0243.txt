@@ -1,0 +1,72 @@
+~~ | Line Serre i
+Hawassa, Ethiopia
+History cee
+Employment
+<a
+—Tenure Company ae Software Engineer |
+Graduate
+miviarch 2023- | "Capgemini |
+ao "aes rala click-through by 16%
+=P resent h a result relevance and
+‘Rebuilt the search experienc e with Elasticsearch, improving 22,000 requests per day
+= in Express.} V s and Terra form, serving
+~ Designed and built 6 RESTful microservices
+with 99.95% uptime and led code reviews . for a team of 5 engineers
+~. Wrote technical design documents |
+{
+—| | Software Engineer
+SSotober 2022- Ethio Telecom
+February 2023 iy from 24%
+GitHub Actions and automated tests, raising code coverage
+7 Implemented a CI/CD pipeline with
+to 85% on-call rotation, reducing mean time to recovery by 15%
+Resolved 250+ production issues as part of the
+introducing Redis caching and optimising slow PostgreSQL queries
++ Reduced p95 API latency by 18% by
+and design to ship 9 major releases on schedule across web and mobile
+« Collaborated with product
+and releases, lowering production incidents by 46% quarter over quarter
+« Introduced feature flags canary
+customer-facing features in Angular used by 9.0M monthly active users
+* Developed
+* Developed internal tooling in Angular that saved the support team 11 hours per week
+monolith to containerised services on Kubernetes, cutting deployment time from 12
+* Migrated a legacy
+hours to 15 minutes
+4
+October 2021 - Safaricom Ethiopia | Graduate Software Engineer
+September 2022
+- Built a real-time notification service using FastAPI and Apache Kafka that processes 338K+ events per hour
+> Owned the payments integration with 8 third-party gateways, reducing failed transactions by 56%
+i Cut cloud infrastructure costs by ETB 168M annually by right-sizing instances and adopting spot capacity
+ducation & Qualifications
+Qualification | Institution Tenure Result
+ee Te
+3Eng Computer Science and | Addis Ababa Science and Technology September 2021 |-
+-ngineering University
+bd
+anguages | Kotlin, Python, C++
+tame Vay Be Greanhel Doost J , A
+=— Vue.js, FastAPI, GraphQL, React, Angular, Express.js
++. |
+lou & DevOps | Docker, Terraform, GitHub Actions . Li
+1 ‘i
+otable Projects
+roject Description
+ealtime Chat Platform __ Technologies
+_WebSocket chat service with end-to-end encryption
+Tead } StHuls Actonss Ryton
+| receipts and presence indicators.
+Nard
+“1's Rroallannn duiaea Year
+Certificates
+Certification Issued By
+HashiCorp Certified: Terraform Associate HashiCorp
+| AWS Certified Developer — Associate | Amazon Web Services | 2026
+| Google Cloud Professional Cloud Developer | Google Cloud | February 2022
+Language Proficiency
+Language Proficiency
+Amharic Native
+English [c2
+Afaan Oromo B2
+Tigrinya A2

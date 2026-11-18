@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0099",
+ "name": "Amna Javed",
+ "contact": {
+  "email": "amna_javed@gmail.com",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "github.com/amnajaved"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Economics Lahore University of Management",
+   "institution": "BA (Hons) Economics Lahore University of Management 07.2019 - 05.2022",
+   "dates": "07.2019 - 05.2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Jazz Analytics Associate",
+   "company": "Period Organisation Designation Location",
+   "dates": "02.2024 — 05.2026",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 8.1M employee queries per",
+    "Built a customer segmentation framework using Clustering on 7.8M profiles to drive targeted campaigns"
+   ]
+  },
+  {
+   "title": null,
+   "company": "340M in annual revenue",
+   "dates": "05.2023 - 01.2024",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "BA (Hons) Economics Lahore University of Management",
+   "dates": "07.2019 - 05.2022",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.066
+}

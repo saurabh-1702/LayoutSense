@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0284",
+ "contact": {
+  "email": "jia.koh93@gmail.com",
+  "phone": "9459 0388",
+  "location": "Singapore"
+ },
+ "education": [
+  {
+   "degree": "BSc in Mathematics",
+   "institution": "Singapore Management University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "errors",
+  "onboarding flows",
+  "lifting conversion by 25%",
+  "MLflow",
+  "tracking 8 KPIs",
+  "adopted by 75",
+  "business users",
+  "Hugging Face Transformers",
+  "Computer Vision",
+  "Time Series Forecasting",
+  "Pa LP",
+  "NumPy",
+  "BigQuery",
+  "Apache Kafka",
+  "Snowflake",
+  "Power Bl",
+  "Tableau",
+  "Plotly",
+  "Matplotlib",
+  "Excel",
+  "Problem Solving",
+  "Mentoring",
+  "Attention to Detail",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake"
+  }
+ ],
+ "_runtime_s": 0.047
+}

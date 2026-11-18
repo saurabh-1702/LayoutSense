@@ -1,0 +1,67 @@
+NATALIA WOZNIAK
+Systems Engineer
+696 061 895 | natalia.wozniak86@interia.pl | Lodz, Poland
+Work History Languages
+Systems Engineer 03/2022 — Present Polish Mother tongue
+Comarch, Lédz English Professional Working
+Collaborated with product and design to ship 20 major Proficiency
+releases on schedule across web and mobile Education
+Migrated a legacy monolith to containerised services on
+MSc in Software Engineering
+Kubernetes, cutting deployment time from 10 hours to 15
+Warsaw University of Technology
+minutes 08/2019 — 03/2021
+Implemented a CI/CD pipeline with GitHub Actions and B.Sc. Information Technology
+automated tests, raising code coverage from 25% to 85% AGH University of Krakow
+Developed internal tooling in FastAPI that saved the 08/2015 — 07/2019 | Very Good (5.0)
+support team 39 hours per week
+Certificates
+Rebuilt the search experience with Elasticsearch,
+improving result relevance and click-through by 30% HashiCorp Certified:
+Terraform Associate
+Built a real-time notification service using FastAPI and
+HashiCorp, 02/2024
+Apache Kafka that processes 10K+ events per hour
+AWS Certified Developer —
+Developed customer-facing features in FastAPI used by
+Associate
+445K monthly active users Amazon Web Services, 2024
+Owned the payments integration with 18 third-party Oracle Certified Professional:
+gateways, reducing failed transactions by 44% Java SE 17 Developer
+Associate Software Engineer 06/2021 — 02/2022 Oracle, 02/2022
+SAP, Warsaw Meta Front-End Developer
+Designed and built 13 RESTful microservices in Redis Professional Certificate
+Coursera, 05/2023
+and Linux, serving 261K+ requests per day with 99.95%
+AWS Certified Solutions
+uptime
+Architect — Associate
+Reduced pg5 API latency by 18% by introducing Redis
+Amazon Web Services, 03/2022
+caching and optimising slow PostgreSQL queries
+Resolved 180+ production issues as part of the on-call Technical Skills
+rotation, reducing mean time to recovery by 58% ¢ Kotlin
+Introduced feature flags and canary releases, lowering ¢ Ruby
+production incidents by 57% quarter over quarter « C++
+Cut cloud infrastructure costs by PLN 15.2M annually by ¢ Ruby on Rails
+right-sizing instances and adopting spot capacity e FastAPI
+Wrote technical design documents and led code reviews e Django
+for a team of 12 engineers ¢ Google Cloud Platform
+¢ Docker
+e AWS
+¢ Jenkins
+¢ Linux
+¢ Kubernetes
+° Redis
+Notable Projects ¢ Elasticsearch
+Distributed Key-Value Store 02/2026 » Apache Kafka
+Raft-based replicated key-value store with leader election, * MySQL
+log compaction and a gRPC client. * MongoDB
+Tech: Google Cloud Platform, FastAPI, Linux, Docker ¢ Team Leadership
+¢ Public Speaking
+Awards & Recognition .
+¢ Presentation Skills
+* Team Excellence Award, Comarch (2025) + Adaptability
+Social
+LinkedIn:
+linkedin.com/in/nataliawozniak2

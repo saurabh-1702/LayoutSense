@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0032",
+ "education": [
+  {
+   "degree": "MSc Advanced Clinical Practice",
+   "institution": "Nanyang Technological University +",
+   "dates": "2021 = 2022",
+   "grade": "2:4"
+  },
+  {
+   "degree": "BSc (Hons) Adult Nursing",
+   "institution": "National University of Singapore",
+   "dates": "2018 = 2021",
+   "grade": "2:4"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Feb 2024 — Present",
+   "title": "Staff Nurse",
+   "company": "Mount Elizabeth Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Reduced hospital-acquired infection rates by 31% by leading hand-hygiene audits",
+    "Participated in 24 code blue responses as a certified ACLS provider",
+    "Oversaw duty rosters for 13 nurses and managed ward inventory and consumables"
+   ]
+  },
+  {
+   "dates": "Aug 2022 ~ Jat 2024",
+   "title": "Clinical Nurse",
+   "company": "Mount Elizabeth Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Trained 4 newly joined nurses on medication safety and documentation in NABH Standards",
+    "Triaged 250+ patients monthly in the emergency department using the Manchester Triage System"
+   ]
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "Palliative Care",
+  "ACLS",
+  "Epic EHR",
+  "NABH Standards",
+  "Attention to Detail",
+  "Stakeholder Maragement"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "dates": "Sep 2024",
+   "description": "Organised 6 rural health camps screening 50 residents for hypertension and diabetes"
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "dates": "Oct 2021",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 6 months."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2023"
+  },
+  {
+   "name": "Critical Care Registered Nurse (CCRN)",
+   "issuer": "AACN",
+   "year": "2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

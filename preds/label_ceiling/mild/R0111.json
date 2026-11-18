@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0111",
+ "name": "Derek Anderson",
+ "contact": {
+  "email": "derek.anderson@gmail.com",
+  "phone": "+1 (614) 618-9191",
+  "location": "Columbus, OH"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/derek-anderson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Logistics and Supply Chain Management",
+   "institution": "Carnegie Mellon University",
+   "dates": "2022 - 2026"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct. 2025 - Dec. 2025",
+   "title": "Operations Intern",
+   "location": "Columbus, OH",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Assisted with day-to-day supply chain & operations operations and maintained accurate records",
+    "Built a tracker in Blue Yonder that streamlined weekly reporting for a team of 6"
+   ]
+  }
+ ],
+ "skills": [
+  "Inventory Optimisation",
+  "Strategic Sourcing",
+  "Lean",
+  "Cost Reduction",
+  "Network Design",
+  "Oracle SCM",
+  "Blue Yonder",
+  "Tableau",
+  "SOL"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 39% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 17 delivery vans with time windows.",
+   "dates": "Aug. 2025"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "2024"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "resume_id": "R0291",
+ "name": "Pimchanok Thongchai",
+ "headline": "Junior Data Scientist",
+ "contact": {
+  "email": "pimchanok.t@gmail.com",
+  "phone": "+66 61 353 7477",
+  "location": "Bangkok, Thailand"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pimchanok-thongchai8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "King Mongkut's University of Technology Thonburi",
+   "dates": "May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun. 2022 to Current",
+   "company": "Citi",
+   "title": "Junior Data Scientist",
+   "location": "Chiang Mai",
+   "bullets": [
+    "Fine-tuned transformer models for ticket classification, automating 28% of manual triage",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 24 days",
+    "Ran 21 A/B experiments on pricing and onboarding flows, lifting conversion by 5%"
+   ]
+  }
+ ],
+ "skills": [
+  "SQL",
+  "R",
+  "Scala",
+  "scikit-learn",
+  "Time Series Forecasting",
+  "XGBoost",
+  "Computer Vision",
+  "Presentation Skills",
+  "Time Management",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+   "tech": "Scala, Computer Vision, R"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2023"
+  },
+  {
+   "name": "Databricks Certified Data Engineer Associate",
+   "issuer": "Databricks",
+   "year": "Aug. 2022"
+  },
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft",
+   "year": "2024"
+  },
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Google",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Thai",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

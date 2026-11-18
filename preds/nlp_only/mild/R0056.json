@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0056",
+ "name": "Olumide Okafor",
+ "contact": {
+  "email": "ookafor@yahoo.com",
+  "phone": "+234-808-136-3880"
+ },
+ "education": [
+  {
+   "degree": "MEng Information Technology",
+   "institution": "fa Oracle, Abuja Covenant University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "PRY SAS",
+  "Scala J Pandas J Airiow"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.042
+}

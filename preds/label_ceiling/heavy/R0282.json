@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0282",
+ "links": [
+  {
+   "url": "linkedin.com/in/nataliawozniak2"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "aches",
+    "aetna caren | Piers",
+    "customer-facing features in FastAFl asedlby 445K monthly active users",
+    "Owned th pymentsntegration wih 18 third-party gateways, reducing failed transactions by 44%",
+    "‘Designed and builixg RESTful raicuaiieas in Redis and Linux, serving ys oe es es per day with 99.95% uptime",
+    "Reduced p95 API lateney by 18% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Resolved 180+ production issues as part of the on-call rotation, reducing mean time to recovery by 58%",
+    "Introduced feature flags and canary releases, lewis produetion incidents by 57% quarter over quarter",
+    "Cut cloud infrastructure costs by PLN 15. 2M annually by right-sizing instances and adopting",
+    "Wrote technical design documents and led code reviews for a team of 12 engineers"
+   ],
+   "title": "Associate Software Bugineer",
+   "dates": "hes - 02/2022",
+   "company": "SAP",
+   "location": "Warsaw"
+  }
+ ],
+ "skills": [
+  "Ruby on Rails",
+  "Google Cloud Platform",
+  "Redis",
+  "Elasticsearch",
+  "Apache Kafka",
+  "MySQL",
+  "MongoDB",
+  "Team Leadership",
+  "Public Speaking",
+  "Presentation Skills",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "dates": "02/2026",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Google Cloud Platform, FastAPI, Linux, Docker"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Comarch",
+   "year": "(2025)"
+  }
+ ]
+}

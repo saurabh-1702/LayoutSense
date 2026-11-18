@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0164",
+ "contact": {
+  "email": "zainabo269@gmail.com",
+  "phone": "+234 8059733060",
+  "location": "Enugu, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/zainab-ogunleye-65"
+  },
+  {
+   "url": "github.com/zainab50"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Computer",
+   "institution": "MEng Computer",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Built a churn prediction model in Looker",
+   "issuer": "AUC"
+  },
+  {
+   "name": "0.180) that helped retention teams save NGN TensorFlow Developer Certificate",
+   "issuer": null
+  },
+  {
+   "name": "8.6M in annual revenue Google",
+   "issuer": ""
+  },
+  {
+   "name": "Built a customer segmentation framework",
+   "issuer": null
+  },
+  {
+   "name": "using clustering on 2.0M profiles to drive Tableau Desktop Specialist",
+   "issuer": "Tableau"
+  },
+  {
+   "name": "targeted campaigns",
+   "issuer": null
+  },
+  {
+   "name": "Created executive dashboards in Looker",
+   "issuer": null
+  },
+  {
+   "name": "tracking 12 KPls",
+   "issuer": "adopted by 120+ business LANGUAGES"
+  },
+  {
+   "name": "users English Native",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.027
+}

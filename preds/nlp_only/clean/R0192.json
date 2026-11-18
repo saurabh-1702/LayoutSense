@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0192",
+ "contact": {
+  "email": "farzana.haque@gmail.com",
+  "phone": "+880-1635002800",
+  "location": "Rajshahi, Bangladesh"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/farzana-haque-4fd085"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA in Human Resource Management",
+   "institution": "company-wide University of Dhaka",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Psychology",
+   "institution": "graduate trainees BRAC University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Reduced voluntary attrition by 25% through stay interviews",
+   "dates": "August 2023 - August 2024",
+   "bullets": []
+  },
+  {
+   "title": "© People Operations Associate",
+   "company": "Grameenphone",
+   "dates": "September 2020 - June 2023",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday"
+  },
+  {
+   "name": "SHRM Certified Professional",
+   "issuer": "SHRM-CP)"
+  },
+  {
+   "name": "SHRM",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.048
+}

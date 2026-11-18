@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0028",
+ "name": "Williams Deliveroo - Remote",
+ "contact": {
+  "email": "george.williams03@outlook.com",
+  "phone": "07269 04081",
+  "location": "Bristol, Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/georgewilliams5"
+  },
+  {
+   "url": "www.georgewilliams.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA Economics",
+   "institution": "Central Saint Martins, University of the Arts London",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Barclays",
+  "Bristol",
+  "Python e0ee0e",
+  "reducing",
+  "PyTorch ecoee",
+  "TensorFlow Cx XY )",
+  "inventory holding costs by 32%",
+  "broadcast join optimisation",
+  "English",
+  "Native Jul 2021",
+  "May 2022",
+  "German Data Analyst",
+  "Fluent GSK",
+  "London",
+  "lifting conversion by 9%",
+  "adopted by 75",
+  "business users",
+  "documentation",
+  "eliminating 5",
+  "conflicting KPI definitions"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction"
+  },
+  {
+   "name": "Retail Sales Dashboard"
+  },
+  {
+   "name": "Air Quality Forecasting"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake"
+  },
+  {
+   "name": "AWS Certified Machine Learning",
+   "issuer": "Specialty"
+  },
+  {
+   "name": "Amazon Web Services",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.053
+}

@@ -1,0 +1,144 @@
+{
+ "resume_id": "R0133",
+ "name": "Rina Lestari",
+ "headline": "Principal Engineer",
+ "contact": {
+  "email": "rina.lestari@gmail.com",
+  "phone": "0813-6583-2099",
+  "location": "Bandung, Indonesia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rinalestari"
+  },
+  {
+   "url": "github.com/rinalestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.S. in Computer Science",
+   "dates": "Sep '08 - Jul ‘10",
+   "institution": "Institut Teknologi Sepuluh Nopember",
+   "grade": "Honours"
+  },
+  {
+   "degree": "B.E. in Computer Science and Engineering",
+   "dates": "Jul '04 - Jul '08",
+   "institution": "Institut Teknologi Bandung",
+   "grade": "GPA: 3.36"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Bloomberg",
+   "title": "Principal Engineer",
+   "dates": "Jul '25 - Present",
+   "bullets": [
+    "Owned the payments integration with 21 third-party gateways, reducing failed transactions by 29%",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "GoTo Group",
+   "title": "Senior Frontend Engineer",
+   "dates": "Oct '15 - Jun '25",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 20% quarter over quarter",
+    "Reduced pg5 API latency by 26% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Developed internal tooling in C# that saved the support team 30 hours per week",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 13%",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 55%",
+    "Grew the team by 56% in two years while keeping attrition below 24%"
+   ]
+  },
+  {
+   "company": "Traveloka",
+   "title": "iOS Developer",
+   "dates": "Apr ''15 - Sep '15",
+   "bullets": [
+    "Developed customer-facing features in CI/CD used by 162K monthly active users",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 17 hours to 15 minutes",
+    "Built a real-time notification service using CI/CD and Apache Kafka that processes 8.2M events per hour"
+   ]
+  },
+  {
+   "company": "Traveloka",
+   "title": "Graduate Software Engineer",
+   "dates": "Oct '10 - Mar '15",
+   "bullets": [
+    "Cut cloud infrastructure costs by IDR 1.7B annually by right-sizing instances and adopting spot capacity",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 21% to 85%",
+    "Collaborated with product and design to ship 5 major releases on schedule across web and mobile",
+    "Designed and built 22 RESTful microservices in GitHub Actions and Microsoft Azure, serving 179K+ requests per day with 99.95% uptime"
+   ]
+  }
+ ],
+ "skills": [
+  "C#",
+  "JavaScript",
+  "Ruby",
+  "Go",
+  "Angular",
+  "Vue.js",
+  "Django",
+  "Microsoft Azure",
+  "GitHub Actions",
+  "CI/CD",
+  "Kubernetes"
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 9,000 redirects/minute with consistent hashing and Redis.",
+   "tech": "CI/CD, C#"
+  },
+  {
+   "name": "Expense Splitter App",
+   "description": "Mobile app for splitting group expenses with OCR receipt scanning and UPI /PayPal settlement links",
+   "tech": "Microsoft Azure, Django"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "(Aug '20)"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(Aug '19)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "(2023)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Traveloka",
+   "year": "(2015)"
+  },
+  {
+   "name": "Top Contributor, Hacktoberfest",
+   "year": "(2018)"
+  },
+  {
+   "name": "Google Code Jam Round 2 Qualifier",
+   "year": "(2017)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Indonesian",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Full Professional Proficiency)"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0021",
+ "name": "Dhruv Pereira",
+ "headline": "Housekeeping Supervisor",
+ "contact": {
+  "email": "dhruvpereira71@gmail.com",
+  "phone": "97591 69917",
+  "location": "Nashik, Maharashtra"
+ },
+ "experience": [
+  {
+   "dates": "August 2024 — Present",
+   "title": "Housekeeping Supervisor",
+   "company": "ITC Hotels",
+   "location": "Surat",
+   "bullets": [
+    "Trained 13 associates on brand standards, achieving 40% in mystery audits",
+    "Managed front office operations for a 250-room five-star property with 56% average occupancy",
+    "Drove upseliing programmes that generated INR 429 crore in incremental room revenue",
+    "Led @ S-member kitchen brigade serving 150 covers per day VIP arrivals and quest escalations with a quest satisfaction score of 922/10"
+   ]
+  }
+ ],
+ "_runtime_s": 0.181
+}

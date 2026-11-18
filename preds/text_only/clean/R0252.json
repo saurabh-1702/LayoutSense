@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0252",
+ "name": "Kateryna Kovalenko",
+ "headline": "Bachelor of Science Graduate 2",
+ "contact": {
+  "email": "kateryna.kovalenko@gmail.com",
+  "phone": "+380 (63) 446 92 18",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/katerynakovalenko"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "Bogomolets National Medical University",
+   "dates": "2023 - 2026"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2026",
+   "title": "Nursing Intern",
+   "company": "Dobrobut Medical Network",
+   "location": "Kyiv",
+   "bullets": [
+    "Collected and cleaned data from 16 sources to support a nursing initiative",
+    "Prepared research summaries and presentation decks for 15 stakeholder meetings 75% 55% 78% 76% 90% 61% 77% 57%"
+   ]
+  }
+ ],
+ "skills": [
+  "Paediatric Care Triage",
+  "Medication",
+  "Post-operative Care Administration",
+  "389 fo)",
+  "JCI Standards",
+  "Cerner",
+  "Epic EHR",
+  "Electronic Medical Records",
+  "Presentation",
+  "Public Speaking",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "dates": "2023",
+   "description": "Organised 4 rural health camps screening 75 residents for hypertension and diabetes."
+  },
+  {
+   "name": "Pressure Ulcer Prevention Audit",
+   "description": "Ward-level audit and turning-schedule intervention reducing stage II ulcers over 7 months."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Basic Life Support (BLS)",
+   "issuer": "American Heart Association",
+   "year": "2025"
+  },
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Ukrainian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "ecce"
+  }
+ ],
+ "_runtime_s": 0.229
+}

@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0283",
+ "name": "V re) Mi nh Mi nh",
+ "headline": "Production Engineer",
+ "contact": {
+  "email": "minh.vo@gmailcom",
+  "phone": "086-019-0568",
+  "location": "Hai Phong, Vietnam"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/minh-vo-97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "pate teaterne neice",
+   "institution": "RMIT University Vietnam",
+   "location": "Ho tat Minh ee",
+   "grade": "GPA seer ee"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025-2026",
+   "title": "Production Engineer",
+   "company": "VinFast",
+   "location": "Hai Phong",
+   "bullets": [
+    "Belt savings of VND 12.4B by reducing process variation",
+    "Conducted Achieved Six DFMEA Sigma and Green design reviews with cross-functional teams for 19 er",
+    "Led 23 Kaizen events that saved VND 58.9B annually in scrap and | rework",
+    "Managed 4 capex budget of VND 483M for plant upgrades delivered on time",
+    "Owned sighted submissions for ahs suppliers and resolved 120 ps concerns"
+   ]
+  }
+ ],
+ "skills": [
+  "Pia",
+  "<M",
+  "GPO",
+  "Goat",
+  "Injection Moulding",
+  "Creo",
+  "Minitab",
+  "Teamcenter",
+  "MATLAB",
+  "AutoCAD"
+ ]
+}

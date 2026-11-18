@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0193",
+ "name": "FLORENCIA PEREZ",
+ "headline": "Education & Teaching Graduate",
+ "contact": {
+  "email": "florenciaperez25@gmail.com",
+  "phone": "+54 9 26 1384-8691",
+  "location": "Mendoza, Argentina"
+ },
+ "education": [
+  {
+   "degree": "BA, History",
+   "dates": "Sep, 2021 - Jul, 2025",
+   "institution": "Universidad Torcuato Di Tella",
+   "grade": "Magna Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Teaching Assistant Intern",
+   "company": "St. Andrew's Scots School",
+   "dates": "Oct, 2024 - Dec, 2024",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 6 stakeholder meetings",
+    "Built a tracker in Canvas LMS that streamlined weekly reporting for a team of 10",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted"
+   ]
+  }
+ ],
+ "skills": [
+  "Lesson Planning",
+  "Assessment Design",
+  "CBSE Curriculum",
+  "Student Counselling",
+  "STEM Education",
+  "Kahoot!",
+  "Moodle",
+  "Smart Board",
+  "Canvas LMS",
+  "Seesaw",
+  "Stakeholder Management",
+  "Time Management",
+  "Critical Thinking",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners",
+   "description": "Phonics-based intervention for 150 students across 7 schools."
+  },
+  {
+   "name": "Flipped Classroom Pilot",
+   "description": "Ran a 11-month pilot in Grade 10 Physics; test scores improved by 9%."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "(Beginner)"
+  }
+ ]
+}

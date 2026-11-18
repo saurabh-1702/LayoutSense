@@ -1,0 +1,88 @@
+{
+ "resume_id": "R0185",
+ "name": "STEPHANIE G. TAYLOR",
+ "headline": "BS Graduate",
+ "contact": {
+  "phone": "toroese"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/stephanie-taylor"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Computer Applications",
+   "institution": "Massachusetts Institute of Technology",
+   "dates": "Sep. 2022 — Jun. 2026",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Visa",
+   "location": "New York",
+   "title": "Software Developer Intern",
+   "dates": "Jul. 2025 - Oct. 2025",
+   "bullets": [
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 10% to 85%",
+    "Collected and cleaned data from 22 sources to support a software engineering initiative"
+   ]
+  },
+  {
+   "company": "Capital One",
+   "location": "Phoenix, AZ",
+   "title": "Backend Developer Intern",
+   "dates": "Oct. 2024 — Feb. 2025",
+   "bullets": [
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Drafted standard operating procedures for 4 recurring tasks",
+    "Supported the software engineering team on 15 live projects, preparing analyses and documentation"
+   ]
+  }
+ ],
+ "skills": [
+  "PostgreSQL",
+  "Apache Kafka",
+  "CI/CD",
+  "GraphQL",
+  "FastAPI",
+  "Decision Making",
+  "Cross-functional Collaboration",
+  "Problem Solving",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "CI/CD, FastAPI, PostgreSQL, Apache Kafka"
+  },
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 182K+ redirects/minute with consistent hashing and Redis."
+  },
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 50 students to apply for drives, track status and download offer letters."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle",
+   "year": "(2024)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  }
+ ]
+}

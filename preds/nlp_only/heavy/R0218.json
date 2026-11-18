@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0218",
+ "name": "Jerome Cruz",
+ "experience": [
+  {
+   "title": "Senior Tax Consultant",
+   "company": "SGV & Co.",
+   "dates": "Jan. 2021 to Aug. 2026",
+   "bullets": []
+  },
+  {
+   "title": "Accounts Executive",
+   "company": "BDO Unibank Davao City",
+   "dates": "May 2018 to Dec. 2020",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "internal Controls Review"
+  },
+  {
+   "name": "GST Reconciliation Tool"
+  }
+ ],
+ "_runtime_s": 0.039
+}

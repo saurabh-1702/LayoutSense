@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0300",
+ "name": "da An de",
+ "headline": "Aspiring Accounts Payable Specialist",
+ "contact": {
+  "email": "amanda.anderson89@icloud.com",
+  "phone": "+1 ($12) 215-7218",
+  "location": "Austin, TX"
+ },
+ "links": [
+  {
+   "url": "www"
+  },
+  {
+   "url": "linkedin.com/in/amanda-anderson’"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.S. in Taxation",
+   "dates": "2025-11 ~",
+   "institution": "Massachusetts Institute of Technology"
+  },
+  {
+   "dates": "a – 2025 ~ 2027 (Expected)",
+   "grade": "GPA 3.65",
+   "degree": "B.S. in Accounting and Finance Bectinieve",
+   "institution": "iaitvend"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2026-04",
+   "title": "Article Assistant",
+   "company": "HSBC",
+   "location": "New York, NY",
+   "bullets": [
+    "Built a tracker in : Tally ERP . 9 that streamlined weekly reporting for a team of 9",
+    "Presented final internship findings to department leadership 59% 75%"
+   ]
+  }
+ ],
+ "skills": [
+  "Reeoneciliations",
+  "Direet Taxation",
+  "s4%",
+  "Transfer Pricing",
+  "Lxeel (Advanced)",
+  "61%",
+  "Tally ERP 9",
+  "Case Ware",
+  "SAP FICO"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool",
+   "dates": "2026-04",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax practice"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The HA",
+   "year": "2026-12"
+  },
+  {
+   "name": "ACA"
+  },
+  {
+   "name": "Internal Controls Review",
+   "issuer": "ICAEW",
+   "year": "2026-06"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "eccce"
+  },
+  {
+   "proficiency": "Native",
+   "language": "Korean"
+  }
+ ],
+ "_runtime_s": 0.307
+}

@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0287",
+ "name": "Daniel Johnson",
+ "contact": {
+  "email": "danieljohnson@yahoo.co.uk",
+  "phone": "7584 03928",
+  "location": "Birmingham, UK"
+ },
+ "education": [
+  {
+   "degree": "BA (Hons) Communication Royal College of Art Upper Second",
+   "institution": "BA (Hons) Communication Royal College of Art Upper Second",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Bde Sec"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.031
+}

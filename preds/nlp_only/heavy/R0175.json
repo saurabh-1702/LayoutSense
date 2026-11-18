@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0175",
+ "name": "Curriculum Vitae Esi",
+ "contact": {
+  "email": "esi.appiahO4@gmail.com",
+  "phone": "+233 59 219 8212",
+  "location": "Takoradi, Ghana"
+ },
+ "links": [
+  {
+   "url": "github.com/esiappiah"
+  },
+  {
+   "url": "www.esiappiah.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Ashesi University, Berekuso",
+   "dates": "September 2017"
+  }
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "AWS Certified Developer ~ Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Ga",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.024
+}

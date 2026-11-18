@@ -1,0 +1,69 @@
+{
+ "resume_id": "R0258",
+ "name": "Sakshi Agarwal",
+ "contact": {
+  "email": "sakshiagarwal@gmail.com",
+  "phone": "+91 7498353238",
+  "location": "Jaipur, Rajasthan, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshiagarwal"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons.) Psychology",
+   "institution": "Redesigned a survey for 120 employees and ran action-planning Amity University",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "DAV Public School, Noida",
+   "dates": null
+  },
+  {
+   "degree": "Class X (State Board)",
+   "institution": "DAV Public School",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Succession Planning",
+  "Labour Law Compliance",
+  "Learning & Development",
+  "Oracle HCM",
+  "BambooHR",
+  "Greenhouse"
+ ],
+ "projects": [
+  {
+   "name": "Academic Qualifications"
+  },
+  {
+   "name": "Employee Engagement Survey Redesign BA (Hons.) Psychology"
+  },
+  {
+   "name": "Class XII (State Board)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Punjabi",
+   "proficiency": "A2"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.038
+}

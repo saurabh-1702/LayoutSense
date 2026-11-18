@@ -1,0 +1,104 @@
+{
+ "resume_id": "R0044",
+ "name": "Hanna Bekele",
+ "contact": {
+  "email": "hanna.bekele@gmail.com",
+  "phone": "+251 947495534",
+  "location": "Hawassa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hannabekele"
+  },
+  {
+   "url": "github.com/hannabekel"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Information",
+   "institution": "BEng (Hons) Information",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "0 HP",
+  "QO",
+  "Rust",
+  "Ruby on Rails",
+  "Express.js",
+  ".NET Core",
+  "Elasticsearch",
+  "Redis",
+  "DynamoDB",
+  "MongoDB",
+  "wes (ep) O"
+ ],
+ "certifications": [
+  {
+   "name": "Capgemini Certified Kubernetes",
+   "issuer": null
+  },
+  {
+   "name": "Migrated a legacy monolith to Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "containerised services on Kubernetes",
+   "issuer": "The Linux Foundation"
+  },
+  {
+   "name": "cutting deployment time from 26 hours to",
+   "issuer": null
+  },
+  {
+   "name": "minutes Microsoft Certified: Azure",
+   "issuer": null
+  },
+  {
+   "name": "Owned the payments integration with 6 Developer Associate",
+   "issuer": null
+  },
+  {
+   "name": "third-party gateways",
+   "issuer": "reducing failed Microsoft"
+  },
+  {
+   "name": "transactions by 36%",
+   "issuer": null
+  },
+  {
+   "name": "Designed and built 17 RESTful Languages Known",
+   "issuer": null
+  },
+  {
+   "name": "microservices in Express.js and C++",
+   "issuer": "Amharic Native"
+  },
+  {
+   "name": "serving 261K requests per day with",
+   "issuer": null
+  },
+  {
+   "name": "99.95% uptime English Intermediate",
+   "issuer": null
+  },
+  {
+   "name": "Developed customer-facing features in",
+   "issuer": null
+  },
+  {
+   "name": "Afaan Oromo Intermediate",
+   "issuer": null
+  },
+  {
+   "name": "Express.js used by 8.0M monthly active",
+   "issuer": null
+  },
+  {
+   "name": "users Afaan Oromo Fluent",
+   "issuer": "Software Developer"
+  }
+ ],
+ "_runtime_s": 0.028
+}

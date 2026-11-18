@@ -1,0 +1,62 @@
+Ting Wang
+Operations Manager
+Phone | 196 8322 7929 Email tingwang@outlook.com
+Address | Hangzhou, China LinkedIn www.linkedin.com/in/ting-wang
+Work History
+S.No. Organisation | Designation From To
+1 Shell Operations Manager May '21 Present
+Shanghai
+Responsibilities & Achievements:
+« Grew the team by 33% in two years while keeping attrition below 18%
+« Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day
+« Partnered with senior leadership to define the annual roadmap and a budget of CNY 758K
+= Led a team of 14 across 7 workstreams, owning hiring, performance reviews and quarterly planning
+Mentored 10 junior colleagues, several of whom were promoted within 18 months
+2 Uber Demand Planner
+Shanghai
+Responsibilities & Achievements:
+= Cut last-mile delivery cost per order by 29% through route optimisation
+= Negotiated freight contracts that saved CNY 21.5M annually
+= Managed import logistics and customs clearance for 250+ containers per year
+3 JD.com Operations Executive Apr ‘17 Jul 19
+Hangzhou
+Responsibilities & Achievements:
+« Reduced inventory days by 15 while maintaining 56% service levels
+« Led the monthly S&OP process across sales, finance and manufacturing
+« Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%
+PepsiCo Supply Chain Analyst
+Beijing
+Responsibilities & Achievements:
+= Built a supplier scorecard covering quality, cost and delivery for 250 vendors
+= Set up 7 new fulfilment centres processing 170K+ orders per day
+« Managed procurement spend of CNY 131K across 120 suppliers, delivering 5% savings
+« Improved forecast accuracy from 40% to 82% by introducing statistical models in SAP APO
+Academic Qualifications
+Qualification Institution Year GPA / Honours
+Bachelor of Engineering in Tongji University 2016 -
+Industrial Engineering
+Skills & Tools
+Skill Proficiency Proficiency
+Transportation Management Network Design Intermediate
+Import/Export Documentation Vendor Management Proficient
+Warehouse Management Last-mile Delivery Intermediate
+Ariba Basic Oracle SCM Basic
+Coupa Proficient Tableau Intermediate
+Presentation Skills Intermediate Adaptability Expert
+Notable Projects
+Warehouse Layout Optimisation | Slotting analysis that reduced picker travel distance by 27% in a live DC.
+2 Vehicle Routing Model Python OR-Tools model for routing 17 delivery vans with time
+windows.
+Languages Known
+Language Read Write Speak Proficiency
+Mandarin Chinese Native
+English Advanced
+Cantonese Vv Vv Vv Conversational
+Awards
+« Employee of the Quarter — PepsiCo (2017)
+Courses & Certifications
+S.No. Certification Issuing Organisation Year
+1 APICS Certified Supply Chain Professional (CSCP) ASCM
+2 Project Management Professional (PMP) PMI
+3 CIPS Level 4 Diploma in Procurement and Supply CIPS
+4 SAP Certified Application Associate — Sourcing SAP 2020

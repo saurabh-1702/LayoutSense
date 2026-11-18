@@ -1,0 +1,44 @@
+CATALINA VARGAS
+\% +57 321 3026465 © catalina_vargas@gmail.com
+MARTINEZ 9 Barranquilla,
+Colombia
+Software Engineer
+© EXPERIENCE LANGUAGES
+Spanish Native
+Jan 2026 - Software Engineer
+Present Oracle
+English Advanced
+Developed internal tooling in Microsoft Azure
+that saved the support team 17 hours per Portuguese Conversational
+week
+Introduced feature flags and canary releases, EDUCATION &
+lowering production incidents by 13% quarter re)
+QUALIFICATIONS
+over quarter
+Resolved 250+ production issues as part of Master of Science in Computer
+the on-call rotation, reducing mean time to Applications
+recovery by 21% Pontificia Universidad Javeriana
+Jun 2024 - Dec Software Developer Mar 2024 - Dean's List (6 semesters)
+2025 Microsoft
+Designed and built 23 RESTful microservices B.S. in Information Technology
+in Apache Kafka and GitHub Actions, serving Universidad EAFIT
+6.9M requests per day with 99.95% uptime May 2022 - Dean's List (6 semesters)
+Cut cloud infrastructure costs by COP 80.6B
+annually by right-sizing instances and © awarDs & RECOGNITION
+adopting spot capacity
+Owned the payments integration with 9 third- Rising Star Award
+party gateways, reducing failed transactions Microsoft - 2024
+by 38%
+Developed customer-facing features in Apache 3.) COMPETENCIES
+Kafka used by 196K+ monthly active users
+Implemented a CI/CD pipeline with GitHub
+Actions and automated tests, raising code Ruby on Rails .NET Core
+coverage from 8% to 85% Next.js
+PROFESSIONAL
+CERTIFICATIONS
+Certified Kubernetes
+Administrator (CKA)
+The Linux Foundation - Jun 2025
+Meta Front-End Developer
+Professional Certificate
+Coursera « 2026

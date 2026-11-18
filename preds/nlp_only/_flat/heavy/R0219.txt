@@ -1,0 +1,43 @@
+MEGHA NEGI
+Email meghanegi@gmail.com /Phone —_—| +44 7138 937205
+Address Linkedin _| linkedin.com/in/meghanegi
+GitHub github.com/meghanegi
+Role - Location
+06.2024- Present | BBC Mobile Developer (Android)
+» Developed internal tooling in C# that saved the support team 20 hours per week
+« Developed customer-facing features in C# used by 742K monthly active users
+* Designed and built 19 RESTful microservices in C# and React, serving 664K requests per day with
+99.95% uptime
+Wrote technical design documents and led code reviews for a team of 5 engineers
+Reduced p95 API latency by 48% by introducing Redis caching and optimising slow PostgreSQL
+queries
+07. 2021 - 05.2024 | BBC Software Developer Manchester
+a — RN
+. ‘Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from
+18% to 85%
+Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 41%
+Collaborated with product and design to ship 5 major releases on schedule across web and mobile
+» Cut cloud infrastructure costs by £333M annually by right-sizing instances and adopting spot capacity
+* Resolved 120+ production issues as part of the on-call rotation, reducing mean time to recovery by
+30%
+—— — LE TNC AC NE CL TAT LTR
+Qualification = Rao THRONE ne eee ee em Tenure
+Bachelor of Technology Indian Institute of Technology 04.2021 -
+(Electronics and Kanpur
+Communication
+Engineering)
+SKilIS & Tools seiner seine eee aetna ig AAMAS AB EE AEA MME ALE N: IE AEE
+Languages Java» Kotlin ° Cit Go
+Frameworks Vue. ise. . NET Core * Express,js * - React « + Next Js * Angular
+oe
+Cloud & 8 DevOps Microsoft Azure . Kubernetes . Terraform * Docker
+| a ne er eR et men
+~
+Project
+|
+Distributed Key-Value Raft-based replicated key-value store with leader he
+Store election, log compaction and a gRPC client.
+———— ee —_— an ee nC NN
+Realtime Chat WebSocket chat service with end-to-end d encryption, -
+Platform tread receipts and presence indicators.
+Ree SNL EN Leena © wie) eh

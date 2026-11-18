@@ -1,0 +1,34 @@
+{
+ "resume_id": "R0162",
+ "name": "Marcus Davis",
+ "contact": {
+  "email": "marcusdavis@gmail.com",
+  "phone": "+1 (425) 294-7604",
+  "location": "Seattle, WA"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Massachusetts Institute of",
+   "dates": "Nov 2025 — Current"
+  }
+ ],
+ "skills": [
+  "Business Development Representative",
+  "Snowflake",
+  "Seattle",
+  "WA",
+  "Jul 2022",
+  "Oct 2025",
+  "enterprise accounts using",
+  "LinkedIn Sales Navigator",
+  "Sales Navigator",
+  "discovery framework"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities Noy"
+  }
+ ],
+ "_runtime_s": 0.015
+}

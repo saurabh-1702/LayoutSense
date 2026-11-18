@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0244",
+ "contact": {
+  "email": "#ketaki.com",
+  "phone": "(+91) 8002132096",
+  "location": "ferandes23@graia Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedinconvin/ketatifemandes"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "SRM Institute of Science and Technology",
+   "grade": "GPA. 8.55/10"
+  },
+  {
+   "degree": "Class Xil (ISC)",
+   "institution": "Ryan international School, Anmedabad",
+   "grade": "810%"
+  },
+  {
+   "degree": "Class X (ICSE)",
+   "institution": "Ryan International School",
+   "grade": "94.0%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Procurement Executive",
+   "company": "Asian Paints",
+   "location": "Nashik",
+   "bullets": [
+    "Negotiated freight contracts that saved %14.8 crore annually",
+    "Reduced inventory days by 22 while maintaining 21% service levels",
+    "Improved forecast accuracy from 13% to 82% by introducing statistical models in Coupa",
+    "Set up 15 new fulfilment centres processing 622K orders per day"
+   ]
+  }
+ ],
+ "skills": [
+  "Transportation Management",
+  "Mentoring"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 15 delivery vans with time windows."
+  },
+  {
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 39% in a live DC."
+  }
+ ]
+}

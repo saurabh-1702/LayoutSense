@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0061",
+ "name": "WONG Darren",
+ "contact": {
+  "email": "darrenwong59@gmail.com",
+  "phone": "9199 4557",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darren-wong"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "Singapore Management University Singapore",
+   "dates": "Expected 06/2027"
+  }
+ ],
+ "skills": [
+  "Excel",
+  "BambooHR",
+  "Greenhouse",
+  "DEI Initiatives",
+  "Performance Management",
+  "Compensation & Benefits"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Malay",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.032
+}

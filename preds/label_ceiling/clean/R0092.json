@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0092",
+ "name": "CATALINA VARGAS MARTINEZ",
+ "headline": "Software Engineer",
+ "contact": {
+  "email": "catalina_vargas@gmail.com",
+  "phone": "+57 321 302 6465",
+  "location": "Barranquilla, Colombia"
+ },
+ "education": [
+  {
+   "degree": "Master of Science in Computer Applications",
+   "institution": "Pontificia Universidad Javeriana",
+   "dates": "Mar 2024",
+   "grade": "Dean's List (6 semesters)"
+  },
+  {
+   "degree": "B.S. in Information Technology",
+   "institution": "Universidad EAFIT",
+   "dates": "May 2022",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan 2026 - Present",
+   "title": "Software Engineer",
+   "company": "Oracle",
+   "bullets": [
+    "Developed internal tooling in Microsoft Azure that saved the support team 17 hours per week",
+    "Introduced feature flags and canary releases, lowering production incidents by 13% quarter over quarter",
+    "Resolved 250+ production issues as part of the on-call rotation, reducing mean time to recovery by 21%"
+   ]
+  },
+  {
+   "dates": "Jun 2024 - Dec 2025",
+   "title": "Software Developer",
+   "company": "Microsoft",
+   "bullets": [
+    "Designed and built 23 RESTful microservices in Apache Kafka and GitHub Actions, serving 6.9M requests per day with 99.95% uptime",
+    "Cut cloud infrastructure costs by COP 80.6B annually by right-sizing instances and adopting spot capacity",
+    "Owned the payments integration with 9 third- party gateways, reducing failed transactions by 38%",
+    "Developed customer-facing features in Apache Kafka used by 196K+ monthly active users",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 8% to 85%"
+   ]
+  }
+ ],
+ "skills": [
+  ".NET Core",
+  "AWS"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "Jun 2025"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Microsoft",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Conversational"
+  }
+ ]
+}

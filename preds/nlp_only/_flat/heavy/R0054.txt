@@ -1,0 +1,69 @@
+- ideedoced weelig ; Operating reviews that cut decision turnaround —
+from 16 days to 1 day
+(rir chet idee the teed dices
+~ Partnered with
+budget of RES 700K
+~ Led a team of 5 across rh
+ti aa
+reviews and quarterly planning
+— Wrote design documents and led code reviews for a team of
+Pence
+~ Mentored 4 junior colleagues, several of whom were promoted within
+18 months
+Senior Full Stack Engineer Jan 2017-Ocr 2024
+Salesforce @ Mombasa
+~ Developed internal tooling in FastAPI that saved the support team 36
+hours per week
+- Built a real-time notification service using FastAP! and Apache Kafka
+that processes 359K events per hour HashiCorp Certified: Terraform
+~ Rebuilt the search expenence with Elusticsearch, unproving result |
+relevance and click-through by 24% Pashia orp, 201
+- Reduced p95 API latency by 44% by introducing Redis caching and
+Technical Skiils
+opnmising slow PostgreSQL. queries
+Collaborated with product and design to ship 19 major releases on
+schedule across web and mobile
+Introduced feature flags and canary releases, lowering production
+5 2
+incidents by 38% quarter over quarter
+Grew the team by 38% in two years while keeping attrition below Ey
+2 5° 0
+Ey 4 4
+Senior Backend Engineer Deg 2014-Dec 2816
+Cellulant @ Mombasa 4 &
+~ Cur cloud infrastructure costs by KES 217M anoually by nght-seang = =
+instances and adopting spot capacity
+~ Designed and built 19 RESTful microservices in JavaSenpt and Vuews
+TypeSenpt, serving 76,000 requests per day with 99.95% upnime Next
+as
+Migrated a legacy monolith to containerised services on Kubernetes,
+cutting deployment time from 29 heurs fo 15 minutes Angular
+Represented the function in executive stvering commuttees and board. Ruts on Rails
+level reporting
+Mutter
+Mierostt Azure
+.
+Graduate Software Engineer Sep 2009-Nov 2014 Google Cloud Platform
+EE EAE T MERE EE LF SS
+Adobe @ Mombasa
+Jenkins
+~ Developed customer-facing features in Ruby on Rails used by 362K+ APE LTO EE ESTE (TANTS Sad
+monthly active users MySQL
+~ Resolved 120+ production issues as part of the on-call rotation, Redis
+reducing mean time to recovery by 37%
+Elasticsearch
+~ Implemented a C1/CD pipeline with GitHub Actions and automated
+tests, raising code coverage from 22% to 85%
+Social
+~ Owned the payments integration with 10 third-party gateways,
+LinkedIn: linkedin.com/in/sharon-
+reducing failed transactions by 44%
+wanjiku-11
+Key Projects Guth tub: github.com/sharon97
+Food Delivery Clone Jun 2007
+Pull-stack food ordering app with live order tracking, payments and an
+admin dashboard.
+Technologies: MySQL, C++, Jenkans
+URL Shortener at Scale
+Load-tested URL shortener handling 8.4M redirects/ minute with
+consistent hashing and Redis.

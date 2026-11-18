@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0062",
+ "name": "ANJALI SUBRAMANIAN Systems",
+ "headline": "Graduate Engineer — Power",
+ "contact": {
+  "phone": "amen"
+ },
+ "experience": [
+  {
+   "dates": "Mar 2026 - Present",
+   "title": "Graduate Engineer - Power Systems",
+   "bullets": [
+    "Reduced energy losses by 20% through power factor correction and harmonic fiktering",
+    "Developed firmware in Embedded C for a battery management system on 500+ EV packs",
+    "Led root cause analysis on transformer failures, saving 731 lakh in replacement costs",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 39%",
+    "Designed protection schemes for 27 132/33 KV substations using DigSILENT PowerFactory"
+   ]
+  },
+  {
+   "dates": "Aug 2024 - Feb 2026",
+   "title": "Electrical Engineer",
+   "bullets": [
+    "Commissioned a 6 MW solar plant including inverters, transformers and SCADA integration",
+    "Performed load flow and short-circuit studies for 5 industrial clients",
+    "Designed 18-layer PCBs in PSCAD for an industrial lol gateway",
+    "Verified RTL designs on FPGA, achieving timing closure at 400 MHz"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Grid-tied inverter Design",
+   "description": "Simulated and built KW single-phase inverter with MPPT control in Simulink.",
+   "tech": "a 1"
+  }
+ ]
+}

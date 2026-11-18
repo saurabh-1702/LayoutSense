@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0267",
+ "name": "Emi Yamamoto",
+ "contact": {
+  "email": "emiy38@gmail.com",
+  "phone": "090-2282-0246",
+  "location": "Fukuoka, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/emiyamamoto1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Science in Business",
+   "institution": "Qualification Institution Period",
+   "dates": "2002-2004"
+  },
+  {
+   "degree": "Bachelor of Arts in Economics",
+   "institution": "Bachelor of Arts",
+   "dates": "1998-2002"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Databricks Certified Data Engineer Associate Databricks",
+   "issuer": null
+  },
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Deep Learning Specialization DeepLearning.AI"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Korean",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.029
+}

@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0043",
+ "name": "ONUR SAHIN",
+ "contact": {
+  "email": "onur_sahin@gmail.com",
+  "phone": "+90 5060688137",
+  "location": "Antalya, Turkey"
+ },
+ "links": [
+  {
+   "url": "www.onursahin.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Statistics",
+   "institution": "Istanbul Technical University",
+   "dates": "2016 — 2019"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Databricks Certified Data Engineer Associate",
+   "issuer": "Databricks"
+  },
+  {
+   "name": "AWS Certified Machine Learning",
+   "issuer": "Specialty"
+  },
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "German",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.023
+}

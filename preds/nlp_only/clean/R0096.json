@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0096",
+ "contact": {
+  "email": "noura.alfalasi@yahoo.com",
+  "phone": "+971 550198992",
+  "location": "Abu Dhabi, United Arab"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/noura-alfalasi-703b96"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Mechanical",
+   "institution": "Khalifa University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "savings.",
+  "Siemens NX",
+  "MATLAB",
+  "CATIA V5",
+  "Product Lifecycle",
+  "OG",
+  "Management",
+  "59% Y 93%",
+  "Lean Manufacturing PPAP",
+  "PFMEA Siemens NX",
+  "78% 58% Y",
+  "ANSYS",
+  "CATIA V5 Minitab",
+  "@ 41% NF",
+  "Communication Presentation Skills",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car Employee of the Quarter"
+  },
+  {
+   "name": "nationally. Gold Medal for Academic"
+  },
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CATIA V5 Associate",
+   "issuer": "Dassault Systemes"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.041
+}

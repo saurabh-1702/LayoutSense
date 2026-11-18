@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0012",
+ "name": "TEO DARREN",
+ "headline": "Marketing Manager 3+ Years of Experience Companies 1 Certifications",
+ "contact": {
+  "email": "darren.teo@gmail.com",
+  "phone": "93409910",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darrenteo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) English Literature",
+   "institution": "LASALLE College of the Arts",
+   "dates": "Aug 2020 — May 2023"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Nov 2025 — Current",
+   "title": "Marketing Manager",
+   "company": "Grab",
+   "location": "Singapore",
+   "bullets": [
+    "Reduced customer acquisition cost by 23% through audience segmentation and creative testing",
+    "Ran consumer research with 120 respondents to shape positioning for a new category 56% 72%",
+    "Managed a monthly paid media budget of $$20.5M across Google Ads and Meta, achieving a 21x ROAS",
+    "Led a rebrand across 12 touchpoints in 79% 59% partnership with an external creative agency",
+    "Launched 15 new product variants nationally, capturing 6% market share in the first year"
+   ]
+  },
+  {
+   "dates": "Aug 2023 — Oct 2025",
+   "title": "Social Media Executive",
+   "company": "Grab",
+   "location": "Singapore",
+   "bullets": [
+    "Grew Instagram and LinkedIn followers from J€ 107K to over 3x within a year on is",
+    "Built a marketing attribution dashboard in Sie used in weekly leadership reviews 60%",
+    "Coordinated 10 influencer campaigns generating 658K impressions and 43,000 engagements",
+    "Grew a niche food account to 256K+ followers in 4 months using Reels"
+   ]
+  }
+ ],
+ "skills": [
+  "Influencer",
+  "Marketing",
+  "Marketing Automation",
+  "Copywriting",
+  "Email Marketing",
+  "Conversion Rate",
+  "HubSpot Optimisation",
+  "75%",
+  "Google Analytics 4",
+  "SEMrush",
+  "Hootsuite Mailchimp",
+  "Instagram",
+  "Decision Mentoring"
+ ],
+ "projects": [
+  {
+   "name": "Growth Experiment Making and UGC."
+  },
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 250 urban respondents; findings presented to a client."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Grab",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.353
+}

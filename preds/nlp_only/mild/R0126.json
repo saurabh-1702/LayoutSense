@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0126",
+ "name": "Carlos Rodriguez",
+ "contact": {
+  "email": "carlosrodriguez@gmail.com",
+  "phone": "+34 677 760 163",
+  "location": "Seville, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/carlos-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master in Advanced Nursing",
+   "institution": "Epic EHR Master",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "Bachelor of Science in Nursing",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Infection Control Nurse Lead ° Cerner",
+   "company": "Hospital Universitario La Paz",
+   "dates": "November 2023 - Current",
+   "bullets": [
+    "Electronic Medical Records",
+    "Leda team of 14 across 8 workstreams, owning hiring",
+    "Patient Charting",
+    "NABH Standards",
+    "Mentored 6 junior colleagues, several of whom were",
+    "Infection Prevention",
+    "Paediatric Care",
+    "Coordinated with physicians and allied health teams during",
+    "Critical Care",
+    "BLS",
+    "Grew the team by 18% in two years while keeping attrition",
+    "Partnered with senior leadership to define the annual Registered Nurse and Registered"
+   ]
+  },
+  {
+   "title": "Registered Nurse Licence",
+   "company": "Indian Nursing Council",
+   "dates": "August 2021 - October 2023",
+   "bullets": [
+    "Trained 7 newly joined nurses on medication safety and ACADEMIC QUALIFICATIONS",
+    "Represented the function in executive steering committees Practice"
+   ]
+  },
+  {
+   "title": null,
+   "company": "and board-level reporting Universidad de Sevilla",
+   "dates": "September 2012 - May 2014",
+   "bullets": []
+  },
+  {
+   "title": "Clinical Nurse Specialist",
+   "company": "Bachelor of Science in Nursing",
+   "dates": "June 2021 - July 2021",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Hospital Universitario La Paz",
+   "dates": "July 2009 - July 2012",
+   "bullets": [
+    "Implemented a fall-prevention bundle that reduced patient 8.4"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pressure Ulcer Prevention Audit"
+  },
+  {
+   "name": "Community Health Camp"
+  }
+ ],
+ "_runtime_s": 0.094
+}

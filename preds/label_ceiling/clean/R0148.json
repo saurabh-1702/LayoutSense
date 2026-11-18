@@ -1,0 +1,82 @@
+{
+ "resume_id": "R0148",
+ "name": "Sara Sanchez",
+ "headline": "Bachelor Graduate",
+ "contact": {
+  "email": "sara.s@gmail.com",
+  "phone": "+34 706 48 57 78",
+  "location": "Madrid, Spain"
+ },
+ "education": [
+  {
+   "dates": "Sep 2022-Jul 2025",
+   "degree": "Bachelor in Logistics and Supply Chain Management",
+   "institution": "Universitat Pompeu Fabra",
+   "grade": "GPA: 7.6/10"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2024-Jan 2025",
+   "title": "Operations Intern",
+   "company": "FedEx",
+   "location": "Madrid",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Collected and cleaned data from 3 sources to support a supply chain & operations initiative",
+    "Prepared research summaries and presentation decks for 13 stakeholder meetings"
+   ]
+  },
+  {
+   "dates": "Aug 2023-Dec 2023",
+   "title": "Procurement Intern",
+   "company": "Glovo",
+   "location": "Madrid",
+   "bullets": [
+    "Built a tracker in SQL that streamlined weekly reporting for a team of 4",
+    "Supported the supply chain & operations team on 12 live projects, preparing analyses and documentation"
+   ]
+  }
+ ],
+ "skills": [
+  "Vendor Management",
+  "Import/Export Documentation",
+  "Demand Planning",
+  "Network Design",
+  "Ariba",
+  "SQL",
+  "Kinaxis RapidResponse",
+  "Presentation Skills",
+  "Adaptability",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 35% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "dates": "Mar 2026",
+   "description": "Python OR-Tools model for routing 17 delivery vans with time windows."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "French",
+   "proficiency": "Elementary Proficiency"
+  },
+  {
+   "language": "Catalan",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

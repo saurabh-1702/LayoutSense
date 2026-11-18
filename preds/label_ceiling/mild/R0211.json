@@ -1,0 +1,111 @@
+{
+ "resume_id": "R0211",
+ "name": "Martin Romero",
+ "headline": "Infection Control Nurse Lead",
+ "contact": {
+  "email": "martin.romero@hotmail.com",
+  "phone": "+54 93410656908",
+  "location": "Mendoza, Argentina"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/martin-romero"
+  }
+ ],
+ "education": [
+  {
+   "dates": "2010 - 2014",
+   "degree": "B.S. in Nursing",
+   "institution": "Universidad Austral",
+   "location": "Pilar, Argentina"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan 2025 — Present",
+   "title": "Infection Control Nurse Lead",
+   "company": "Hospital Italiano de Buenos Aires",
+   "location": "Mendoza",
+   "bullets": [
+    "Triaged 200+ patients monthly in the emergency department using the Manchester Triage System",
+    "Implemented a fall-prevention bundle that reduced patient falls by 19%",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Introduced weekly operating reviews that cut decision turnaround from 10 days to 1 day"
+   ]
+  },
+  {
+   "dates": "Jun 2024 — Dec 2024",
+   "title": "Assistant Director of Nursing",
+   "company": "Hospital Aleman",
+   "location": "Mendoza",
+   "bullets": [
+    "Trained 10 newly joined nurses on medication safety and documentation in Epic EHR",
+    "Provided direct care to 17 patients per shift in a 9-bed medical-surgical ward",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 8%",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "the function in executive steering committees and board-level Represented reporting"
+   ]
+  },
+  {
+   "dates": "Oct 2014 — May 2024",
+   "title": "Junior Staff Nurse",
+   "company": "Hospital Aleman",
+   "location": "Mendoza",
+   "bullets": [
+    "in 3 code blue responses as a certified x ACLS provider Participated",
+    "rosters for 9 nurses and managed ward inventory and Oversaw duty consumables",
+    "in a 10-bed ICU, titrating vasoactive infusions Managed ventilated patients per protocol"
+   ]
+  }
+ ],
+ "skills": [
+  "eee Electronic Medical Records",
+  "Epic EHR",
+  "Patient Charting",
+  "Triage",
+  "Ventilator Management",
+  "Critical Care",
+  "Patient Assessment",
+  "Infection Prevention",
+  "Wound Care",
+  "Mentoring",
+  "Team Leadership",
+  "Conflict Resolution",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "foe ressure Ulcer Prevention i Au dit",
+   "description": ". Il ulcers Ward-lovel . intervention reducing stage audit and turning-schedule over 4 months.",
+   "dates": "Sep 2023"
+  },
+  {
+   "dates": "Apr 2024",
+   "name": "Community Health Camp",
+   "description": "Organised 16 rural health camps screening 300 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2024",
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2017",
+   "name": "Best Nurse of the Year"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+  "resume_id": "R0034",
+  "name": "Nandini Menon",
+  "headline": "Audit Partner",
+  "contact": {
+    "location": "Coimbatore, Tamil Nadu, India",
+    "phone_e164": "+919935510765",
+    "city": "Coimbatore",
+    "country": "India",
+    "email": "nandini.menon@gmail.com",
+    "phone": "(+91) 9935510765"
+  },
+  "links": [
+    {
+      "url": "linkedin.com/in/nandinimenon",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Com",
+      "institution": "Amity University",
+      "dates": "Aug 2005 - May 2008",
+      "grade": "66.8%",
+      "start": "2005-08",
+      "end": "2008-05",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Audit Partner",
+      "company": "Deloitte",
+      "location": "Chennai",
+      "dates": "Jul 2025 - Present",
+      "bullets": [
+        "Documented and tested 4 SOX controls, closing all audit findings ahead of year-end",
+        "Performed balance sheet reconciliations for 80+ accounts and cleared ageing items worth INR 355 crore",
+        "Trained 13 junior accountants on Ind AS transition adjustments",
+        "Managed the month-end close for 5 legal entities, reducing the close cycle from 29 to 5 working days",
+        "Prepared consolidated financial statements under IFRS for a group with 8 subsidiaries",
+        "Implemented Microsoft Dynamics 365 for accounts payable, automating 60% of invoice processing"
+      ],
+      "start": "2025-07",
+      "end": "present"
+    },
+    {
+      "title": "Vice President – Finance",
+      "company": "KPMG",
+      "location": "Chennai",
+      "dates": "Apr 2024 - Jun 2025",
+      "bullets": [
+        "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+        "Grew the team by 46% in two years while keeping attrition below 10%",
+        "Mentored 4 junior colleagues, several of whom were promoted within 18 months"
+      ],
+      "start": "2024-04",
+      "end": "2025-06"
+    },
+    {
+      "title": "Senior Audit Manager",
+      "company": "Citi",
+      "location": "Chennai",
+      "dates": "May 2022 - Mar 2024",
+      "bullets": [
+        "Represented the function in executive steering committees and board-level reporting",
+        "Coordinated with external auditors and resolved 14 management letter points",
+        "Led a team of 13 across 21 workstreams, owning hiring, performance reviews and quarterly planning",
+        "Partnered with senior leadership to define the annual roadmap and a budget of ₹27.9 crore"
+      ],
+      "start": "2022-05",
+      "end": "2024-03"
+    },
+    {
+      "title": "Financial Controller",
+      "company": "ITC Limited",
+      "location": "Coimbatore",
+      "dates": "Mar 2014 - Apr 2022",
+      "bullets": [
+        "Managed the month-end close for 15 legal entities, reducing the close cycle from 12 to 5 working days",
+        "Filed GST and corporate tax returns with zero penalties across 16 consecutive years",
+        "Documented and tested 3 SOX controls, closing all audit findings ahead of year-end",
+        "Prepared consolidated financial statements under IFRS for a group with 12 subsidiaries"
+      ],
+      "start": "2014-03",
+      "end": "2022-04"
+    },
+    {
+      "title": "Senior Tax Consultant",
+      "company": "HSBC",
+      "location": "Bengaluru",
+      "dates": "Feb 2011 - Feb 2014",
+      "bullets": [
+        "Built a fixed-asset register for 6,000 assets and aligned depreciation with tax schedules",
+        "Trained 8 junior accountants on Ind AS transition adjustments",
+        "Performed balance sheet reconciliations for 180+ accounts and cleared ageing items worth ₹21 lakh"
+      ],
+      "start": "2011-02",
+      "end": "2014-02"
+    },
+    {
+      "title": "Accounts Executive",
+      "company": "Grant Thornton Bharat",
+      "location": "Coimbatore",
+      "dates": "Jun 2008 - Jan 2011",
+      "bullets": [
+        "Led statutory audits for 21 clients across manufacturing and retail with combined revenue of ₹104 Cr",
+        "Reduced days sales outstanding by 30 days through tighter credit control and collections follow-up",
+        "Implemented CaseWare for accounts payable, automating 34% of invoice processing"
+      ],
+      "start": "2008-06",
+      "end": "2011-01"
+    }
+  ],
+  "skills": [
+    "US GAAP",
+    "Consolidation",
+    "Ind AS",
+    "Transfer Pricing",
+    "QuickBooks",
+    "CaseWare",
+    "Xero",
+    "Microsoft Dynamics 365",
+    "Cross-functional Collaboration",
+    "Attention to Detail",
+    "Conflict Resolution",
+    "Negotiation"
+  ],
+  "certifications": [
+    {
+      "name": "Certified Management Accountant (CMA)",
+      "issuer": "IMA",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Internal Auditor (CIA)",
+      "issuer": "The IIA",
+      "year": "Apr 2008"
+    },
+    {
+      "name": "Certified Public Accountant (CPA)",
+      "issuer": "AICPA",
+      "year": "2026"
+    },
+    {
+      "name": "SAP Certified Application Associate – Financial Accounting",
+      "issuer": "SAP",
+      "year": "2025"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    }
+  ],
+  "_meta": {
+    "layout": "multi_column",
+    "template": "m3_two_equal",
+    "n_pages": 2,
+    "industry": "accounting",
+    "level": "exec",
+    "years_experience": 18,
+    "origin_country": "India",
+    "work_country": "India",
+    "date_format": "MMM YYYY"
+  }
+}

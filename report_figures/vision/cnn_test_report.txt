@@ -1,0 +1,12 @@
+               precision    recall  f1-score   support
+
+single_column      0.934     0.971     0.952       102
+ multi_column      0.761     1.000     0.864       102
+  table_based      0.967     0.983     0.975       120
+  infographic      1.000     0.675     0.806       117
+
+     accuracy                          0.902       441
+    macro avg      0.916     0.907     0.899       441
+ weighted avg      0.921     0.902     0.899       441
+
+Inference: 13.1 ms per page (cuda)

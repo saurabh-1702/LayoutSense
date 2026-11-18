@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0064",
+ "name": "Rashid Hospital - Abu Dhabi",
+ "contact": {
+  "email": "ahmed.alnuaimi02@gmail.com",
+  "phone": "+971 50 968 7763"
+ },
+ "links": [
+  {
+   "url": "www.ahmedalnuaimi.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BN (Hons) Nursing",
+   "institution": "Decision Making Mohammed Bin Rashid University of Medicine and Health Sciences",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Nurse Educator",
+   "company": "O",
+   "dates": "Feb 2025 to Current",
+   "bullets": []
+  },
+  {
+   "title": "Operating Theatre Nurse",
+   "company": "de GET IN TOUCH",
+   "dates": "May 2022 to Jan 2025",
+   "bullets": [
+    "+971 50 968 7763"
+   ]
+  }
+ ],
+ "skills": [
+  "audits",
+  "cutting 30-day readmissions",
+  "Critical Care",
+  "by 24%",
+  "Palliative Care",
+  "Sep 2019 to Apr 2022",
+  "Wound Care Registered Nurse",
+  "Aster Hospitals",
+  "Abu Dhabi",
+  "Post-operative Care",
+  "Patient Charting consumables",
+  "Epic EHR",
+  "multidisciplinary rounds",
+  "JCI",
+  "Electronic Medical Records",
+  "Cerner"
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.124
+}

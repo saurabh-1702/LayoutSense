@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0115",
+ "name": "Sagar Thakkar",
+ "contact": {
+  "phone": "+91-98723-10806",
+  "location": "Loeation Nashik, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sagar-thakkar-81377b"
+  }
+ ],
+ "skills": [
+  "Marketing SEM",
+  "Copywriting",
+  "Marketing Automation",
+  "SEO",
+  "Tools Marketo",
+  "HubSpot",
+  "Google Ads",
+  "Canva",
+  "Meta Ads Manager",
+  "Google Analytics 4"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.015
+}

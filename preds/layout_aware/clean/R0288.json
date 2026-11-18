@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0288",
+ "name": "it",
+ "headline": "Machine Learning Engineer",
+ "contact": {
+  "email": "sakshirastogi23@gmail.com",
+  "phone": "+971 502849969",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshi-rastogi"
+  },
+  {
+   "url": "github.com/sakshi78"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "Indian Institute of Technology Bombay",
+   "dates": "Sep 2020 — Aug 2023",
+   "grade": "First Class with Distinction"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Ryan International School, Delhi",
+   "location": "New",
+   "dates": "2020",
+   "grade": "81.7%"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2025 - © Present",
+   "title": "Machine Learning Engineer",
+   "company": "Emirates NBD",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Reduced Spark job runtime by 60% through partitioning and broadcast join optimisation",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 8 days",
+    "Authored SQL data quality checks across 120 tables, reducing reporting incidents by 37%"
+   ]
+  },
+  {
+   "dates": "Oct 2023- Sep 2025",
+   "title": "Data Analyst",
+   "company": "Emirates NBD",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Ran 23 A/B experiments on pricing and onboarding flows, lifting conversion by 6%",
+    "Partnered with finance to build an anomaly detection system that flagged AED 11.7M in billing errors",
+    "Developed a demand forecasting model that reduced inventory holding costs by 44%",
+    "Defined the company-wide metric layer in dbt, eliminating 12 conflicting KPI definitions"
+   ]
+  }
+ ],
+ "skills": [
+  "93%",
+  "Tableau",
+  "Excel",
+  "62% 96%",
+  "Looker",
+  "Databricks",
+  "76% 92%",
+  "NumPy",
+  "Apache Spark",
+  "54% 61%",
+  "Airflow",
+  "Pandas",
+  "95% 75%",
+  "n =} fe) oy 2 oO",
+  "Decision Making",
+  "91%",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Resume Screening with NLP BERT.",
+   "description": "Named-entity extraction and job-description matching pipeline built with spaCy and",
+   "tech": "Databricks, Excel, Snowflake, NumPy"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "TensorFlow Developer Certificate",
+   "issuer": "Google",
+   "year": "2025"
+  },
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft",
+   "year": "May 2024"
+  },
+  {
+   "name": "Google Data Analytics Professional Certificate",
+   "issuer": "Google",
+   "year": "Dec 2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.063
+}

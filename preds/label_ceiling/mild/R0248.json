@@ -1,0 +1,98 @@
+{
+ "resume_id": "R0248",
+ "name": "Pawel Koztowski",
+ "headline": "Procurement Executive",
+ "contact": {
+  "email": "pawelk167@gmail.com",
+  "phone": "+48-661-067-786",
+  "location": "Wroctaw, Poland"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Logistics and Supply Chain Management",
+   "institution": "SGH Warsaw School of Economics",
+   "dates": "03/2022"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "11/2023 - 08/2026",
+   "title": "Procurement Executive",
+   "company": "InPost",
+   "bullets": [
+    "Negotiated freight contracts that saved PLN 731K annually",
+    "Managed procurement spend of PLN 14.5M across 120 suppliers, delivering 20% savings",
+    "Implemented a warehouse management system in 5 sites, improving pick accuracy to 99.8%"
+   ]
+  },
+  {
+   "dates": "10/2023",
+   "title": "Procurement Executive",
+   "company": "LPP",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 54% through route optimisation",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Improved forecast accuracy from 54% to 82% by introducing statistical models in Ariba"
+   ]
+  },
+  {
+   "dates": "06/2022 - 09/2023",
+   "title": "Inventory Analyst",
+   "company": "Orlen",
+   "bullets": [
+    "Managed import logistics and customs clearance for 80+ containers per year",
+    "Set up 5 new fulfilment centres processing 77,000 orders per day",
+    "Reduced inventory days by 26 while maintaining 14% service levels"
+   ]
+  }
+ ],
+ "skills": [
+  "Vendor Management",
+  "Lean",
+  "Last-mile Delivery",
+  "Contract Negotiation",
+  "9 4 rs) a = 2 ° =}",
+  "Inventory Optimisation",
+  "is fs",
+  "2",
+  "fsa",
+  "e tS",
+  "2d wo ge “ES",
+  "e",
+  "Critical Thinking",
+  "Cross-functional Collaboration",
+  "Mentoring"
+ ],
+ "certifications": [
+  {
+   "name": "SAP Certified Application Associate — Sourcing",
+   "issuer": "SAP",
+   "year": "11/2023"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "07/2021"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": "CIPS",
+   "year": "2026"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Native",
+   "language": "Polish"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

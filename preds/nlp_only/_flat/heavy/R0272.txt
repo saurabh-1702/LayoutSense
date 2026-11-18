@@ -1,0 +1,43 @@
+@ NOTABLE PROJECTS LANGUAGES
+English Mother tongue
+ie Full-stack food ordering app with five order tracking, payments and Proficiency
+French Etementary
+Distributed Rey-Vahio @ KEY SKILLS
+Store
+Raft-based replicated key-value store with leader election, log TypeScript
+compaction and a gRPC client.
+Tools used: Angular, NET Core, Cassandra. Express js ®
+URL Shortener at Scale
+g
+Load-tested URL shortener handling 191K*+ redirects/minute with
+consistent hashing and Redis. Angular
+Tools used: Angular, GitHub Actions
+Campus Placement Portal 08.2026 Vue. js
+Web portal used by 120 students to apply for drives, track status .NET Core
+and download offer letters.
+Tools used: GitHub Actions. Express js, Kubernetes Express js
+© INTERNSHIP EXPERIENCE React
+11.2025 - \ SDE Intern GitHub Actions
+07.2026 Barclays, Glasgow
+* Presented final internship findings to Linux
+department leadership
+Kubernetes
++ Collected and cleaned data from 7 sources to
+support a software engineering initiative = 5 8 2 if @
+Apache Kafka
+DynamoDB
+Redis
+Cassandra
+PROFESSIONAL
+Oo
+CERTIFICATIONS
+AWS Certified Developer —
+Associate
+Amazon Web Services - 2026
+EDUCATIONAL
+=)
+QUALIFICATIONS
+BSc Computer Applications
+Ashesi University
+09.2024 — Present - First Class
+es en ere

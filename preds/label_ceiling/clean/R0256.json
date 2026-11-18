@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0256",
+ "name": "Joshua Kim",
+ "headline": "Final-year Bachelor of Business Administration Student",
+ "contact": {
+  "email": "joshua.kim@gmail.com",
+  "phone": "(832) 599-7629",
+  "location": "Houston, TX, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/joshua-kim1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Georgia Institute of Technology",
+   "grade": "GPA: 3.39/4.0"
+  }
+ ],
+ "skills": [
+  "Darwinbox",
+  "Workday",
+  "Excel",
+  "Greenhouse",
+  "Learning & Development",
+  "Succession Planning",
+  "Compensation & Benefits"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "dates": "January 2024",
+   "description": "Redesigned a survey for 500 employees and ran action-planning workshops with 6 teams."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday",
+   "year": "2026"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "HR Champion of the Year",
+   "year": "2024"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Georgia Institute of Technology",
+   "year": "2026"
+  },
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Georgia Institute of Technology",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

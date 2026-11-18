@@ -1,0 +1,75 @@
+{
+ "resume_id": "R0133",
+ "name": "Rina Lestari",
+ "contact": {
+  "email": "rina.lestari@gmail.com",
+  "phone": "+ 0813-6583-2099",
+  "location": "Bandung, Indonesia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rinalestari"
+  },
+  {
+   "url": "github.com/rinalestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.S. in Computer Science Sep ‘08 - Jul ‘10",
+   "institution": "Institut Teknologi Sepuluh Nopember",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "“ae",
+  "C#",
+  "JavaScript",
+  "Ruby",
+  "Go",
+  "Angular",
+  "Vue.js",
+  "Django",
+  "Microsoft Azure",
+  "GitHub Actions",
+  "CI/CD",
+  "Kubernetes"
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale"
+  },
+  {
+   "name": "Expense Splitter App"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ew CaS",
+   "issuer": "a"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate ~ HashiCorp",
+   "issuer": ")"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate ~ Microsoft",
+   "issuer": "Aug ‘19)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Indonesian",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.016
+}

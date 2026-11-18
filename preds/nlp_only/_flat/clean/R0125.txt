@@ -1,0 +1,25 @@
+niloufar.hosseini@gmail.com /
+= =o +98 937 920 6045 &
+Niloufar Hosseini
+Shiraz, Iran ©
+Junior Data Scientist linkedin.com/in/niloufarhosseini-15 2
+COMPETENCIES
+Languages: R, Python, SAS, SQL
+ML & Al: NLP, A/B Testing, PyTorch, TensorFlow
+Professional Skills: Decision Making, Cross-functional Collaboration, Stakeholder Management, Time
+Management
+PROFESSIONAL EXPERIENCE
+Aug 2023 — Present
+Junior Data Scientist
+Snapp | Mashhad
+ce Ran 5 A/B experiments on pricing and onboarding flows, lifting conversion by 17%
+c Partnered with finance to build an anomaly detection system that flagged IRR 28.6B in billing errors
+° Built a churn prediction model in PyTorch (AUC 0.400) that helped retention teams save IRR 85.2B in
+annual revenue
+° Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 10 days
+EDUCATION & QUALIFICATIONS
+B.S. in Information Technology
+Sharif University of Technology
+2019 — 2023 | Summa Cum Laude
+LANGUAGE PROFICIENCY
+Persian (Native); English (Advanced); Azerbaijani (Conversational); Azerbaijani (Beginner)

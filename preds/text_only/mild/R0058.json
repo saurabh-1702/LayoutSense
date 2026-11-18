@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0058",
+ "name": "Juliana Costa Recife",
+ "headline": "Junior Software Developer",
+ "contact": {
+  "email": "juliana.costa85@gmail.com",
+  "phone": "(81) 95419-8997",
+  "location": "PE"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/juliana-costa"
+  },
+  {
+   "url": "github.com/julianacos"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Engineering in Distributed Systems",
+   "institution": "Co.",
+   "dates": "May 2024",
+   "grade": "GPA 3.26"
+  },
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "Instituto Tecnoldgico de Aeronautica",
+   "dates": "May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "August 2024 - Present",
+   "title": "Junior Software Developer",
+   "company": "Insper Stone",
+   "bullets": [
+    "Resolved 300+ production issues as part of the on- call rotation, reducing mean time to recovery by 20%",
+    "Introduced feature flags and canary releases, lowering production incidents by 33% quarter over quarter",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 12%",
+    "Reduced p95 API latency by 48% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution",
+   "dates": "October 2022",
+   "description": "Contributed 3 merged pull requests to a popular open-source CLI tool, adding plugin support.",
+   "tech": "Angular, Ruby on Rails, PHP"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "December 2026"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.287
+}

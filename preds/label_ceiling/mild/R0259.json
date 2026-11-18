@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0259",
+ "name": "Priya MacDonald",
+ "headline": "Social Media Executive",
+ "contact": {
+  "email": "priya.m@gmail.com",
+  "phone": "07999 325154",
+  "location": "Leeds"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/priya-macdonald"
+  }
+ ],
+ "education": [
+  {
+   "dates": "Aug '23 — Feb '24",
+   "degree": "MSc Marketing",
+   "institution": "Loughborough University",
+   "location": "Loughborough",
+   "grade": "First Class Honours"
+  },
+  {
+   "dates": "Aug '20 — Jul ‘23",
+   "degree": "BA (Hons) Marketing",
+   "institution": "University of Surrey",
+   "location": "Guildford, United Kingdom"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan ‘26 — Current",
+   "title": "Social Media Executive",
+   "company": "Nestlé",
+   "location": "London",
+   "bullets": [
+    "Coordinated 11 influencer campaigns generating 79,000 impressions and 77,000 engagements",
+    "Grew organic traffic by 24% in 10 months through technical SEO and a content calendar of 8 articles per month",
+    "Managed a monthly paid media budget of £15.1M across Google Ads and Meta, achieving a 4x ROAS",
+    "Launched 18 new product variants nationally, capturing 19% market share in the first year"
+   ]
+  },
+  {
+   "dates": "May '24 — Dec '25",
+   "title": "Content Marketing Associate",
+   "company": "Vodafone",
+   "location": "Leeds",
+   "bullets": [
+    "Built a marketing attribution dashboard in Hootsuite used in weekly leadership reviews",
+    "Ran consumer research with 80 respondents to shape positioning for a new category",
+    "Reduced customer acquisition cost by 29% through audience segmentation and creative testing"
+   ]
+  }
+ ],
+ "skills": [
+  "Hootsuite",
+  "HubSpot",
+  "Google Ads",
+  "Marketo",
+  "Go-to-Market Strategy",
+  "Social Media Marketing",
+  "Performance Marketing",
+  "Content Strategy",
+  "Copywriting",
+  "Conversion Rate Optimisation"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 250 urban respondents; findings presented to a client."
+  },
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a £7.3M launch media plan."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2026",
+   "name": "Content Marketing Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "year": "2026",
+   "name": "Google Analytics Certification",
+   "issuer": "Google"
+  },
+  {
+   "year": "2025",
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2026",
+   "name": "Star Performer Award",
+   "issuer": "Nestlé"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

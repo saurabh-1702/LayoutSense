@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0026",
+ "name": "Apache Kafka",
+ "contact": {
+  "email": "sethi.gurpreet@yahoo.co.in",
+  "phone": "+91-9615716763"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/gurpreet-sethi"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Systems Engineer",
+   "company": "Gurugram",
+   "dates": "06/2023 - Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "te)",
+  "Swift",
+  "TypeScript",
+  "ava",
+  "avaScript",
+  "Scala",
+  "Node.js",
+  "Angular",
+  "Next.js",
+  "WS",
+  "Microsoft Azure"
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.033
+}

@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0090",
+ "name": "WERONIKA NOWAK",
+ "contact": {
+  "email": "wnowak@gmail.com",
+  "phone": "535 388 729",
+  "location": "Wroctaw, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/weronika-nowak5"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Digital Marketing Specialist Polish Native",
+   "company": "LPP",
+   "dates": "Dec 2021 - Present",
+   "bullets": [
+    "Managed a monthly paid media budget of PLN 239M across Russian Conversational",
+    "Ran consumer research with 50 respondents to shape",
+    "Coordinated 3 influencer campaigns generating 649K Aug 2020 | GPA: 4.0/5"
+   ]
+  }
+ ],
+ "skills": [
+  "Brand Executive Oct 2021",
+  "Nov 2021",
+  "Copywriting",
+  "Allegro",
+  "Poznan",
+  "Marketing Automation",
+  "capturing 16%",
+  "Performance Marketing",
+  "SEO",
+  "Content Strategy",
+  "Email Marketing",
+  "MQL-to-SQL conversion by 27% Marketo",
+  "generating PLN SEMrush",
+  "SEO Analyst Oct 2020",
+  "Sep 2021 Meta Ads Manager",
+  "Poznan Team Leadership",
+  "Google Analytics Certification",
+  "segmentation and creative testing Google",
+  "Digital Marketing Specialization",
+  "weekly leadership reviews Coursera",
+  "Oct 2025"
+ ],
+ "projects": [
+  {
+   "name": "Google"
+  }
+ ],
+ "_runtime_s": 0.036
+}

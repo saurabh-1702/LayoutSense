@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0244",
+ "contact": {
+  "phone": "(+91) 8002132096"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "© Surat",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "ISE",
+  "Class Xil (ISC)",
+  "Ryan international School",
+  "Anmedabad",
+  "Transportation",
+  "Management Class X (ICSE)"
+ ],
+ "projects": [
+  {
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "_runtime_s": 0.108
+}

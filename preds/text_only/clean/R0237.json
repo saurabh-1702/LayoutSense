@@ -1,0 +1,118 @@
+{
+ "resume_id": "R0237",
+ "name": "Shubham Malhotra",
+ "headline": "Senior Site Engineer",
+ "contact": {
+  "email": "shubhamm500@gmail.com",
+  "phone": "+91 985-809-6617",
+  "location": "Jaipur, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/shubham-malhotra-99bcbd"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech in Transportation Engineering",
+   "dates": "Sep 2018 — Apr 2020",
+   "institution": "Indian Institute of Technology Roorkee",
+   "location": "Roorkee",
+   "grade": "CGPA 7.06"
+  },
+  {
+   "degree": "B.E. (Structural Engineering)",
+   "dates": "Jul 2014 — Jul 2018",
+   "institution": "Indian Institute of Technology Delhi",
+   "location": "New Delhi",
+   "grade": "91.9%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Site Engineer",
+   "company": "Larsen & Toubro",
+   "location": "Jaipur",
+   "dates": "Feb 2024 — Sep 2026",
+   "bullets": [
+    "Coordinated 4 subcontractors and 180+ workers across civil and MEP activities",
+    "Managed client billing and variations, improving cash collection by 43%",
+    "Introduced BIM clash detection that cut rework costs by 25%"
+   ]
+  },
+  {
+   "title": "Geotechnical Engineer",
+   "company": "Larsen & Toubro",
+   "location": "Jaipur",
+   "dates": "Nov 2022 — Jan 2024",
+   "bullets": [
+    "Designed RCC and steel structures in Tekla Structures for 21 commercial projects",
+    "Scheduled a 11-month metro station package in Navisworks, recovering 21 weeks of delay",
+    "Prepared BOQs and rate analyses for tenders worth 69 lakh"
+   ]
+  },
+  {
+   "title": "Quantity Surveyor",
+   "company": "Godrej Properties",
+   "location": "Jaipur",
+   "dates": "Jul 2020 — Oct 2022",
+   "bullets": [
+    "Conducted soil investigation reviews and foundation design for 23 bridges",
+    "Delivered a 18 km highway stretch 20 weeks ahead of schedule",
+    "Achieved 13,000 safe man-hours without a lost-time injury on site"
+   ]
+  }
+ ],
+ "skills": [
+  "Contract Administration",
+  "Highway Design",
+  "BIM",
+  "Geotechnical Investigation",
+  "Quantity Estimation",
+  "HSE Compliance",
+  "Primavera P6",
+  "Tekla Structures",
+  "Navisworks",
+  "AutoCAD",
+  "ETABS",
+  "Revit",
+  "Time Management",
+  "Conflict Resolution",
+  "Adaptability",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 22 mix designs for urban stormwater management.",
+   "tech": "Primavera P6, Revit, AutoCAD"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council",
+   "year": "(Apr 2024)"
+  },
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "(A2)"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "(A2)"
+  }
+ ],
+ "_runtime_s": 0.321
+}

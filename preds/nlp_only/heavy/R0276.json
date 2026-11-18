@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0276",
+ "contact": {
+  "phone": "+94767839314",
+  "location": "Negombo, Srilanka"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sachini-femando"
+  },
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Commerce",
+   "institution": "Si Lanka Institute of information Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) Inside Sales Representative",
+   "company": "noey eesece",
+   "dates": "2025 - Current",
+   "bullets": [
+    "Expanded distribution to 250 new retail outlets across",
+    "Onboarded and trained 10 new sales representatives"
+   ]
+  },
+  {
+   "title": "@) Territory Sales Officer",
+   "company": "on product and CRM workflows ci al eoe",
+   "dates": "2024-2025",
+   "bullets": [
+    "Managed 13 key accounts generating LKR 17.5M in Key Skills",
+    "Maintained 51% forecast accuracy in weekly pipeline",
+    "Ranked #1 out of 22 account executives in the region MEDDIC",
+    "Negotiated multi-year contracts worth LKR 12.0M with",
+    "Launched a channel partner programme that"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  },
+  {
+   "name": "Negotiation “ritical Thinki"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  },
+  {
+   "name": "Salesforce",
+   "issuer": ""
+  },
+  {
+   "name": "Certified Professional Sales Person",
+   "issuer": "NASP"
+  }
+ ],
+ "_runtime_s": 0.053
+}

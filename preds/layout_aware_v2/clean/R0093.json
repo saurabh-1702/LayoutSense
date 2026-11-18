@@ -1,0 +1,129 @@
+{
+ "resume_id": "R0093",
+ "name": "CHRISTOS ALEXIOU",
+ "headline": "Associate Partner",
+ "contact": {
+  "email": "christosalexiou@gmail.com",
+  "phone": "697 004 2337",
+  "location": "Patras, Greece"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/christosalexiou-73"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Computer Science and Engineering",
+   "dates": "2015-08",
+   "institution": "National Technical University of Athens",
+   "location": "Athens"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate Partner",
+   "company": "KPMG",
+   "location": "Thessaloniki",
+   "dates": "2025-10 – Present",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Built a market entry business case for a €447M investment in Southeast Asia",
+    "Built Jira models to size a €5.0M addressable market across 17 segments",
+    "Managed a team of 3 consultants and client counterparts across 23 workstreams",
+    "Drove a digital transformation roadmap that increased online sales by 58%",
+    "Ledacost transformation programme identifying EUR 15.6M in annual savings for a Fortune 500 client",
+    "Delivered 16 strategy engagements for clients in banking, retail and telecom",
+    "Conducted commercial due diligence on 15 private equity targets"
+   ]
+  },
+  {
+   "title": "Project Leader",
+   "company": "Accenture",
+   "location": "Athens",
+   "dates": "2022-04 – 2025-09",
+   "bullets": [
+    "Mentored 9 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 17 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €144M",
+    "Grew the team by 49% in two years while Keeping attrition below 20%",
+    "Ledateam of 9 across 11 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Designed a target operating model for a 862K-employee organisation post-merger"
+   ]
+  },
+  {
+   "title": "Consultant",
+   "company": "Accenture",
+   "location": "Remote"
+  },
+  {
+   "location": "Greece",
+   "dates": "2016-11 – 2022-03",
+   "bullets": [
+    "Authored 18 thought-leadership articles and contributed to proposals worth €811K",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Ledacost transformation programme identifying €5.6M in annual savings for a Fortune 500 client",
+    "Built Think-cell models to size a €17.2M addressable market across 7 segments",
+    "Managed a team of 8 consultants and client counterparts across 14 workstreams"
+   ],
+   "title": "Associate Consultant",
+   "company": "Deloitte"
+  }
+ ],
+ "skills": [
+  "Agile Transformation",
+  "Financial Analysis",
+  "Change Management",
+  "Process Re-engineering",
+  "Think-cell",
+  "PowerPoint",
+  "Python",
+  "Alteryx",
+  "Jira",
+  "Public Speaking",
+  "Attention to Detail"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non-profit serving 41,000 children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Scrum Master (CSM)",
+   "issuer": "Scrum Alliance",
+   "year": "(2015-05)"
+  },
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "(2021-02)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Client Impact Award",
+   "year": "(2021)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Greek",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "German",
+   "proficiency": "(Beginner)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(Advanced)"
+  }
+ ]
+}

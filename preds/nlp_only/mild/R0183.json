@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0183",
+ "name": "Thomas Michel",
+ "contact": {
+  "phone": "06 35 93 80 12"
+ },
+ "links": [
+  {
+   "url": "github.com/thomasmich"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software",
+   "institution": "Bachelor of Science",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Cloud & DevOps CI/CD",
+  "AWS",
+  "GitHub Actions"
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer Google Cloud",
+   "issuer": null
+  },
+  {
+   "name": "Ist Place",
+   "issuer": "Internal Hackathon _"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.049
+}

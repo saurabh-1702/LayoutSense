@@ -1,0 +1,27 @@
+eleanor.s@outlook.com
+Pam +44 7206 919096
+Eleanor Smith
+Glasgow, United Kingdom
+Data Science & Analytics Graduate rr linkedin.com/in/eleanor-smith7
+Educational Qualifications Key Skills
+PhD in Machine Learning Languages: Scala, R, Python, SAS
+Imperial College London ML & Al: LangChain, Computer Vision, A/B
+Aug 2023 - Present Testing
+BSc Data Science
+Courses & Certifications
+Loughborough University
+Jul 2020 - Jul 2023 | First Class Deep Learning Specialization
+DeepLearning.Al,. Feb 2026
+Academic Projects
+Tableau Desktop Specialist
+Credit Risk Scoring Model Feb 2026 Tableau, Aug 2026
+Gradient-boosted model on 15,000 loan applications
+Honours & Awards
+with SHAP explanations and fairness checks.
+Tools: LangChain, Python Best Outgoing Student
+Fake News Detection Loughborough University, 2026
+Fine-tuned DistiIBERT classifier achieving 94% F1
+Languages Known
+on a public misinformation dataset.
+English Mother tongue
+Welsh Limited Working Proficiency

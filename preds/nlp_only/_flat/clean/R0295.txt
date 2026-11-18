@@ -1,0 +1,56 @@
+Yoga Pratama
+Senior Portfolio Manager
+Location Jakarta, Indonesia
+Mobile +62 853 9355 5892
+E-mail yoga.pratama@gmail.com
+LinkedIn www. linkedin.com/in/yoga-pratama
+Employment
+History
+October 2023 - Present Senior Portfolio Manager
+Bank Central Asia, Jakarta
+Presented quarterly business reviews to the CFO and board with actionable
+margin insights
+Managed a loan portfolio of IDR 86.1B across 250 relationships with zero
+slippages in FY
+Introduced weekly operating reviews that cut decision turnaround from 19
+days to 1 day
+November 2018 - Risk Manager
+September 2023 Bank Mandiri, Surabaya
+Prepared pitch books and information memoranda for 4 sell-side mandates
+Supported due diligence on 5 acquisitions, including working-capital and
+synergy analysis
+Led the annual budgeting and rolling forecast process for a business unit with
+IDR 52.8B in revenue
+Implemented an Anaplan-based planning model replacing 16 disconnected
+spreadsheets
+Grew the assets under management of assigned clients by 56% year on year
+July 2015 - October Equity Research Associate
+2018 Mastercard, Jakarta
+Built three-statement financial models and DCF valuations for 17 deals worth
+a combined IDR 66.8B
+Identified cost savings of IDR 9.7B through vendor spend analysis and
+contract renegotiation
+Automated monthly variance reporting in SAP S/4HANA, saving the finance
+team 30 hours per cycle
+Monitored market and liquidity risk limits, producing daily VaR reports for
+senior management
+Academic
+Background
+June 2015 Bachelor of Science in Mathematics
+Institut Teknologi Bandung, Bandung
+Skills & Tools
+Finance FP&A « Risk Management e Treasury Management e Credit Analysis « DCF
+Valuation
+Tools SAP S/4HANA ¢ VBA « Bloomberg Terminal « FactSet « Anaplan « Oracle
+Hyperion
+Interpersonal Communication « Public Speaking « Stakeholder Management « Adaptability
+Selected Projects
+June 2022 Portfolio Optimisation Tool
+Mean-variance optimiser in Python with backtesting on 19 years of index data.
+Certifications
+2024 Financial Modeling & Valuation Analyst (FMVA), Corporate Finance Institute
+Languages
+Indonesian Native
+English Advanced
+Javanese Beginner
+Javanese Conversational

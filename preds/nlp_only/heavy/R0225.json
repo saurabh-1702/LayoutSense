@@ -1,0 +1,66 @@
+{
+ "resume_id": "R0225",
+ "name": "hs dade",
+ "contact": {
+  "location": "whan"
+ },
+ "education": [
+  {
+   "degree": "MSc Clinical Pharmacy",
+   "institution": "University College Dublin",
+   "dates": "Jul. 2013 ~ Aug. 2014"
+  },
+  {
+   "degree": "BPharm (Hons) ©",
+   "institution": "Royal College of Surgeons in ireland",
+   "dates": "Aug. 2010 ~ Apr. 2013"
+  }
+ ],
+ "skills": [
+  "Se Bee a aoe",
+  "eee gage",
+  "Critical Thinking",
+  "Pos"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Certified Clinical Research Professional",
+   "issuer": "CCRP)"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate"
+  },
+  {
+   "name": "Regulatory Affairs Certification",
+   "issuer": "RAC)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.055
+}

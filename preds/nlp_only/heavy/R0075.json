@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0075",
+ "name": "Present Hospital",
+ "contact": {
+  "location": "Nurse"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/madhurima-"
+  }
+ ],
+ "skills": [
+  "Phlebotomy",
+  "ACLS",
+  "Medication Administration",
+  "Infection Prevention",
+  "Patient Charting",
+  "JCI Standards",
+  "NABH Standards",
+  "Professional Skills Critical Thinking",
+  "Cross-functional Collaboration",
+  "i a",
+  "Pressure Ulcer",
+  "September 2021",
+  "for hypertension and diabetes."
+ ],
+ "certifications": [
+  {
+   "name": "Critical Care Registered Nurse",
+   "issuer": "CCRN)"
+  },
+  {
+   "name": "Basic Life Support",
+   "issuer": "BLS)"
+  }
+ ],
+ "_runtime_s": 0.037
+}

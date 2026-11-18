@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0112",
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "Georgetown University"
+  },
+  {
+   "degree": "BS, Mechanical Engineering",
+   "institution": "Purdue University"
+  }
+ ],
+ "experience": [
+  {
+   "company": "EY",
+   "location": "San Francisco, CA",
+   "bullets": [
+    "Designed a target operating mode! for a 292K+-employee organisation",
+    "Drove a digital transformation roadmap that increased online sales by",
+    "Delivered 4 strategy engagements for clients in banking, retail and LUTE"
+   ]
+  },
+  {
+   "company": "Deloitte",
+   "location": "New York",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Authored 20 thought-leadership articles and contributed to proposals worth $23.8M",
+    "Built a market entry business case for a $11.0M investment in Southeast Asia",
+    "Managed a team of 10 consultants and client counterparts across 11",
+    "Built Tableau models to size a $179M addressable market across 7"
+   ],
+   "title": "Associate Consultant"
+  },
+  {
+   "company": "McKinsey & Company",
+   "location": "San Francisco, CA",
+   "bullets": [
+    "Conducted commercial due diligence on 18 private equity targets",
+    "Led a cost transformation programme identifying $428M in annual savings for a Fortune 500 client"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non-profit serving 226K children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "2022"
+  },
+  {
+   "name": "Prosci Change Management Certification",
+   "issuer": "Prosci",
+   "year": "2023"
+  }
+ ]
+}

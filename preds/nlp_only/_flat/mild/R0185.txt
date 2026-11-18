@@ -1,0 +1,34 @@
+stephanie.taylor@icloud.com ©
+1
+STEPHANIE G. TAYLOR es
+BS Graduate linkedin.com/in/stephanie-taylor @
+Educational Qualifications
+BS, Computer Applications
+Massachusetts Institute of Technology
+Sep. 2022 — Jun. 2026 | Summa Cum Laude
+Core Competencies
+PostgreSQL Apache Katka cV/CD GraphQL ) CastaPl
+Decision Making ) ( Cross-functional Collaboration ) ( Problem Solving ) ( Presentation Skills
+Notable Projects
+Distributed Key-Value Store
+Raft-based replicated key-value store with leader election, log compaction and a gRPC client.
+Stack: CI/CD, FastAPI, PostgreSQL, Apache Kafka
+URL Shortener at Scale
+Load-tested URL shortener handling 182K+ redirects/minute with consistent hashing and Redis.
+Campus Placement Portal
+Web portal used by 50 students to apply for drives, track status and download offer letters.
+Internship Experience
+Visa New York
+Software Developer Intern Jul. 2025 - Oct. 2025
++ Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 10% to 85%
+* Collected and cleaned data from 22 sources to support a software engineering initiative
+Capital One Phoenix, AZ
+Backend Developer Intern Oct. 2024 — Feb. 2025
+* Shadowed senior colleagues and proposed process improvements that the team adopted
+¢ Drafted standard operating procedures for 4 recurring tasks
+* Supported the software engineering team on 15 live projects, preparing analyses and documentation
+Languages
+English (Native)
+Licenses & Certifications
+* Oracle Certified Professional: Java SE 17 Developer — Oracle (2024)
+* Meta Front-End Developer Professional Certificate — Coursera (2026)

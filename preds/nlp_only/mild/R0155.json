@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0155",
+ "name": "Krzysztof Kowalczyk",
+ "contact": {
+  "phone": "+48 514212344"
+ },
+ "education": [
+  {
+   "degree": "M.Sc. Operations Kozminski University See 2a",
+   "institution": "AGH University of Krakow GPA: 5.0/5",
+   "dates": "2022"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SAP Certified Application Associate",
+   "issuer": "Sourcing"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ],
+ "_runtime_s": 0.032
+}

@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0117",
+ "name": "Tahmina Talukder",
+ "headline": "MSc HR Graduate",
+ "contact": {
+  "email": "talukder.tahmina@gmail.com",
+  "phone": "+44 7101 960562",
+  "location": "Cardiff, UK"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tahmina-talukder-871bcb"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Loughborough University",
+   "location": "Loughborough",
+   "degree": "MSc HR",
+   "grade": "2:1",
+   "dates": "2024 – 2025"
+  },
+  {
+   "institution": "Institute of Business Administration, University of Dhaka",
+   "location": "Dhaka, Bangladesh",
+   "degree": "BSc (Hons) Human Resource Management",
+   "grade": "First Class",
+   "dates": "2021 – 2024"
+  }
+ ],
+ "skills": [
+  "Talent Acquisition",
+  "Onboarding",
+  "Learning & Development",
+  "HR Analytics",
+  "Payroll",
+  "LinkedIn Recruiter",
+  "Greenhouse",
+  "Oracle HCM"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "description": "Redesigned a survey for 500 employees and ran action-planning workshops with 23 teams."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  }
+ ]
+}

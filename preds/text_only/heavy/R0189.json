@@ -1,0 +1,134 @@
+{
+ "resume_id": "R0189",
+ "name": "Muhammad Qureshi",
+ "contact": {
+  "email": "queeshmubarnmad@",
+  "phone": "+92 334 1230721",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "wwwdinkedin.com"
+  },
+  {
+   "url": "/in/mubammad-qureshigrhub.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "F/R"
+  },
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Institute of Business Administration",
+   "location": "Karachi",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Lahore",
+   "bullets": [
+    "frown",
+    "nie C1/CD pipeline with GitHub Actors and automated tests, raising code",
+    "Implemented a and adopiing pot cloud infrastructure costs by PKR 370M aonually by fight-sizing instances cutting deployment time from 19 hours",
+    "Migeated a legacy monolith to containersed services on Ea relevance and chek-through by 58%",
+    "Rebuilt the search experience with Blasticsearch, improving result 58"
+   ],
+   "title": "BAS"
+  },
+  {
+   "title": "Associate Software Engineer",
+   "bullets": [
+    "we",
+    "ee",
+    "the integsation with 16 third-party gateways, reducing failed nanwactions ly 41%",
+    "Owned payments wh indmobile.",
+    "Collaborated with product and design t ship 19 major releases on achedule acon ss",
+    "Sercaform and Apache Kafka thar processes 9,000 events per Nour",
+    "Built a real-time notification service using",
+    "Reduced API latency by 45% by introducing Redis caching and optimising slow PosrgredQl. queries"
+   ],
+   "company": "Daraz",
+   "location": "Lahore (Hybrid)"
+  }
+ ],
+ "skills": [
+  "Capacity Cur",
+  "Kubernetes",
+  "ws",
+  "MINES",
+  "C++",
+  "Python",
+  "TypeScripr",
+  "JavaScript",
+  "Kodin",
+  "Ruby on Rails",
+  "GeaphQu.",
+  "Angulac{",
+  "NETCore",
+  "Java",
+  "‘Terraform",
+  "C1/CD",
+  "Linux",
+  "MongoDB",
+  "Apache Kata}",
+  "Microsoft Azure",
+  "Docker",
+  "Google Cloud Platform",
+  "he",
+  "MySQL",
+  "DynamoDB",
+  "‘aswandra"
+ ],
+ "projects": [
+  {
+   "name": "Expense Splitter App",
+   "description": "and UPI/PayPal settlement bivike."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "(2020)"
+  },
+  {
+   "name": "Google Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(12/2023)"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "(2026)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(04/2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Top Contributor",
+   "issuer": "Hacktoberfest",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Muent)"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "(Intermediate)"
+  }
+ ],
+ "_runtime_s": 0.402
+}

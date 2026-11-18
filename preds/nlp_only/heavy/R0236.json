@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0236",
+ "name": "Saudi Arabi",
+ "contact": {
+  "location": "Dammam, Saudi Arabi"
+ },
+ "experience": [
+  {
+   "title": "intern",
+   "company": "Brand Management",
+   "dates": "Jan. 2026 - Apr. 2026",
+   "bullets": [
+    "Coordinated 7 influencer campaigns Minerals"
+   ]
+  },
+  {
+   "title": null,
+   "company": "generating 293K impressions and 320K+",
+   "dates": "Jul, 2023 ~ Present",
+   "bullets": [
+    "Assisted with day-to-day marketing operations"
+   ]
+  }
+ ],
+ "skills": [
+  "Maiichimp Google Analytics 4",
+  "Salesforce Marketing Cloud",
+  "Meta Ads Manager Content Strategy"
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.043
+}

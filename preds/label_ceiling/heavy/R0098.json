@@ -1,0 +1,28 @@
+{
+ "resume_id": "R0098",
+ "contact": {
+  "email": "ii.se"
+ },
+ "links": [
+  {
+   "url": "linkedincom/in/karingustafsson"
+  },
+  {
+   "url": "github.com/kgustaf"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Software Engineering",
+   "institution": "Chalmers University of Technology"
+  },
+  {
+   "degree": "B.Sc. Computer Science",
+   "institution": "KTH Royal Institute of Tech"
+  }
+ ],
+ "skills": [
+  "oon ~aDB",
+  "Cassandra"
+ ]
+}

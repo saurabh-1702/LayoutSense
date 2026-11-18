@@ -1,0 +1,69 @@
+LL eee ee way ee
+BOR ern ene 2h yi tf ii kn ~ a te i RD ime MA a 5 atria eps n niin? lagen: paiement: gilt NSC ae AAT at eet epi toi ry
+i Dawit Desta
+: Graduate Software Engineer :
+aa esha eeintiaieRic elianineraaht sail elitaincnaiiadibadmeniaedametiedemtnc cote ere “ ney Laem ie Sl a aie
+" dawitdesta76@yahoo.com /| Phone +251 93 280 2312
+|
+Address Hawassa, Ethiopia | Linkedin linkedin. com/inidawitdestaS
+bes ileal tlie. aa anal mettle BN ae a. oe an Sasaki a ete iglesia james Pi
+|
+March 2023 - cantneianics j | Graduate Software Engineer. "
+,
+"
+Rebuilt the search experience with Elasticsearch, iraproving resull relevance and dlick<tfmough by 16% a
+e
+Designed and built 6 RESTful microservices in Express.js and Terraform, serving 22.000 requests perday _
+with 99.95% uptime :
+ie Wrote technical design documents and led code reviews for ¢ teem of 5 engineers i
+t- + eeegretiyiomm ae regent ce ear eneetge — Siete aetna open SE ee eee ee ee eee
+| October 2022- | Ethio Telecom Software Engineer ve 7
+| February 2023 4
+jes oneneteieains seman peeatatiernceisisasiienclaniesseambic Aenea: amelie mantytans, ipa ald acini NNT ne eee ee |
+fe Implemented a CVCD pipeline with GitHub Actions and automated tests, raising code coverage from 24% i
+/ to 85% i
+_* Resolved 250+ production issues as part of the on-call rotation, reducing mean time to recovery by 15% |
+_* Reduced p95 AP! latency by 18% by introducing Redis caching and optimising slow PostgreSQL queries i
+f
+| * Collaborated with product and design to ship 9 major releases on schedule across web and mobile
+{
+* Introduced feature flags and canary releases, lowering production incidents by 46% quarter over quarter
+}
+l? Developed customer-facing features in Angular used by 9.0M monthly active users
+Developed internal tooling in Angular that saved the support team 11 hours per week {
+e Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 12
+hours to 15 minutes
+(October ‘ 2021- [Graduate Software Engineer (0 a
+bck | wie
+[ September 2022 a |
+;
+. Built a real-time notification service using FastAP! and Apache Kafka that acuae 338K+ events per hour
+| |
+* Owned the payments integration with 8 third-party gateways, reducing failed transactions by 56%
+|
++ Cut cloud infrastructure costs by ETB 168M annually by right-sizing instances and adopting spot capacity
+Education & Qualifications ‘ :
+f Qualification Institution Tenure Result
+Sin la SRLS ts aR alt acl aa SS Sis — jet abi ce Rt Toi ee oracle _ ieee Hk ab _ Seg _
+BEng Computer Science and | Addis Ababa Science and Technology | September 2021 | -
+_Engineering ot University ;
+2
+| Languages | Kotlin, in, Python, C++
+— , :
+Frameworks | Vue,j js, js, FastAPl, FastAl PI, GraphQl., React, . Anguler, Express “~~ i
+ee a EEN SSUES EEE veiomenbinlie = ernment
+| — Be et ee Re EROS ae ea MR NCE em EO Be ne i NE PS
+| Realtime Chat Platform | WebSocket chat service with end-to-end « encryption, | GitHub Actions, Python
+|
+| fread receipts and presence indicators. |
+: ee
+Achievements
+b- ii Sania ci ci session Roacbissiablah ee ees sll SR ee i iii La ii il
+| CEO's Excellence Award | Capgemini | 2025 |
+~ oem a tc A EO NN NE I A A a Gem cae on ee Son at a im ee ee
+Certificates gees 6
+ann T.-L. A
+| HashiCorp Certified: Terraform Associate | HashiCorp | 2022
+_ AWS Certified Developer ~ Associate _ Amazon Web Services
+_Google Cloud Professional Cloud Developer Google Cloud | February 2022
+|

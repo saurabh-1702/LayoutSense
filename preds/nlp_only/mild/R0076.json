@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0076",
+ "contact": {
+  "email": "khushi.patil@gmail.com",
+  "phone": "+91 800-127-8091",
+  "location": "Surat, Gujarat, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/khushi-patil"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+   "institution": "Telemedicine Seth GS Medical College",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "The Shri Ram School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "O",
+   "dates": "Jun 2024 — Current",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACLS Provider",
+   "issuer": "American Heart Association"
+  },
+  {
+   "name": "Professional Working Proficiency",
+   "issuer": null
+  },
+  {
+   "name": "Good Clinical Practice",
+   "issuer": "GCP)"
+  },
+  {
+   "name": "NIDA Clinical Trials Network",
+   "issuer": ""
+  },
+  {
+   "name": "% ATLS Provider",
+   "issuer": "American College of Surgeons"
+  }
+ ],
+ "_runtime_s": 0.064
+}

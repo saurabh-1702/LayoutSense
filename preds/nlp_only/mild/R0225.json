@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0225",
+ "name": "Aoife O'Connor",
+ "contact": {
+  "email": "aoifeoconnor@eircom.net",
+  "phone": "+353 865316242",
+  "location": "Galway, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/aoife-oconnor1"
+  },
+  {
+   "url": "orcid.org/0000-0002-2763-5970"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Clinical Pharmacy",
+   "institution": "University College Dublin",
+   "dates": "Jul. 2013 ~ Aug. 2014"
+  },
+  {
+   "degree": "BPharm (Hons)",
+   "institution": "Royal College of Surgeons in Ireland",
+   "dates": "Aug. 2010 ~ Apr. 2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Regulatory Affairs Specialist",
+   "company": "Kerry Group Limerick",
+   "dates": "Mar. 2017 ~ Sep. 2026",
+   "bullets": [
+    "Leda team of 10 across 9 workstreams, owning hiring, performance reviews and quarterly",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of EUR 20.8M",
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day",
+    "Grew the team by 43% in two years while keeping attrition below 23%"
+   ]
+  },
+  {
+   "title": "QC Analyst",
+   "company": "Abbott Cork",
+   "dates": "May 2016 ~ Feb. 2017",
+   "bullets": [
+    "Monitored 24 clinical trial sites across Phase II and Ill oncology studies",
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 10%",
+    "Processed 377K+ adverse event reports in Argus Safety within regulatory timelines",
+    "Exceeded territory sales targets by 47% across 180 prescribing doctors",
+    "Trained 10 analysts on data integrity and ALCOA+ principles"
+   ]
+  },
+  {
+   "title": "QC Analyst",
+   "company": "AstraZeneca Dublin",
+   "dates": "Oct. 2014 ~ Apr. 2016",
+   "bullets": [
+    "Validated 19 analytical methods per ICH Q2(R1) guidelines",
+    "Performed HPLC and dissolution analysis on 60+ batches per quarter with zero OOS invalidations",
+    "Prepared and submitted 3 ANDA/eCTD dossiers to USFDA and EMA",
+    "Supported 15 successful USFDA and MHRA inspections with no critical observations",
+    "Led CAPA investigations that reduced batch deviations by 20%"
+   ]
+  }
+ ],
+ "skills": [
+  "eCTD Submissions",
+  "Stability Studies",
+  "USFDA Audits Method Validation",
+  "Critical Thinking",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Certified Clinical Research Professional",
+   "issuer": "CCRP)"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate"
+  },
+  {
+   "name": "Regulatory Affairs Certification",
+   "issuer": "RAC)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.053
+}

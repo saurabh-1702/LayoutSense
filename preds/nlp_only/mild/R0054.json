@@ -1,0 +1,33 @@
+{
+ "resume_id": "R0054",
+ "name": "Sharon Wanjiku",
+ "contact": {
+  "email": "swanjiku@gmail.com",
+  "phone": "+254 700 486 186",
+  "location": "Mombasa, Kenya"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sharon-"
+  },
+  {
+   "url": "github.com/sharon97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Science",
+   "institution": "Jomo Kenyatta University of Agriculture",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Engineering English Native",
+   "company": "Mombasa Kikuyu Fluent",
+   "dates": "Nov 2024—Present",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.039
+}

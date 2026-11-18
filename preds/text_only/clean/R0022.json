@@ -1,0 +1,102 @@
+{
+ "resume_id": "R0022",
+ "name": "E A",
+ "contact": {
+  "email": "sultanalmazrouei@gmail.com",
+  "phone": "055 688 6303",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sultan-almazrouei4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Data Science",
+   "institution": "Zayed University"
+  },
+  {
+   "institution": "ADNOC",
+   "dates": "Aug 2017 — Aug 2020",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2025 — Present",
+   "title": "Lead Data Analyst",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 8 days",
+    "Authored SQL data quality checks across 50 tables, reducing reporting incidents by 23%",
+    "Reduced Spark job runtime by 60% through partitioning Transformers and broadcast join optimisation",
+    "Partnered with senior leadership to define the annual roadmap and a budget of AED 20.3M"
+   ]
+  },
+  {
+   "dates": "Oct 2020 — Sep 2025",
+   "title": "Business Intelligence Analyst",
+   "company": "Google",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Gradient-boosted model on 1.8M loan applications with",
+    "Designed and maintained 8 Airflow pipelines ingesting SHAP explanations and fairness checks. 428K+ records daily into Snowflake",
+    "Partnered with finance to build an anomaly detection system that flagged AED 383M in billing errors",
+    "Probabilistic BG/NBD model to rank customers by",
+    "Ran 10 A/B experiments on pricing and onboarding expected value for marketing spend. flows, lifting conversion by 20%",
+    "Built a customer segmentation framework using clustering on 6.8M profiles to drive targeted campaigns"
+   ]
+  }
+ ],
+ "skills": [
+  "R",
+  "Python",
+  "SQL",
+  "ML & Al",
+  "NLP",
+  "PyTorch",
+  "Computer Vision",
+  "scikit-learn",
+  "Hugging Face",
+  "Problem Solving",
+  "Public Speaking",
+  "Team",
+  "Leadership"
+ ],
+ "projects": [
+  {
+   "name": "Credit Risk Scoring Model",
+   "tech": "Python, R, SQL, PyTorch"
+  },
+  {
+   "name": "Customer Lifetime Value Prediction"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Google",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.303
+}

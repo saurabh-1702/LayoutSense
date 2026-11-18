@@ -1,0 +1,128 @@
+{
+ "resume_id": "R0189",
+ "name": "Muhammad Qureshi",
+ "contact": {
+  "email": "qureshi.muhammad@,gmail.com",
+  "phone": "+92 334 1230721",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/muhammad-qureshi"
+  },
+  {
+   "url": "github.com/muhammadqureshi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "dates": "09/2018 - 07/2021",
+   "institution": "Institute of Business Administration",
+   "location": "Karachi",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "title": "iOS Developer",
+   "dates": "05/2025 - Present",
+   "company": "NetSol Technologies",
+   "location": "Lahore",
+   "bullets": [
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code from 5% coverage to 85%",
+    "Cut cloud infrastructure costs by PKR 370M annually by right-sizing instances and adopting spot capacity",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 19 hours to 15 minutes",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 55%"
+   ]
+  },
+  {
+   "title": "Associate Software Engineer",
+   "dates": "08/2021 - 04/2025",
+   "company": "Daraz",
+   "location": "Lahore (Hybrid)",
+   "bullets": [
+    "Owned the payments integration with 16 third-party gateways, reducing failed transactions by 41%",
+    "Collaborated with product and design to ship 19 major releases on schedule across web and mobile",
+    "Built a real-time notification service using Terraform and Apache Kafka that processes 9,000 events per hour",
+    "Reduced p95 API latency by 45% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  }
+ ],
+ "skills": [
+  "Java",
+  "C++",
+  "Python",
+  "TypeScript",
+  "JavaScript",
+  "Kotlin",
+  "Ruby on Rails",
+  "GraphQL",
+  "Angular",
+  ".NET Core",
+  "Microsoft Azure",
+  "Docker",
+  "Google Cloud Platform",
+  "Terraform",
+  "CI/CD",
+  "Linux",
+  "MongoDB",
+  "Apache Kafka",
+  "MySQL",
+  "DynamoDB",
+  "Cassandra"
+ ],
+ "projects": [
+  {
+   "dates": "11/2020",
+   "name": "Expense Splitter App",
+   "description": "Mobile for splitting group expenses with OCR receipt scanning and UPI/PayPal ' settlement links. 4 app"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "(2020)"
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "(12/2023)"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Housdiahos ns)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(04/2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "IOS Dei eloper"
+  },
+  {
+   "name": "Top Contributor",
+   "issuer": "Hacktoberfest",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "(Intermediate)"
+  }
+ ],
+ "_runtime_s": 0.172
+}

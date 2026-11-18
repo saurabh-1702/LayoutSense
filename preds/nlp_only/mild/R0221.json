@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0221",
+ "name": "Owen Edwards",
+ "contact": {
+  "email": "owenedwards@gmail.com",
+  "phone": "+44 792 596 0407",
+  "location": "Leeds, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-edwards"
+  },
+  {
+   "url": "dribbble.com/owenedwards"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology - Merit",
+   "institution": "London School of Economics and Political Science London",
+   "dates": "Aug '20-Apr '23"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Graphic Designer",
+   "company": "Deliveroo",
+   "dates": "Jun '23-Present",
+   "bullets": [
+    "Reduced support tickets by 58% by simplifying the account settings experience",
+    "Produced motion graphics and explainer videos with Blender reaching 3.6M views",
+    "Improved WCAG 2.1 AA compliance from 17% to 96% across core journeys",
+    "Built and maintained a design system of 500+ components used by 10 product squads"
+   ]
+  }
+ ],
+ "skills": [
+  "User Research",
+  "Wireframing",
+  "Visual Design",
+  "Interaction Design",
+  "Typography",
+  "Adobe Illustrator",
+  "Sketch",
+  "Adobe After Effects",
+  "Blender",
+  "Framer"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Beginner"
+  }
+ ],
+ "_runtime_s": 0.02
+}

@@ -1,0 +1,59 @@
+Contact Pranav Menon
+\% +91-8854906778 Junior Software Developer | 6+ Years in Software Engineering
+™ pranavm930@outlook.com
+9 Coimbatore, Tamil Nadu Employment History
+Professional Certifications Junior Software Developer — Uber, Chennai
+Oct 2021 - Present
+Meta Front-End Developer
+Professional Certificate — Collaborated with product and design to ship 5 major releases on
+Coursera, 2026 schedule across web and mobile
+HashiCorp Certified: Terraform — Resolved 80+ production issues as part of the on-call rotation,
+Associate reducing mean time to recovery by 28%
+HashiCorp, 2026 — Implemented a CI/CD pipeline with GitHub Actions and automated
+Microsoft Certified: Azure tests, raising code coverage from 14% to 85%
+Developer Associate — Developed internal tooling in Ruby on Rails that saved the support
+Microsoft, 2026
+team 34 hours per week
+Google Cloud Professional Cloud
+Junior Software Developer — Uber, Chennai
+Developer
+Google Cloud, 2019 Aug 2020 - Sep 2021
+— Introduced feature flags and canary releases, lowering production
+Education &
+incidents by 58% quarter over quarter
+Qualifications
+— Reduced p95 API latency by 51% by introducing Redis caching and
+B.Sc. in Computer Science optimising slow PostgreSQL queries
+Indian Institute of Science — Cut cloud infrastructure costs by =27.8 crore annually by right-sizing
+Jul 2017 - Jun 2020 | CGPA - 7.4
+instances and adopting spot capacity
+Competencies — Rebuilt the search experience with Elasticsearch, improving result
+relevance and click-through by 39%
+Swift
+Rust
+Go
+C#
+Python
+-NET Core
+Ruby on Rails
+Flutter
+GitHub Actions
+Jenkins
+Docker
+Linux
+Cl/CD
+Honours & Awards
+Google Code Jam Round 2
+Qualifier
+2020
+Languages
+Tamil Mother tongue
+English Professional Working
+Proficiency
+Telugu Full Professional
+Proficiency
+Malayalam Professional Working
+Proficiency
+Profiles
+LinkedIn:
+linkedin.com/in/pranavmenon

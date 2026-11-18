@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0294",
+ "name": "Bohdan Moroz",
+ "headline": "Registered Nurse",
+ "contact": {
+  "email": "bohdan.mororz@gmail.com",
+  "phone": "+380 (95) 446 73 77",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/bohdanmoroz"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Registered Nurse",
+   "dates": "Jan 2024~Present",
+   "company": "City Clinical Hospital No. 1",
+   "location": "Odesa",
+   "bullets": [
+    "Triaged 120+ patients monthly in the emergency department using the Manchester Triage System",
+    "Trained 9 newly joined nurses on medication safety and documentation in Electronic Medical Records",
+    "Participated in 23 code blue responses as a certified ACLS provider",
+    "Provided direct care to 7 patients per shift in a 7-bed medical-surgical ward",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit"
+   ]
+  },
+  {
+   "title": "Junior Staff Nurse",
+   "dates": "Oct 2022-Dec 2023",
+   "company": "Obhmetdyt National Children’s Hospital",
+   "location": "Odesa",
+   "bullets": [
+    "Oversaw duty rosters for 4 nurses and managed ward inventory and consumables",
+    "Coordinated with physicians and allied health teams during daily",
+    "Reduced hospital-acquired infection rates by 19% by leading hand-hygiene audits"
+   ]
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "fe",
+  "42 aha",
+  "S47",
+  "c2i* giol ziey 3",
+  "i",
+  "4 ABH Standards",
+  "JCi Standards",
+  "Electronic Medical Records",
+  "Epic EHR",
+  "Cerner",
+  "Presentation Skills",
+  "Communication"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Ci"
+  },
+  {
+   "language": "Russian",
+   "proficiency": "B2"
+  },
+  {
+   "language": "German",
+   "proficiency": "B2"
+  }
+ ]
+}

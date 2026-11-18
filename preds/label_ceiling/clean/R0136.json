@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0136",
+ "name": "Reza Hosseini",
+ "headline": "Senior Mobile Engineer",
+ "contact": {
+  "email": "rhosseini@gmail.com",
+  "phone": "+98 9120440868",
+  "location": "Tehran, Iran"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/reza-hosseini8&"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Electronics and Communication Engineering",
+   "institution": "Sharif University of Technology",
+   "grade": "GPA 3.88"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Mobile Engineer",
+   "company": "Digikala",
+   "location": "Shiraz",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 27%",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Mobile Developer (Android)",
+   "company": "Digikala",
+   "location": "Shiraz",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 38% quarter over quarter",
+    "Owned the payments integration with 23 third-party gateways, reducing failed transactions by 53%",
+    "Developed internal tooling in Express.js that saved the support team 21 hours per week",
+    "Built a real-time notification service using Express.js and Apache Kafka that processes 25,000 events per hour",
+    "Designed and built 6 RESTful microservices in Express.js and Flutter, serving 302K+ requests per day with 99.95% uptime",
+    "Wrote technical design documents and led code reviews for a team of 13 engineers"
+   ]
+  },
+  {
+   "title": "Software Engineer II",
+   "company": "Tap30",
+   "location": "Tabriz (Hybrid)",
+   "bullets": [
+    "Developed customer-facing features in Docker used by 935K monthly active users",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 18% to 85%",
+    "Resolved 250+ production issues as part of the on-call rotation, reducing mean time to recovery by 53%"
+   ]
+  },
+  {
+   "title": "Associate Software Engineer",
+   "company": "Cafe Bazaar",
+   "location": "Tehran",
+   "bullets": [
+    "Cut cloud infrastructure costs by IRR 39.4B annually by right-sizing instances and adopting spot capacity",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 20 hours to 15 minutes",
+    "Collaborated with product and design to ship 11 major releases on schedule across web and mobile"
+   ]
+  }
+ ],
+ "skills": [
+  "Kotlin",
+  "O ++",
+  "Python",
+  "Kubernetes",
+  "CI/CD",
+  "Jenkins",
+  "Docker",
+  "Microsoft Azure",
+  "NET Core",
+  "Express.js",
+  "Flutter",
+  "Ruby on Rails",
+  "FastAPI",
+  "Node",
+  "js",
+  "MySQL",
+  "Apache Kafka",
+  "PostgreSQL",
+  "Redis",
+  "Negotiation",
+  "Adaptability",
+  "Team Leadership"
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ]
+}

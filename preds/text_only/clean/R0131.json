@@ -1,0 +1,99 @@
+{
+ "resume_id": "R0131",
+ "name": "KHALID AL HASHIMI",
+ "headline": "Infection Control Nurse Lead",
+ "contact": {
+  "email": "khalid.alhashimi@gmail.com",
+  "phone": "054 115 7582",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "education": [
+  {
+   "degree": "BSc (Hons) Nursing",
+   "institution": "Mohammed Bin Rashid University of Medicine and",
+   "dates": "2013",
+   "grade": "First Class Health Sciences"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Aster Hospitals",
+   "title": "Infection Control Nurse Lead",
+   "dates": "Aug 2022 Present",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of AED 57M",
+    "Grew the team by 25% in two years while keeping attrition below 9%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 24 days to 1 day"
+   ]
+  },
+  {
+   "company": "Cleveland Clinic",
+   "location": "Abu Dhabi",
+   "title": "Registered Nurse",
+   "bullets": [
+    "Participated in 9 code blue responses as a certified ACLS provider",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Oversaw duty rosters for 9 nurses and managed ward inventory and consumables",
+    "Implemented a fall-prevention bundle that reduced patient falls by 19%",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 8%",
+    "Managed ventilated patients in a 11-bed ICU, titrating vasoactive infusions per protocol"
+   ]
+  },
+  {
+   "company": "American Hospital Dubai",
+   "title": "Staff Nurse",
+   "dates": "Jun 2013 May 2015",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Triaged 200+ patients monthly in the emergency department using the Manchester Triage System",
+    "Reduced hospital-acquired infection rates by 41% by leading hand-hygiene audits",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Provided direct care to 12 patients per shift in a 13-bed medical-surgical ward"
+   ]
+  }
+ ],
+ "skills": [
+  "Infection Prevention",
+  "Wound Care Expert",
+  "Phlebotomy Expert",
+  "Medication Administration",
+  "IV Cannulation",
+  "Intermediate",
+  "Epic EHR",
+  "Cerner Intermediate",
+  "NABH Standards",
+  "Electronic Medical Records"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 24 rural health camps screening 200 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2018"
+  },
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "year": "2020"
+  },
+  {
+   "name": "Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council",
+   "year": "2023"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Nurse of the Year",
+   "year": "(2025)"
+  }
+ ],
+ "_runtime_s": 0.482
+}

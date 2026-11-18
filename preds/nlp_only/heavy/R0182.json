@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0182",
+ "name": "CHLOE LAURENT",
+ "experience": [
+  {
+   "title": "i icertinicates Graphic Design Intern",
+   "company": "a",
+   "dates": "january 2025 to April 2025",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 14 stakeholder",
+    "Collected and cleaned data from 10 sources to support a design initiative"
+   ]
+  },
+  {
+   "title": "Graphic Design Intern",
+   "company": "L'Oréal",
+   "dates": "March 2024 to May 2024",
+   "bullets": [
+    "Redesigned the onboarding flow in Sketch, increasing activation by 30%",
+    "Drafted standard operating procedures for 21 recurring tasks",
+    "Supported the design team on 22 live projects, preparing analyses and"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Museum Wayfinding Redesign"
+  },
+  {
+   "name": "Design System for a Fintech Startup"
+  },
+  {
+   "name": "Accessible Transit App Concept"
+  }
+ ],
+ "_runtime_s": 0.045
+}

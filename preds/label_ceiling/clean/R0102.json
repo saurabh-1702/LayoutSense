@@ -1,0 +1,133 @@
+{
+ "resume_id": "R0102",
+ "name": "Kayla Patel",
+ "headline": "Events Manager",
+ "contact": {
+  "email": "kaylapatel17@outlook.com",
+  "phone": "503.572.9253",
+  "location": "Portland, OR"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kayla-patel-e890be"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Georgetown University",
+   "dates": "July 2015 — April 2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Events Manager",
+   "company": "Airbnb",
+   "location": "Portland, OR",
+   "dates": "May 2022 — Present",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 28% in two years while keeping attrition below 10%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of $20.9M",
+    "Introduced weekly operating reviews that cut decision turnaround from 21 days to 1 day",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 6 across 21 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Handled VIP arrivals and guest escalations with a guest satisfaction score of 9.12/10"
+   ]
+  },
+  {
+   "title": "Reservations Agent",
+   "company": "Accor",
+   "location": "San Francisco, CA",
+   "dates": "July 2019 - April 2022",
+   "bullets": [
+    "Raised RevPAR by 9% through dynamic pricing and channel mix optimisation in Fidelio",
+    "Trained 12 associates on brand standards, achieving 39% in mystery audits",
+    "Planned and executed 13 large weddings and MICE events with budgets up to $9.9M",
+    "Led a 8-member kitchen brigade serving 250 covers per day",
+    "Drove upselling programmes that generated $21.3M in incremental room revenue",
+    "Managed front office operations for a 200-room five-star property with 46% average occupancy",
+    "Improved TripAdvisor ranking from #3 to top 5 in the city through service recovery initiatives",
+    "Maintained HACCP compliance and achieved a 5-star food hygiene rating",
+    "Reduced food cost by 15% through menu engineering and supplier renegotiation"
+   ]
+  }
+ ],
+ "skills": [
+  "Micros POS",
+  "SynXis",
+  "IDeaS RMS",
+  "Fidelio",
+  "Delphi.fdc",
+  "Front Office Operations",
+  "Team Supervision",
+  "Menu Engineering",
+  "Revenue Management",
+  "Banquet Management"
+ ],
+ "projects": [
+  {
+   "name": "Pre-opening of a Resort",
+   "dates": "September 2023",
+   "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 500-key resort."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Revenue Management Executive (CRME)",
+   "issuer": "HSMAI",
+   "year": "2017"
+  },
+  {
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": "Wine & Spirit Education Trust",
+   "year": "April 2026"
+  },
+  {
+   "name": "ServSafe Manager",
+   "issuer": "National Restaurant Association",
+   "year": "2017"
+  },
+  {
+   "name": "Certified Hospitality Supervisor (CHS)",
+   "issuer": "AHLEI",
+   "year": "2020"
+  },
+  {
+   "name": "Food Safety Supervisor (FoSTaC)",
+   "issuer": "FSSAI",
+   "year": "March 2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "Airbnb",
+   "year": "2023"
+  },
+  {
+   "name": "Rising Star Award",
+   "issuer": "Airbnb",
+   "year": "2024"
+  },
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Accor",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Basic"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

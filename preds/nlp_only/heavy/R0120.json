@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0120",
+ "name": "Sditea Al Ma",
+ "contact": {
+  "location": "Viletiee"
+ },
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Raft-based replicated key-value store with leader election, log Zayed University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal French"
+  },
+  {
+   "name": "Distributed Key-Value Store BSc in Computer Applications"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "HashiCorp Certified",
+   "issuer": null
+  },
+  {
+   "name": "Terraform Associate",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "Oracle Certified Professional",
+   "issuer": null
+  },
+  {
+   "name": "Java SE 17 Developer",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Meta Front-End Developer",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Hindi",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.06
+}

@@ -1,0 +1,131 @@
+{
+ "resume_id": "R0245",
+ "name": "Burak Demir",
+ "headline": "Senior Manager | 16+ Years in Management Consulting",
+ "contact": {
+  "email": "burak.demir@gmail.com",
+  "phone": "+90 5559846061",
+  "location": "Antalya, Turkey"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/burak-demir-41"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "dates": "2007 - 2010",
+   "institution": "Sabanci University",
+   "location": "istanbul",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Manager",
+   "company": "IBM",
+   "location": "istanbul",
+   "dates": "Dec, 2023 - Sep, 2026",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day"
+   ]
+  },
+  {
+   "title": "Associate Director",
+   "company": "KPMG",
+   "location": "istanbul",
+   "dates": "Aug, 2023 - Nov, 2023",
+   "bullets": [
+    "Grew the team by 60% in two years while keeping attrition below 11%",
+    "Grew the team by 51% in two years while keeping attrition below 8%"
+   ]
+  },
+  {
+   "title": "Associate Partner",
+   "company": "Capgemini",
+   "location": "istanbul",
+   "dates": "Jul, 2023",
+   "bullets": [
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Built Alteryx models to size a TRY 386M addressable market across 14 segments",
+    "Led a team of 7 across 15 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Senior Associate",
+   "company": "EY",
+   "location": "istanbul",
+   "dates": "Jul, 2018 - Jun, 2023",
+   "bullets": [
+    "Built a market entry business case for a TRY 19.7M investment in Southeast Asia",
+    "Managed a team of 13 consultants and client counterparts across 15 workstreams",
+    "Authored 10 thought-leadership articles and contributed to proposals worth TRY 3.8M",
+    "Delivered 16 strategy engagements for clients in banking, retail and telecom",
+    "Partnered with senior leadership to define the annual roadmap and a budget of TRY 109M"
+   ]
+  },
+  {
+   "title": "Business Analyst",
+   "company": "Boston Consulting Group",
+   "location": "Ankara",
+   "dates": "Aug, 2010 - Jun, 2018",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Designed a target operating model for a 9.3M-employee organisation post-merger",
+    "Led a cost transformation programme identifying TRY 2.8M in annual savings for a Fortune 500 client",
+    "Conducted commercial due diligence on 21 private equity targets",
+    "Drove a digital transformation roadmap that increased online sales by 51%"
+   ]
+  }
+ ],
+ "skills": [
+  "Hypothesis-driven Problem Solving",
+  "Strategy Development",
+  "Agile Transformation",
+  "Project Management",
+  "Operating Model Design",
+  "Think-cell",
+  "SQL"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non-profit serving 340K children."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant (CMC)",
+   "issuer": "Institute of Management Consultants",
+   "year": "(Dec, 2018)"
+  },
+  {
+   "name": "Certified Scrum Master (CSM)",
+   "issuer": "Scrum Alliance",
+   "year": "(Mar, 2016)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "IBM",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C1)"
+  },
+  {
+   "language": "German",
+   "proficiency": "(C2)"
+  }
+ ]
+}

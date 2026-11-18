@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0048",
+ "name": "Erik Larsson",
+ "headline": "Years Companies",
+ "contact": {
+  "email": "larsson.erik(@outlook.com)",
+  "phone": "+46 762488671",
+  "location": "Gothenburg, Sweden"
+ },
+ "experience": [
+  {
+   "dates": "09/2019 — Present",
+   "title": "Senior Business Analyst",
+   "company": "EY",
+   "location": "Gothenburg",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 22% in two years while keeping attrition below 20%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of SEK 15.8M",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 24 days to | day",
+    "Led a team of 4 across 9 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "12/2016 ~ 08/2019",
+   "title": "Consultant",
+   "company": "EY",
+   "location": "Gothenburg",
+   "bullets": [
+    "Built a market entry business case for a SEK 2.7M investment in Southeast Asia"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "‘Conca",
+   "description": "comchersist don tlgacs on piv iS"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Swedish",
+   "proficiency": "ative"
+  },
+  {
+   "language": "English"
+  },
+  {
+   "language": "German"
+  }
+ ],
+ "_runtime_s": 0.847
+}

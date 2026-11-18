@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0003",
+ "name": "Alia Al Shamsi",
+ "contact": {
+  "phone": "4971 548789348",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "education": [
+  {
+   "degree": "MDes Visual Communication Zayed University Augiist «July Upper Second Class",
+   "institution": "Qualification Institution ne Tenure™",
+   "dates": "2025"
+  },
+  {
+   "degree": "BA (Hons) Industrial Design American University of Sharjah",
+   "institution": "BA (Hons) Industrial Design American University of Sharjah | September 2022",
+   "dates": "September 2022"
+  }
+ ],
+ "skills": [
+  "User Research",
+  "Typography",
+  "Design Systems",
+  "Tools __",
+  "Principle",
+  "Sketch",
+  "Maze",
+  "Adobe Photoshop",
+  "Blender",
+  "Professional Skills Negotiation",
+  "Cross~ functional Collaboration",
+  "Decision Making",
+  "Stakeholder Management",
+  "' ar"
+ ],
+ "certifications": [
+  {
+   "name": "Certifleation 7 a lInsued Dy ee Youp",
+   "issuer": null
+  },
+  {
+   "name": "Interaction Design Foundation « UX Management Interaction Design Foundation",
+   "issuer": null
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA) Human Factors International pie"
+  }
+ ],
+ "_runtime_s": 0.041
+}

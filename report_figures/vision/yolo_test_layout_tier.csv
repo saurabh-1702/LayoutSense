@@ -1,0 +1,17 @@
+layout,tier,images,precision,recall,mAP50,mAP50_95
+single_column,clean,34,0.9355,0.8917,0.9587,0.9351
+single_column,mild,34,0.8884,0.9271,0.9477,0.8477
+single_column,heavy,34,0.8271,0.8903,0.9126,0.8087
+single_column,all,102,0.8867,0.8931,0.9359,0.8581
+multi_column,clean,34,0.8045,0.7382,0.8101,0.7918
+multi_column,mild,34,0.7584,0.7243,0.7766,0.734
+multi_column,heavy,34,0.7862,0.687,0.7869,0.7192
+multi_column,all,102,0.7793,0.715,0.7828,0.7387
+table_based,clean,40,0.655,0.637,0.7005,0.6799
+table_based,mild,40,0.5527,0.6697,0.6707,0.6303
+table_based,heavy,40,0.5873,0.65,0.6683,0.6152
+table_based,all,120,0.5843,0.6649,0.6726,0.6348
+infographic,clean,39,0.6773,0.6764,0.7004,0.5901
+infographic,mild,39,0.7298,0.6793,0.7346,0.5882
+infographic,heavy,39,0.7561,0.6766,0.7285,0.5782
+infographic,all,117,0.7118,0.6773,0.7106,0.5721

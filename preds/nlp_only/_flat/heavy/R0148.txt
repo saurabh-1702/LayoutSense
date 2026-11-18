@@ -1,0 +1,28 @@
+= Education
+Sep 2022-Jul 2025
+Bachelor in Logistics and Supply Chain Management
+Universitat Pompeu Fabra
+GPA: 7.6/10
+Internship Experience
+Oct 2024-Jan 2025
+Operations Intern
+FedEx - Madrid
+* Presented final internship findings to department leadership
+¢ Collected and cleaned data from 3 sources to support a supply
+chain & operations initiative
+* Prepared research summaries and presentation decks for 13
+stakeholder meetings
+Aug 2023-Dec 2023
+Procurement Intern
+Glovo + Madrid
+e Built a tracker in SQL that streamlined weekly reporting for a
+team of 4
+e Supported the supply chain & operations team on 12 live
+projects, preparing analyses and documentation
+@ Projects
+Warehouse Layout Optimisation
+Slotting analysis that reduced picker travel distance by 35% in a live
+DC.
+Vehicle Routing Model Mar 2026
+Python OR-Tools model for routing 17 delivery vans with time
+windows.

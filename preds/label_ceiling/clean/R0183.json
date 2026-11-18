@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0183",
+ "name": "Thomas Michel",
+ "headline": "Senior Mobile Engineer",
+ "contact": {
+  "email": "thomas.michel@orange.fr",
+  "phone": "06 35 93 80 12"
+ },
+ "links": [
+  {
+   "url": "github.com/thomasmich"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software Engineering"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2021 — September 2026",
+   "company": "BNP Paribas",
+   "title": "Senior Mobile Engineer",
+   "bullets": [
+    "Leda team of 3 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €122M",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 30 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 19% in two years while keeping attrition below 19%",
+    "Developed internal tooling in Python that saved the support team 38 hours per week",
+    "Owned the payments integration with 9 third-party gateways, reducing failed transactions by 34%",
+    "Designed and built 10 RESTful microservices in Python and GitHub Actions, serving 42,000 requests per day with 99.95% uptime",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%",
+    "Wrote technical design documents and led code reviews for a team of 3 engineers",
+    "Cut cloud infrastructure costs by €2.4M annually by right-sizing instances and adopting spot capacity",
+    "Built a real-time notification service using Python and Apache Kafka that processes 817K events per hour"
+   ]
+  },
+  {
+   "dates": "January 2018 — May 2018",
+   "company": "BlaBlaCar",
+   "title": "10S Developer",
+   "bullets": [
+    "Developed customer-facing features in Kotlin used by 241K+ monthly active users",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 7% to 85%",
+    "Introduced feature flags and canary releases, lowering production incidents by 41% quarter over quarter"
+   ]
+  },
+  {
+   "dates": "August 2015 — December 2017",
+   "company": "Schneider Electric",
+   "title": "Graduate Software Engineer",
+   "location": "Paris",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 54%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 27 hours to 15 minutes",
+    "Collaborated with product and design to ship 16 major releases on schedule across web and mobile"
+   ]
+  }
+ ],
+ "skills": [
+  "CI/CD",
+  "AWS",
+  "GitHub Actions",
+  "Rust",
+  "PHP",
+  "Python",
+  "C++",
+  "Kotlin"
+ ],
+ "certifications": [
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "2016"
+  }
+ ],
+ "awards": [
+  {
+   "name": "1st Place, Internal Hackathon",
+   "year": "2016"
+  }
+ ]
+}

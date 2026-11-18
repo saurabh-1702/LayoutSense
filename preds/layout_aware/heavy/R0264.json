@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0264",
+ "name": "MERT OZTURK",
+ "headline": "1 TF Years of Experience",
+ "contact": {
+  "email": "moaturk@®gmail.comCE",
+  "phone": "+31 (0681044759)",
+  "location": "Uwecht, Netherlands"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Automobile Engineering",
+   "institution": "Sabana University",
+   "dates": "2021 - 2025",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul 2025",
+   "title": "Quality Engineer",
+   "company": "ASML",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of EUR 682K by reducing process variation",
+    "Reduced unplanned downtime by 26% by introducing condition-based maintenance",
+    "Led 3 Kaizen events that saved €225K annually in scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "A2",
+  "Bench",
+  "ecoo..",
+  "Product Lifecycle Management",
+  "Six Sigma",
+  "DRMEA",
+  "6",
+  "jes",
+  "Injection Moulding",
+  "MATLAB",
+  "es",
+  "Creo",
+  "Detision Meking",
+  "i.",
+  "Time Management",
+  "Attention to Detail"
+ ],
+ "languages": [
+  {
+   "language": "Turkish"
+  },
+  {
+   "language": "ttinn",
+   "proficiency": "da"
+  },
+  {
+   "language": "English"
+  },
+  {
+   "language": "Curawin"
+  }
+ ],
+ "_runtime_s": 0.154
+}

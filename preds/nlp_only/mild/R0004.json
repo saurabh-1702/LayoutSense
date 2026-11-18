@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0004",
+ "contact": {
+  "email": "pooja.pawar@outlook.com",
+  "phone": "+91 6289865863",
+  "location": "Pooja"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pooja-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Tech in Electronics and Communication Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "qQ [3",
+  "improving result",
+  "lowering production",
+  "reducing",
+  "failed transactions by 52%",
+  "Ruby on Rails"
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.081
+}

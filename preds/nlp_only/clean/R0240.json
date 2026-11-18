@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0240",
+ "contact": {
+  "email": "kevinwu@126.com",
+  "phone": "+86 196 2480 7307",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kevin-wu-87"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Automobile Engineering",
+   "institution": "Current BYD",
+   "dates": "May 2024"
+  }
+ ],
+ "skills": [
+  "teams for 12 programmes",
+  "CATL",
+  "Hangzhou",
+  "reducing process variation J",
+  "condition-based maintenance",
+  "APQP Kaizen",
+  "through SMED and TPM",
+  "w J Ce) ° 80%",
+  "quality concerns",
+  "August 2022",
+  "©) Quality Engineer",
+  "March 2024 Haier Group",
+  "Suzhou 42% Y @ 76%",
+  "increasing",
+  "capacity by 51% MATLAB ANSYS",
+  "Minitab Teamcenter"
+ ],
+ "projects": [
+  {
+   "name": "Design of a Robotic Gripper"
+  },
+  {
+   "name": "Formula Student Race Car"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.024
+}

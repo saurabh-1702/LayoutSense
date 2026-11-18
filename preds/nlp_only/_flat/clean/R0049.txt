@@ -1,0 +1,56 @@
+Ketaki Gandhi
+VP Manufacturing
+Ahmedabad, India | +91-86943-25287 | ketakigandhi@gmail.com | linkedin.com/in/ketaki-gandhi-914126
+SKILLS & TOOLS
+AutoCAD || MATLAB SolidWorks || CATIA V5 Product Lifecycle Management
+Injection Moulding Adaptability
+EXPERIENCE
+Arup
+VP Manufacturing Aug 2024 — Present
+» Achieved Six Sigma Green Belt savings of %73 lakh by reducing process variation
+» Designed 3 sheet-metal and casting components in Teamcenter for a new two-wheeler platform
+» Owned PPAP submissions for 17 suppliers and resolved 200 quality concerns
+» Managed a capex budget of %54 Cr for plant upgrades delivered on time
+» Improved OEE of a 20-station assembly line from 20% to 85% through SMED and TPM
+» Ran FEA in AutoCAD to optimise a bracket design, reducing weight by 18% without loss of stiffness
+Tata Steel
+Head of Product Development Jul 2017 — Jul 2024
+» Leda team of 13 across 6 workstreams, owning hiring, performance reviews and quarterly planning
+» Grew the team by 32% in two years while keeping attrition below 20%
+» Owned PPAP submissions for 24 suppliers and resolved 120 quality concerns
+» Introduced weekly operating reviews that cut decision turnaround from 27 days to | day
+» Represented the function in executive steering committees and board-level reporting
+» Partnered with senior leadership to define the annual roadmap and a budget of ¥615 Cr
+Shell
+Assistant Manager — Production Sep 2011 — Jun 2017
+» Reduced unplanned downtime by 20% by introducing condition-based maintenance
+» Mentored 5 junior colleagues, several of whom were promoted within 18 months
+Bosch
+Senior Design Engineer Jul 2008 — Aug 2011
+» Designed 8 sheet-metal and casting components in Teamcenter for a new two-wheeler platform
+» Managed a capex budget of %69 lakh for plant upgrades delivered on time
+» Commissioned a new CNC machining cell, increasing capacity by 56%
+» Achieved Six Sigma Green Belt savings of 8.3 crore by reducing process variation
+Mahindra & Mahindra
+Production Engineer Aug 2004 — Jun 2008
+» Improved OEE of a 18-station assembly line from 23% to 85% through SMED and TPM
+» Led 4 Kaizen events that saved %6.1 Cr annually in scrap and rework
+» Ran FEA in CATIA V5 to optimise a bracket design, reducing weight by 18% without loss of stiffness
+» Conducted DFMEA and design reviews with cross-functional teams for 9 programmes
+KEY PROJECTS
+Solar-Powered Refrigeration Unit
+Prototype vapour-absorption cooler for rural clinics with 39% energy savings.
+Tools: MATLAB, CATIA V5, AutoCAD, SolidWorks
+Design of a Robotic Gripper
+3D-printed adaptive gripper with force feedback controlled via Arduino.
+Tools: CATIA V5, Teamcenter
+EDUCATION & QUALIFICATIONS
+SRM Institute of Science and Technology
+MTech in Manufacturing Systems, First Class with Distinction Sep 2002 — Jul 2004
+Nirma University
+B.E. in Aerospace Engineering Jul 1998 — Jun 2002
+HONORS
+» Excellence in Manufacturing Award (2017)
+» Values in Action Award, Bosch (2011)
+LANGUAGES
+Gujarati (Native), English (Conversational), Konkani (Conversational)

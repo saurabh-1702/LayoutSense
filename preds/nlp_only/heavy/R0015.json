@@ -1,0 +1,51 @@
+{
+ "resume_id": "R0015",
+ "name": "Pooja Negi",
+ "contact": {
+  "email": "pooja.negi@yahoo.co.in",
+  "phone": "+91-8830060101",
+  "location": "Jaipur, Rajasthan, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/poojanegi-19"
+  },
+  {
+   "url": "dribbble.com/poojanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Design (Visual",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Design (Graphic",
+   "institution": "Bachelor of Design (Graphic",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Framer",
+  "Maze * Adobe XD",
+  "Adobe After Effects",
+  "Sketch",
+  "Team Leadership",
+  "Time Management",
+  "Dec 2025",
+  "Now Flipkart Brand Designer Jaipur",
+  "owning hiring",
+  "* Mentored 14 junior colleagues",
+  "Oct 2025",
+  "Nov 2025",
+  "Created brand identity"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA)"
+  }
+ ],
+ "_runtime_s": 0.034
+}

@@ -1,0 +1,51 @@
+Oe
+reostisoemn THANDIWE DLAMINI
+Data Science & Analytics Graduate ll
+Location Pretoria, South Africa a
+Mohile +27-74-957-0109 A
+E-mail thandiwe.dlamini@gmail.com
+aT
+Linkedin linkedin.com/in/ thandiwe-dlamini-97
+Te
+EDUCATION &
+(e277 2
+QUALIFICATIONS vi
+ea
+09 /2023-015/ 2026 BSc Statistics
+University of Cape Town, Cape Town
+i
+SKILLS
+Languages Scala, R, SAS
+ML & Al scikit-learn, LangChain, NLP, Computer Vision
+Databricks, Apache Kafka, BigQuery
+Data Engineering,
+Looker, Plotly, Tableau, Matplotlib, Power Bl
+BI & Visualisation
+Professional Skills Problem Solving, Decision Making, Negotiation
+ACADEMIC
+a ee
+PROJECTS
+Air Quality Forecasting stations with a Streamlit
+LSTM model forecasting PM2.5 levels across 23 monitoring
+dashboard.
+Retail Sales Dashboard and
+Power BI dashboard on 251K+ transactions with drill-downs by region
+End-to-end
+category.
+Tools wed: BigQuery, Tableau, S ala, Matplotlib
+Credit Risk Scoring Model
+model on 286K+ loan applications with SHAP explanations and
+Gradient-boosted
+fairness checks.
+Toul used: R, Seale, Tableau, scikit-learn
+LANGUAGES
+OO ee a eT ee ee
+KNOWN
+English Native
+Afrikaans Basic
+LICENSES &
+es ee
+CERTIFICATIONS
+Microsoft Certified: Power BI Data Analyst Associate, Microsoft
+09/2025
+2 ——— LS CUsstisi‘SC‘éitSdS MTT van ll TW AW)

@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0160",
+ "contact": {
+  "email": "princess.cruz@gmail.com",
+  "phone": "+63 995 127 5766",
+  "location": "Quezon City"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/princess-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mechanical Engineering",
+   "institution": "Mapua University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Design Engineer",
+   "company": "O",
+   "dates": "May 2025 — Present",
+   "bullets": [
+    "Commissioned a new CNC machining cell, increasing capacity by 37%",
+    "Led 17 Kaizen events that saved PHP 245M annually in scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "ies Magna Cum Laude",
+  "EA"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "& Professional Engineer",
+   "issuer": "PE)"
+  },
+  {
+   "name": "NCEES *",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.059
+}

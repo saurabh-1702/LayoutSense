@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez",
+ "contact": {
+  "email": "gonzalez.david@gmail.com",
+  "phone": "621 434 362",
+  "location": "Valencia, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/davidgonzalez-bod5e3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business IE University Nota media: 8.8",
+   "institution": "Bachelor of Business IE University",
+   "dates": "2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Mercadona Supply Chain Intern",
+   "company": "Valencia",
+   "dates": "Feb 2026 May 2026",
+   "bullets": [
+    "Built a tracker in SAP APO that streamlined weekly reporting for a team of 8",
+    "Assisted with day-to-day supply chain & operations operations and maintained accurate records"
+   ]
+  },
+  {
+   "title": "Uber Procurement Intern",
+   "company": null,
+   "dates": "Oct 2024 Mar 2025",
+   "bullets": [
+    "Built a tracker in Kinaxis RapidResponse that streamlined weekly reporting for a team of 4",
+    "Prepared research summaries and presentation decks for 8 stakeholder meetings"
+   ]
+  }
+ ],
+ "skills": [
+  "Proficiency",
+  "‘omdesem Bony"
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt ASQ",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.046
+}

@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0113",
+ "name": "YAMADA Yuna",
+ "contact": {
+  "email": "yunayamada@gmail.com",
+  "phone": "+81 90-7437-2265",
+  "location": "Yokohama, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yuna-yamada-71"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Automobile Engineering",
+   "institution": "Tokyo Institute of Technology",
+   "dates": "Sep 2023 — Present"
+  }
+ ],
+ "skills": [
+  "Sheet Metal Design e PFMEA",
+  "Kaizen e Teamcenter ¢ SolidWorks",
+  "ANSYS",
+  "Time Management",
+  "Conflict"
+ ],
+ "projects": [
+  {
+   "name": "Formula Student Race Car"
+  },
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified SolidWorks Professional",
+   "issuer": "CSWP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.019
+}

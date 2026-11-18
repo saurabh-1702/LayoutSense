@@ -1,0 +1,131 @@
+{
+ "resume_id": "R0176",
+ "name": "CAMILLE BERNARD",
+ "headline": "Operating Theatre Nurse | 8+ Years in Nursing",
+ "contact": {
+  "email": "camilleb479@free.fr",
+  "phone": "06 66 76 04 14",
+  "location": "Marseille, France"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/camille-bernard"
+  },
+  {
+   "url": "www.camillebernard.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Nursing",
+   "institution": "Université Claude Bernard Lyon 1",
+   "dates": "08/2015 - 03/2018",
+   "grade": "Mention Bien"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "02/2022 - Present",
+   "title": "Operating Theatre Nurse",
+   "company": "CHU de Bordeaux",
+   "location": "Paris",
+   "bullets": [
+    "Grew the team by 24% in two years while keeping attrition below 12%",
+    "Introduced weekly operating reviews that cut decision turnaround from 16 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of €16.2M",
+    "Led a team of 7 across 10 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "04/2019 - 01/2022",
+   "title": "Registered Nurse",
+   "company": "CHU de Bordeaux",
+   "location": "Marseille",
+   "bullets": [
+    "Participated in 14 code blue responses as a certified ACLS provider",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Oversaw duty rosters for 5 nurses and managed ward inventory and consumables",
+    "Triaged 200+ patients monthly in the emergency department using the Manchester Triage System",
+    "Trained 5 newly joined nurses on medication safety and documentation in Electronic Medical Records",
+    "Maintained 100% compliance in JCI/ NABH accreditation audits for the unit",
+    "Implemented a fall-prevention bundle that reduced patient falls by 26%"
+   ]
+  },
+  {
+   "dates": "05/2018 - 03/2019",
+   "title": "Junior Staff Nurse",
+   "company": "CHU de Bordeaux",
+   "location": "Marseille",
+   "bullets": [
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 10%",
+    "Provided direct care to 24 patients per shift in a 6-bed medical-surgical ward",
+    "Reduced hospital-acquired infection rates by 60% by leading hand-hygiene audits",
+    "Managed ventilated patients in a 18-bed ICU, titrating vasoactive infusions per protocol"
+   ]
+  }
+ ],
+ "skills": [
+  "Electronic Medical Records",
+  "NABH Standards",
+  "JCI Standards"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 14 rural health camps screening 180 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "12/2018"
+  },
+  {
+   "name": "Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council",
+   "year": "«2017"
+  },
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association",
+   "year": "08/2021"
+  },
+  {
+   "name": "Critical Care Registered Nurse (CCRN)",
+   "issuer": "AACN",
+   "year": "2021"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "CHU de Bordeaux",
+   "year": "2023"
+  },
+  {
+   "name": "Excellence in Patient Care Award",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Fluent"
+  }
+ ]
+}

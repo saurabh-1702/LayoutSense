@@ -1,0 +1,81 @@
+Sharon Wanjiku
++254 700 486 186 * swanjiku@gmail.com * Mombasa, Kenya
+Employment History Languages Known
+Head of Engineering Nov 2024—Present English Native
+Bloomberg @ Mombasa Kikuyu Fluent
+— Introduced weekly operating reviews that cut decision turnaround Swahili Conversational
+from 16 days to 1 day
+Educational Qualifications
+— Partnered with senior leadership to define the annual roadmap and a
+BSc in Computer Science
+budget of KES 790K
+Jomo Kenyatta University of Agriculture
+— Leda team of 5 across 16 workstreams, owning hiring, performance
+and Technology
+reviews and quarterly planning Aug 2006—Aug 2009 | First Class Honours
+— Wrote technical design documents and led code reviews for a team of
+4 engineers Certificates
+— Mentored 4 junior colleagues, several of whom were promoted within Certified Kubernetes Administrator
+18 months (CKA)
+‘The Linux Foundation, 2022
+Senior Full Stack Engineer Jan 2017—Oct 2024
+AWS Certified Developer — Associate
+Salesforce @ Mombasa
+Amazon Web Services, 2025
+— Developed internal tooling in FastAPI that saved the support team 36
+Oracle Certified Professional: Java SE
+hours per week 17
+Developer
+— Built a real-time notification service using FastAPI and Apache Kafka Oracle, Feb 2009
+that processes 359K events per hour HashiCorp Certified: Terraform
+— Rebuilt the search experience with Elasticsearch, improving result Associate
+relevance and click-through by 24% HashiCorp, 2011
+— Reduced p95 API latency by 44% by introducing Redis caching and
+optimising slow PostgreSQL queries
+— Collaborated with product and design to ship 19 major releases on
+schedule across web and mobile
+— Introduced feature flags and canary releases, lowering production
+TypeScript
+incidents by 38% quarter over quarter
+— Grew the team by 38% in two years while keeping attrition below Ruby
+25%
+JavaScript
+Senior Backend Engineer Dec 2014—Dec 2016
+Cellulant @ Mombasa Scala
+— Cut cloud infrastructure costs by KES 217M annually by right-sizing
+FastAPI
+instances and adopting spot capacity
+— Designed and built 19 RESTful microservices in JavaScript and | Jue.js
+TypeScript, serving 76,000 requests per day with 99.95% uptime
+Next.js
+— Migrated a legacy monolith to containerised services on Kubernetes,
+cutting deployment time from 29 hours to 15 minutes S Le
+— Represented the function in executive steering committees and board- ZIe
+fe) 5 -<] 8, a
+level reporting
+Flutter
+Microsoft Azure
+Google Cloud Platform
+Graduate Software Engineer Sep 2009—Nov 2014
+Adobe @ Mombasa Jenkins
+— Developed customer-facing features in Ruby on Rails used by 362K+
+MySQL
+monthly active users
+— Resolved 120+ production issues as part of the on-call rotation, Redis
+reducing mean time to recovery by 37%
+Elasticsearch
+— Implemented a CI/CD pipeline with GitHub Actions and automated
+tests, raising code coverage from 22% to 85%
+Social
+— Owned the payments integration with 10 third-party gateways,
+LinkedIn: linkedin.com/in/sharon-
+reducing failed transactions by 44%
+wanjiku-11
+Key Projects GitHub: github.com/sharon97
+Food Delivery Clone Jun 2007
+Full-stack food ordering app with live order tracking, payments and an
+admin dashboard.
+Technologies: MySQL, C++, Jenkins
+URL Shortener at Scale
+Load-tested URL shortener handling 8.4M redirects/minute with
+consistent hashing and Redis.

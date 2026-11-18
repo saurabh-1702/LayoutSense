@@ -1,0 +1,48 @@
+Ryota Suzuki
+Principal Hardware Engineer | 16+ Years in Electrical & Electronics Engineering
+(Phone | +81 90 2128 2372 [Emat | ryota.suzuki@yahoo.co.jp
+Osaka, Japan [LinkedIn | linkedin.com/in/ryota-suzuki
+PROFESSIONAL EXPERIENCE
+[SNo. [Organisation SSS*d Designation Si From [To
+Osaka
+Key Contributions:
+e Led a team of 3 across 14 workstreams, owning hiring, performance reviews and quarterly planning
+e Mentored 14 junior colleagues, several of whom were promoted within 18 months
+e Partnered with senior leadership to define the annual roadmap and a budget of JPY 26.7B
+e Represented the function in executive steering committees and board-level reporting
+e Represented the function in executive steering committees and board-level reporting
+Panasonic Holdings Engineering Manager — Electrical
+Osaka
+Key Contributions:
+e Commissioned a 7 MW solar plant including inverters, transformers and SCADA integration
+° Performed load flow and short-circuit studies for 5 industrial clients
+3 Sony Group Senior Embedded Engineer 2016 2022
+Nagoya
+Key Contributions:
+° Verified RTL designs on FPGA, achieving timing closure at 200 MHz
+e Designed protection schemes for 20 132/33 kV substations using PSCAD
+e Reduced energy losses by 41% through power factor correction and harmonic filtering
+e Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day
+Hitachi Electrical Engineer 2010 2016
+Osaka
+Key Contributions:
+e Developed firmware in Embedded C for a battery management system on 500+ EV packs
+° Programmed Siemens PLCs to automate a packaging line, raising throughput by 45%
+° Designed 18-layer PCBs in PSCAD for an industrial IoT gateway
+° Led root cause analysis on transformer failures, saving ¥305M in replacement costs
+EDUCATION & QUALIFICATIONS
+B.Eng. in Electrical and Tokyo Institute of Technology 2010 GPA 3.44/4.00
+Electronics Engineering
+SKILLS & TOOLS
+Pi i a a eae Le eae
+LICENSES & CERTIFICATIONS
+|S.No. | =| Certification suing Organisation
+Professional Engineer (PE) — Electrical NCEES 2021
+ere Certified Energy Manager (CEM) Association of Energy Engineers 2009
+LANGUAGES
+Language [Read [Wite [Speak _[Profiensy
+Japanese
+Korean
+HONORS
+e Values in Action Award — Panasonic Holdings (2022)
+e Spot Award for Excellence — Panasonic Holdings (2022)

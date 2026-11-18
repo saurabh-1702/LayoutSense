@@ -1,0 +1,82 @@
+{
+ "resume_id": "R0268",
+ "name": "Debanjan; Wey umdar",
+ "contact": {
+  "email": "majumdar@pmail.coferte==",
+  "phone": "491 8917412521.",
+  "location": "Jharkhand"
+ },
+ "links": [
+  {
+   "url": "www.linkedineein/debanjan-emajumdari"
+  }
+ ],
+ "education": [
+  {
+   "dates": "September 2021 - April 2024",
+   "degree": "B.Sc. in Chemistry",
+   "institution": "Indian Institute of Science"
+  }
+ ],
+ "experience": [
+  {
+   "title": "QC Analyst",
+   "company": "Pfizer",
+   "location": "Kolkata",
+   "bullets": [
+    "Trained 3 analysts on data integrity and ALCOA+ principles",
+    "Monitored 6 clinical trial sites across Phase II and II] oncology studies",
+    "Validated 16 analytical methods per ICH Q2(R1) guidelines",
+    "Processed 27,000 adverse event reports in Argus Safety within regulatory timelines",
+    "Exceeded territory sales targets by 59% across 250 prescribing doctors"
+   ],
+   "dates": "May 2024 - November 2025"
+  },
+  {
+   "title": "Pharmacist",
+   "company": "Pfizer",
+   "location": "Kolkata",
+   "bullets": [
+    "Prepared and submitted 21 ANDA/eCTD dossiers to USFDA and EMA",
+    "Supported 20 successful USFDA and MHRA inspections with no critical observations",
+    "Led CAPA investigations that reduced batch deviations by 18%"
+   ]
+  }
+ ],
+ "skills": [
+  "Ee",
+  "EEEE",
+  "Veeva Vault",
+  "LIMS"
+ ],
+ "projects": [
+  {
+   "name": "Formulation of Fast-Dissolving Tablets",
+   "description": "Developed and evaluated orally disintegrating tablets using superdisintegrants."
+  },
+  {
+   "name": "Pharmacovigilance Signal Detection",
+   "dates": "March 2023",
+   "description": "Disproportionality analysis on spontaneous reports for 9 marketed molecules."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Regulatory Affairs Certification (RAC)",
+   "issuer": "RAPS",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Indian Institute at Scienee",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengall"
+  }
+ ]
+}

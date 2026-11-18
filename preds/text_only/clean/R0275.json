@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0275",
+ "name": "IQRA ABBASI",
+ "headline": "Principal Hardware Engineer",
+ "contact": {
+  "email": "igra.abbasi@gmail.com",
+  "phone": "0310-2641643",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/iqraabbasi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Power Systems Sciences",
+   "institution": "FAST National University of and National University of Sciences and First",
+   "dates": "2014"
+  },
+  {
+   "degree": "BEng Electronics and Communication Technology Engineering",
+   "grade": "Class"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Engro Corporation",
+   "title": "Principal Hardware Engineer",
+   "dates": "Nov",
+   "location": "Lahore",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 13.8M",
+    "Grew the team by 50% in two years while keeping attrition below 5%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a team of 4 across 18 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Performed load flow and short-circuit studies for 14 industrial clients",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 737K",
+    "Verified RTL designs on FPGA, achieving timing closure at 200 MHz",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Designed protection schemes for 17 132/33 kV substations using Altium Designer",
+    "Led root cause analysis on transformer failures, saving PKR 240K in replacement costs",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 46%",
+    "Reduced energy losses by 53% through power factor correction and harmonic filtering"
+   ]
+  },
+  {
+   "title": "WSP"
+  },
+  {
+   "title": "Junior Electronics Engineer",
+   "dates": "May 2014 May 2021",
+   "location": "Karachi",
+   "bullets": [
+    "Commissioned a 22 MW solar plant including inverters, transformers and SCADA integration",
+    "Designed 5-layer PCBs in PSCAD for an industrial IoT gateway",
+    "Developed firmware in Embedded C for a battery management system on 60+ EV packs"
+   ]
+  }
+ ],
+ "skills": [
+  "Altium",
+  "Siemens",
+  "TIA Portal",
+  "HV Substations"
+ ],
+ "projects": [
+  {
+   "tech": "Designer",
+   "name": "Renewable Energy Integration"
+  },
+  {
+   "name": "Smart Energy Meter with",
+   "description": "ESP32-based meter streaming consumption data to a cloud IoT dashboard.",
+   "tech": "Altium Designer, DIgSILENT PowerFactory"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "National University of Sciences and Technology",
+   "year": "(2013)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Shell",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.592
+}

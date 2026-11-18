@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0103",
+ "name": "SAAD SHEIKH",
+ "contact": {
+  "email": "saad_sheikh@gmail.com",
+  "phone": "+92 334 6744947",
+  "location": "Islamabad, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/saad-sheikh4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Structural Engineering",
+   "institution": "NED University of Engineering and Technology",
+   "dates": "August 2018"
+  },
+  {
+   "degree": "MEng Civil Engineering",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "September 2014"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Project Manager",
+   "company": "Lucky Cement",
+   "dates": "January 2025 - Present",
+   "bullets": [
+    "Achieved 6.3M safe man-hours without a lost-time injury on site",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 12.9M",
+    "Delivered a 9 km highway stretch 9 weeks ahead of schedule",
+    "Managed client billing and variations, improving cash collection by 42%"
+   ]
+  }
+ ],
+ "skills": [
+  "Engineering Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "Software Navisworks",
+  "Primavera P6",
+  "ETABS",
+  "SAP2000",
+  "MS Project",
+  "Tekla Structures"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study"
+  },
+  {
+   "name": "Design of a Gt+5 Residential Building"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Autodesk Certified Professional: Revit",
+   "issuer": "Autodesk"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  },
+  {
+   "name": "Chartered Engineer",
+   "issuer": "CEng)"
+  },
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.03
+}

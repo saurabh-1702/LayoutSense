@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0016",
+ "name": "Arjun Rawat",
+ "headline": "Primary School Teacher",
+ "contact": {
+  "email": "arjunrawat@gmail.com",
+  "phone": "(+91) 9300039542",
+  "location": "India Jaipur, Rajasthan"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/arjun-rawat-38"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc (Chemistry)",
+   "institution": "Vellore Institute of Technology",
+   "grade": "First Class with Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Aug '25 - Present",
+   "title": "Primary School Teacher",
+   "company": "DAV Public School",
+   "location": "Jaipur",
+   "bullets": [
+    "Raised average class performance by 13% through targeted remediation and formative assessment",
+    "Developed 50 digital lessons and assessments used across the district",
+    "Led parent-teacher conferences and individualised learning plans for 14 students with SEN",
+    "Mentored 9 new teachers as part of the induction programme",
+    "Coordinated the school's Smart Board rollout, training 15 teachers in blended learning"
+   ]
+  }
+ ],
+ "skills": [
+  "Curriculum Design",
+  "Assessment Design",
+  "Special Educational Needs",
+  "Lesson Planning",
+  "Student Counselling"
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ]
+}

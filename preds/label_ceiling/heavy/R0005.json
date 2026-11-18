@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0005",
+ "contact": {
+  "phone": "+91-94193-95065",
+  "location": "Navi Maharashtra linkedin.com/in/hetaljoshi-b6378a"
+ },
+ "links": [
+  {
+   "url": "Mumbai"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc (Computer Science)",
+   "institution": "SRM Institute of Science and Technology",
+   "dates": "Sep 2011 — Jum 2014",
+   "grade": "CGPA: 7.94/10"
+  }
+ ],
+ "experience": [
+  {
+   "title": "ssTO8Y",
+   "dates": "Dearne",
+   "bullets": [
+    "a Ge soli ie bln ol",
+    "Leda team of 5 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 10 days to 1 day",
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months"
+   ],
+   "location": "scene"
+  },
+  {
+   "dates": "Sep 2015 — Nov 2016",
+   "bullets": [
+    "Built a realtime notification service using Go and Apache Kafka that processes 39,000 events per hour",
+    "Designed and built 4 RESTful microservices in Go and Ruby, serving 3.0M requests per day with 99.95% uptime",
+    "Owned the payments integration with 19 third-party gateways, reducing failed transactions by 22%",
+    "Migreted a legacy monolith to containerised services on Kubernetes, cutting deployment time from 30 hours to 15 minutes"
+   ],
+   "title": "Associate Software Engineer",
+   "company": "Zoho Corporation",
+   "location": "Navi Mumbai"
+  }
+ ],
+ "skills": [
+  "Scala",
+  "Go",
+  "TypeScript",
+  "Ruby"
+ ],
+ "languages": [
+  {
+   "language": "PROFICIENCY"
+  }
+ ]
+}

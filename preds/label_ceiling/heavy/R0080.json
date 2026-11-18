@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0080",
+ "education": [
+  {
+   "degree": "BA (Hons) Logistics and Supply Chain Management",
+   "institution": "RMIT University",
+   "dates": "2024 — 2027 (Expected)",
+   "grade": "Upper Second-Class (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan, 2026 — Apr.",
+   "title": "Operations Intern",
+   "company": "Procter & Gamble",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Prepared research summaries and presentation decks for 4 stakeholder meetings",
+    "Drafted standard operating procedures for 14 recurring tasks"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "dates": "Sep, 2026",
+   "description": "Siotting analysis that reduced picker travel distance by 25% in a five DC.",
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "RMIT University",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "i i",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "A2"
+  }
+ ]
+}

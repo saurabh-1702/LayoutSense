@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0130",
+ "name": "Segun Afolabi Pe",
+ "contact": {
+  "phone": "+234 8086332049"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/segunafolabi-31"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA eee",
+   "institution": "Lagos Business School ee",
+   "dates": "09/2023 - Present"
+  },
+  {
+   "degree": "MEng Mechanical Engineering",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Executive MBA eee",
+   "company": "Lagos Business School ee",
+   "dates": "09/2023 - Present",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Distinction 1)",
+   "dates": "40/2013 - 09/2014",
+   "bullets": [
+    "Managed 21 key accounts generating NGN 323M MEng Mechanical Engineering"
+   ]
+  },
+  {
+   "title": "+ Ranked #1 out of 21 account executives in the SKILLS",
+   "company": "in annual revenue with 32% net revenue retention",
+   "dates": "07/2007 - 04/2011",
+   "bullets": [
+    "Maintained 46% forecast accuracy in weekly",
+    "Achieved 4% of annual quota for 11 consecutive Tools: Salesforce CRM + Outreach - Gong « Zoho"
+   ]
+  },
+  {
+   "title": null,
+   "company": "years, closing NGN 11.7M in new ARR CRM",
+   "dates": "10/2018 - 08/2023",
+   "bullets": [
+    "Partnered with senior leadership to define the",
+    "Represented the function in executive steering"
+   ]
+  },
+  {
+   "title": "Regional Sales Manager",
+   "company": "committees and board-level reporting",
+   "dates": "04/2018 - 09/2018",
+   "bullets": [
+    "Expanded distribution to 300 new retail outlets",
+    "Grew the team by 40% in two years while keeping Yoruba intermediate"
+   ]
+  },
+  {
+   "title": "Development Manager",
+   "company": "attrition below 15%",
+   "dates": "11/2014 - 03/2018",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.122
+}

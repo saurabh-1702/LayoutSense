@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0119",
+ "name": "Fatima Khan",
+ "contact": {
+  "email": "fatima.khan@gmail.com",
+  "phone": "0334-4135535",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/fatima-khan-3bd063"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Advanced Clinical Practice",
+   "institution": "Qualification Institution Year Result",
+   "dates": "2013"
+  },
+  {
+   "degree": "BSc (Hons) Adult Nursing Aga Khan University Ps ae",
+   "institution": "(Hons) Adult Nursing Aga Khan University 2012 Ps ae",
+   "dates": "2012"
+  }
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "_runtime_s": 0.023
+}

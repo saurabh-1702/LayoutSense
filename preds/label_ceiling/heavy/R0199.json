@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0199",
+ "name": "HANAN AL RASHID",
+ "contact": {
+  "phone": "+966 54 306 1070"
+ },
+ "links": [
+  {
+   "url": "muckrack.com/hananalrashid"
+  }
+ ],
+ "education": [
+  {
+   "dates": "2016 to 2020",
+   "degree": "BA, English Literature",
+   "institution": "King Abdulaziz University"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "01.2025 to Present",
+   "title": "Brand Manager",
+   "company": "Google",
+   "bullets": [
+    "Built a marketing attribution dashboard in Meta Ads Manager used in weekly leadership reviews",
+    "Grew Instagram and LinkedIn followers from 847K to over 3x within a year",
+    "Coordinated 11 influencer campaigns generating 39K+ impressions and 259K+ engagements"
+   ]
+  },
+  {
+   "dates": "07.2020 to 12,2024",
+   "title": "Content Marketing Associate",
+   "company": "Almarai",
+   "bullets": [
+    "Grew organic traffic by 34% in 9 months through technical SEO and a content calendar of 4 articles per month",
+    "Managed a monthly paid media budget of SAR 791K across Google Ads and Meta, achieving a 13x ROAS",
+    "Built automated email nurture journeys in Meta Ads Manager that lifted MQL-to- SQL conversion by 53%",
+    "Reduced customer acquisition cost by 60% through audience segmentation and creative testing",
+    "Ran consumer research with 180 respondents to shape positioning for a new category"
+   ]
+  }
+ ],
+ "skills": [
+  "Google Ads",
+  "Meta Ads Manager",
+  "Hootsuite",
+  "SEMrush",
+  "HubSpot",
+  "Influencer Marketing",
+  "SEO",
+  "Go-to-Market Strategy",
+  "Content Strategy",
+  "Social Media Marketing",
+  "Cross-functional Collaboration",
+  "Conflict Resolution",
+  "Problem Solving"
+ ],
+ "certifications": [
+  {
+   "year": "2025",
+   "name": "Content Marketing Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "year": "12,2024",
+   "name": "Google Ads Search Certification",
+   "issuer": "Google"
+  },
+  {
+   "year": "07.2022",
+   "name": "Google Analytics Certification",
+   "issuer": "Google"
+  },
+  {
+   "year": "2021",
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic"
+  },
+  {
+   "language": "English"
+  },
+  {
+   "language": "Urdu"
+  }
+ ]
+}

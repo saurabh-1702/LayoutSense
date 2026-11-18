@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0208",
+ "contact": {
+  "phone": "#48 608 597 313"
+ },
+ "education": [
+  {
+   "dates": "08/2024 - 07/2025",
+   "degree": "Teaching Qualification (Education)",
+   "institution": "Academy of Fine Arts in Warsaw",
+   "grade": "GPA: 4.5/5"
+  },
+  {
+   "dates": "07/2021 - 07/2024",
+   "degree": "B.Sc. Physics",
+   "institution": "AGH University of Krakéw"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "09/7025 + Present",
+   "title": "Science Teacher",
+   "company": "Stefan Batory High School",
+   "location": "Krakow",
+   "bullets": [
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 15 grade levels",
+    "Led parent-teacher conferences and individualised learning plans for 14 students with SEN",
+    "Coordinated the school's Canvas LMS rollout, training 12 teachers in blended learning"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners",
+   "dates": "07/2025",
+   "description": "Phonics-based intervention for 200 students across 10 schools"
+  }
+ ]
+}

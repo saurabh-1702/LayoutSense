@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0171",
+ "contact": {
+  "email": "Itran@yahoo.com",
+  "phone": "090-356-5142",
+  "location": "Da Nang, Vietnam"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/linhtran"
+  },
+  {
+   "url": "www.linhtran.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Medicine (M.D.)",
+   "institution": "Hanoi Medical University",
+   "dates": "Aug 2000—Aug 2005"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Bach Mai Hospital",
+   "title": "Consultant Physician",
+   "location": "Can Tho",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting"
+   ],
+   "dates": "Jun 2011—Oct 2011"
+  },
+  {
+   "company": "Bach Mai Hospital",
+   "title": "Consultant",
+   "location": "Da Nang",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of VND 704M",
+    "Introduced weekly operating reviews that cut decision turnaround from 29 days to 1 day",
+    "Leda team of 7 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Supervised and taught 8 interns and medical students on ward rounds",
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day"
+   ]
+  },
+  {
+   "company": "Bach Mai Hospital",
+   "title": "Consultant",
+   "location": "Da Nang",
+   "bullets": [
+    "Performed 120+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Ran outpatient clinics seeing 12 patients per session with a focus on diabetes and hypertension",
+    "Grew the team by 13% in two years while keeping attrition below 22%"
+   ],
+   "dates": "Oct 2010—Dec 2010"
+  },
+  {
+   "company": "FV Hospital",
+   "title": "Consultant Physician",
+   "location": "Da Nang",
+   "bullets": [
+    "Co-authored 11 peer-reviewed publications in indexed journals",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 48%",
+    "Managed an average of 20 inpatients daily across general medicine and high-dependency units",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ],
+   "dates": "Oct 2005—Sep 2010"
+  },
+  {
+   "company": "Vinmec International Hospital",
+   "title": "Medical Officer",
+   "location": "Da Nang",
+   "bullets": [
+    "Led aclinical audit on sepsis bundle compliance that improved adherence by 45%",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Presented case reports at 24 national conferences"
+   ]
+  }
+ ],
+ "skills": [
+  "Cerner",
+  "Epic EHR",
+  "ICD-10 Coding",
+  "Clinical Research",
+  "Evidence-based Medicine",
+  "Critical Care",
+  "Public Speaking",
+  "Team Leadership"
+ ],
+ "certifications": [
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons"
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK",
+   "issuer": "NBME"
+  },
+  {
+   "name": "ACLS Provider",
+   "issuer": "American Heart Association",
+   "year": "Jan 2009"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

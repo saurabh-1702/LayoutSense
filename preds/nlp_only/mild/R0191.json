@@ -1,0 +1,46 @@
+{
+ "resume_id": "R0191",
+ "name": "Ishita Agarwal",
+ "contact": {
+  "email": "ishita1991@gmail.com",
+  "phone": "(+91) 7903876160"
+ },
+ "education": [
+  {
+   "degree": "BA LLB (Hons.) Symbiosis International University",
+   "institution": "Qualification Institution / University Year of Passing Grade",
+   "dates": "2026"
+  },
+  {
+   "degree": "Class XII (State Board) Ryan International School 81.7%",
+   "institution": "XII",
+   "dates": "2021"
+  },
+  {
+   "degree": "Class X (CBSE) Ryan International School 93.5%",
+   "institution": "(CBSE) Ryan International School 2019 93.5%",
+   "dates": "2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Noida",
+   "dates": "December 2024 March 2025",
+   "bullets": [
+    "Drafted standard operating procedures for 16 recurring tasks"
+   ]
+  }
+ ],
+ "skills": [
+  "Corporate Law",
+  "Contract Drafting",
+  "SCC Online Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "_runtime_s": 0.052
+}

@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0141",
+ "name": "Rutuja Parikh",
+ "contact": {
+  "email": "rutuja.parikh@gmail.com",
+  "phone": "+91-9967030008",
+  "location": "Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rutuja-parikh"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech (Geotechnical Engineering)",
+   "institution": "BITS Pilani",
+   "dates": null
+  },
+  {
+   "degree": "B.E. in Structural Engineering",
+   "institution": "Indian Institute of Technology Bombay",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "NEBOSH International General Certificate",
+   "issuer": "NEBOSH"
+  },
+  {
+   "name": "« LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  },
+  {
+   "name": "Chartered Engineer",
+   "issuer": "CEng)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.023
+}

@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0192",
+ "name": "Farzana Haque ls",
+ "headline": "Recruiter",
+ "contact": {
+  "email": "farzanahaque@gmail.com",
+  "phone": "+880- 1635002800",
+  "location": "Rajshahi, Bangladesh"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ferzana-haque-4fd085ssn"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA in Human Resource Management",
+   "institution": "University of Dhaka",
+   "dates": "August 2023 - August 2024",
+   "grade": "Upper Second- Class 21)"
+  },
+  {
+   "degree": "BA (Hons) Psychology",
+   "institution": "BRAC University September",
+   "dates": "2020 - June 2023"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "September 2024 - April 2025",
+   "title": "People Operations Associate",
+   "location": "Rajshahi",
+   "bullets": [
+    "Managed end-to-end hiring for 6 roles per quarter, reducing time-to-hire from 29 to 17 days",
+    "Rolled out Excel across 6 countries, digitising onboarding for 28,000 employees",
+    "Launched an internal L&D academy that delivered 250 training hours per quarter"
+   ]
+  }
+ ],
+ "skills": [
+  "Employee Reletons",
+  "Compensation & Benefits",
+  "Labour Law Compliance",
+  "Excel AO",
+  "Oracle HOM",
+  "Workday",
+  "SAP SuccessFactors"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "dates": "July 2025",
+   "description": "Redesigned a survey for 250 employees and ran action- -planning workshops with 3 teams."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Workday HCM Certification",
+   "issuer": "Workday.",
+   "year": "2025"
+  },
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "year": "SHRM, Auly 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "ACHIEVEMENTS Employee of Quarter",
+   "issuer": "Accenture",
+   "year": "2026 Excellence"
+  },
+  {
+   "name": "CEO's Award",
+   "issuer": "Accenture",
+   "year": "2825 Champion"
+  },
+  {
+   "name": "HR of the Year",
+   "year": "Pa ae)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Nate"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ]
+}

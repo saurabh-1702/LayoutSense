@@ -1,0 +1,18 @@
+{
+ "resume_id": "R0282",
+ "name": "SAP, Warsaw",
+ "contact": {
+  "location": "FastAFl"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nataliawozniak2"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store ¢ Apache Kafka"
+  }
+ ],
+ "_runtime_s": 0.067
+}

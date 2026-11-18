@@ -1,0 +1,36 @@
+{
+ "resume_id": "R0155",
+ "name": "Krzysztof Kowalczyk",
+ "education": [
+  {
+   "degree": "B.Sc. Industrial Engineering AGH University of Krakow",
+   "institution": "Kozminski University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Orlen Supply Chain Pianner",
+   "dates": "2026 | Present",
+   "bullets": [
+    "Managed impor logistics and customs clearance for 300+ containers per year",
+    "Implemented a warehouse management system in 3 sites, improving pick accuracy to 99.8%",
+    "Negotiated freight contracts that saved PLN 16.3M annually",
+    "Managed procurement spend of PLN 11.0M across 250 suppliers, delivering 6% savings",
+    "Reduced inventory days by 7 while maintaining 60% service levels",
+    "Set up 7 new fulfilment centres processing 483K orders per day",
+    "Built a supplier scorecard covering quality, cost and delivery for 400 vendors",
+    "Led the monthly S&OP process across sales, finance and manufacturing i",
+    "Improved forecast accuracy from 27% to 82% by introducing statistical models in SQL"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.035
+}

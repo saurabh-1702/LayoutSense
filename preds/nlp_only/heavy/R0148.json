@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0148",
+ "name": "Universitat Pompeu Fabra",
+ "contact": {
+  "location": "Logistics"
+ },
+ "education": [
+  {
+   "degree": "Bachelor in Logistics and Supply Chain Management",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Operations Intern",
+   "company": null,
+   "dates": "Oct 2024-Jan 2025",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Collected and cleaned data from 3 sources to support a supply",
+    "Prepared research summaries and presentation decks for 13"
+   ]
+  },
+  {
+   "title": "Procurement Intern",
+   "company": "stakeholder meetings",
+   "dates": "Aug 2023-Dec 2023",
+   "bullets": [
+    "Built a tracker in SQL that streamlined weekly reporting for a",
+    "Supported the supply chain & operations team on 12 live"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation"
+  },
+  {
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "_runtime_s": 0.05
+}

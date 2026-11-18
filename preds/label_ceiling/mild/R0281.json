@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0281",
+ "name": "STE FAN KOC H",
+ "headline": "Electrical & Electronics Engineering Graduate",
+ "contact": {
+  "email": "stefan_koch@gmx.de",
+  "phone": "+49 179-52793432",
+  "location": "Hamburg, Germany"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/stefankoch"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Electronics and Instrumentation",
+   "dates": "2023 | Present",
+   "institution": "Technical University of Munich",
+   "location": "Munich",
+   "grade": "Final grade: 1.5"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Electrical Engineering Intern",
+   "dates": "2026",
+   "company": "Mercedes-Benz Group",
+   "location": "Hamburg",
+   "bullets": [
+    "Assisted with day-to-day electrical & electronics engineering operations and maintained accurate records",
+    "Built a tracker in KiCad that streamlined weekly reporting for a team of 8"
+   ]
+  }
+ ],
+ "skills": [
+  "SCADA",
+  "FPGA",
+  "Power Systems",
+  "Renewable Energy Integration",
+  "PSCAD",
+  "DIgSILENT PowerFactory",
+  "KiCad",
+  "Time Management",
+  "Decision Making",
+  "Problem Solving",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "name": "Smart Energy Meter with loT",
+   "description": "ESP32-based meter streaming consumption data to a cloud dashboard."
+  },
+  {
+   "name": "Grid-tied Inverter Design",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "PSCAD, DIgSILENT PowerFactory"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH",
+   "year": "(2025)"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "(2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Mercedes-Benz Group",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(Beginner)"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": "(Conversational)"
+  }
+ ]
+}

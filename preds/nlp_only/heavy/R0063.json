@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0063",
+ "name": "Andrii Rudenko",
+ "contact": {
+  "phone": "+380 97 423 93 64",
+  "location": "Odesa, Ukraine"
+ },
+ "education": [
+  {
+   "degree": "MSc e seg - A Sn eH Sn ee",
+   "institution": null,
+   "dates": null
+  },
+  {
+   "degree": "Bachelor in Commerce Kyiv School of Economics aA: 3, 0",
+   "institution": "Be. Accounting Ukrainian Catholic University",
+   "dates": "06/2015"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Certified Public Accountant (CPA)"
+  }
+ ],
+ "_runtime_s": 0.041
+}

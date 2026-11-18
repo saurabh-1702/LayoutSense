@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0200",
+ "name": "Pierre Durand",
+ "headline": "Account Executive | 8+ Years in Sales & Business Development",
+ "contact": {
+  "email": "pierre.durand@gmail.com",
+  "phone": "+33638186365",
+  "location": "Paris, France"
+ },
+ "education": [
+  {
+   "degree": "Bachelor in Commerce",
+   "institution": "Sciences Po",
+   "dates": "07/2015 — 07/2018",
+   "grade": "Mention Trés Bien"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "04/2022 — Present",
+   "title": "Account Executive",
+   "company": "Microsoft",
+   "location": "Remote — France",
+   "bullets": [
+    "Achieved 11% of annual quota for 18 consecutive years, closing €20.1M in new ARR",
+    "Launched a channel partner programme that contributed 20% of total bookings",
+    "Shortened the average sales cycle by 14 days by introducing a structured discovery framework",
+    "Expanded distribution to 80 new retail outlets across 21 districts"
+   ]
+  },
+  {
+   "dates": "09/2018 — 03/2022",
+   "title": "Business Development Representative",
+   "company": "Microsoft",
+   "location": "Paris",
+   "bullets": [
+    "Negotiated multi-year contracts worth €11.5M with procurement and legal stakeholders",
+    "Managed 23 key accounts generating EUR 337M in annual revenue with 22% net revenue retention",
+    "Onboarded and trained 9 new sales representatives on product and CRM workflows",
+    "Maintained 53% forecast accuracy in weekly pipeline reviews in Excel",
+    "Ranked #1 out of 14 account executives in the region for FY",
+    "Built a pipeline of €5.3M by prospecting 300+ enterprise accounts using LinkedIn Sales Navigator"
+   ]
+  }
+ ],
+ "skills": [
+  "Outreach",
+  "Gong",
+  "Excel",
+  "Key Account Management",
+  "Sales Forecasting",
+  "B2B Sales",
+  "Contract Closing",
+  "Cold Calling"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "description": "Mapped 7 cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "2020"
+  },
+  {
+   "name": "Certified Professional Sales Person (CPSP)",
+   "year": "2020"
+  },
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Microsoft",
+   "year": "(2018)"
+  },
+  {
+   "name": "Dean's List",
+   "issuer": "Sciences Po",
+   "year": "(2016)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ]
+}

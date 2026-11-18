@@ -1,0 +1,73 @@
+{
+ "resume_id": "R0275",
+ "name": "IQRA ABBASI",
+ "contact": {
+  "email": "iqra.abbasi@gmail.com",
+  "phone": "0310-2641643",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/iqraabbasi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Power Systems FAST National University of Computer and",
+   "institution": "MEng Power Systems FAST National University of Computer",
+   "dates": "2014"
+  },
+  {
+   "degree": "BEng Electronics and National University of Sciences and First Class",
+   "institution": "BEng Electronics",
+   "dates": "2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Engro Corporation Principal Hardware Engineer",
+   "company": "'SNo. [Organisation ——=~=—*( Designation rom [TO",
+   "dates": "Nov 2025 Present",
+   "bullets": [
+    "Grew the team by 50% in two years while keeping attrition below 5%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 737K"
+   ]
+  },
+  {
+   "title": "Principal Hardware Engineer",
+   "company": "Shell",
+   "dates": "Jun 2024 Oct 2025",
+   "bullets": [
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "ABB Lead Electrical Engineer",
+   "company": "Karachi",
+   "dates": "Jun 2021 May 2024",
+   "bullets": []
+  },
+  {
+   "title": "Engineer",
+   "company": "WwSP Junior Electronics",
+   "dates": "May 2014 May 2021",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "scl *Priciency [Skin Proficiency"
+ ],
+ "certifications": [
+  {
+   "name": "[siNo. [Certfication —~—~=S*S*S*S*S*~rR Ng Organon = ear",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.09
+}

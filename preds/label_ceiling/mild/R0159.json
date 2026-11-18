@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0159",
+ "name": "Yash Dhillon",
+ "contact": {
+  "email": "yashdhillon@yahoo.co.in",
+  "phone": "+91 7081725954",
+  "location": "Gurugram, Haryana, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yash-dhillon-3ca1dec"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Tech in Structural Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": "2020"
+  },
+  {
+   "degree": "Bachelor of Technology (Civil Engineering)",
+   "institution": "Netaji Subhas University of Technology",
+   "dates": "2018"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Designed RCC and steel structures in Primavera P6 for 7 commercial projects",
+    "Prepared BOQs and rate analyses for tenders worth %835 Cr",
+    "Delivered a 21 km highway stretch 20 weeks ahead of schedule",
+    "Supervised construction of a 10-storey residential tower with a contract value of %35 lakh",
+    "Managed client billing and variations, improving cash collection by 30%",
+    "Introduced BIM clash detection that cut rework costs by 57%",
+    "Conducted soil investigation reviews and foundation design for 6 bridges",
+    "Scheduled a 6-month metro station package in Tekla Structures, recovering 21 weeks of delay",
+    "Coordinated 18 subcontractors and 50+ workers across civil and MEP activities",
+    "Achieved 5,000 safe man-hours without a lost-time injury on site"
+   ],
+   "dates": "Sep 2020 — Feb 2025",
+   "title": "Site Engineer",
+   "location": "New Delhi"
+  }
+ ],
+ "skills": [
+  "HSE Compliance",
+  "Project Planning",
+  "Structural Analysis",
+  "Quantity Estimation",
+  "Value Engineering",
+  "Contract Administration",
+  "STAAD.Pro",
+  "SAP2000",
+  "Navisworks",
+  "Tekla Structures",
+  "Primavera P6",
+  "Critical Thinking",
+  "Time Management",
+  "Cross-functional Collaboration",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 10 mix designs for urban stormwater management.",
+   "tech": "Navisworks, STAAD.Pro, Tekla Structures"
+  },
+  {
+   "name": "Design of a G+5 Residential Building",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "SAP2000, Primavera P6, Navisworks, STAAD.Pro"
+  }
+ ]
+}

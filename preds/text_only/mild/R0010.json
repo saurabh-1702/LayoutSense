@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0010",
+ "name": "E",
+ "contact": {
+  "email": "niall2003@outlook.com",
+  "phone": "+353 85 547 5891",
+  "location": "Dublin, Ireland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/niallkennedy8"
+  },
+  {
+   "url": "github.com/niallkenne"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Dublin City University Intercom",
+   "dates": "Aug 2019"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Feb 2024 — Present",
+   "title": "Frontend Engineer",
+   "location": "Dublin",
+   "bullets": [
+    "Owned the payments integration with 12 third-party gateways, reducing failed transactions by 45%",
+    "Collaborated with product and design to ship 15 major releases on schedule across web and mobile",
+    "Reduced p95 API latency by 55% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  },
+  {
+   "dates": "Sep 2019 — Jan 2024",
+   "title": "Graduate Software Engineer",
+   "company": "Stripe",
+   "location": "Remote — Ireland",
+   "bullets": [
+    "Cut cloud infrastructure costs by €10.2M annually by right-sizing instances and adopting spot capacity",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 28 hours to 15 minutes",
+    "Wrote technical design documents and led code reviews for a team of 3 engineers",
+    "Developed internal tooling in Jenkins that saved the support team 27 hours per week",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 32%"
+   ]
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "JavaScript",
+  "Scala",
+  "Python",
+  "Rust",
+  "C++",
+  "Node.js",
+  ".NET Core",
+  "Angular",
+  "GraphQL",
+  "GitHub Actions",
+  "Kubernetes",
+  "CI/CD",
+  "Jenkins",
+  "AWS",
+  "Microsoft Azure",
+  "MongoDB",
+  "Redis",
+  "Elasticsearch"
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "2021"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.336
+}

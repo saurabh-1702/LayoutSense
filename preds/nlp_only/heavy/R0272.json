@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0272",
+ "name": "French Etementary",
+ "contact": {
+  "location": "Scale"
+ },
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Ashesi University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "English Mother tongue"
+  },
+  {
+   "name": "French Etementary"
+  },
+  {
+   "name": "Campus Placement Portal Vue. js"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "_runtime_s": 0.095
+}

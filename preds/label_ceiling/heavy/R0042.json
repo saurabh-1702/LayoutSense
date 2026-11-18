@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0042",
+ "name": "Mark Anthony Bautista",
+ "headline": "Logistics Coordinator",
+ "contact": {
+  "email": "mark.bautista97@gmail.com",
+  "phone": "(+63) 929 766 4924",
+  "location": "Quezon City, Philippines"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration in Logistics and Supply Chain Management",
+   "institution": "Asian Institute of",
+   "dates": "September 2021 - March 2025",
+   "grade": "GPA. 3.96/4.0"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Logistics Coordinator",
+   "company": "SM investments",
+   "dates": "June 2025 ~- Present",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 47% through route optimisation",
+    "Built a supplier scorecard covering quality, cost and delivery for 250 vendors",
+    "Improved forecast accuracy from 36% to 82% by introducing statistical models in Blue Yonder",
+    "Implemented a warehouse management system in 18 sites, improving pick accuracy to 99.8%",
+    "Reduced inventory days by 29 while maintaining 52% service levels",
+    "Managed procurement spend of PHP 239K across 500 suppliers, delivering 16% savings"
+   ]
+  }
+ ],
+ "skills": [
+  "Cost Reduction",
+  "S&OP",
+  "Strategic Sourcing",
+  "Tableau",
+  "Blue Yonder",
+  "Power BI",
+  "SAP MM",
+  "SQL",
+  "Ariba",
+  "Presentation Skills",
+  "Negotiation"
+ ],
+ "projects": [
+  {
+   "dates": "Beet May 2026",
+   "name": "Warehouse Layout Optimisation",
+   "description": "Slotting analysis that reduced picker travel distance by 51% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 21 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "May 2025"
+  },
+  {
+   "name": "SAP Certified Application Associate — Sourcing",
+   "issuer": "SAP",
+   "year": "January 2023"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2025"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2023"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "SM investments",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "© Mother tongue",
+   "language": "Filipino"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

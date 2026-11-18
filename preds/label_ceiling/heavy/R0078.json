@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0078",
+ "name": "Chirag Bhosale",
+ "headline": "Final-year M.Tech Student chiragbhosale2",
+ "contact": {
+  "email": "@outlook.com",
+  "phone": "(+91) 834300314",
+  "location": "Pune, Maharashtra"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/chirag-bhosale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Structural Engineering)",
+   "institution": "BITS Pilani",
+   "dates": "Jul 2021 — Jun 2025",
+   "grade": "CGPA - 9.05"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Civil Engineering Intern",
+   "dates": "Oct 2025 — Nov 2025",
+   "company": "WSP",
+   "location": "Pune",
+   "bullets": [
+    "Built a tracker in Navisworks that streamlined weekly reporting for a team of 7",
+    "Prepared research summaries and presentation decks for 20 stakeholder meetings",
+    "Collected and cleaned data from 14 sources to support a civil engineering & construction initiative"
+   ]
+  },
+  {
+   "title": "Civil Engineering Intern",
+   "dates": "Sep 2024 — Nov 2024",
+   "company": "Larsen & Toubro",
+   "location": "Pune",
+   "bullets": [
+    "Collected and cleaned data from 7 sources to support a civil engineering & construction initiative",
+    "Drafted standard operating procedures for 15 recurring tasks",
+    "Prepared research summaries and presentation decks for 11 stakeholder meetings"
+   ]
+  }
+ ],
+ "skills": [
+  "Quantity Estimation",
+  "le Te",
+  "fale Yazas",
+  "348 Sar e",
+  "If",
+  "y",
+  "& s. z",
+  "MS Project",
+  "Attention to Detail",
+  "Public Speaking",
+  "Presentation Skills",
+  "Critica] Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "Tekla Structures, Navisworks, ETABS, MS Project"
+  },
+  {
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 9 mix designs for urban stormwater management.",
+   "tech": "ETABS, MS Project. Tekla Structures"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle.",
+   "year": "2026"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council",
+   "year": "Apr 2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Indian Institute of Technology Madras",
+   "year": "(2025)"
+  },
+  {
+   "name": "Rising Star Award",
+   "issuer": "WSP",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

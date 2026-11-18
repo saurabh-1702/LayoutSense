@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0132",
+ "name": "Owen Okoro",
+ "contact": {
+  "email": "oweno244@gmail.com",
+  "phone": "7383 35664",
+  "location": "Belfast, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-okoro-be2427"
+  },
+  {
+   "url": "owenokoro.design"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "° Ran discovery workshops and journey mapping Loughborough University",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Adobe Certified Professional in",
+   "issuer": null
+  },
+  {
+   "name": "Visual Design",
+   "issuer": "Adobe"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group"
+  },
+  {
+   "name": "Interaction Design Foundation",
+   "issuer": null
+  },
+  {
+   "name": "UX Management",
+   "issuer": "Interaction Design Foundation"
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "Human Factors International"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.022
+}

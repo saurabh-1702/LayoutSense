@@ -1,0 +1,118 @@
+{
+ "resume_id": "R0225",
+ "education": [
+  {
+   "degree": "MSc Clinical Pharmacy",
+   "dates": "Jul. 2013 ~ – Aug. 2014",
+   "institution": "University College Dublin",
+   "location": "Dublin"
+  },
+  {
+   "degree": "BPharm (Hons)",
+   "dates": "Aug. 2010 ~ – Apr. 2013",
+   "institution": "Royal College of Surgeons in ireland",
+   "location": "Dublin, ireland"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Cork",
+   "dates": "May 2016 ~ – Feb. 2017",
+   "bullets": [
+    "Monitored 2a clinical trial cs across Phase Il and UI! oncology studies",
+    "3",
+    "Developed an extended-release tablet formulation that cut manufacturing cost by 10%",
+    "Processed 377K+ adverse event reports in Argus Safety within regulatory timelines",
+    "Exceeded territory sales targets by 47% across 180 prescribing doctors",
+    "‘Trained 10 ahah on data integrity and ALCOA+ principles"
+   ],
+   "company": "AstraZeneca"
+  },
+  {
+   "location": "Dubfin",
+   "title": "QC Analyst",
+   "dates": "Oct. 2014 ~ – Apr. 2016",
+   "bullets": [
+    "Validated 19 denice) methods per ICH Q2(R1) guidelines",
+    "Performed HPLC and dissolution analysis on 60+ batches per quarter with zero OOS invalidations",
+    "Prepared and submitted 3 ANDA/eCTD dossiers to USFDA and EMA",
+    "Supported 15 successful USFDA and MHRA inspections with no critical observations",
+    "Led CAPA",
+    "that reduced batch deviations by 20%",
+    "re"
+   ]
+  }
+ ],
+ "skills": [
+  "USFDA Audits",
+  "Deviation",
+  "Method",
+  "jethod Validation",
+  "Se",
+  "Bee",
+  "eee",
+  "Critical Thinking",
+  "Pos"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection",
+   "dates": "Apr. 2014",
+   "description": "Disproportionality analysis on spontaneous reports for 10 marketed molecules."
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets",
+   "dates": "Mar. 2019",
+   "description": "Developed and evaluated orally disintegrating tablets using superdisintegrants."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India",
+   "year": "(2022)"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "(2016)"
+  },
+  {
+   "name": "Certified Clinical Research Professional (CCRP)",
+   "issuer": "SoCRA",
+   "year": "(Feb. 2024)"
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate",
+   "year": "(May 2024)"
+  },
+  {
+   "name": "Regulatory Affairs Certification (RAC)",
+   "issuer": "RAPS",
+   "year": "(2022)"
+  },
+  {
+   "name": "Best Medical Representative",
+   "issuer": "Zone",
+   "year": "(2016)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Royal College of Surgeons in Ireland",
+   "year": "(2014)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Irish",
+   "proficiency": "(Intermediate)"
+  }
+ ]
+}

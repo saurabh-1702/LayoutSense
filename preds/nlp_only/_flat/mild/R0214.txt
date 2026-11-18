@@ -1,0 +1,76 @@
+burak.kaya@gmail.com
++90 (543) 870 5128
+Burak Kaya
+A izmir, Turkey
+Software Architect github.com/burakkaya
+WORK EXPERIENCE EDUCATIONAL QUALIFICATIONS
+Feb 2021 - Present Bachelor of Science in Software Engineering
+Software Architect Sabanci University
+Peak Games | izmir Sep 2005 - Apr 2009 | High Honor
+» Introduced weekly operating reviews that cut decision
+SKILLS
+turnaround from 10 days to 1 day
+Languages: JavaScript, Go, C#, TypeScript
+Apr 2019 - Jan 2021
+Lead Software Engineer Frameworks: Flutter, FastAPI, Express.js, React,
+Baykar | izmir Django, Vue.js
+» Represented the function in executive steering Soft Skills: Critical Thinking, Mentoring
+committees and board-level reporting
+NOTABLE PROJECTS
+» Grew the team by 26% in two years while keeping
+attrition below 12% Distributed Key-Value Store
+» Partnered with senior leadership to define the annual Raft-based replicated key-value store with leader
+roadmap and a budget of TRY 10.5M election, log compaction and a gRPC client.
+» Mentored 9 junior colleagues, several of whom were Tools: Go, Vue.js, Flutter, TypeScript
+promoted within 18 months
+PROFESSIONAL CERTIFICATIONS
+» Leda team of 12 across 12 workstreams, owning hiring,
+performance reviews and quarterly planning HashiCorp Certified: Terraform Associate
+» Grew the team by 38% in two years while keeping HashiCorp, Sep 2013
+attrition below 15% AWS Certified Developer — Associate
+Amazon Web Services, Aug 2008
+Sep 2017 - Mar 2019
+AWS Certified Solutions Architect — Associate
+Senior Software Engineer
+Amazon Web Services, 2013
+Salesforce | Ankara
+» Introduced feature flags and canary releases, lowering LANGUAGES KNOWN
+production incidents by 25% quarter over quarter
+Turkish Mother tongue
+» Developed internal tooling in C# that saved the support
+English Professional Working Proficiency
+team 16 hours per week
+Arabic Professional Working Proficiency
+» Wrote technical design documents and led code
+reviews for a team of 5 engineers
+» Owned the payments integration with 5 third-party
+gateways, reducing failed transactions by 34%
+» Migrated a legacy monolith to containerised services
+on Kubernetes, cutting deployment time from 5 hours
+to 15 minutes
+Jul 2011 - Aug 2017
+Mobile Developer (Android)
+Samsung | Ankara (Hybrid)
+» Developed customer-facing features in JavaScript used
+by 78,000 monthly active users
+» Resolved 120+ production issues as part of the on-call
+rotation, reducing mean time to recovery by 60%
+» Cut cloud infrastructure costs by TRY 180M annually by
+right-sizing instances and adopting spot capacity
+» Rebuilt the search experience with Elasticsearch,
+improving result relevance and click-through by 39%
+» Implemented a CI/CD pipeline with GitHub Actions and
+automated tests, raising code coverage from 10% to
+85%
+Jul 2009 - Jun 2011
+Associate Software Engineer
+Samsung | Ankara
+» Reduced p95 API latency by 57% by introducing Redis
+caching and optimising slow PostgreSQL queries
+» Designed and built 6 RESTful microservices in C# and
+Flutter, serving 6.5M requests per day with 99.95%
+uptime
+» Collaborated with product and design to ship 15 major
+releases on schedule across web and mobile
+» Built a real-time notification service using C# and
+Apache Kafka that processes 21,000 events per hour

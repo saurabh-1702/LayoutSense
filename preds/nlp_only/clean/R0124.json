@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0124",
+ "name": "NATHAN PATEL",
+ "contact": {
+  "email": "npatel@outlook.com",
+  "phone": "+1 (408) 730-4628",
+  "location": "San Jose, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nathan-patel"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSN, Community Health",
+   "institution": "Purdue University",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Nursing (BSN)",
+   "institution": "Johns Hopkins University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Triaged 80",
+  "Cerner",
+  "for the unit",
+  "Electronic Medical Records"
+ ],
+ "projects": [
+  {
+   "name": "Ventilator Management"
+  },
+  {
+   "name": "Medication Administration Pressure Ulcer Prevention Audit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "x Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council"
+  },
+  {
+   "name": "Pediatric Advanced Life Support",
+   "issuer": "PALS)"
+  },
+  {
+   "name": "American Heart Association",
+   "issuer": ""
+  },
+  {
+   "name": "x Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council"
+  }
+ ],
+ "_runtime_s": 0.033
+}

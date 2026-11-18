@@ -1,0 +1,43 @@
+{
+ "resume_id": "R0254",
+ "name": "Marta Pérez",
+ "headline": "et Coordinator",
+ "links": [
+  {
+   "url": "linkedin.com/in/martaperez6_"
+  }
+ ],
+ "education": [
+  {
+   "degree": "_BAin Psychology",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": "04,2023",
+   "grade": "Nota media: 8.4"
+  }
+ ],
+ "experience": [
+  {
+   "title": "HR Coordinator",
+   "company": "Unilever",
+   "location": "Barcelona",
+   "dates": "05.2023 [Present",
+   "bullets": [
+    "= Rolled out Greenhouse across a 2 counties, dig ie sin onboarsing for 4.5M employees",
+    "Ran ores hirir at 13 universities, on ding )200 reduate",
+    "Designed a perfomance management framework adopted company"
+   ]
+  }
+ ],
+ "skills": [
+  "“Workday",
+  "Greenhouse",
+  "'BambooHR",
+  "“SAP SuccessFacto"
+ ],
+ "certifications": [
+  {
+   "name": "pace SHRM Professional im",
+   "year": "(SHRM.-CP)"
+  }
+ ]
+}

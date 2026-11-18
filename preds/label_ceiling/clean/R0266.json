@@ -1,0 +1,114 @@
+{
+ "resume_id": "R0266",
+ "name": "Rica Reyes",
+ "headline": "Assistant Director of Nursing",
+ "contact": {
+  "email": "rica.reyes@gmail.com",
+  "phone": "(+63) 977 544 4794",
+  "location": "Davao City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ricareyes"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Nursing",
+   "institution": "University of Santo Tomas",
+   "dates": "Sep 2008 — Jul 2012",
+   "grade": "GPA: 3.47"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Sep 2024 — Present",
+   "title": "Assistant Director of Nursing",
+   "company": "The Medical City",
+   "bullets": [
+    "Grew the team by 52% in two years while keeping attrition below 14%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PHP 361M",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 26 days to 1 day",
+    "Mentored 9 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "dates": "Jul 2024 — Aug 2024",
+   "title": "Nurse Manager",
+   "company": "Philippine General Hospital",
+   "bullets": [
+    "Reduced hospital-acquired infection rates by 52% by leading hand-hygiene audits",
+    "Oversaw duty rosters for 12 nurses and managed ward inventory and consumables",
+    "Implemented a fall-prevention bundle that reduced patient falls by 29%",
+    "Leda team of 6 across 6 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "dates": "Feb 2023 — Jun 2024",
+   "title": "Assistant Director of Nursing",
+   "company": "Philippine General Hospital",
+   "bullets": [
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 16%",
+    "Triaged 200+ patients monthly in the emergency department using the Manchester Triage System",
+    "Provided direct care to 15 patients per shift in a 23-bed medical-surgical ward"
+   ]
+  },
+  {
+   "dates": "Sep 2012 — Jan 2023",
+   "title": "Staff Nurse",
+   "company": "Philippine General Hospital",
+   "bullets": [
+    "Trained 5 newly joined nurses on medication safety and documentation in Electronic Medical Records",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Managed ventilated patients in a 12-bed ICU, titrating vasoactive infusions per protocol"
+   ]
+  }
+ ],
+ "skills": [
+  "Epic EHR",
+  "Electronic Medical Records",
+  "NABH Standards",
+  "ACLS",
+  "Medication Administration",
+  "Palliative Care",
+  "Post-operative Care"
+ ],
+ "certifications": [
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association",
+   "year": "2026"
+  },
+  {
+   "name": "Pediatric Advanced Life Support (PALS)",
+   "issuer": "American Heart Association",
+   "year": "2011"
+  },
+  {
+   "name": "Basic Life Support (BLS)",
+   "issuer": "American Heart Association",
+   "year": "2011"
+  },
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2012"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

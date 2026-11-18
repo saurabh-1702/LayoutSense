@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0101",
+ "name": "John Paul L. Mendoza",
+ "contact": {
+  "email": "johnmendoza44@yahoo.com",
+  "phone": "+63 935 637 9543",
+  "location": "Makati City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/john-mendoza"
+  },
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration - Summa Cum Laude",
+   "institution": "Asian Institute of Management Makati City",
+   "dates": "07/2010 — 08/2014"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Enterprise Account Manager",
+   "company": "Concentrix",
+   "dates": "07/2023 — Present",
+   "bullets": []
+  },
+  {
+   "title": "Account Executive",
+   "company": "Globe Telecom",
+   "dates": "04/2018 — 06/2023",
+   "bullets": []
+  },
+  {
+   "title": "Representative",
+   "company": "Business Development",
+   "dates": "09/2014 — 03/2018",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.068
+}

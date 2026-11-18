@@ -1,0 +1,48 @@
+{
+ "resume_id": "R0149",
+ "contact": {
+  "phone": "+55 (81) 97296-7307",
+  "location": "Curitiba, PR, Brazil"
+ },
+ "education": [
+  {
+   "degree": "B.S. in Computer Science",
+   "institution": "Instituto Tecnologico de Aeronautica, Sao José dos Campos",
+   "dates": "2019 — 2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Software Developer",
+   "company": "Itau Unibanco Curitiba",
+   "dates": "Jul 2023 — Present",
+   "bullets": [
+    "Wrote technical design documents and led code reviews for a team of 9 engineers",
+    "Reduced p95 API latency by 25% by introducing Redis caching and optimising slow PostgreSQL",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery",
+    "Developed customer-facing features in Angular used by 464K monthly active users"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "AWS Certified Developer —- Associate",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.042
+}

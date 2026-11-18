@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0056",
+ "education": [
+  {
+   "degree": "MEng Information Technology",
+   "institution": "Covenant University",
+   "dates": "06/2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "07/2025 - Cayanes",
+   "title": "Analytics Associate",
+   "company": "Oracle",
+   "location": "Abuja",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 346K employee queries per month",
+    "Reduced Spark job runtime by 49% through partitioning and broadcast join optimisation",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 22 days",
+    "Created executive dashboards in Apache Kafka tracking 17 KPls, adopted by 75+ business users",
+    "Designed and maintained 24 Airflow pipelines ingesting 68,000 records daily into Snowflake"
+   ]
+  }
+ ],
+ "skills": [
+  "Apache Kafka"
+ ],
+ "certifications": [
+  {
+   "issuer": "Snowflake",
+   "year": "2025",
+   "name": "Tableau Desktop Specialist"
+  },
+  {
+   "year": "2023",
+   "name": "Deep Learning Specialization"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

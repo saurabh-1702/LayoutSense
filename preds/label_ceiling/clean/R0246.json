@@ -1,0 +1,88 @@
+{
+ "resume_id": "R0246",
+ "name": "Pritam Mohanty",
+ "headline": "Accounting & Audit Graduate",
+ "contact": {
+  "email": "pritam.mohanty@yahoo.co.in",
+  "phone": "+91 6325740103",
+  "location": "Guwahati, Assam, India"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "Indian Institute of Management Ahmedabad",
+   "dates": "2023 — 2026"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Delhi Public School",
+   "dates": "2023",
+   "grade": "88.9%"
+  },
+  {
+   "degree": "Class X (SSC)",
+   "institution": "Delhi Public School",
+   "dates": "2021",
+   "grade": "86.7%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Intern",
+   "dates": "October 2025 — March 2026",
+   "company": "State Bank of India",
+   "location": "Durgapur",
+   "bullets": [
+    "Drafted standard operating procedures for 21 recurring tasks",
+    "Collected and cleaned data from 8 sources to support a accounting & audit initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "CaseWare",
+  "Excel (Advanced)",
+  "SAP FICO",
+  "Alteryx",
+  "5 yo",
+  "2 Be",
+  "c = oO",
+  "2 oO = aan aan",
+  "Month-end Close",
+  "US GAAP",
+  "SOX Compliance",
+  "IFRS",
+  "§c 9s ae ios",
+  "Wh x oO > ae fad) B fed} ojo) oO B oO 5 3",
+  "a 3 oO < » =} > ag oO 3 io) =} =",
+  "> + oO D St. ) 5 — fo) \\v) Q 2"
+ ],
+ "projects": [
+  {
+   "name": "Internal Controls Review",
+   "dates": "October 2025",
+   "description": "Mapped procure-to-pay controls for a retail chain and recommended 19 control improvements."
+  },
+  {
+   "name": "GST Reconciliation Tool",
+   "dates": "July 2023",
+   "description": "Excel/VBA tool matching purchase registers to GSTR-2B, adopted by the firm's tax practice."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

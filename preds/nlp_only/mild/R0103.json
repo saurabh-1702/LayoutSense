@@ -1,0 +1,98 @@
+{
+ "resume_id": "R0103",
+ "name": "SAAD SHEIKH",
+ "contact": {
+  "email": "saad_sheikh@gmail.com",
+  "phone": "+92 334 6744947",
+  "location": "Islamabad, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/saad-sheikh4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Structural Engineering",
+   "institution": "NED University of Engineering and Technology",
+   "dates": "August 2018"
+  },
+  {
+   "degree": "MEng Civil Engineering",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "September 2014"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Project Manager",
+   "company": "Lucky Cement",
+   "dates": "January 2025 - Present",
+   "bullets": [
+    "Conducted soil investigation reviews and foundation design for 18 bridges",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 12.9M",
+    "Coordinated 18 subcontractors and 120+ workers across civil and MEP activities",
+    "Designed RCC and steel structures in Primavera P6 for 19 commercial projects",
+    "Prepared BOQs and rate analyses for tenders worth PKR 920K",
+    "Supervised construction of a 17-storey residential tower with a contract value of PKR",
+    "Managed client billing and variations, improving cash collection by 42%"
+   ]
+  }
+ ],
+ "skills": [
+  "Engineering Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "Software Navisworks",
+  "Primavera P6",
+  "ETABS",
+  "SAP2000",
+  "MS Project",
+  "Tekla Structures"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study"
+  },
+  {
+   "name": "Design of a Gt+5 Residential Building"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Autodesk Certified Professional: Revit",
+   "issuer": "Autodesk"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  },
+  {
+   "name": "Chartered Engineer",
+   "issuer": "CEng)"
+  },
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "A2"
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.039
+}

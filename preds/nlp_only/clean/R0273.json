@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0273",
+ "name": "Hamish Chen",
+ "contact": {
+  "email": "hamish.chen@icloud.com",
+  "phone": "0407 539 568",
+  "location": "Melbourne, Australia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hamish-chen"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Industrial Engineering",
+   "institution": "RMIT University",
+   "dates": "2020 - 2024"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Logistics Coordinator",
+   "company": "Toll Group",
+   "dates": "October 2024 - Present",
+   "bullets": [
+    "Implemented a warehouse management system in 5 sites, improving pick accuracy to 99.8%",
+    "Built a supplier scorecard covering quality, cost and delivery for 50 vendors",
+    "Managed procurement spend of AUD 133M across 75 suppliers, delivering 11% savings",
+    "Managed import logistics and customs clearance for 50+ containers per year"
+   ]
+  }
+ ],
+ "skills": [
+  "Inventory Optimisation",
+  "Network Design",
+  "Last-mile Delivery",
+  "Warehouse Management",
+  "Demand Planning",
+  "Cost Reduction",
+  "Excel",
+  "Oracle SCM",
+  "Tableau",
+  "Coupa"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.027
+}

@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0213",
+ "name": "Sanjaya Bandara",
+ "contact": {
+  "email": "sbandara@outlook.com",
+  "phone": "071 376 9349",
+  "location": "Galle, Sri Lanka"
+ },
+ "education": [
+  {
+   "degree": "MA in English",
+   "institution": "University of Moratuwa",
+   "dates": "2019-98 - 2020-05"
+  },
+  {
+   "degree": "BSc in Chemistry, Upper Second-Class (2:1)",
+   "institution": "University of Moratuwa",
+   "dates": "2016-07 - 2019-06"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Curriculum Developer",
+   "company": "Ladies' College",
+   "dates": "2025-07 - Present",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 24 days to 1 day",
+    "Grew the team by 55% in two years while keeping attrition below 16%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of LKR 20.3M",
+    "Led a team of 4 across 7 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "English Teacher",
+   "company": "Ladies' College",
+   "dates": "2020-08 - 2025-06",
+   "bullets": [
+    "Coordinated the school's Moodle rollout, training 21 teachers in blended learning",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 12 grade levels"
+   ]
+  }
+ ],
+ "skills": [
+  "Curriculum Design",
+  "IB Currieulum",
+  "Classroom Management",
+  "STEM Education",
+  "Kahoot!",
+  "Seesaw",
+  "Microsoft Teams",
+  "Moodle",
+  "Public Speaking",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Flipped Classroom Pilot"
+  },
+  {
+   "name": "Reading Programme for Early Learners"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "TESOL Certificate",
+   "issuer": "Arizona State University"
+  },
+  {
+   "name": "Qualified Teacher Status",
+   "issuer": "QTS)"
+  },
+  {
+   "name": "Google Certified Educator Level 2",
+   "issuer": "Google for Education"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.048
+}

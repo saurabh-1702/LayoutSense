@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0194",
+ "name": "Johanna Hoffmann",
+ "contact": {
+  "email": "hoffmannjohanna@gmail.com",
+  "phone": "+449 178 12894920",
+  "location": "Leipzig, Germany Professional Experience"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/johanna-"
+  }
+ ],
+ "skills": [
+  "Present",
+  "Software Architect",
+  "fe) N26",
+  "Leipzig",
+  "active users",
+  "instances and adopting spot capacity",
+  "(a)",
+  "Java tests",
+  "lowering production",
+  "Scala",
+  "Next",
+  "js",
+  "Associate Software Engineer",
+  "Ruby on Rails",
+  "SAP",
+  "Berlin",
+  "12 engineers",
+  "GraphQL",
+  "FastAPI",
+  "schedule across web and mobile",
+  "Cassandra 38 hours per week",
+  "DynamoDB 09/2013",
+  "Software Engineer",
+  "PostgreSQL Cisco",
+  "improving result",
+  "Apache",
+  "relevance and click-through by 48%",
+  "reducing failed transactions by 25%",
+  "MongoDB",
+  "optimising slow PostgreSQL queries"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal"
+  },
+  {
+   "name": "The Linux Foundation"
+  },
+  {
+   "name": "Amazon Web Services"
+  },
+  {
+   "name": "AWS Certified Developer — Associate"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.018
+}

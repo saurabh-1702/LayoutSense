@@ -1,0 +1,149 @@
+{
+  "resume_id": "R0009",
+  "name": "MICHAEL L. JOHNSON",
+  "contact": {
+    "location": "Phoenix, AZ",
+    "phone_e164": "+14804437967",
+    "city": "Phoenix",
+    "country": "United States",
+    "email": "michaelj638@gmail.com",
+    "phone": "(480) 443-7967"
+  },
+  "links": [
+    {
+      "url": "linkedin.com/in/michael-johnson1",
+      "type": "LinkedIn"
+    },
+    {
+      "url": "github.com/michael59",
+      "type": "GitHub"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A. in Economics",
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "dates": "Expected 05/2027",
+      "start": "2023-07",
+      "end": "expected 2027-05",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Science Intern",
+      "company": "Roche",
+      "location": "San Francisco",
+      "dates": "07/2025 - 10/2025",
+      "bullets": [
+        "Developed a demand forecasting model that reduced inventory holding costs by 51%",
+        "Drafted standard operating procedures for 7 recurring tasks",
+        "Assisted with day-to-day data science & analytics operations and maintained accurate records"
+      ],
+      "start": "2025-07",
+      "end": "2025-10"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "IBM",
+      "location": "New York",
+      "dates": "06/2024 - 09/2024",
+      "bullets": [
+        "Drafted standard operating procedures for 7 recurring tasks",
+        "Supported the data science & analytics team on 12 live projects, preparing analyses and documentation",
+        "Collected and cleaned data from 14 sources to support a data science & analytics initiative"
+      ],
+      "start": "2024-06",
+      "end": "2024-09"
+    }
+  ],
+  "skills": [
+    "Airflow",
+    "Apache Spark",
+    "dbt",
+    "LangChain",
+    "A/B Testing",
+    "PyTorch",
+    "Time Series Forecasting",
+    "Looker",
+    "Tableau",
+    "Matplotlib",
+    "Excel",
+    "Scala",
+    "R",
+    "SAS",
+    "Python",
+    "SQL",
+    "Negotiation",
+    "Public Speaking"
+  ],
+  "projects": [
+    {
+      "name": "Fake News Detection",
+      "description": "Fine-tuned DistilBERT classifier achieving 94% F1 on a public misinformation dataset.",
+      "tech": "Time Series Forecasting, Scala, R"
+    },
+    {
+      "name": "Retail Sales Dashboard",
+      "description": "End-to-end Power BI dashboard on 88,000 transactions with drill-downs by region and category.",
+      "tech": "SQL, Matplotlib, Time Series Forecasting, Airflow"
+    },
+    {
+      "name": "Customer Lifetime Value Prediction",
+      "dates": "02/2026",
+      "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+      "tech": "Excel, Apache Spark, Time Series Forecasting, Python"
+    },
+    {
+      "name": "Resume Screening with NLP",
+      "description": "Named-entity extraction and job-description matching pipeline built with spaCy and BERT.",
+      "tech": "Excel, Tableau, LangChain"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Databricks Certified Data Engineer Associate",
+      "issuer": "Databricks",
+      "year": "2026"
+    },
+    {
+      "name": "SnowPro Core Certification",
+      "issuer": "Snowflake",
+      "year": "2025"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Dean's List",
+      "issuer": "Carnegie Mellon University",
+      "year": "2026"
+    },
+    {
+      "name": "Kaggle Competitions Expert",
+      "year": "2026"
+    },
+    {
+      "name": "Spot Award for Excellence",
+      "issuer": "IBM",
+      "year": "2024"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    }
+  ],
+  "_meta": {
+    "layout": "single_column",
+    "template": "s3_banded",
+    "n_pages": 1,
+    "industry": "data",
+    "level": "fresher",
+    "years_experience": 0,
+    "origin_country": "United States",
+    "work_country": "United States",
+    "date_format": "MM/YYYY"
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "resume_id": "R0209",
+ "name": "CHEN Yan",
+ "education": [
+  {
+   "degree": "B.Eng. in Construction Engineering",
+   "institution": "Harbin Institute of Technology",
+   "dates": "April 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Site Engineer",
+   "company": "China State Construction Engineering",
+   "dates": "June 2020 - May 2022",
+   "bullets": [
+    "Managed client billing and variations, improving cash collection by 34%",
+    "Supervised construction of a 19-storey residential tower with a contract value of USD 797K"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "Pervious Concrete Mix Study"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.044
+}

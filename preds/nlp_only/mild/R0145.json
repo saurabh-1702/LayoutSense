@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0145",
+ "name": "EMRE KAYA",
+ "contact": {
+  "email": "emre.kaya01@outlook.com",
+  "phone": "+90 541 452 28 62",
+  "location": "istanbul"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/emrekaya"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Medicine (MD)",
+   "institution": "Bogazici University istanbul",
+   "dates": "May 2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Specialty Registrar",
+   "company": "Hacettepe University Hospital",
+   "dates": "March 2025 — December 2025",
+   "bullets": [
+    "Ran outpatient clinics seeing 15 patients per session with a focus on diabetes and hypertension",
+    "Supervised and taught 5 interns and medical students on ward rounds",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 50%",
+    "Presented case reports at 7 national conferences",
+    "Responded to emergencies as part of the rapid response team during night shifts"
+   ]
+  },
+  {
+   "title": "Junior Resident",
+   "company": "Memorial Hospital",
+   "dates": "June 2021 — February 2025",
+   "bullets": [
+    "Managed an average of 19 inpatients daily across general medicine and high-dependency",
+    "Co-authored 19 peer-reviewed publications in indexed journals",
+    "Performed 80+ procedures including central lines, thoracentesis and lumbar punctures"
+   ]
+  }
+ ],
+ "skills": [
+  "Critical Care",
+  "Lumbar Puncture",
+  "Patient Counselling",
+  "ICD-10 Coding",
+  "Epic EHR",
+  "Cerner"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit"
+  },
+  {
+   "name": "Prevalence of Anaemia in Adolescents"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Good Clinical Practice",
+   "issuer": "GCP)"
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK —- NBME",
+   "issuer": ")"
+  },
+  {
+   "name": "PLAB 2",
+   "issuer": "General Medical Council"
+  },
+  {
+   "name": "ACLS Provider —- American Heart Association",
+   "issuer": ")"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.05
+}

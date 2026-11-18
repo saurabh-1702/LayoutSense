@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0110",
+ "name": "Anjali Natarajan",
+ "experience": [
+  {
+   "title": "Head of R&D",
+   "company": "Bayer Hamburg",
+   "dates": "Apr 2025 - Jun 2026",
+   "bullets": [
+    "Developed an extended-release tablet formulation that cut",
+    "Trained 13 analysts on data integrity and ALCOA+ principles",
+    "Exceeded territory sales targets by 15% across 250 prescribing",
+    "Supported 8 successful USFDA and MHRA inspections with no"
+   ]
+  },
+  {
+   "title": "Clinical Operations Manager",
+   "company": "board-level reporting",
+   "dates": "May 2020 - Mar 2025",
+   "bullets": [
+    "Represented the function in executive steering committees and"
+   ]
+  },
+  {
+   "title": "Head of Quality Assurance",
+   "company": "critical observations",
+   "dates": "May 2018 - Apr 2020",
+   "bullets": [
+    "Supported 5 successful USFDA and MHRA inspections with no",
+    "Introduced weekly operating reviews that cut decision turnaround",
+    "Led a team of 13 across 13 workstreams, owning hiring"
+   ]
+  },
+  {
+   "title": "Senior Pharmacovigilance Physician",
+   "company": "Dr. Reddy's Laboratories Chennai",
+   "dates": "Dec 2013 - Apr 2018",
+   "bullets": [
+    "Prepared and submitted 12 ANDA/eCTD dossiers to USFDA and EMA"
+   ]
+  }
+ ],
+ "_runtime_s": 0.112
+}

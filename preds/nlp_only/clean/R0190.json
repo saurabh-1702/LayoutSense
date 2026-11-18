@@ -1,0 +1,45 @@
+{
+ "resume_id": "R0190",
+ "name": "Address Singapore",
+ "contact": {
+  "email": "nandini_ramesh@gmail.com",
+  "phone": "9734 8879",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nandini-ramesh-91ad47"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Computer Science and Engineering) Due Diligence",
+   "institution": "Indian Institute of Science",
+   "dates": "2025"
+  },
+  {
+   "degree": "Class XII (ISC)",
+   "institution": "Kendriya Vidyalaya lira",
+   "dates": "2021"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  },
+  {
+   "name": "Indian Institute of Science"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Malay",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.028
+}

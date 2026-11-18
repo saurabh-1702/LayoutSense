@@ -1,0 +1,51 @@
+Oo EMPLOYMENT HISTORY
+O
+Associate Software Engineer
+Honeywell - Vancouver
+GURLEEN LEBLANC
+* Introduced feature flags and canary releases, lowering production
+Associate Software Engineer incidents by 35% quarter over quarter
+« Rebuilt the search experience with Elasticsearch, improving result
+CONTACT INFORMATION relevance and click-through by 30%
+* Resolved 120+ production issues as part of the on-call rotation,
++1 778-867-8825
+reducing mean time to recovery by 20%
+gurleenl863@gmail.com
+Vancouver, BC Jun, 2024 — Feb, 2026
+linkedin.com/in/gurleen-leblanc Software Engineer
+Wealthsimple - Vancouver
+github.com/gleblanc
+* Collaborated with product and design to ship 12 major releases on
+-¢- SKILLS & TOOLS schedule across web and mobile
+* Wrote technical design documents and led code reviews for a team
+Ruby
+of 9 engineers
+Python * Migrated a legacy monolith to containerised services on
+Kubernetes, cutting deployment time from 22 hours to 15 minutes
+Java
+* Developed customer-facing features in Ruby used by 101K+
+Kotlin monthly active users
+(D: ++
+ACADEMIC QUALIFICATIONS
+om
+Django
+Flutter Bachelor of Science in Information Technology
+University of Waterloo
+Spring Boot Summa Cum Laude
+CI/CD
+Jenkins
+Microsoft Azure
+Docker
+Elasticsearch
+MySQL
+Redis
+DynamoDB
+MongoDB
+Cassandra
+Team Leadership
+Time Management
+@® LANGUAGES
+English
+Native
+Cantonese
+Intermediate

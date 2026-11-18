@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0102",
+ "name": "Kayla Patel",
+ "contact": {
+  "email": "kaylapatel17@outlook.com",
+  "phone": "503.572.9253",
+  "location": "Portland, OR"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kayla-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business",
+   "institution": "a 500-key resort. Georgetown University",
+   "dates": "September 2023"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Events Manager",
+   "company": "Hindi Basic",
+   "dates": "May 2022 — Present",
+   "bullets": [
+    "Micros POS",
+    "SynXis"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "ACADEMIC BACKGROUND"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "budgets up to $9.9M",
+   "issuer": null
+  },
+  {
+   "name": "Led a 8-member kitchen brigade serving 250 covers per day Certified Revenue Management",
+   "issuer": null
+  },
+  {
+   "name": "Drove upselling programmes that generated $21.3M in Executive",
+   "issuer": "CRME)"
+  },
+  {
+   "name": "incremental room revenue HSMAI",
+   "issuer": ""
+  },
+  {
+   "name": "WSET Level 2 Award in Wines",
+   "issuer": null
+  },
+  {
+   "name": "Managed front office operations for a 200-room five-star",
+   "issuer": null
+  },
+  {
+   "name": "Wine & Spirit Education Trust",
+   "issuer": ""
+  },
+  {
+   "name": "property with 46% average occupancy",
+   "issuer": null
+  },
+  {
+   "name": "ServSafe Manager",
+   "issuer": null
+  },
+  {
+   "name": "Improved TripAdvisor ranking from #3 to top 5 in the city",
+   "issuer": "National Restaurant Association"
+  },
+  {
+   "name": "through service recovery initiatives",
+   "issuer": null
+  },
+  {
+   "name": "Certified Hospitality Supervisor",
+   "issuer": null
+  },
+  {
+   "name": "Maintained HACCP compliance and achieved a 5-star food",
+   "issuer": "hygiene rating AHLEI"
+  },
+  {
+   "name": "Reduced food cost by 15% through menu engineering and Food Safety Supervisor",
+   "issuer": "FoSTaC)"
+  },
+  {
+   "name": "supplier renegotiation FSSAI",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.041
+}

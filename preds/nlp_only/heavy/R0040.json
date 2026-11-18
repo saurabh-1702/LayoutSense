@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0040",
+ "name": "Stefan Batory High School",
+ "education": [
+  {
+   "degree": "B.Sc. iRsthenaitics",
+   "institution": "Warsaw University of Technology",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners"
+  },
+  {
+   "name": "Flipped Classroom Pilot"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Qualified Teacher Status",
+   "issuer": "QTS)"
+  },
+  {
+   "name": "Department for Education",
+   "issuer": ""
+  },
+  {
+   "name": "TESOL Certificate",
+   "issuer": "Anzona State University"
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambndge English"
+  }
+ ],
+ "_runtime_s": 0.07
+}

@@ -1,0 +1,54 @@
+PERSONAL DETAILS ANJALI SUBRAMANIAN
+\ +91 837-574-4918 Graduate Engineer — Power Systems
+™ anjalisubramanian@gmail.com
+9 Coimbatore, Tamil Nadu CAREER HISTORY
+CORE COMPETENCIES Mar 2026 - Present
+Graduate Engineer — Power Systems
+Embedded C
+Tata Power | Coimbatore
+VLSI
+« Reduced energy losses by 20% through power factor correction and harmonic
+Power Electronics
+filtering
+Power Systems Developed firmware in Embedded C for a battery management system on 500+
+HV Substations EV packs
+DIgSILENT PowerFactory ¢ Led root cause analysis on transformer failures, saving 331 lakh in replacement
+Xilinx Vivado costs
+PSCAD ¢ Programmed Siemens PLCs to automate a packaging line, raising throughput by
+MATLAB/Simulink 39%
+Altium Designer Designed protection schemes for 21 132/33 kV substations using DIgSILENT
+aN PowerFactory
+Critical Thinking Aug 2024 - Feb 2026
+Communication Electrical Engineer
+NTPC Limited | Chennai
+LANGUAGES KNOWN
+* Commissioned a 6 MW solar plant including inverters, transformers and SCADA
+English Mother tongue integration
+Hindi Limited Working Proficiency Performed load flow and short-circuit studies for 5 industrial clients
+Kannada _ Professional Working Designed 18-layer PCBs in PSCAD for an industrial loT gateway
+Proficiency
+Verified RTL designs on FPGA, achieving timing closure at 400 MHz
+LICENSES & CERTIFICATIONS
+SELECTED PROJECTS
+Professional Engineer (PE) — Electrical
+Grid-tied Inverter Design
+NCEES, 2024
+Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.
+Siemens Certified PLC Programmer
+Siemens, Oct 2026 Stack: ETAP, PSCAD, MATLAB/Simulink, Xilinx Vivado
+EDUCATION &
+QUALIFICATIONS
+B.E. in Electronics and
+Instrumentation
+Indian Institute of Technology Delhi
+Sep 2020 - Jun 2024 | GPA: 9.2/10
+Class XII (HSC)
+Bishop Cotton Boys’ School
+2020 | 91.4%
+Class X (ICSE)
+Bishop Cotton Boys’ School,
+Hyderabad
+2018 | 92.0%
+ONLINE PROFILES
+LinkedIn: linkedin.com/in/anjali-
+subramanian-97

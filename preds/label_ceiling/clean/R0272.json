@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0272",
+ "name": "EFUA OFORI",
+ "contact": {
+  "email": "efua2002@yahoo.com",
+  "phone": "07906 800255",
+  "location": "Glasgow"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/efua-ofori"
+  },
+  {
+   "url": "github.com/efuaofori"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Computer Applications",
+   "institution": "Ashesi University",
+   "dates": "09.2024 — Present",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "11.2025 — 01.2026",
+   "title": "SDE Intern",
+   "company": "Barclays",
+   "location": "Glasgow",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Collected and cleaned data from 7 sources to support a software engineering initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "TypeScript",
+  "O #",
+  "@ Oo",
+  "Angular",
+  "Vue.js",
+  ".NET Core",
+  "Express.js",
+  "React",
+  "GitHub Actions",
+  "Linux",
+  "Kubernetes",
+  "Microsoft Azure",
+  "Apache Kafka",
+  "DynamoDB",
+  "Redis",
+  "Cassandra"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "Linux, Go"
+  },
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client.",
+   "tech": "Angular, .NET Core, Cassandra, Express.js"
+  },
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 191K+ redirects/minute with consistent hashing and Redis.",
+   "tech": "Angular, GitHub Actions"
+  },
+  {
+   "name": "Campus Placement Portal",
+   "dates": "08.2026",
+   "description": "Web portal used by 120 students to apply for drives, track status and download offer letters.",
+   "tech": "GitHub Actions, Express.js, Kubernetes"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "French",
+   "proficiency": "Elementary Proficiency"
+  }
+ ]
+}

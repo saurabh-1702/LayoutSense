@@ -1,0 +1,88 @@
+{
+ "resume_id": "R0038",
+ "contact": {
+  "email": "pranavm930@outlook.com",
+  "phone": "+91-8854906778"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pranavmenon"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Computer Science optimising slow PostgreSQL queries",
+   "institution": "Indian Institute of Science — Cut cloud infrastructure costs by 27.8 crore annually by right-sizing",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Coursera",
+   "issuer": "schedule across web and mobile"
+  },
+  {
+   "name": "HashiCorp Certified: Terraform",
+   "issuer": "Resolved 80+ production issues as part of the on-call rotation"
+  },
+  {
+   "name": "Associate reducing mean time to recovery by 28%",
+   "issuer": null
+  },
+  {
+   "name": "HashiCorp",
+   "issuer": ""
+  },
+  {
+   "name": "Microsoft Certified: Azure tests",
+   "issuer": "raising code coverage from 14% to 85%"
+  },
+  {
+   "name": "Developer Associate",
+   "issuer": "Developed internal tooling in Ruby on Rails that saved the support"
+  },
+  {
+   "name": "Microsoft",
+   "issuer": ""
+  },
+  {
+   "name": "team 34 hours per week",
+   "issuer": null
+  },
+  {
+   "name": "Google Cloud Professional Cloud",
+   "issuer": null
+  },
+  {
+   "name": "Junior Software Developer",
+   "issuer": "Uber"
+  },
+  {
+   "name": "Google Cloud",
+   "issuer": ""
+  },
+  {
+   "name": "Introduced feature flags and canary releases",
+   "issuer": "lowering production"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Tamil",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Telugu",
+   "proficiency": null
+  },
+  {
+   "language": "Malayalam",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.097
+}

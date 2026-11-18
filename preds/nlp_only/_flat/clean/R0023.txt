@@ -1,0 +1,37 @@
+David Gonzalez Lopez
+Aspiring Logistics Coordinator
+Phone 621 434 362 | Email gonzalez.david@gmail.com |
+Address Valencia, Spain LinkedIn linkedin.com/in/davidgonzalez-bod5e3
+EDUCATIONAL QUALIFICATIONS
+Institution | Year GPA / Honours
+a
+Bachelor of Business IE University 2025 Nota media: 8.8
+Administration
+INTERNSHIPS
+Organisation | Designation
+Mercadona Supply Chain Intern Feb 2026 May 2026
+Valencia
+Responsibilities & Achievements:
+¢ Built a tracker in SAP APO that streamlined weekly reporting for a team of 8
+¢ Assisted with day-to-day supply chain & operations operations and maintained accurate records
+Uber Procurement Intern Oct 2024 Mar 2025
+Barcelona
+Responsibilities & Achievements:
+¢ Built a tracker in Kinaxis RapidResponse that streamlined weekly reporting for a team of 4
+¢ Prepared research summaries and presentation decks for 8 stakeholder meetings
+NOTABLE PROJECTS
+S.No. Project Title Description |
+Vehicle Routing Model Python OR-Tools model for routing 15 delivery vans with time windows.
+D Warehouse Layout Slotting analysis that reduced picker travel distance by 30% in a live DC.
+Optimisation
+KEY SKILLS
+Skill | Proficiency | Skill | Proficiency
+‘omdesem Bony
+COURSES & CERTIFICATIONS
+S.No. Certification Issuing Organisation
+1 Six Sigma Green Belt ASQ Sep 2026
+LANGUAGES KNOWN
+Language Read | Write | Speak
+lian
+a A
+2

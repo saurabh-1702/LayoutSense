@@ -1,0 +1,48 @@
+{
+ "resume_id": "R0263",
+ "contact": {
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayu-lestari-"
+  },
+  {
+   "url": "behance.net/ayulestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Design in Binus University",
+   "institution": "Bachelor of Design",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Visual Design",
+  "Typography",
+  "roficient",
+  "a CC",
+  "Bees ee eee"
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Interaction Design Foundation ~ UX Management Interaction Design Foundation",
+   "issuer": null
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA) Human Factors International"
+  },
+  {
+   "name": "NN/g UX Certification Nielsen Norman Group",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.049
+}

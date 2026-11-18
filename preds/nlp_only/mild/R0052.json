@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0052",
+ "name": "Merck KGaA - Leipzig",
+ "contact": {
+  "phone": "157 59046639",
+  "location": "Leipzig, Germany"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/katharin"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Clinical Research",
+   "institution": "Technical University of Berlin",
+   "dates": null
+  },
+  {
+   "degree": "Master of Pharmacy",
+   "institution": "Technical University of Munich",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Regulatory Affairs Manager",
+   "company": "O",
+   "dates": "Feb, 2026 — Present",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Registered Pharmacist",
+   "issuer": "Pharmacy Council of India"
+  },
+  {
+   "name": "Certified Clinical Research Professional",
+   "issuer": "CCRP)"
+  },
+  {
+   "name": "SoCRA",
+   "issuer": ""
+  },
+  {
+   "name": "ICH-GCP Certification",
+   "issuer": "TransCelerate"
+  },
+  {
+   "name": "Regulatory Affairs Certification",
+   "issuer": "RAC)"
+  },
+  {
+   "name": "RAPS",
+   "issuer": ""
+  }
+ ],
+ "_runtime_s": 0.052
+}

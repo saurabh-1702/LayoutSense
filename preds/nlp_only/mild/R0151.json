@@ -1,0 +1,80 @@
+{
+ "resume_id": "R0151",
+ "name": "Curriculum Vitae",
+ "contact": {
+  "email": "anandr994@yahoo.com",
+  "phone": "0431 564 667",
+  "location": "Perth, WA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anand-ramesh8"
+  },
+  {
+   "url": "github.com/anandramesh"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.E. in Computer Science",
+   "institution": "College of Engineering",
+   "dates": "July 2021"
+  },
+  {
+   "degree": "Bachelor of Computer Applications .",
+   "institution": "Indian Institute of Technology Madras, Chennai",
+   "dates": "June 2019"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Graduate Software Engineer",
+   "company": "a",
+   "dates": "December 2022 — Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Cloud & DevOps Microsoft Azure",
+  "Google Cloud Platform",
+  "GitHub",
+  "Actions",
+  "Frameworks Django",
+  "GraphQL",
+  "Angular",
+  "Spring Boot",
+  "React",
+  "Swift",
+  "TypeScript",
+  "Kotlin",
+  "Scala"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Cloud Professional Cloud Developer",
+   "issuer": "Google eat"
+  },
+  {
+   "name": "Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Certified: Azure Developer Associate",
+   "issuer": "oun wid"
+  },
+  {
+   "name": "Microsoft Associate",
+   "issuer": "Amaz rae"
+  },
+  {
+   "name": "Certified Solutions Architect",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.039
+}

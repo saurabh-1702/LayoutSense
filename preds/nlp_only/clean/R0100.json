@@ -1,0 +1,47 @@
+{
+ "resume_id": "R0100",
+ "name": "¢ Developed",
+ "contact": {
+  "phone": "+92 322 835 0290"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sana-rana2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "NED University of Engineering and Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "M sana.rana@ gmail.com Graduate Engineer",
+   "company": "\\ +92 322 835 0290 O",
+   "dates": "09/2023 to 06/2024",
+   "bullets": [
+    "e Led root cause analysis on transformer failures, saving PKR 5.4M in",
+    "*- TECHNICAL SKILLS ¢ Designed 7-layer PCBs in Altium Designer for an industrial IoT gateway",
+    "Performed load flow and short-circuit studies for 19 industrial clients",
+    "Designed protection schemes for 11 132/33 kV substations using"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Sindhi",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.113
+}

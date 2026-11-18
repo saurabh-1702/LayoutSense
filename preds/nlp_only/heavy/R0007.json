@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0007",
+ "name": "AHMED MOSTAFA MAHMOUD",
+ "contact": {
+  "email": "ahmedmahmoud@gmail.com",
+  "phone": "+20 1190902746",
+  "location": "Giza, Egypt"
+ },
+ "links": [
+  {
+   "url": "github.com/amahmoud"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Information Technology",
+   "institution": "Nile University, Giza",
+   "dates": "Aug 2011—Aug 2015"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Expense Splitter App"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "AWS Certified Solutions Architect —- Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C1"
+  },
+  {
+   "language": "German",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.021
+}

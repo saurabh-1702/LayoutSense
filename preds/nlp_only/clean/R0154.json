@@ -1,0 +1,47 @@
+{
+ "resume_id": "R0154",
+ "name": "Isabela Silva Gomes",
+ "contact": {
+  "email": "isabelagomes@hotmail.com",
+  "phone": "+55 48 95578-2077",
+  "location": "Janeiro, RJ"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/isabela-gomes-64"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Insper Sao Paulo Accounting: Transfer Pricing * GST « Month-end",
+   "dates": "2022-09 — 2026-05"
+  }
+ ],
+ "projects": [
+  {
+   "name": "COURSES & CERTIFICATIONS"
+  },
+  {
+   "name": "Internal Controls Review ACCA Affiliate"
+  },
+  {
+   "name": "GST Reconciliation Tool IMA"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.016
+}

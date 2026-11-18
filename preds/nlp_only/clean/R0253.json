@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0253",
+ "name": "CHO SEOYEON",
+ "contact": {
+  "email": "seoyeoncho50@gmail.com",
+  "phone": "+82 10-7564-6037",
+  "location": "Incheon, South Korea"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/seoyeon-cho-61"
+  },
+  {
+   "url": "github.com/seoyeon8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Computer Applications",
+   "institution": "POSTECH",
+   "dates": "09/2021 — 03/2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Software Engineer",
+   "company": "Naver Remote",
+   "dates": "02/2026 — Current",
+   "bullets": []
+  },
+  {
+   "title": "Graduate Software Engineer",
+   "company": "Naver Incheon",
+   "dates": "06/2025 — 01/2026",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "¢ Swift",
+  "Ruby",
+  "GraphQL",
+  "Spring Boot",
+  "Ruby on Rails",
+  "Next.js",
+  "Linux",
+  "CI/CD",
+  "Jenkins",
+  "Docker * DynamoDB",
+  "MongoDB",
+  "Redis",
+  "PostgreSQL",
+  "Elasticsearch",
+  "Negotiation",
+  "Critical",
+  "Thinking"
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale"
+  },
+  {
+   "name": "Open-source CLI Contribution"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "« AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "« AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Korean",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.058
+}

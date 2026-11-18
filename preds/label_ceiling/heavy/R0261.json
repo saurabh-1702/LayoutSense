@@ -1,0 +1,100 @@
+{
+ "resume_id": "R0261",
+ "name": "Rimjhim Mohanty",
+ "headline": "Reporter",
+ "contact": {
+  "email": "rimjhim.mohanty@gmail.com",
+  "phone": "(+91) 9920237679",
+  "location": "Bhubaneswar. Odisha, India"
+ },
+ "education": [
+  {
+   "degree": "B.A. in Journalism and Mass Communication",
+   "institution": "Indian Institute of Mass Communication",
+   "dates": "July 2022 — July 2025",
+   "grade": "Percentage: 64.8%"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Ryan International School",
+   "dates": "2022",
+   "grade": "95.9%"
+  },
+  {
+   "degree": "Class X (SSC)",
+   "institution": "Ryan International School, Guwahati",
+   "dates": "2020}",
+   "grade": "87.5%"
+  }
+ ],
+ "experience": [
+  {
+   "company": "The Times Group",
+   "location": "Bhubanesw ar",
+   "title": "Reporter",
+   "dates": "August 2025 — Present",
+   "bullets": [
+    "Managed a team of 12 reporters and stringers across 14 districts",
+    "Grew the newsletter audience to 386K+ subscribers with a 33% open rate",
+    "Produced and edited short-form video in Adobe Premiere Pro with 29,000 cumulative views"
+   ]
+  }
+ ],
+ "skills": [
+  "Social Media Strategy",
+  "News Reporting",
+  "SEO Writing",
+  "Video Production",
+  "Canva",
+  "CrowdTangle",
+  "Adobe Premiere Pro",
+  "Google Trends",
+  "Collaboration",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Investigative Series on Groundwater",
+   "description": "Six-part multimedia investigation using public data from 7 districts."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation",
+   "year": "(June 2025)"
+  },
+  {
+   "name": "Data Journalism Certificate",
+   "issuer": "Knight Center for Journalism",
+   "year": "(2024)"
+  },
+  {
+   "name": "Google News Initiative — Digital Reporting",
+   "issuer": "Google News Initiative",
+   "year": "(2026)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student.",
+   "issuer": "Indian Institute of Mass Communication",
+   "year": "(2023)"
+  },
+  {
+   "name": "Customer Champion Award",
+   "issuer": "The Times Group",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  }
+ ]
+}

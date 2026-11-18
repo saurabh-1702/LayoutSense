@@ -1,0 +1,19 @@
+{
+ "resume_id": "R0020",
+ "contact": {
+  "location": "Present Microsoft, Giza"
+ },
+ "education": [
+  {
+   "degree": "MBA, Sales and Marketing",
+   "institution": "Account Executive Nile University",
+   "dates": null
+  },
+  {
+   "degree": "B.A. in Economics",
+   "institution": "9.5M The American University in Cairo",
+   "dates": null
+  }
+ ],
+ "_runtime_s": 0.039
+}

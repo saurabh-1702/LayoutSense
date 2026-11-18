@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0264",
+ "name": "22",
+ "headline": "1 F Years of Experience",
+ "contact": {
+  "email": "mozturk@gmail.com",
+  "phone": "+31 (0)6 81 04 47 59",
+  "location": "Utrecht, Netherlands"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mertozturk3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Automobile Engineering",
+   "institution": "Sabanci University",
+   "dates": "2021 – 2025",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul 2025 – Aug",
+   "title": "Quality Engineer"
+  },
+  {
+   "dates": "2026",
+   "company": "ASML",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of EUR 682K",
+    "by reducing process variation",
+    "Reduced unplanned downtime by 26% by",
+    "introducing condition-based maintenance",
+    "Led 3 Kaizen events that saved €225K annually in",
+    "scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "Product Lifecycle",
+  "CFD Management",
+  "92%",
+  "72%",
+  "Six Sigma",
+  "DFMEA",
+  "77%",
+  "PPAP",
+  "Injection Moulding",
+  "MATLAB",
+  "Teamcenter",
+  "62%",
+  "78%",
+  "Creo",
+  "Decision Making",
+  "40%",
+  "56%",
+  "Time Management Attention to Detail"
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "German",
+   "proficiency": "AQ"
+  },
+  {
+   "language": "French",
+   "proficiency": "renc"
+  }
+ ]
+}

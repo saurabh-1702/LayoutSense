@@ -1,0 +1,123 @@
+{
+ "resume_id": "R0060",
+ "name": "Agustina Rossi",
+ "headline": "General Ledger Accountant",
+ "contact": {
+  "email": "agustina.rossi04@gmail.com",
+  "phone": "434776216170",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "wwwlinkedin.com/in/agustina-rossi-eac780"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "IE University",
+   "dates": "August 2017 – August 2019"
+  },
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": "Universidad de San Andrés",
+   "dates": "July 2013 – June 2017"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "March 2023 – Now",
+   "title": "General Ledger Accountant",
+   "company": "HSBC",
+   "location": "Madrid",
+   "bullets": [
+    "Reduced days sales outstanding by 25 days",
+    "through tighter credit control and collections",
+    "follow-up Implemented SAP FICO for accounts payable",
+    "automating 26% of invoice processing",
+    "Managed the month-end close for 7 legal",
+    "entities, reducing the close cycle from 18 to 5",
+    "working days",
+    "Built a fixed-asset register for 4.7M assets and",
+    "aligned depreciation with tax schedules"
+   ]
+  },
+  {
+   "dates": "October 2019",
+   "title": "Audit Associate"
+  },
+  {
+   "dates": "February 2023",
+   "company": "Banco Santander",
+   "location": "Madrid",
+   "bullets": [
+    "Filed GST and corporate tax returns with zero",
+    "penalties across 24 consecutive years",
+    "Led statutory audits for 18 clients across",
+    "manufacturing and retail with combined",
+    "revenue of €907K",
+    "Performed balance sheet reconciliations for",
+    "500+ accounts and cleared ageing items worth",
+    "€378M",
+    "Trained 6 junior accountants on Ind AS transition adjustments"
+   ]
+  }
+ ],
+ "skills": [
+  "90%",
+  "Ind AS",
+  "Direct Taxation",
+  "59%",
+  "93%",
+  "Statutory Audit",
+  "SAP FICO",
+  "55%",
+  "80%",
+  "CaseWare",
+  "Tally ERP 9",
+  "78%",
+  "76%",
+  "Microsoft",
+  "Xero Dynamics 365"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Public Accountant (CPA)",
+   "issuer": "AICPA",
+   "year": "2022"
+  },
+  {
+   "name": "SAP Certified Application"
+  },
+  {
+   "name": "Associate"
+  },
+  {
+   "name": "Financial Accounting",
+   "issuer": "SAP",
+   "year": "2024"
+  },
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "HSBC",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "ehabe"
+  },
+  {
+   "proficiency": "Native",
+   "language": "English"
+  }
+ ]
+}

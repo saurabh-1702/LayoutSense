@@ -1,0 +1,69 @@
+{
+ "resume_id": "R0276",
+ "contact": {
+  "email": "sachini.fernando@gmail.com",
+  "phone": "+94 76 783 9314",
+  "location": "Negombo, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Commerce",
+   "institution": "Sri Lanka Institute of Information Technology",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) Inside Sales Representative Sinhala",
+   "company": "Oracle",
+   "dates": "2025 - Current",
+   "bullets": []
+  },
+  {
+   "title": "@) Territory Sales Officer",
+   "company": "Conversational",
+   "dates": "2024-2025",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "reviews in Gong",
+  "for FY",
+  "years",
+  "Channel Sales Sales Forecasting",
+  "procurement and legal stakeholders",
+  "Management"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  },
+  {
+   "name": "Apollo.io Gong"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training"
+  },
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salesforce"
+  },
+  {
+   "name": "Certified Professional Sales Person",
+   "issuer": "NASP"
+  }
+ ],
+ "_runtime_s": 0.062
+}

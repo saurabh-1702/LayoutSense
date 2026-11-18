@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0099",
+ "name": "Amna Javed",
+ "headline": "Analytics Associate",
+ "contact": {
+  "email": "amna_javed@gmail.com",
+  "location": "Lahore, Pakistan"
+ },
+ "links": [
+  {
+   "url": "github.com/amnajaved"
+  }
+ ],
+ "education": [
+  {
+   "institution": "eepmeetnamumnceesnemten",
+   "dates": "Lenmeanaminet",
+   "degree": "BA (Hons) Economics"
+  },
+  {
+   "institution": "Lahore University of Management Soences",
+   "dates": "07.2019 - 05.2022"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "02.2024 — 05.2026",
+   "company": "Jazz",
+   "title": "Analytics Associate",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 8.1M employee queries per month",
+    "Built a customer segmentation framework using Clustering on 7.8M profiles to drive targeted campaigns",
+    "Productionised ML models with Docker and MLflow, cutting mode! deployment time from weeks to 7 days"
+   ]
+  }
+ ],
+ "skills": [
+  "Scala",
+  "Python",
+  "SAS",
+  "Teneo",
+  "negging Face Tensioners",
+  "Time Seis forecasting",
+  "M7"
+ ],
+ "projects": [
+  {
+   "name": "Air Quality Forecasting",
+   "description": "LSTM mode! forecasting PM2.5 levels across 14 monitoring stations with a Streamlit dashboard."
+  },
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-tuned DistiiBERT classifier achieving 94% Fi ona Public misinformation dataset.",
+   "tech": "SAS, Scala"
+  }
+ ]
+}

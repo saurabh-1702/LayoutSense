@@ -1,0 +1,26 @@
+{
+ "resume_id": "R0275",
+ "name": "IQRA ABBASI",
+ "contact": {
+  "email": "igqra.abbasi@gmail.com",
+  "phone": "0310-2641643"
+ },
+ "education": [
+  {
+   "degree": "MEng Power Systems FAST National University of Computer and",
+   "institution": "Qualification Institution",
+   "dates": "2014"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "__2._| Professional Engineer",
+   "issuer": "PE)"
+  },
+  {
+   "name": "Blectrical Supervisor Licence",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.065
+}

@@ -1,0 +1,35 @@
+{
+ "resume_id": "R0263",
+ "contact": {
+  "email": "ayu_lestari@gmail.com",
+  "phone": "0813-9890-4312",
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayu-lestari-"
+  },
+  {
+   "url": "behance.net/ayulestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Design in Binus University",
+   "institution": "Qualification Institution Year Grade",
+   "dates": "2019"
+  }
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.035
+}

@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0038",
+ "name": "Pranav Menon",
+ "headline": "Junior Software Developer | 6+ Years in Software Engineéring",
+ "contact": {
+  "email": "Brahevmo30@0ulook",
+  "phone": "91-8854906778",
+  "location": "mEoinbstole, Tamil Nadu"
+ },
+ "education": [
+  {
+   "degree": "\"B.Sc. in Computer Science",
+   "institution": "Indian Institute of Science",
+   "dates": "yen, 2020",
+   "grade": "CGPA."
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Software Developer",
+   "company": "Uber",
+   "location": "Chawnei",
+   "dates": "Oct 2021 - Present",
+   "bullets": [
+    "Collaborated with product and design to ship 5 major nadases on schedule across web and mobile",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%",
+    "implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 14% to 85%",
+    "Developed internal tooling in Ruby on Rails that saved the support team 34 hours per week"
+   ]
+  },
+  {
+   "title": "Junior Software Developer",
+   "company": "Uber",
+   "location": "Chennai",
+   "dates": "Aug 2020 - Sep 2021",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering pitidaction incidents by 58% quarter over quarter",
+    "Reduced p95 API latency by 51% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Cut cloud infrastructure costs by 27.8 crore annually by tighestiog instances and adopting spot capacity",
+    "Rebuilt the search experience with Elasticsearch, improving result rears and click-through by 39%"
+   ]
+  }
+ ],
+ "skills": [
+  "INET Core",
+  "GitHub Acti s",
+  "“Jenki us",
+  "Docker",
+  "‘Linux",
+  "scucD_"
+ ],
+ "certifications": [
+  {
+   "name": "Associate",
+   "year": "."
+  },
+  {
+   "name": "“Microsoft Certified: , Azure Developer Associate",
+   "issuer": "Microsott",
+   "year": "2026"
+  },
+  {
+   "name": "ques iGoogle Cloud I Cloud"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Google Code Jam Rouns 2 peuslifiess"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "™ Professional proficiency",
+   "language": "sMatayalam oe"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "resume_id": "R0134",
+ "name": "Keerthana Kamath",
+ "headline": "Sub-Editor",
+ "contact": {
+  "email": "keerthana.kamatho1@gmail.com",
+  "phone": "(+91) 9556790011",
+  "location": "Hyderabad, Telangana"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/keerthana-kamath"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Arts in Journalism",
+   "institution": "Tata Institute of Social Sciences",
+   "dates": "2022 — 2024"
+  },
+  {
+   "degree": "Bachelor of Arts in Journalism and Mass Communication",
+   "institution": "Indian Institute of Mass Communication",
+   "dates": "2019 — 2022"
+  },
+  {
+   "degree": "Class XII (State Board)",
+   "institution": "Kendriya Vidyalaya",
+   "dates": "2019",
+   "grade": "80.9%"
+  }
+ ],
+ "experience": [
+  {
+   "company": "The Times Group",
+   "location": "Hyderabad",
+   "title": "Sub-Editor",
+   "dates": "May 2025 — Present",
+   "bullets": [
+    "Produced a 17-episode podcast series that reached 3.1M downloads",
+    "Broke 17 exclusive stories that were followed up by national outlets",
+    "Managed a team of 7 reporters and stringers across 9 districts",
+    "Produced and edited short-form video in WordPress with 3.1M cumulative views"
+   ]
+  },
+  {
+   "company": "HT Media",
+   "location": "Chennai",
+   "title": "Copywriter",
+   "dates": "May 2024 — April 2025",
+   "bullets": [
+    "Increased monthly page views by 34% through SEO-led headlines and topic clusters",
+    "Led a data journalism project using CrowdTangle that was shortlisted for a national award",
+    "Edited 12 long-form features per month for print and digital editions",
+    "Grew the newsletter audience to 120K+ subscribers with a 44% open rate"
+   ]
+  }
+ ],
+ "skills": [
+  "Fact-checking",
+  "AP Style",
+  "Data Journalism",
+  "Podcast Production",
+  "Adobe Premiere Pro",
+  "Final Cut Pro",
+  "Adobe Audition",
+  "CrowdTangle",
+  "WordPress",
+  "Datawrapper",
+  "Critical Thinking",
+  "Adaptability",
+  "Decision Making",
+  "Attention to Detail"
+ ],
+ "certifications": [
+  {
+   "name": "Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation",
+   "year": "May 2024"
+  },
+  {
+   "name": "Google News Initiative — Digital Reporting",
+   "issuer": "Google News Initiative",
+   "year": "March 2026"
+  },
+  {
+   "name": "Data Journalism Certificate",
+   "issuer": "Knight Center for Journalism",
+   "year": "February 2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "The Times Group",
+   "year": "2026"
+  },
+  {
+   "name": "Dean's List",
+   "issuer": "Tata Institute of Social Sciences",
+   "year": "2023"
+  },
+  {
+   "name": "CEO's Excellence Award",
+   "issuer": "The Times Group",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Telugu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Ci"
+  }
+ ]
+}

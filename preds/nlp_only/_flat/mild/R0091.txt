@@ -1,0 +1,38 @@
+Personal information Jannatul Akter
+Location Sylhet, Bangladesh
+Mobile 01596-879609
+E-mail jannatul.a@gmail.com
+LinkedIn www. linkedin.com/in/jannatul-akter
+AREAS OF
+EXPERTISE
+Engineering SCADA * Load Flow Analysis * VLSI
+Tools DIgSILENT PowerFactory * ETAP « Altium Designer * Cadence Virtuoso * KiCad
+Soft Skills Cross-functional Collaboration * Negotiation * Problem Solving
+WORK HISTORY
+September 2025 - Present Project Engineer — Electrical
+Walton Group
+* Designed protection schemes for 3 132/33 kV substations using DIgSILENT PowerFactory
+« Reduced energy losses by 23% through power factor correction and harmonic filtering
+« Developed firmware in Embedded C for a battery management system on 200+ EV packs
+April 2024 - August 2025 Field Engineer
+Samsung
+= Programmed Siemens PLCs to automate a packaging line, raising throughput by 21%
+= Performed load flow and short-circuit studies for 21 industrial clients
+= Designed 8-layer PCBs in ETAP for an industrial loT gateway
+« Verified RTL designs on FPGA, achieving timing closure at 75 MHz
+June 2022 - March 2024 Graduate Engineer — Power Systems
+Summit Power
+« Commissioned a 6 MW solar plant including inverters, transformers and SCADA integration
+« Led root cause analysis on transformer failures, saving BDT 22.1M in replacement costs
+EDUCATION &
+QUALIFICATIONS
+May 2022 BEng (Hons) Electrical Engineering
+North South University
+First Class
+LICENSES &
+CERTIFICATIONS
+2023 NEBOSH IGC, NEBOSH
+LANGUAGES
+KNOWN
+Bengali Mother tongue
+English Full Professional Proficiency

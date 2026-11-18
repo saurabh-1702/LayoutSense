@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Regenerable / large artefacts
+/models/
+/layoutlm_data/
+/vision_data/
+*.zip
+scores_per_resume.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

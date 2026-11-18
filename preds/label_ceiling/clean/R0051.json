@@ -1,0 +1,108 @@
+{
+ "resume_id": "R0051",
+ "name": "KEVIN T. RIVERA",
+ "headline": "Final-year B.S. Student",
+ "contact": {
+  "email": "kevin.rivera@gmail.com",
+  "phone": "+1 202-220-1286",
+  "location": "Washington, DC"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/kevinrivera"
+  },
+  {
+   "url": "github.com/krivera"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mathematics",
+   "institution": "Purdue University",
+   "dates": "Expected Jul 2027",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2025 - Feb 2026",
+   "company": "Oracle",
+   "title": "Data Science Intern",
+   "location": "New York, NY",
+   "bullets": [
+    "Partnered with finance to build an anomaly detection system that flagged $295K in billing errors",
+    "Built a tracker in Tableau that streamlined weekly reporting for a team of 3"
+   ]
+  },
+  {
+   "dates": "May 2024 - Oct 2024",
+   "title": "Data Analyst Intern",
+   "location": "Washington, DC",
+   "bullets": [
+    "Collected and cleaned data from 24 sources to support a data science & analytics initiative",
+    "Built a tracker in A/B Testing that streamlined weekly reporting for a team of 9"
+   ]
+  }
+ ],
+ "skills": [
+  "Python",
+  "SAS",
+  "Scala",
+  "SQL",
+  "Hugging Face Transformers",
+  "A/B Testing",
+  "NLP",
+  "scikit-learn",
+  "LangChain",
+  "NumPy",
+  "Airflow",
+  "dbt",
+  "Plotly",
+  "Power BI",
+  "Tableau",
+  "Looker",
+  "Matplotlib",
+  "Conflict Resolution",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Resume Screening with NLP",
+   "description": "Named-entity extraction and job-description matching pipeline built with spaCy and BERT.",
+   "tech": "dbt, Hugging Face Transformers, Airflow"
+  },
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-tuned DistilIBERT classifier achieving 94% F1 on a public misinformation dataset.",
+   "tech": "Scala, SQL, scikit-learn"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "End-to-end Power BI dashboard on 76K+ transactions with drill-downs by region and category."
+  },
+  {
+   "name": "Air Quality Forecasting",
+   "description": "LSTM model forecasting PM2.5 levels across 16 monitoring stations with a Streamlit dashboard.",
+   "tech": "Matplotlib, NumPy, LangChain, Scala"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "Dec 2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Purdue University",
+   "year": "2026"
+  },
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "American Express",
+   "year": "2024"
+  }
+ ]
+}

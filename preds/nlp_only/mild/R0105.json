@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0105",
+ "name": "Héléne Lefevre",
+ "contact": {
+  "email": "helene.lefevre03@hotmail.fr",
+  "phone": "88 74 11 50",
+  "location": "Bordeaux, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/helene-lefevre-57"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Manufacturing Systems",
+   "institution": "Manufacturing Systems",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Engineering, Automobile Engineering",
+   "institution": "Ecole Polytechnique",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Project Engineer",
+   "company": "TotalEnergies",
+   "dates": "2025 — 2026",
+   "bullets": [
+    "Ran FEA in CATIA V5 to optimise a bracket design, reducing weight by 7% without loss of stiffness",
+    "Reduced unplanned downtime by 33% by introducing condition-based maintenance"
+   ]
+  },
+  {
+   "title": "Reliability Engineer",
+   "company": "Honeywell",
+   "dates": "2021 — 2025",
+   "bullets": [
+    "Improved OEE of a 4-station assembly line from 40% to 85% through SMED and TPM",
+    "Achieved Six Sigma Green Belt savings of €10.7M by reducing process variation",
+    "Owned PPAP submissions for 19 suppliers and resolved 150 quality concerns",
+    "Led 18 Kaizen events that saved €499K annually in scrap and rework",
+    "Designed 23 sheet-metal and casting components in Minitab for a new two-wheeler platform"
+   ]
+  },
+  {
+   "title": "Design Engineer",
+   "company": "Honeywell",
+   "dates": "2018 — 2021",
+   "bullets": [
+    "Commissioned a new CNC machining cell, increasing capacity by 56%",
+    "Conducted DFMEA and design reviews with cross-functional teams for 19 programmes",
+    "Managed a capex budget of €400M for plant upgrades delivered on time"
+   ]
+  }
+ ],
+ "skills": [
+  "Sheet Metal Design",
+  "Teamcenter"
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Certified SolidWorks Professional",
+   "issuer": "CSWP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "German",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.075
+}

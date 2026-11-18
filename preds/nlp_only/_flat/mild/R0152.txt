@@ -1,0 +1,36 @@
+\. +86-156-2003-1552 ™ peng.guo02@163.com
+GUO Peng 9 Suzhou, China © |inkedin.com/in/peng-guo-5f414f
+© PROFESSIONAL EXPERIENCE
+Mandarin Chinese Native
+Jun 2025-— Electrical Engineer
+Present BYD, Suzhou
+English Ci
+Programmed Siemens PLCs to automate a
+packaging line, raising throughput by 20% Japanese Cl
+Led root cause analysis on transformer failures,
+saving CNY 4.5M in replacement costs
+@ ComPETENCIES
+Developed firmware in Embedded C for a battery
+management system on 250+ EV packs Embedded C
+Designed protection schemes for 10 132/33 kV
+substations using Cadence Virtuoso
+Oct 2024—May Field Engineer
+2025 ABB, Beijing
+Reduced energy losses by 25% through power
+factor correction and harmonic filtering
+Commissioned a 13 MW solar plant including
+inverters, transformers and SCADA integration
+Performed load flow and short-circuit studies for
+10 industrial clients
+Verified RTL designs on FPGA, achieving timing
+closure at 50 MHz
+Designed 10-layer PCBs in Altium Designer for an
+industrial IoT gateway
+HONORS Adaptability
+¢ Dean's List, Tongji University (2024) Stakeholder Management
+e IEEE Student Paper Award (2026)
+Team Leadership
+© ACADEMIC BACKGROUND
+B.E. in Electrical Engineering
+Tongji University
+Aug 2020-Sep 2024

@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0049",
+ "name": "Ketaki Gandhi",
+ "contact": {
+  "email": "ketakigandhi@gmail.com",
+  "phone": "+91-86943-25287",
+  "location": "Ahmedabad, India"
+ },
+ "education": [
+  {
+   "degree": "M.Tech in Manufacturing Systems, First Class with Distinction",
+   "institution": "Nirma University",
+   "dates": "Sep 2002 — Jul 2004"
+  },
+  {
+   "degree": "BA. in Aerospace Engineering —~",
+   "institution": "Nirma University",
+   "dates": "Jul 1998"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit i ih"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Gujarati",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.029
+}

@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0119",
+ "name": "Fatima Khan",
+ "headline": "Nurse Manager | 15> Years in Nursing Designation",
+ "experience": [
+  {
+   "title": "Nurse Manager",
+   "dates": "2023 Present",
+   "bullets": [
+    "Grew the team by 58% two years while keeping attrinon below 16%",
+    "Educated paticats and families on discharge plans. cutting 30-day readmissions by 15%",
+    "Introduced weekly operating reviews that cut decision tumaround from 13 days to | day",
+    "Mentored 9 jumzor colleagues. several of whom were promoted within 18 months",
+    "Represented the function im execulive steering committees and board-level reporting",
+    "Led a team of 14 across 8 workstreams, owning hiring. performance reviews and quarterly planning",
+    "Parteered with senior leadership to define the annual roadmap and a budget of PKR 790K",
+    "implemented a fall-prevention bundle that reduced patient falls by 14%",
+    "Participated in 14 code blec responses as a certified ACLS provider",
+    "Triaged 150+ patents monthly m the emergency department using the Manchester Triage System",
+    "Oversew duty rosters for 1 nurses and managed ward imventory and consumables",
+    "Tramed $ newly jomed surses on medication safety and documentation"
+   ],
+   "company": "Shankat Khanam Memorial Cancer"
+  },
+  {
+   "title": "Clinical Nurse",
+   "dates": "2013 2018",
+   "company": "Hospital",
+   "location": "iskemahed",
+   "bullets": [
+    "Provided direct care to I! patients per shifi m a1 1-bed medical-surgical ward",
+    "Mianaced ventilated patients m a 6-bed ICU, titrating vasoactive infusions per protocol",
+    "Masatamed 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Reduced bospital-acquired mfection rates by 31% by leading hand-hygiene audits"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 13 rural health camps screening 20 residents for hypertension and diabetes."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Electronic Medical Records"
+  },
+  {
+   "name": "Pediatric Advanced Life Support (PALS)",
+   "issuer": "American Heart Association"
+  },
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "issuer": "American Heart Association"
+  },
+  {
+   "name": "Registered Nurse Licence Basic Life Support (BLS)",
+   "issuer": "Nursing and Midwifery Council"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Aga Khan University",
+   "year": "(2013)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Aga Khan University Hospital",
+   "year": "(2018)"
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Aga Khan University",
+   "year": "(2013)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Mother tongue"
+  }
+ ],
+ "_runtime_s": 0.708
+}

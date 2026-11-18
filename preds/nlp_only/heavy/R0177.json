@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0177",
+ "name": "Elena Garcia Lopez",
+ "contact": {
+  "email": "elenagarcia@gmail.com",
+  "phone": "+34-774053756",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/elenagarcia"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Architecture",
+   "institution": "Universitat Politécnica de Catalunya",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Site Engineer",
+   "company": null,
+   "dates": "09/2025 — Present",
+   "bullets": [
+    "Designed RCC and steel structures in Primavera P6 for 10 commercial projects",
+    "Coordinated 20 subcontractors and 50+ workers across civil and MEP activities",
+    "Prepared BOQs and rate analyses for tenders worth €7.9M"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "+ Primavera P6 Professional",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "French",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.027
+}

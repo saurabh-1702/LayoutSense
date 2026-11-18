@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0156",
+ "name": "Muhammad Chaudhry",
+ "contact": {
+  "email": "7@outlook.com",
+  "phone": "+92 301 320 7341",
+  "location": "Rawalpindi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/muhammad-chaudhry"
+  },
+  {
+   "url": "github.com/muhammadch"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Computer Science",
+   "institution": "attrition below 10% National University of Sciences and",
+   "dates": null
+  },
+  {
+   "degree": "MEng Electronics and",
+   "institution": "queries FAST National University of Computer and",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Backend Engineer Technology",
+   "company": "Careem",
+   "dates": "Jul 2014 - Feb 2015",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Node.js and AWS, serving 902K requests per day",
+   "dates": "Aug 2010 - May 2014",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Punjabi",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.049
+}

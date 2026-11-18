@@ -1,0 +1,36 @@
+{
+ "resume_id": "R0280",
+ "name": "David Jones",
+ "contact": {
+  "email": "david.jones@yahoo.com",
+  "phone": "(305) 707-8362"
+ },
+ "education": [
+  {
+   "degree": "B.A. in Mass Communication",
+   "institution": "Georgetown University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Go-to-Market Strategy © Certifications",
+  "HubSpot Academy * 2024",
+  "Google * 2024",
+  "EM",
+  "Google Ads",
+  "Marketo",
+  "SEMrush",
+  "Canva"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.084
+}

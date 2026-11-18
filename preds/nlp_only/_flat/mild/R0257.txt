@@ -1,0 +1,55 @@
+jason.anderson86@hotmail.com
+737-530-2432
+Austin, TX
+J ason R An d erson
+7 linkedin.com/in/jason-anderson8
+Frontend Engineer github.com/jason65
+Skills & Tools
+Java | TypeScript | C# | C++ | PHP | Python | Flutter | Ruby on Rails | GraphQL | Express.js | Spring Boot
+| Microsoft Azure | Cl/CD | Linux | Elasticsearch | Redis | MongoDB
+Work History
+Frontend Engineer 2025-08 — Now
+Airbnb | Austin (Hybrid)
+° Owned the payments integration with 5 third-party gateways, reducing failed transactions by 22%
+° Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from
+12% to 85%
+° Resolved 500+ production issues as part of the on-call rotation, reducing mean time to recovery by
+23%
+° Wrote technical design documents and led code reviews for a team of 13 engineers
+° Designed and built 15 RESTful microservices in Ruby on Rails and C#, serving 38,000 requests per
+day with 99.95% uptime
+Frontend Engineer 2025-01 — 2025-07
+Walmart | New York, NY
+e Collaborated with product and design to ship 17 major releases on schedule across web and mobile
+° Developed customer-facing features in Java used by 9,000 monthly active users
+° Developed internal tooling in Java that saved the support team 40 hours per week
+° Cut cloud infrastructure costs by $8.4M annually by right-sizing instances and adopting spot capacity
+° Built a real-time notification service using Java and Apache Kafka that processes 8,000 events per
+hour
+Systems Engineer 2022-05 — 2024-12
+Walmart | New York, NY
+° Introduced feature flags and canary releases, lowering production incidents by 41% quarter over
+quarter
+° Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by
+40%
+° Reduced p95 API latency by 18% by introducing Redis caching and optimising slow PostgreSQL
+queries
+Projects
+Food Delivery Clone
+Full-stack food ordering app with live order tracking, payments and an admin dashboard.
+Distributed Key-Value Store
+Raft-based replicated key-value store with leader election, log compaction and a gRPC client.
+Stack: Spring Boot, Cl/CD
+Expense Splitter App 2020-06
+Mobile app for splitting group expenses with OCR receipt scanning and UPI/PayPal settlement links.
+Stack: Flutter, TypeScript
+Educational Qualifications
+MS, Computer Science 2022-03
+Massachusetts Institute of Technology, Cambridge, MA
+B.S. in Computer Applications 2020-06
+Georgia Institute of Technology, Atlanta, GA
+Professional Certifications
+° Certified Kubernetes Administrator (CKA) — The Linux Foundation (2025-07)
+° Oracle Certified Professional: Java SE 17 Developer — Oracle (2025)
+Language Proficiency
+English (Native) * French (Advanced) * Portuguese (Beginner)

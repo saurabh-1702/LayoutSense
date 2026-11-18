@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0224",
+ "contact": {
+  "email": "pooja.chavan96@gmail.com",
+  "phone": "+91 9542593404"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/pooja-chavan"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Arts in Journalism and Mass",
+   "institution": "Symbiosis International University",
+   "dates": null
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "DAV Public School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Content Writer Team Excellence Award",
+   "company": "ry © AcHIEVEMENTS",
+   "dates": "06/2025 - Present",
+   "bullets": [
+    "Produced and edited short-form video in Adobe",
+    "Edited 20 long-form features per month for print CEO's Excellence Award",
+    "Grew the newsletter audience to 9.4M subscribers",
+    "Reported and wrote 50+ stories on politics, 3.) TECHNICAL SKILLS"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation"
+  },
+  {
+   "name": "Data Journalism Certificate",
+   "issuer": null
+  },
+  {
+   "name": "Knight Center for Journalism +",
+   "issuer": null
+  },
+  {
+   "name": "Google News Initiative",
+   "issuer": "Digital"
+  },
+  {
+   "name": "Google News Initiative",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Marathi",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.059
+}

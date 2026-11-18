@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0144",
+ "contact": {
+  "email": "thabo.dlamini@gmail.com",
+  "phone": "+27 745586969",
+  "location": "Cape Town, South Africa"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/thabodlamini"
+  },
+  {
+   "url": "behance.net/thabodlamini"
+  },
+  {
+   "url": "www.thabodlamini.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Communication",
+   "institution": "University of Pretoria",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Accessibility Miro"
+  },
+  {
+   "name": "Museum Wayfinding Redesign (WCAG)"
+  },
+  {
+   "name": "Design System for a Fintech Startup"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.025
+}

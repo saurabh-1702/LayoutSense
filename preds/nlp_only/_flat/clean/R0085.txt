@@ -1,0 +1,42 @@
+Mercy Kimani
+Senior Full Stack Engineer
+Nakuru, Kenya | 0724 567 329 | mercy.kimani@gmail.com | linkedin.com/in/mercy-kimani | github.com/mkimani
+PROFESSIONAL EXPERIENCE
+Senior Full Stack Engineer @ SAP, Nairobi
+10/2025 — Current
+e Resolved 400+ production issues as part of the on-call rotation, reducing mean time to recovery by 14%
+e Wrote technical design documents and led code reviews for a team of 9 engineers
+e Designed and built 15 RESTful microservices in Django and Apache Kafka, serving 8.7M requests per day with 99.95%
+uptime
+e Collaborated with product and design to ship 12 major releases on schedule across web and mobile
+e Owned the payments integration with 20 third-party gateways, reducing failed transactions by 15%
+Mobile Developer (Android) @ Sendy, Nakuru
+03/2024 — 09/2025
+e Developed customer-facing features in Java used by 582K monthly active users
+e Developed internal tooling in Java that saved the support team 17 hours per week
+e Cut cloud infrastructure costs by KES 173M annually by right-sizing instances and adopting spot capacity
+e Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 24% to 85%
+Graduate Software Engineer @ Andela Kenya, Nakuru
+08/2019 — 02/2024
+e Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 29%
+e Reduced p95 API latency by 29% by introducing Redis caching and optimising slow PostgreSQL queries
+ACADEMIC QUALIFICATIONS
+Jomo Kenyatta University of Agriculture and Technology Juja
+BEng (Hons) Software Engineering 2015 — 2019
+KEY SKILLS
+Languages: Java * JavaScript * Kotlin
+Frameworks: Django ° Flutter - GraphQL « Angular * Express.js - Vue.js
+Cloud & DevOps: AWS « Google Cloud Platform * Microsoft Azure * Terraform * Linux
+Databases: Apache Kafka « Redis * Cassandra
+ACADEMIC PROJECTS
+Realtime Chat Platform
+WebSocket chat service with end-to-end encryption, read receipts and presence indicators.
+Tools used: Microsoft Azure, Django, Terraform
+HONOURS & AWARDS
+e Spot Award for Excellence, SAP (2026)
+e CEO's Excellence Award, SAP (2025)
+LICENSES & CERTIFICATIONS
+e AWS Certified Developer — Associate — Amazon Web Services (2017)
+e Microsoft Certified: Azure Developer Associate — Microsoft (2025)
+LANGUAGE PROFICIENCY
+English (Native) | Luo (Advanced)

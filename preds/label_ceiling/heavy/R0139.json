@@ -1,0 +1,99 @@
+{
+ "resume_id": "R0139",
+ "name": "Neha Mishra",
+ "headline": "Financial Analyst",
+ "contact": {
+  "email": "nehamishra8@yahoo.co.in",
+  "phone": "+91-98420-39755",
+  "location": "Jaipur, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nehamishra-1e7590"
+  }
+ ],
+ "education": [
+  {
+   "dates": "June 2024",
+   "degree": "BMS (Bachelor of Management Studies)",
+   "institution": "Tata Institute of Social Sciences",
+   "location": "Mumbai",
+   "grade": "GPA: 7.14/40"
+  }
+ ],
+ "experience": [
+  {
+   "title": "rr Financial Analyst",
+   "dates": "July 2025 - Present",
+   "company": "Amazon",
+   "location": "Gurugram",
+   "bullets": [
+    "of INR 29.2 crore across 500 relationships with zero slippages in FY Managed a loan portfolio",
+    "financial models and OCF valuations for 9 deals worth a combined %32.2 Built three-statement crore",
+    "business reviews to the CFO and board with actionable margin insights Presented quarterly",
+    "for 400 mid-market clients, maintaining an NPA ratio below 1.22% Analysed credit proposals"
+   ]
+  },
+  {
+   "dates": "July 2024 - June 2025",
+   "title": "Financial Analyst",
+   "company": "Bloomberg",
+   "location": "New Delhi",
+   "bullets": [
+    "Identified cost savings of %85 lakh through vendor spend analysis and contract renegotiation",
+    "books and information memoranda for 13 sell-side mandates Prepared pitch",
+    "Anaplan-based planning model replacing 5 disconnected spreadsheets Implemented an"
+   ]
+  }
+ ],
+ "skills": [
+  "Treasury Management",
+  "M&A",
+  "Financial Modelling",
+  "Bloomberg Terminal",
+  "Python",
+  "Power Bl",
+  "Capital 1Q",
+  "Excel (Advanced)"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development",
+   "description": "scorecard for retail loans validated with Gini and KS statistics. Logistic-regression"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2025",
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "year": "2023",
+   "name": "Chartered Financial Analyst (CFA)",
+   "issuer": "CFA Institute"
+  },
+  {
+   "name": "Professional (CTP), Certified Treasury",
+   "issuer": "Association for Financial Professionals",
+   "year": "2023"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2025",
+   "name": "Team Excellence Award",
+   "issuer": "Bloomberg"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  }
+ ]
+}

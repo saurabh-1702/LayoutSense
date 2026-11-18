@@ -1,0 +1,83 @@
+{
+ "resume_id": "R0097",
+ "name": "Dilshan Rajapaksha",
+ "headline": "Field Engineer",
+ "contact": {
+  "email": "dilshanrajapaksha@gmail.com",
+  "phone": "+94 76 988 8367",
+  "location": "Galle, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/dilshanrajapaksha-ed6ded"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "dates": "2021 - 2025",
+   "institution": "Sri Lanka Institute of Information Technology",
+   "location": "Malabe",
+   "grade": "First Class"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Field Engineer",
+   "dates": "May, 2025 - Jul, 2026",
+   "company": "Jacobs",
+   "location": "Kandy",
+   "bullets": [
+    "Reduced energy losses by 49% through power factor correction and harmonic filtering",
+    "Designed 16-layer PCBs in MATLAB/Simulink for an industrial loT gateway",
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 15%"
+   ]
+  }
+ ],
+ "skills": [
+  "PLC Programming",
+  "Load Flow Analysis",
+  "Battery Management Systems",
+  "Protection & Relay Coordination",
+  "HV Substations",
+  "VLSI",
+  "Siemens TIA Portal",
+  "PSCAD",
+  "MATLAB/Simulink",
+  "KiCad",
+  "ETAP",
+  "Problem Solving",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Energy Manager (CEM)",
+   "issuer": "Association of Energy Engineers",
+   "year": "(2023)"
+  },
+  {
+   "name": "NEBOSH IGC",
+   "issuer": "NEBOSH",
+   "year": "(2025)"
+  },
+  {
+   "name": "Professional Engineer (PE) — Electrical",
+   "issuer": "NCEES",
+   "year": "(Sep, 2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Full Professional Proficiency)"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "(Limited Working Proficiency)"
+  }
+ ]
+}

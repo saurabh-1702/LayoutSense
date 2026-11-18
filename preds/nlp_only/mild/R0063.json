@@ -1,0 +1,117 @@
+{
+ "resume_id": "R0063",
+ "name": "Andrii Rudenko",
+ "contact": {
+  "email": "arudenko@i.ua",
+  "phone": "+380 97 423 93 64",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/andrii-rudenko-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor in Commerce Kyiv School of Economics",
+   "institution": "Qualification Institution Period Result",
+   "dates": "06/2015"
+  },
+  {
+   "degree": "B.Sc. Accounting Ukrainian Catholic University",
+   "institution": "Catholic University",
+   "dates": "06/2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Manager Lviv",
+   "company": "Deloitte Accounting",
+   "dates": "07/2023 — 06/2024",
+   "bullets": [
+    "Documented and ae 10 SOX controls, ‘dosing all audit fae ahead of year-end",
+    "Built a fixed-asset register for 65,000 assets and aligned depreciation with tax schedules",
+    "Mentored 14 }j junior colleagues, several of whom were promoted within 18 months",
+    ""
+   ]
+  },
+  {
+   "title": "EY Senior Tax Consultant Lviv",
+   "company": null,
+   "dates": "03/2019 — 06/2023",
+   "bullets": [
+    "Reduced days sales outstanding by 24 days through tighter creak control and collections follow-up",
+    "Managed the month-end close for 16 legal entities, reducing the close cycle from 8 to 5 working days",
+    "Led statutory audits for 9 clients across manufacturing and retail with combined revenue of UAH 4.1M"
+   ]
+  },
+  {
+   "title": "PwC Accounts Payable Specialist Kyiv",
+   "company": "ib",
+   "dates": "08/2015 — 02/2019",
+   "bullets": [
+    "Performed balance sheet reconciliations for 500+ accounts aa cleared ageing items worth UAH 18.9M",
+    "Prepared consolidated financial statements under IFRS for a group with 3 subsidiaries",
+    "Coordinated with external auditors and resolved 7 management letter points",
+    "Implemented Alteryx for accounts payable, automating 30% of invoice processing"
+   ]
+  }
+ ],
+ "skills": [
+  "Accounting Reconciliations",
+  "GST",
+  "IFRS",
+  "Software SAP FICO",
+  "Xero",
+  "CaseWare",
+  "Alteryx",
+  "Core Strengths Negotiation",
+  "Time Management",
+  "Mentoring"
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "i me .!",
+   "issuer": null
+  },
+  {
+   "name": "Certified Management Accountant",
+   "issuer": "CMA) IMA"
+  },
+  {
+   "name": "Public AICPA",
+   "issuer": null
+  },
+  {
+   "name": "Certified Accountant",
+   "issuer": "CPA)"
+  },
+  {
+   "name": "oe ier ee",
+   "issuer": "‘"
+  },
+  {
+   "name": "ACA ee ICAEW",
+   "issuer": null
+  },
+  {
+   "name": "Certified Internal Auditor",
+   "issuer": "CIA) The IIA"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Ukrainian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.074
+}

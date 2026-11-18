@@ -1,0 +1,27 @@
+‘riccardo bruno@hotmall i
+spiring Junior Software Developer i a
+i>) Notable Projects
+Open-source CLI Contribution
+Contributed 22 merged pull requests to a popular open-source CL
+tool, adding plugin support.
+Stack: Nextjs, Kotlin, Swift
+Expense Splitter App December 2025
+Mobile app for splitting group expenses with OCR receipt scanning
+and UPI/PayPal settlement links.
+Campus Placement Portal January 2023
+Web portal used by 80 students to apply for drives, track status and
+download offer letters.
+Realtime Chat Platform
+WebSocket chat service with end-to-end encryption, read receipts
+and presence indicators.
+ia Internship Experience
+July 2025 - Backend Developer Intern Ae sie Bac ma
+» Assisted with day-to-day software B.Sc, Electronicsand
+engineering operations and maintained Communication Enginee
+accurate records ~ Politecnico di Milano —
+» Built a tracker in Go that streamlined weekly ae saa
+reporting for a team of 14
+rs) Honours Awards
+&
+Best Outgoing Student
+dheuenia 7 —_ 2025

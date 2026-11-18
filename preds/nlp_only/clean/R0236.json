@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0236",
+ "name": "LAMA AL HARBI",
+ "contact": {
+  "email": "lama_alharbi@gmail.com",
+  "phone": "+966-566891863",
+  "location": "Dammam, Saudi Arabia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/lama-alharbi"
+  },
+  {
+   "url": "www.lamaalharbi.com"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Brand Management Intern",
+   "company": "Bachelor of Business Administration",
+   "dates": "Jan. 2026 - Apr. 2026",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "generating 893K impressions and 320K+",
+   "dates": "Jul. 2023 - Present",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "TS © CERTIFICATIONS"
+  },
+  {
+   "name": "Google Analytics Certification"
+  },
+  {
+   "name": "Instagram Growth Experiment Digital Marketing Specialization"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.04
+}

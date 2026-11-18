@@ -1,0 +1,101 @@
+{
+ "resume_id": "R0206",
+ "name": "Hernandez Pérez",
+ "contact": {
+  "phone": "44 6494 7947"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alejandro-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Instituto Tecnolégico Aut6nomo",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "com Procurement Manager",
+   "company": "Canctin",
+   "dates": "01/2025 — Current",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and"
+   ]
+  }
+ ],
+ "skills": [
+  "levels",
+  "SAP APO eoo0o",
+  "Blue Yonder eco NOTABLE PROJECTS",
+  "Attention to Detail eco0o DC.",
+  "Mentoring eco windows."
+ ],
+ "certifications": [
+  {
+   "name": "containers per year",
+   "issuer": null
+  },
+  {
+   "name": "APICS Certified Supply Chain Operations Executive @ Shell",
+   "issuer": "Mexico City"
+  },
+  {
+   "name": "Professional",
+   "issuer": "CSCP)"
+  },
+  {
+   "name": "ASCM",
+   "issuer": ""
+  },
+  {
+   "name": "Set up 3 new fulfilment centres processing 23,000 orders per day",
+   "issuer": null
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": null
+  },
+  {
+   "name": "Cut last-mile delivery cost per order by 14% through route",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Project Management",
+   "issuer": null
+  },
+  {
+   "name": "Managed procurement spend of MXN 7.0M across 50 suppliers",
+   "issuer": null
+  },
+  {
+   "name": "Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "APICS CPIM Built a supplier scorecard covering quality",
+   "issuer": "cost and delivery for"
+  },
+  {
+   "name": "ASCM",
+   "issuer": "50 vendors"
+  },
+  {
+   "name": "Reduced inventory days by 7 while maintaining 36% service",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.034
+}

@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0071",
+ "name": "Iris Vos",
+ "headline": "Senior Reporter",
+ "contact": {
+  "location": "The Hague, Netherlands"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/iris-vos"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.A. Mass Communication",
+   "institution": "Vrije Universiteit Amsterdam",
+   "dates": "2019"
+  },
+  {
+   "degree": "Bachelor of Arts in Journalism and Mass Communication",
+   "institution": "Erasmus University Rotterdam",
+   "dates": "2017",
+   "grade": "Cum laude"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Ogilvy",
+   "title": "Senior Reporter",
+   "dates": "Apr '22 – Present",
+   "location": "Rotterdam",
+   "bullets": [
+    "Produced a 5-episode podcast series that reached 202K+ downloads",
+    "Increased monthly page views by 39% through SEO-led headlines and topic clusters",
+    "Edited 22 long-form features per month for print and digital editions",
+    "Grew the newsletter audience to 840K subscribers with a 49% open rate"
+   ]
+  },
+  {
+   "company": "Elsevier",
+   "title": "Sub-Editor",
+   "dates": "Oct '19 – Mar '22",
+   "location": "The Hague",
+   "bullets": [
+    "Produced and edited short-form video in Google Trends with 461K+ cumulative views",
+    "Broke 12 exclusive stories that were followed up by national outlets",
+    "Led a data journalism project using Final Cut Pro that was shortlisted for a national award",
+    "Managed a team of 14 reporters and stringers across 15 districts",
+    "Reported and wrote 250+ stories on politics, business and civic issues"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Investigative Series on Groundwater",
+   "description": "Six-part multimedia investigation using public data from 10 districts."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Data Journalism Certificate",
+   "issuer": "Knight Center for Journalism"
+  },
+  {
+   "name": "Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation",
+   "year": "2024"
+  },
+  {
+   "name": "Google News Initiative — Digital Reporting",
+   "issuer": "Google News Initiative",
+   "year": "2020"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Society of Publishers in Asia — Honourable Mention",
+   "year": "(2017)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "=",
+   "proficiency": "eee rors"
+  }
+ ]
+}

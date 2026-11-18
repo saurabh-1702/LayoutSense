@@ -1,0 +1,35 @@
+{
+ "resume_id": "R0035",
+ "name": "Tama Taylor",
+ "contact": {
+  "email": "tama.taylor94@outlook.com",
+  "phone": "+64 21 249 0243",
+  "location": "Christchurch, New Zealand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/tama-taylor9"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA (Hons) Logistics and Supply University of Canterbury First Class",
+   "institution": "BBA (Hons) Logistics and",
+   "dates": "2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Fletcher Building Procurement Executive",
+   "company": null,
+   "dates": "May 2021 June 2023",
+   "bullets": [
+    "Reduced inventory days by 23 while maintaining 56% service levels",
+    "Negotiated freight contracts that saved NZ$446M annually",
+    "Managed import logistics and customs clearance for 500+ containers per year",
+    "Cut last-mile delivery cost per order by 38% through route optimisation"
+   ]
+  }
+ ],
+ "_runtime_s": 0.031
+}

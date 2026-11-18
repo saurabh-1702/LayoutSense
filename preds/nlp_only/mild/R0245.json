@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0245",
+ "name": "Burak Demir",
+ "contact": {
+  "email": "burak.demir@gmail.com",
+  "phone": "+90 5559846061"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/burak-demir-41"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business Administration",
+   "institution": "Sabanci University",
+   "dates": "2007 - 2010"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Manager",
+   "company": "IBM",
+   "dates": "Dec, 2023 - Sep, 2026",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day"
+   ]
+  },
+  {
+   "title": "Associate Director",
+   "company": "KPMG",
+   "dates": "Aug, 2023 - Nov, 2023",
+   "bullets": [
+    "Grew the team by 60% in two years while keeping attrition below 11%",
+    "Grew the team by 51% in two years while keeping attrition below 8%",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Built Alteryx models to size a TRY 386M addressable market across 14 segments",
+    "Led a team of 7 across 15 workstreams, owning hiring, performance reviews and quarterly",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Senior Associate",
+   "company": "EY",
+   "dates": "Jul, 2018 - Jun, 2023",
+   "bullets": [
+    "Built a market entry business case for a TRY 19.7M investment in Southeast Asia",
+    "Managed a team of 13 consultants and client counterparts across 15 workstreams",
+    "» Authored 10 thought-leadership articles and contributed to proposals worth TRY 3.8M",
+    "Delivered 16 strategy engagements for clients in banking, retail and telecom",
+    "Partnered with senior leadership to define the annual roadmap and a budget of TRY 109M"
+   ]
+  },
+  {
+   "title": "Business Analyst",
+   "company": "Boston Consulting Group",
+   "dates": "Aug, 2010 - Jun, 2018",
+   "bullets": [
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy",
+    "Designed a target operating model for a 9.3M-employee organisation post-merger",
+    "Led a cost transformation programme identifying TRY 2.8M in annual savings for a Fortune 500",
+    "Conducted commercial due diligence on 21 private equity targets",
+    "Drove a digital transformation roadmap that increased online sales by 51%"
+   ]
+  }
+ ],
+ "skills": [
+  "Hypothesis-driven Problem Solving",
+  "Strategy Development",
+  "Agile Transformation",
+  "Project Management",
+  "Operating Model Design Think-cell",
+  "SQL"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Management Consultant",
+   "issuer": "CMC)"
+  },
+  {
+   "name": "Certified Scrum Master",
+   "issuer": "CSM)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "German",
+   "proficiency": "C2"
+  }
+ ],
+ "_runtime_s": 0.147
+}

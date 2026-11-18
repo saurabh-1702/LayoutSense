@@ -1,0 +1,106 @@
+{
+ "resume_id": "R0243",
+ "name": "a te ime MA a Dawit Desta",
+ "headline": "Graduate Software Engineer cote “",
+ "contact": {
+  "email": "elianineraahtsailelitaincnaiiadibadmeniaedametiedemtncdawitdesta76@yahoo.com",
+  "phone": "+251 93 280 2312 com/inidawitdestaS",
+  "location": "Hawassa, Ethiopia anal"
+ },
+ "links": [
+  {
+   "url": "linkedin.anSasakiaeteiglesia"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Sin aR acl aa SS BEng Computer Science and _Engineering",
+   "institution": "jet Toi ee Addis Ababa Science and Technology University",
+   "dates": "Hk September 2021"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "March 2023",
+   "company": "cantneianics",
+   "title": "Graduate Software Engineer.",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, iraproving resull relevance and dlick<tfmough by 16%",
+    "Designed and built 6 RESTful microservices in Express.js and Terraform, serving 22.000 requests perday with 99.95% uptime",
+    "Wrote technical design documents and led code reviews for ¢ teem of 5 engineers ae ear eneetge open eee ee"
+   ]
+  },
+  {
+   "dates": "+ eeegretiyiomm regent October 2022- February 2023",
+   "title": "SE Software Engineer",
+   "company": "Ethio Telecom",
+   "bullets": [
+    "jes seman peeatatiernceisisasiienclaniesseambic Aenea: amelie ald NNT Implemented a CVCD pipeline with GitHub Actions and automated tests, raising code coverage from 24% to 85%",
+    "Resolved 250+ production issues as part of the on-call rotation, reducing mean time to recovery by 15%",
+    "Reduced p95 AP! latency by 18% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Collaborated with product and design to ship 9 major releases on schedule across web and mobile",
+    "Introduced feature flags and canary releases, lowering production incidents by 46% quarter over quarter",
+    "Developed customer-facing features in Angular used by 9.0M monthly active users",
+    "Developed internal tooling in Angular that saved the support team 11 hours per week",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 12 hours to 15 minutes"
+   ]
+  },
+  {
+   "dates": "(October 2021- September 2022)",
+   "title": "Graduate Software Engineer",
+   "company": "bck wie",
+   "bullets": [
+    "Built a real-time notification service using FastAP! and Apache Kafka that acuae 338K+ events per hour",
+    "Owned the payments integration with 8 third-party gateways, reducing failed transactions by 56%",
+    "Cut cloud infrastructure costs by ETB 168M annually by right-sizing instances and adopting spot capacity"
+   ]
+  }
+ ],
+ "skills": [
+  "Kotlin",
+  "in",
+  "Python",
+  "C++",
+  "Vue",
+  "j js",
+  "js",
+  "FastAPl",
+  "FastAl PI",
+  "GraphQl.",
+  "React",
+  ".",
+  "Anguler",
+  "Express",
+  "a EEN SSUES EEE"
+ ],
+ "projects": [
+  {
+   "description": "Re ae NCE em EO Be ne i NE WebSocket chat service with end-to-end « encryption, fread receipts and presence indicators.",
+   "name": "Realtime Chat Platform",
+   "tech": "GitHub Actions, Python"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "2022"
+  },
+  {
+   "name": "AWS Certified Developer ~ Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "_Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "February 2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "ii ci CEO's Excellence Award oem a tc",
+   "issuer": "Capgemini",
+   "year": "2025"
+  }
+ ]
+}

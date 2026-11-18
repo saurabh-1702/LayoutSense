@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0198",
+ "name": "PHAN QUOC THANG",
+ "contact": {
+  "email": "thangp321@gmail.com",
+  "phone": "+81 90-1103-1765",
+  "location": "Kyoto, Japan"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Electrical and Electronics Engineering",
+   "institution": "RMIT University Vietnam",
+   "dates": "Jun 2026"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Electrical Engineering Intern",
+   "dates": "Jan 2026 — Mar 2026",
+   "company": "Hitachi",
+   "bullets": [
+    "Built a tracker in DIgSILENT PowerFactory that streamlined weekly reporting for a team of 12",
+    "Collected and cleaned data from 8 sources to support a electrical & electronics engineering initiative"
+   ]
+  },
+  {
+   "title": "Graduate Apprentice",
+   "dates": "Dec 2024 — Apr 2025",
+   "company": "Toyota Motor Corporation",
+   "bullets": [
+    "Drafted standard operating procedures for 13 recurring tasks",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Assisted with day-to-day electrical & electronics engineering operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Embedded C",
+  "PCB Design",
+  "Battery Management Systems",
+  "FPGA",
+  "MATLAB/Simulink",
+  "Cadence Virtuoso",
+  "Altium Designer",
+  "DigSILENT PowerFactory"
+ ],
+ "projects": [
+  {
+   "name": "Smart Energy Meter with loT",
+   "description": "ESP32-based meter streaming consumption data to a cloud dashboard.",
+   "tech": "DigSILENT PowerFactory, MATLAB/Simulink"
+  },
+  {
+   "name": "Grid-tied Inverter Design",
+   "dates": "Jul 2025",
+   "description": "Simulated and built a 1 kW single-phase inverter with MPPT control in Simulink.",
+   "tech": "DigSILENT PowerFactory, MATLAB/Simulink"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Vietnamese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "B2"
+  }
+ ]
+}

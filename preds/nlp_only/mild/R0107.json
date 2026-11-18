@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0107",
+ "name": "Facundo Pérez",
+ "contact": {
+  "email": "facundo.perez@gmail.com",
+  "phone": "+54 9351322037",
+  "location": "Mendoza, Argentina"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/facundo-perez"
+  },
+  {
+   "url": "www.facundoperez.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.F.A. in Interaction Design Universidad Nacional de Cordoba eS ee",
+   "institution": "Qualification Institution",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "i Globant UX Researcher",
+   "company": "Rosario",
+   "dates": "Jan 2020 Present",
+   "bullets": [
+    "Led a team of 11 across 5 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Reduced support tickets by 58% by simplifying the account settings experience"
+   ]
+  }
+ ],
+ "skills": [
+  "nee at ee Le"
+ ],
+ "projects": [
+  {
+   "name": "Project Title Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "a [see reece fewa [oma]",
+   "issuer": null
+  },
+  {
+   "name": "[Ate ceria otesionatinvinbeien [adobe",
+   "issuer": null
+  },
+  {
+   "name": "ee Interaction Design Foundation",
+   "issuer": "UX Management"
+  }
+ ],
+ "_runtime_s": 0.034
+}

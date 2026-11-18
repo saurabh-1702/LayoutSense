@@ -1,0 +1,43 @@
++91-94193-95065 &
+Navi Mumbai, Maharashtra @
+linkedin.com/in/hetaljoshi-b6378a ©
+2 >
+pase ssTO8Y
+Lo Dearne a Ge soli scene ie bln ol :
++ Leda team of 5 across 8 workstreams, owning hiring, performance reviews and quarterly planning
+> Introduced weekly operating reviews that cut decision turnaround from 10 days to 1 day
+» Mentored 13 junior colleagues, several of whom were promoted within 18 months
+~ Dec 2016 - Mar 2022
++ Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by
+» Developed customer-facing features in .NET Core used by 12,000 monthly active users
+> Implemented a C1/CD pipeline with GitHub Actions and automated tests, raising code coverage from
+42% to 85%
+» Collaborated with product and design to ship 13 major releases on schedule across web and mobile
+> Reduced p95 API latency by 159% by introducing Redis caching and optimising slow PostgreSQL
+queries
+» Wrote technical design documents and led code reviews for a team of 4 engineers
+Sep 2015 — Nov 2016
+» Built a realtime notification service using Go and Apache Kafka that processes 39,000 events per
+hour
+> Designed and built 4 RESTful microservices in Go and Ruby, serving 3.0M requests per day with
+99.95% uptime
+» Owned the payments integration with 19 third-party gateways, reducing failed transactions by 22%
+» Migreted a legacy monolith to containerised services on Kubernetes, cutting deployment time from 30
+hours to 15 minutes
+Associate Software Engineer, Zoho Corporation, Navi Mumbai
+Sep 2014 - Aug 2015
+> Cut cloud infrastructure costs by 7116 crore annually by right-sizing instances and adopting spot
+capacity
+» Developed internal tooling in GraphQL that saved the support team 28 hours per week
+» Introduced feature flags and canary releases, lowering production incidents by 31% quarter over
+quarter
+» Resolved 60+ production issues as part of the on-call rotation, reducing mean time to recovery by
+27%
+ACADEMIC QUALIFICATIONS
+B.Sc (Computer Science)
+SRM Institute of Science and Technology
+Sep 2011 — Jum 2014 | CGPA: 7.94/10
+TECHNICAL SKILLS
+Languages: Scala * JavaScript - Go - TypeScript - Ruby
+__ Stack: Ruby, TypeScript, Google Cloud Platform : )
+| LANGUAGE PROFICIENCY nee .

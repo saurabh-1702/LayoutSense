@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0162",
+ "name": "Marcus Davis",
+ "headline": "Sales Manager",
+ "contact": {
+  "email": "marcusdavis@gmail.com",
+  "phone": "+1 (425) 294-7604",
+  "location": "Seattle, WA"
+ },
+ "education": [
+  {
+   "degree": "QUALIFICATIONS Bachelor in Commerce",
+   "institution": "Massachusetts Institute of",
+   "dates": "Technology Jul 2018 Jun 2022"
+  }
+ ],
+ "experience": [
+  {
+   "company": "yg Unilever",
+   "location": "a New York, NY",
+   "title": "Sales Manager",
+   "dates": "Nov 2025 — Current",
+   "bullets": [
+    "Ranked #1 out of 23 account executives in the region for FY",
+    "Negotiated multi-year contracts worth $21.5M with procurement and legal stakeholders",
+    "Expanded distribution to 200 new retail outlets across 18 districts",
+    "Onboarded and trained 3 new sales representatives on product and CRM workflows",
+    "Launched a channel partner programme that contributed 10% of total bookings"
+   ]
+  },
+  {
+   "title": "Business Development Representative",
+   "company": "Snowflake",
+   "location": "Seattle, WA",
+   "dates": "Jul 2022 Oct 2025 Maintained",
+   "bullets": [
+    "Built a pipeline of $6.9M by prospecting 120+ enterprise accounts using LinkedIn Sales Navigator",
+    "46% forecast accuracy in weekly pipeline reviews in LinkedIn Sales Navigator Shortened",
+    "the average sales cycle by 10 days by introducing a structured discovery framework"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "dates": "Noy 2021",
+   "description": "Mapped 9 cities for distribution potential and recommended a phased roliout."
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

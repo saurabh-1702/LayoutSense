@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0103",
+ "name": "SAAD SHEIKH",
+ "headline": "Project Manager",
+ "contact": {
+  "email": "saad_sheikh@gmail.com",
+  "phone": "+92 334 6744947",
+  "location": "Islamabad, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/saad-sheikh4"
+  }
+ ],
+ "education": [
+  {
+   "dates": "August 2018 - June 2019",
+   "degree": "MSc Structural Engineering",
+   "institution": "NED University of Hngineering and Technology"
+  },
+  {
+   "dates": "September 2014 - May 2018",
+   "degree": "MEng Civil Engineering",
+   "institution": "Lahore University of Management Sciences",
+   "grade": "a"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2025 « Present",
+   "title": "Project Manager",
+   "company": "Lucky Cement",
+   "bullets": [
+    "Conducted soil investigation reviews and foundation design for 18 bridges",
+    "Achieved 6.3M safe man-hours without a lost-time injury on site",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PIR 12.9M"
+   ]
+  },
+  {
+   "dates": "August 2019 December 2024",
+   "title": "Planning Engineer",
+   "company": "WSP",
+   "bullets": [
+    "Coordinated 18 subcontractors and 120+ workers across evil and MEP activities",
+    "Delivered a9 km highway stretch 9 weeks ahead of schedule",
+    "Designed RCC and steel structures in Primavera P6 for 19 commercial projects",
+    "Prepared BOQs and rate analyses for tenders worth PRR 9201",
+    "Supervised construction of a 17-storey residential tower with a contract value of PKR 21.2M",
+    "Managed client billing and variations, improving cash collection by 42%",
+    "Scheduled a 6-month metro station package in MS Project, recovering 16 weeks of delay"
+   ]
+  }
+ ],
+ "skills": [
+  "Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "Navisworks",
+  "Primavera P6",
+  "U'TABS",
+  "SAP2000",
+  "MS Project",
+  "Tekla Seructures"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 18 mix designs for urban stormwater management",
+   "tech": "Primavera Po, SAP2000, BTABS"
+  },
+  {
+   "name": "Design of a G+5 Residential Building",
+   "description": "Complete steuctural design in [PABS with seismic analysis per 1S 1893.",
+   "tech": "SAP2000, TABS"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2026",
+   "name": "Rising Star Award",
+   "issuer": "Lucky Cement"
+  }
+ ]
+}

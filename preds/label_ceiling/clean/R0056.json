@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0056",
+ "name": "Olumide Okafor",
+ "contact": {
+  "email": "ookafor@yahoo.com",
+  "phone": "+234-808-136-3880",
+  "location": "Kano, Nigeria"
+ },
+ "education": [
+  {
+   "degree": "MEng Information Technology",
+   "institution": "Covenant University",
+   "dates": "06/2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "07/2025 - 08/2026",
+   "title": "Analytics Associate",
+   "company": "Oracle",
+   "location": "Abuja",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 346K employee queries per month",
+    "Reduced Spark job runtime by 49% through partitioning and broadcast join optimisation",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 22 days",
+    "Created executive dashboards in Apache Kafka tracking 17 KPls, adopted by 75+ business users",
+    "Designed and maintained 24 Airflow pipelines ingesting 68,000 records daily into Snowflake"
+   ]
+  }
+ ],
+ "skills": [
+  "PRD",
+  "SAS",
+  "scala",
+  "Pandas",
+  "Airow"
+ ],
+ "certifications": [
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2025"
+  },
+  {
+   "name": "Tableau Desktop Specialist",
+   "issuer": "Tableau",
+   "year": "2023"
+  },
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al",
+   "year": "03/2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

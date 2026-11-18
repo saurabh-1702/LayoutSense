@@ -1,0 +1,65 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{display:grid;grid-template-columns:{{ s.side_w }}px 1fr}
+.side{background:{{ s.side_bg }};color:#f3f4f6;padding:{{ s.mt }}px 20px {{ s.mb }}px 22px;display:flex;flex-direction:column;min-height:0}
+.main{padding:{{ s.mt }}px {{ s.mx - 10 }}px {{ s.mb }}px 26px;display:flex;flex-direction:column;min-height:0}
+.flow{flex:1}
+.side .flow{font-size:.9em}
+.side .sh{color:#fff;font-weight:700;font-size:1.08em;letter-spacing:1px;border-bottom:1px solid rgba(255,255,255,.45);padding-bottom:2px;margin:{{ s.sec_gap + 4 }}px 0 6px}
+.side .muted,.side .dt,.side .dt2,.side .lc{color:#d1d5db}
+.side .bm{color:#fff}
+.side .bar{background:rgba(255,255,255,.25)}.side .bar i{background:#fff}
+.side .dots i{background:rgba(255,255,255,.25)}.side .dots i.on{background:#fff}
+.side .ct{display:flex;gap:7px;align-items:baseline;margin:3px 0}
+.side .ed{margin:5px 0}
+.side .t2{color:#e5e7eb}
+.side .ci2{margin:4px 0}
+.side .lk{margin:2px 0}
+.side .lgi{margin:2px 0}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs + 2 }}px;font-weight:700;color:{{ s.accent }};line-height:1.08;letter-spacing:{{ s.name_ls }}px}
+.hl{font-size:1.15em;color:{{ s.muted }};margin:4px 0 6px;letter-spacing:.3px}
+.main .sh{font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.12em;color:{{ s.accent }};margin:{{ s.sec_gap + 4 }}px 0 5px;letter-spacing:.8px;border-bottom:{{ s.rule }}px solid {{ s.track }}}
+.eh{margin-top:7px}
+.bl{margin:1px 0 1px {{ s.indent }}px}
+.pj{margin:5px 0}
+.tech{color:{{ s.muted }};font-size:.92em}
+.tech .lbl{font-weight:600}
+.main .ci,.main .ai{margin:1px 0}
+.main .ed{margin:5px 0}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="side" data-region="sidebar">
+    <div class="flow" data-flow="side">
+    {% for sec in s.order_side %}
+      {% if sec == 'contact' %}{{ m.H('contact', s) }}
+        <div class="blk ct" data-group="sec_contact">{{ m.ic('phone', sz=11) }}{{ m.F('contact.phone', p.contact.phone, 'nw') }}</div>
+        <div class="blk ct" data-group="sec_contact">{{ m.ic('mail', sz=11) }}{{ m.F('contact.email', p.contact.email, 'brk') }}</div>
+        <div class="blk ct" data-group="sec_contact">{{ m.ic('pin', sz=11) }}{{ m.F('contact.location', p.contact.location) }}</div>
+      {% elif sec == 'skills' %}{{ m.skills_all(p, s, s.side_skills) }}
+      {% elif sec == 'education' %}{{ m.edu_all(p, s, 'stack') }}
+      {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'block') }}
+      {% elif sec == 'languages' %}{{ m.lang_all(p, s, 'list') }}
+      {% elif sec == 'awards' %}{{ m.award_all(p, s, 'block') }}
+      {% elif sec == 'links' %}{{ m.links_all(p, s, 'labeled') }}
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+  <div class="main" data-region="column">
+    <div class="p1only" data-region="header">
+      <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+      {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    </div>
+    <div class="flow" data-flow="main">
+    {% for sec in s.order_main %}
+      {% if sec == 'experience' %}{{ m.exp_all(p, s, s.exp_v) }}
+      {% elif sec == 'projects' %}{{ m.proj_all(p, s) }}
+      {% elif sec == 'awards' %}{{ m.award_all(p, s, 'line') }}
+      {% elif sec == 'education' %}{{ m.edu_all(p, s, s.edu_v) }}
+      {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'line') }}
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</div>
+</body></html>

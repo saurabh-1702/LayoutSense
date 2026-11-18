@@ -1,0 +1,101 @@
+{
+ "resume_id": "R0101",
+ "name": "John Paul L. Mendoza",
+ "headline": "Enterprise Account Manager",
+ "contact": {
+  "email": "johnmendoza44@yahoo.com",
+  "phone": "+63 935 637 9543",
+  "location": "Makati City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/john-mendoza"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Asian Institute of Management",
+   "location": "Makati City",
+   "degree": "Bachelor of Business Administration",
+   "grade": "Summa Cum Laude",
+   "dates": "07/2010 — 08/2014"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Enterprise Account Manager",
+   "dates": "07/2023 — Present",
+   "company": "Concentrix",
+   "location": "Cebu City",
+   "bullets": [
+    "Leda team of 3 across 9 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Grew the team by 15% in two years while keeping attrition below 15%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PHP 14.4M",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PHP 20.4M"
+   ]
+  },
+  {
+   "title": "Account Executive",
+   "dates": "04/2018 — 06/2023",
+   "company": "Globe Telecom",
+   "location": "Davao City",
+   "bullets": [
+    "Onboarded and trained 8 new sales representatives on product and CRM workflows",
+    "Launched a channel partner programme that contributed 9% of total bookings",
+    "Achieved 11% of annual quota for 11 consecutive years, closing PHP 397M in new ARR",
+    "Shortened the average sales cycle by 21 days by introducing a structured discovery framework",
+    "Built a pipeline of PHP 936K by prospecting 50+ enterprise accounts using LinkedIn Sales Navigator"
+   ]
+  },
+  {
+   "title": "Business Development Representative",
+   "dates": "09/2014 — 03/2018",
+   "company": "PLDT",
+   "location": "Makati City",
+   "bullets": [
+    "Maintained 15% forecast accuracy in weekly pipeline reviews in Excel",
+    "Negotiated multi-year contracts worth PHP 3.6M with procurement and legal stakeholders",
+    "Ranked #1 out of 10 account executives in the region for FY",
+    "Expanded distribution to 400 new retail outlets across 14 districts",
+    "Managed 3 key accounts generating PHP 673K in annual revenue with 43% net revenue retention"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "dates": "11/2022",
+   "description": "Mapped 13 cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy",
+   "year": "(2022)"
+  },
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "(2013)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rookie of the Year",
+   "year": "(2012)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  }
+ ]
+}

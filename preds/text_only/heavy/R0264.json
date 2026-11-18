@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0264",
+ "name": "MERT OZTURK",
+ "headline": "STINE 1 TF Years of Experience 1 Companies 12 Skills",
+ "contact": {
+  "email": "moaturk@®gmail.com",
+  "phone": "+31 (0681044759)",
+  "location": "Uwecht, Netherlands"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Automobile Engineering",
+   "institution": "Sabana University",
+   "dates": "2021 - 2025",
+   "grade": "High Honor"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul 2025",
+   "title": "Quality Engineer",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of EUR 682K by reducing process variation",
+    "Reduced unplanned downtime by 26% by Curawin introducing condition-based maintenance",
+    "Led 3 Kaizen events that saved €225K annually in Bench scrap and rework"
+   ]
+  }
+ ],
+ "skills": [
+  "Product Lifecycle Management",
+  "Six",
+  "Injection Moulding",
+  "MATLAB",
+  "Detision",
+  "Meking",
+  "Time Management",
+  "Attention to Detail"
+ ],
+ "certifications": [
+  {
+   "name": "Sigma"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Turkish"
+  },
+  {
+   "language": "English"
+  }
+ ],
+ "_runtime_s": 0.379
+}

@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0229",
+ "name": "Jamal Martinez",
+ "contact": {
+  "email": "jamalm568@hotmail.com",
+  "phone": "+1 (425) 398-4245",
+  "location": "Seattle, WA, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/jamal-martinez8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Finance",
+   "institution": "Massachusetts Institute of Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Capital IQ",
+  "FactSet",
+  "SAP S/4HANA",
+  "Anaplan",
+  "Bloomberg Terminal",
+  "IFRS 9",
+  "Equity Research",
+  "Financial Modelling",
+  "Budgeting & Forecasting",
+  "FP&A",
+  "Time Management",
+  "Mentoring",
+  "Team Leadership",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study"
+  },
+  {
+   "name": "Credit Scorecard Development"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "French",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.018
+}

@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0238",
+ "name": "~ Tej as Ka e",
+ "headline": "Software Engineering Graduate",
+ "contact": {
+  "email": "tejaskale@yahoo.co.in",
+  "phone": "+91 870-087-3627",
+  "location": "Navi Mumbai, India"
+ },
+ "links": [
+  {
+   "url": "Li_linkedin.com/in/tejaskale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology (Information Technology)",
+   "dates": "Expected June 2027",
+   "institution": "Indian Institute of Technology Kharagpur",
+   "location": "Kharagpur",
+   "grade": "79.2%"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "November 2025 to February 2026",
+   "title": "Software Developer Intern",
+   "company": "Infosys",
+   "location": "Navi Mumbai",
+   "bullets": [
+    "Supported the software engineering team on live projects, preparing analyses and documentation",
+    "Built a tracker in GitHub Actions that streamlined weekly reporting for a team of 8"
+   ]
+  },
+  {
+   "dates": "June 2024 to November 2024",
+   "title": "Backend Developer Intern",
+   "company": "Bosch",
+   "location": "Mumbai",
+   "bullets": [
+    "Drafted standard operating procedures for 5 recurring tasks",
+    "Built a tracker in Linux that streamlined weekly reporting for a team of 12"
+   ]
+  }
+ ],
+ "skills": [
+  "Redis",
+  "MySQL",
+  "Cassandra",
+  "PostgreSQL",
+  "GitHub Actions",
+  "Docker",
+  "Linux",
+  "Kubernetes",
+  "Google Cloud Platform",
+  "Spring Boot",
+  "Next.js",
+  "Express.js",
+  "Conflict Resolution",
+  "Public Speaking"
+ ],
+ "projects": [
+  {
+   "name": "Realtime Chat Platform",
+   "dates": "December 2026",
+   "description": "WebSocket chat service with end-to-end encryption, read receipts and presence indicators.",
+   "tech": "Kubernetes, Linux"
+  },
+  {
+   "name": "Campus Placement Portal",
+   "dates": "December 2025",
+   "description": "Web portal used by 200 students to apply for drives, track status and download offer letters.",
+   "tech": "Google Cloud Platform, PostgreSQL, Redis"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "October 2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Google Code Jam Round 2 Qualifier",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Beginner"
+  },
+  {
+   "language": "Konkani",
+   "proficiency": "Fluent"
+  }
+ ]
+}

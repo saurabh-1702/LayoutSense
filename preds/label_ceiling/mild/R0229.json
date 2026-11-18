@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0229",
+ "name": "Jamal Martinez",
+ "contact": {
+  "email": "jamalm568@hotmail.com",
+  "phone": "+1 (425) 398-4245",
+  "location": "Seattle, WA, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/jamal-martinez8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Finance",
+   "institution": "Massachusetts Institute of Technology",
+   "dates": "2026"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Equity Research Intern",
+   "dates": "2026",
+   "company": "Capital One",
+   "location": "Chicago, IL",
+   "bullets": [
+    "Built three-statement financial models and DCF valuations for 4 deals worth a combined $298M",
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Built a tracker in Capital IQ that streamlined weekly reporting for a team of 12"
+   ]
+  }
+ ],
+ "skills": [
+  "Capital IQ",
+  "FactSet",
+  "SAP S/4HANA",
+  "Anaplan",
+  "Bloomberg Terminal",
+  "IFRS 9",
+  "Equity Research",
+  "Financial Modelling",
+  "Budgeting & Forecasting",
+  "FP&A",
+  "Time Management",
+  "Mentoring",
+  "Team Leadership",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Working Capital Improvement Study",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth $207K in cash release."
+  },
+  {
+   "name": "Credit Scorecard Development",
+   "description": "Logistic-regression scorecard for retail loans validated with Gini and KS statistics."
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(Limited Working Proficiency)"
+  }
+ ]
+}

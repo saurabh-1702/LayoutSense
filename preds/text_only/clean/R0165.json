@@ -1,0 +1,134 @@
+{
+ "resume_id": "R0165",
+ "name": "RAMON AQUINO",
+ "headline": "Warehouse Operations Manager",
+ "contact": {
+  "email": "raquino@yahoo.com",
+  "phone": "+63-918-103-0153",
+  "location": "Cebu City, Philippines"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ramonaquino4"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Asian Institute of Management",
+   "location": "Makati City",
+   "degree": "MBA",
+   "grade": "GPA: 3.47/4.0",
+   "dates": "April 2013"
+  },
+  {
+   "institution": "Mapzta University",
+   "location": "Manila",
+   "degree": "B.S., Industrial Engineering",
+   "dates": "May 2011"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Warehouse Operations Manager",
+   "dates": "June 2020 - Present",
+   "company": "Nestlé",
+   "location": "Quezon City",
+   "bullets": [
+    "Led a team of 8 across 8 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Introduced weekly operating reviews that cut decision turnaround from 15 days to 1 day",
+    "Grew the team by 34% in two years while keeping attrition below 9%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of PHP 334M"
+   ]
+  },
+  {
+   "title": "Inventory Analyst",
+   "dates": "June 2014 - May 2020",
+   "company": "L'Oréal",
+   "location": "Makati City",
+   "bullets": [
+    "Managed import logistics and customs clearance for 180+ containers per year",
+    "Set up 14 new fulfilment centres processing 538K orders per day",
+    "Built a supplier scorecard covering quality, cost and delivery for 120 vendors",
+    "Cut last-mile delivery cost per order by 24% through route optimisation",
+    "Improved forecast accuracy from 59% to 82% by introducing statistical models in SAP APO"
+   ]
+  },
+  {
+   "title": "Warehouse Executive",
+   "dates": "May 2013 - May 2014",
+   "company": "SM Investments",
+   "location": "Cebu City",
+   "bullets": [
+    "Negotiated freight contracts that saved PHP 126K annually",
+    "Managed procurement spend of PHP 1.6M across 120 suppliers, delivering 20% savings",
+    "Reduced inventory days by 12 while maintaining 37% service levels",
+    "Implemented a warehouse management system in 8 sites, improving pick accuracy to 99.8%",
+    "Led the monthly S&OP process across sales, finance and manufacturing"
+   ]
+  }
+ ],
+ "skills": [
+  "SAP APO",
+  "Ariba",
+  "SAP MM",
+  "Cost Reduction",
+  "Warehouse Management",
+  "Strategic Sourcing",
+  "Vendor Management"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation",
+   "dates": "April 2013",
+   "description": "Slotting analysis that reduced picker travel distance by 47% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "description": "Python OR-Tools model for routing 24 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "(May 2026)"
+  },
+  {
+   "name": "APICS CPIM",
+   "issuer": "ASCM",
+   "year": "(2020)"
+  },
+  {
+   "name": "APICS Certified Supply Chain Professional (CSCP)",
+   "issuer": "ASCM",
+   "year": "(2026)"
+  },
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "(2022)"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": "CIPS",
+   "year": "(2019)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "Cebuano",
+   "proficiency": "(Intermediate)"
+  }
+ ],
+ "_runtime_s": 0.458
+}

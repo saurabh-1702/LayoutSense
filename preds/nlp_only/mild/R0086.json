@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0086",
+ "contact": {
+  "email": "miguel.m@gmail.com",
+  "phone": "0918 142 3511",
+  "location": "Taguig City, Philippines"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/miguel-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mathematics",
+   "institution": "Mapua University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "NPA ratio below 1.8%",
+  "FP&A",
+  "producing daily VaR reports",
+  "Equity Research for senior management",
+  "M&A",
+  "Basel Ill Notable Projects",
+  "Capital",
+  "Python",
+  "Portfolio Optimisation Tool",
+  "VBA"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": null
+  },
+  {
+   "name": "Association for Financial",
+   "issuer": "Professionals"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.024
+}

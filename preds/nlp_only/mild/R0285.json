@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0285",
+ "name": "Peng Liu",
+ "contact": {
+  "email": "peng.liu@gmail.com",
+  "phone": "195 2884 4300",
+  "location": "Shenzhen, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pengliu3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Medicine (Internal Medicine)",
+   "institution": "Peking Union Medical College ott",
+   "dates": "2017-03"
+  },
+  {
+   "degree": "Bachelor of Medicine (MBBS)",
+   "institution": "Bachelor of Medicine",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Resident Physician",
+   "company": "Huashan Hospital",
+   "dates": "2017-06 ~ 2025-03",
+   "bullets": [
+    "Co-authored 8 peer-reviewed publications in indexed journals",
+    "Leda clinical audit on sepsis bundle compliance that improved adherence by 15%",
+    "Performed 400+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Supervised and taught 6 interns and medical students on ward rounds"
+   ]
+  }
+ ],
+ "skills": [
+  "C ritical Care"
+ ],
+ "projects": [
+  {
+   "name": "Sepsis Early Warning Score Audit"
+  },
+  {
+   "name": "Prevalence of Anaemia in Adolescents"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Provider i",
+   "issuer": "American i Heart Association"
+  },
+  {
+   "name": "ACLS Clinical fis Trials ; Network",
+   "issuer": ")"
+  },
+  {
+   "name": "« Good Clinical Practice",
+   "issuer": "GCP)"
+  },
+  {
+   "name": "USMLE Step 1 & 2 CK",
+   "issuer": "NBME"
+  },
+  {
+   "name": "PLAB 2",
+   "issuer": "General Medical Council"
+  },
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": null
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.046
+}

@@ -1,0 +1,30 @@
+{
+ "resume_id": "R0279",
+ "name": "Hannah MacDonald",
+ "contact": {
+  "email": "hannah1993@gmail.com",
+  "phone": "(226) 612-2666",
+  "location": "Waterloo, ON"
+ },
+ "skills": [
+  "Core Strengths Problem Solving",
+  "Conflict Resolution"
+ ],
+ "certifications": [
+  {
+   "name": "Certification",
+   "issuer": "SE nee Pee eee ee ee Recued By fee eal en read) ee"
+  },
+  {
+   "name": "CATIA VS Associate Dassault",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  }
+ ],
+ "_runtime_s": 0.013
+}

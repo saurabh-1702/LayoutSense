@@ -1,0 +1,21 @@
+{
+ "resume_id": "R0229",
+ "name": "Jamal Martinez",
+ "contact": {
+  "email": "jamalm568@hotmail.com",
+  "phone": "+1 (425) 398-4245",
+  "location": "Seattle, WA, USA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jamal-martinez3"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.011
+}

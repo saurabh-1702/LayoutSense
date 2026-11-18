@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0170",
+ "education": [
+  {
+   "degree": "BBA (Hons) Finance * Grew the team by 24% in two years while keeping attrition",
+   "institution": "__ Lahore University 0 f Management below 9%",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Treasury",
+   "company": "Standard Chartered",
+   "dates": "April 2022 — Present",
+   "bullets": [
+    "Analysed credit proposals for 250",
+    "Identified cost Savings of PKR 140M",
+    "Managed a loan portiolio of PKR 6.2M",
+    "Grew the assets under",
+    "Implemented an Anaplan-based planning model",
+    "Prepared pitch books and information memoranda for 11 sell"
+   ]
+  },
+  {
+   "title": "Senior Vice President",
+   "company": "Risk",
+   "dates": "January 2015 — March 2022",
+   "bullets": []
+  },
+  {
+   "title": "Vice President",
+   "company": "Corporate",
+   "dates": "January 2012 — December 2014",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.109
+}

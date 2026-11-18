@@ -1,0 +1,114 @@
+{
+ "resume_id": "R0105",
+ "name": "Helene Lefevre",
+ "headline": "Senior Project Engineer",
+ "contact": {
+  "email": "helene.lefevre03@hotmail.fr",
+  "phone": "+33 6 88 74 11 50",
+  "location": "Bordeaux, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/helene-lefevre-57"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Manufacturing Systems",
+   "institution": "INSA Lyon",
+   "dates": "2016 – 2018"
+  },
+  {
+   "degree": "Bachelor of Engineering, Automobile Engineering",
+   "institution": "Ecole Polytechnique",
+   "dates": "2012 – 2016"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025 – 2026",
+   "title": "Senior Project Engineer",
+   "company": "TotalEnergies",
+   "location": "Bordeaux",
+   "bullets": [
+    "Ran FEA in CATIA VS to optimise a bracket design, reducing weight by 7% without loss of stiffness",
+    "Reduced unplanned downtime by 33% by introducing condition-based maintenance"
+   ]
+  },
+  {
+   "dates": "2021 – 2025",
+   "title": "Reliability Engineer",
+   "company": "Honeywell",
+   "location": "Lyon",
+   "bullets": [
+    "Improved OEE of a 4-station assembly line from 40% to 85% through SMED and TPM",
+    "Achieved Six Sigma Green Belt savings of €10.7M by reducing process variation",
+    "Owned PPAP submissions for 19 suppliers and resolved 150 quality concerns",
+    "Led 18 Kaizen events that saved €499K annually in scrap and rework",
+    "Designed 23 sheet-metal and casting components in Minitab for a new two-wheeler platform"
+   ]
+  },
+  {
+   "dates": "2018 – 2021",
+   "title": "Design Engineer",
+   "company": "Honeywell",
+   "location": "Lyon",
+   "bullets": [
+    "Commissioned a new CNC machining cell, increasing capacity by 56%",
+    "Conducted DFMEA and design reviews with cross-functional teams for 19 programmes",
+    "Managed a capex budget of €400M for plant upgrades delivered on time"
+   ]
+  }
+ ],
+ "skills": [
+  "Sheet Metal Design",
+  "FEA",
+  "Injection Moulding",
+  "Root Cause Analysis",
+  "Lean Manufacturing",
+  "CFD",
+  "Minitab",
+  "CATIA V5",
+  "MATLAB",
+  "AutoCAD",
+  "Teamcenter",
+  "Negotiation",
+  "Stakeholder Management",
+  "Team Leadership",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Solar-Powered Refrigeration Unit",
+   "dates": "2020",
+   "description": "Prototype vapour-absorption cooler for rural clinics with 30% energy savings.",
+   "tech": "Teamcenter, AutoCAD"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "(2021)"
+  },
+  {
+   "name": "Certified SolidWorks Professional (CSWP)",
+   "issuer": "Dassault Systémes",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  },
+  {
+   "language": "German",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

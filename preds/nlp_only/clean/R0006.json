@@ -1,0 +1,124 @@
+{
+ "resume_id": "R0006",
+ "name": "Daniel Pérez",
+ "contact": {
+  "email": "daniel.perez@gmail.com",
+  "phone": "+34-733870701",
+  "location": "Seville, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/daniel-perez9"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "Indra * Seville Universitat Pompeu Fabra",
+   "dates": "2019 - 2026"
+  },
+  {
+   "degree": "BBA",
+   "institution": "ESADE",
+   "dates": null
+  },
+  {
+   "degree": "Master (CSM)",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate M.Sc. Finance",
+   "company": "Indra * Seville Universitat Pompeu Fabra",
+   "dates": "2019 - 2026",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "Indra * Seville Universitat Pompeu Fabra",
+   "dates": "2020 - 2022",
+   "bullets": [
+    "Delivered 11 strategy engagements for clients in banking, retail and",
+    "Led a cost transformation programme identifying €304M in annual"
+   ]
+  },
+  {
+   "title": null,
+   "company": "savings for a Fortune 500 client",
+   "dates": "2013 - 2016",
+   "bullets": [
+    "Drove a digital transformation roadmap that increased online sales by Language Proficiency",
+    "Built Excel models to size a €724K addressable market across 19 Fluent"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Business Analyst",
+   "issuer": ""
+  },
+  {
+   "name": "McKinsey & Company * Barcelona Certified Management Consultant",
+   "issuer": null
+  },
+  {
+   "name": "Built a market entry business case for a €13.1M investment in Southeast",
+   "issuer": "CMC)"
+  },
+  {
+   "name": "Institute of Management Consultants",
+   "issuer": ""
+  },
+  {
+   "name": "v Facilitated executive workshops with C-suite stakeholders to align on a 5- Certified Scrum Master",
+   "issuer": "CSM)"
+  },
+  {
+   "name": "Scrum Alliance",
+   "issuer": ""
+  },
+  {
+   "name": "year strategy",
+   "issuer": null
+  },
+  {
+   "name": "Lean Six Sigma Black Belt",
+   "issuer": null
+  },
+  {
+   "name": "v Conducted commercial due diligence on 24 private equity targets",
+   "issuer": "IASSC"
+  },
+  {
+   "name": "Managed a team of 10 consultants and client counterparts across 13",
+   "issuer": null
+  },
+  {
+   "name": "workstreams Areas of Expertise",
+   "issuer": null
+  },
+  {
+   "name": "v Designed a target operating model for a 43,000-employee organisation Hypothesis-driven Problem Solving",
+   "issuer": null
+  },
+  {
+   "name": "Financial Analysis",
+   "issuer": null
+  },
+  {
+   "name": "Business Case Development",
+   "issuer": null
+  },
+  {
+   "name": "Mm 8",
+   "issuer": null
+  },
+  {
+   "name": "Time Management",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.097
+}

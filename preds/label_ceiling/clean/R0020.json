@@ -1,0 +1,139 @@
+{
+ "resume_id": "R0020",
+ "name": "Ah m ed I b ra h i m",
+ "headline": "Sales Manager",
+ "contact": {
+  "email": "ahmed1997@outlook.com",
+  "phone": "+20 1505511077.",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ahmedibrahim"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA, Sales and Marketing",
+   "institution": "Nile University",
+   "dates": "Jan 2024 — Oct 2025",
+   "grade": "GPA: 3.34/4.0"
+  },
+  {
+   "degree": "B.A. in Economics",
+   "institution": "The American University in Cairo",
+   "dates": "Sep 2014 — Jun 2018",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2021 — Present",
+   "title": "Sales Manager",
+   "company": "Microsoft",
+   "location": "Giza",
+   "bullets": [
+    "Achieved 19% of annual quota for 10 consecutive years, closing EGP 20.4M in new ARR",
+    "Ranked #1 out of 6 account executives in the region for FY",
+    "Negotiated multi-year contracts worth EGP 12.1M with procurement and legal stakeholders",
+    "Onboarded and trained 11 new sales representatives on product and CRM workflows",
+    "Shortened the average sales cycle by 28 days by introducing a structured discovery framework",
+    "Built a pipeline of EGP 831K by prospecting 150+ enterprise accounts using LinkedIn Sales Navigator",
+    "Expanded distribution to 120 new retail outlets across 20 districts",
+    "Maintained 40% forecast accuracy in weekly pipeline reviews in Salesforce CRM"
+   ]
+  },
+  {
+   "dates": "Apr 2021",
+   "title": "Account Executive",
+   "company": "Cisco",
+   "location": "Cairo",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of EGP 9.5M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Mentored 6 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 7 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day",
+    "Grew the team by 29% in two years while keeping attrition below 5%"
+   ]
+  },
+  {
+   "dates": "Oct 2019 — Mar 2021",
+   "title": "Sales Development Representative",
+   "company": "Vodafone Egypt",
+   "location": "New Cairo",
+   "bullets": [
+    "Expanded distribution to 120 new retail outlets across 7 districts",
+    "Negotiated multi-year contracts worth EGP 15.7M with procurement and legal stakeholders",
+    "Ranked #1 out of 16 account executives in the region for FY",
+    "Achieved 17% of annual quota for 23 consecutive years, closing EGP 597K in new ARR",
+    "Managed 21 key accounts generating EGP 383K in annual revenue with 24% net revenue retention"
+   ]
+  },
+  {
+   "dates": "Aug 2018 — Sep 2019",
+   "title": "Sales Executive",
+   "company": "Talaat Moustafa Group",
+   "location": "New Cairo",
+   "bullets": [
+    "Built a pipeline of EGP 10.2M by prospecting 500+ enterprise accounts using LinkedIn Sales Navigator",
+    "Launched a channel partner programme that contributed 15% of total bookings",
+    "Shortened the average sales cycle by 8 days by introducing a structured discovery framework",
+    "Onboarded and trained 9 new sales representatives on product and CRM workflows",
+    "Maintained 59% forecast accuracy in weekly pipeline reviews in Salesforce CRM"
+   ]
+  }
+ ],
+ "skills": [
+  "Account Management",
+  "B2B Sales",
+  "MEDDIC",
+  "Solution Selling",
+  "Salesforce CRM",
+  "Excel",
+  "LinkedIn Sales Navigator",
+  "Outreach"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "description": "Mapped cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "2026"
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salesforce",
+   "year": "2026"
+  },
+  {
+   "name": "Certified Professional Sales Person (CPSP)",
+   "issuer": "NASP",
+   "year": "2026"
+  },
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy",
+   "year": "Dec 2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "German",
+   "proficiency": "Basic"
+  }
+ ]
+}

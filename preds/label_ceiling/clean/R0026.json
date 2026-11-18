@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0026",
+ "name": "GURPREET SETHI",
+ "contact": {
+  "email": "sethi.gurpreet@yahoo.co.in",
+  "phone": "+91-9615716763",
+  "location": "Gurugram, Haryana, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/gurpreet-sethi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Computer Science and Engineering)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "06/2023 - Present",
+   "title": "Systems Engineer",
+   "company": "Nykaa",
+   "location": "Gurugram",
+   "bullets": [
+    "Built a real-time notification service using Java and Apache Kafka that processes 454K+ events per hour",
+    "Owned the payments integration with 12 third-party gateways, reducing failed transactions by 53%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 29 hours to 15 minutes",
+    "Designed and built 17 RESTful microservices in Java and JavaScript, serving 26,000 requests per day with 99.95% uptime",
+    "Developed customer-facing features in Java used by 5.3M monthly active users"
+   ]
+  }
+ ],
+ "skills": [
+  "Linux"
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft",
+   "year": "2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "resume_id": "R0022",
+ "name": "Sultan Al Mazrouei",
+ "contact": {
+  "email": "sultanaimazrousi@gmail.com",
+  "phone": "055 686 6303",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sultan-aimazrouel4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Data Science",
+   "institution": "Lead Data Analyst Zayed University",
+   "dates": "Oct 2025 ~ Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Lead Data Analyst Zayed University",
+   "company": "BSc (Hons) Data Science",
+   "dates": "Oct 2025 ~ Present",
+   "bullets": []
+  },
+  {
+   "title": "Lead Data Analyst Zayed University",
+   "company": "ADNOC",
+   "dates": "Aug 2017 Aug 2020",
+   "bullets": [
+    "Productionised ML models with Docker and MLflow",
+    "Authored SQL data quality checks across 50 tables, Languages: R « Python - SQL",
+    "Partnered with senior leadership to define the annual"
+   ]
+  },
+  {
+   "title": "Business Intelligence Analyst",
+   "company": "Notable Projects",
+   "dates": "Oct 2020 - Sep 2025",
+   "bullets": [
+    "Ran 10 A/B experiments on pricing and onboarding"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.075
+}

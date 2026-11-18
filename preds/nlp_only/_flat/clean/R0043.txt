@@ -1,0 +1,50 @@
+Personal information
+ONUR SAHIN
+Analytics Engineer
+Address Antalya, Turkey
+Mobile +90 5060688137
+E-mail onur_sahin@gmail.com
+Website www.onursahin.com
+Skills
+Languages Python, SQL, Scala, R, SAS
+BI & Visualisation Plotly, Tableau, Matplotlib, Power BI
+Professional
+Background
+06/2022 — Present Analytics Engineer
+Deloitte, Remote
+« Deployed a retrieval-augmented chatbot over internal documentation, answering
+435K employee queries per month
+« Fine-tuned transformer models for ticket classification, automating 28% of manual
+triage
+« Designed and maintained 7 Airflow pipelines ingesting 232K+ records daily into
+Snowflake
+08/2021 — 05/2022 Machine Learning Engineer
+Garanti BBVA, Antalya
+« Reduced Spark job runtime by 16% through partitioning and broadcast join
+optimisation
+« Developed a demand forecasting model that reduced inventory holding costs by
+39%
+« Built a churn prediction model in SQL (AUC 0.500) that helped retention teams save
+TRY 50M in annual revenue
+06/2019 — 07/2021 Associate Data Scientist
+Getir, Remote
+« Productionised ML models with Docker and MLflow, cutting model deployment time
+from weeks to 10 days
+« Partnered with finance to build an anomaly detection system that flagged TRY
+24.2M in billing errors
+Education &
+Qualifications
+2016 — 2019 Bachelor of Science in Statistics
+Istanbul Technical University, Istanbul
+GPA: 3.56/4.00
+Honors
+2022 Top 5%, Kaggle Featured Competition
+Languages
+Turkish Native
+English Fluent
+Arabic Conversational
+German Advanced
+Certifications
+2023 Databricks Certified Data Engineer Associate, Databricks
+2020 AWS Certified Machine Learning — Specialty, Amazon Web Services
+2022 Deep Learning Specialization, DeepLearning.Al

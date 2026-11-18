@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0122",
+ "contact": {
+  "email": "jia.subramaniam@gmail.co",
+  "phone": "+60 13-5826566"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jiasubramania"
+  },
+  {
+   "url": "github.com/jiasubrama"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Data Analyst",
+   "company": "PROFESSIONAL",
+   "dates": "08.2023 — Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Looker",
+  "Plotly",
+  "eee",
+  "Id",
+  "Python",
+  "AS",
+  "Snowflake",
+  "NumPy",
+  "Apache Spark",
+  "LP",
+  "scikit-learn",
+  "XGBoost",
+  "Hugging Face Transformers",
+  "Native",
+  "Fluent",
+  "Asia Pacific University"
+ ],
+ "_runtime_s": 0.037
+}

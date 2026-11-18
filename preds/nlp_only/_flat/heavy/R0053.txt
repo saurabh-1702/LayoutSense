@@ -1,0 +1,43 @@
+(+91) 8338196047 *.
+Pune, Maharashtra ¢
+linkedin.com/in/dhruy-sawant 2
+Dhruv Sawant Suticteldhaden ¢
+KEY SKILLS
+Languages: C#, TypeScript, Swift
+Frameworks: Django, Node.js, Ruby on Rails, Angular, Spring Boot
+Cloud & DevOps: Google Cloud Platform, GitHub Actions, Terraform
+Professional Skills: Decision Making, Team Leadership
+WORK HISTORY
+Jul 2021 ~ Present
+Associate Software Engineer
+Zomato | Panaji
+- Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from
+7% to 85%
+- Developed internal tooling in C# that saved the support team 17 hours per week
+- Developed customer-facing features in C# used by 190K+ monthly active users
+- Wrote technical design documents and led code reviews for a team of 11 engineers
+- Resolved 180+ production issues as part of the on-call rotation, reducing mean time to recovery by
+54%
+May 2020 ~ Jun 2021
+Graduate Software Engineer
+Capgemini | Pune
+- Introduced feature flags and canary releases, lowering production incidents by 17% quarter over
+quarter
++ Designed and built 17 RESTful microservices in Node.js and Terraform, serving 1.4M requests per day
+with 99.95% uptime
+- Reduced p95 API latency by 40% by introducing Redis caching and optimising slow PostgreSQL
+queries
+- Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 37
+hours to 15 minutes
+EDUCATION
+Bachelor of Computer Applications
+Indian Institute of Technology Kharagpur
+Aug 2017 - Apr 2020
+LANGUAGES KNOWN
+Marathi (Native) | English (C1)
+CERTIFICATES
+- Certified Kubernetes Administrator (CKA) — The Linux Foundation (2026)
+- Meta Front-End Developer Professional Certificate - Coursera (2025)
+- AWS Certified Solutions Architect - Associate — Amazon Web Services (Jun 2026)
+HONOURS & AWARDS
+- Values in Action Award, Zomato (2025)

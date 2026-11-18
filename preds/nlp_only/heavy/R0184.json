@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0184",
+ "contact": {
+  "location": "Wellington, New Zealan"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Mechanical Engineering",
+   "institution": "AUT University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Professional Sales Person",
+   "issuer": "CPSP)"
+  },
+  {
+   "name": "Mandarin Chin NASP",
+   "issuer": ""
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salesforce"
+  },
+  {
+   "name": "& Sandler Sales Foundations",
+   "issuer": "Sandler Training «"
+  }
+ ],
+ "_runtime_s": 0.039
+}

@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0204",
+ "name": "Final-year BA Student",
+ "contact": {
+  "email": "kelechi.ogunleye96@gmail.com",
+  "phone": "+234 812 681 5170",
+  "location": "Kano, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/kelechi-ogunleye"
+  },
+  {
+   "url": "kelechiogunleye.framer.website"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "Covenant University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "@ 72% Y 61%",
+  "Prototyping Motion Design",
+  "Design Systems Blender",
+  "Adobe Photoshop Adobe Illustrator",
+  "Sketch Problem Solving",
+  "Team Leadership Cross-functional",
+  "Collaboration",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Awards & Recognition"
+  },
+  {
+   "name": "Museum Wayfinding Redesign Rising Star Award"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "Human Factors International"
+  },
+  {
+   "name": "Google UX Design",
+   "issuer": "Google"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "French",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.032
+}

@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0297",
+ "name": "OSKAR ERIKSSON",
+ "headline": "At Director",
+ "contact": {
+  "email": "oskar.eriksson@gmail.com",
+  "phone": "+46 766840621",
+  "location": "Malmo, Sweden"
+ },
+ "education": [
+  {
+   "degree": "Master of Arts in Visual Communication",
+   "dates": "2018-2020",
+   "institution": "KTH Royal Institute of Technology",
+   "grade": "Pass with Distinction"
+  },
+  {
+   "degree": "Bachelor in Interaction Design",
+   "dates": "2015-2018",
+   "institution": "Chalmers University of Technology",
+   "grade": "GPA: 8.3/10"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025—Present",
+   "title": "Art Director",
+   "company": "Karna",
+   "bullets": [
+    "Ran discovery workshops and journey mapping with stakeholders across 15 markets",
+    "Improved WCAG 2.1 AA compliance from 22% to 96% across core journeys",
+    "Introduced weekly operating reviews that cut decision turnaround from 8 days to 1 day"
+   ]
+  },
+  {
+   "dates": "2020-2025",
+   "title": "UI/UX Designer",
+   "company": "Karna",
+   "bullets": [
+    "Reduced support tickets by 32% by simplifying the account settings experience",
+    "Partnered with engineering to ship 7 features per quarter with pixel-perfect handoff in Framer",
+    "Conducted 9 rounds of usability testing with 180 participants to validate checkout improvements",
+    "Redesigned the onboarding flow in Framer, increasing activation by 18% across 51,000 new users"
+   ]
+  }
+ ],
+ "skills": [
+  "Motion Design",
+  "User Research",
+  "Design Systems",
+  "Prototyping",
+  "Journey Mapping",
+  "Figma",
+  "Adobe After Effects",
+  "Framer",
+  "Sketch"
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech Startup",
+   "dates": "2018",
+   "description": "Token-based component library in Figma with documentation and dark-mode support.",
+   "tech": "Framer, Adobe After Effects, Figma, Sketch"
+  },
+  {
+   "name": "Museum Wayfinding Redesign",
+   "description": "Signage and digital kiosk system tested with 300 visitors over 11 months."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Swedish",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C2)"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "(B2)"
+  },
+  {
+   "language": "Finnish",
+   "proficiency": "(A2)"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "resume_id": "R0243",
+ "name": "Dawit Desta",
+ "contact": {
+  "email": "dawitdesta76@yahoo.com",
+  "phone": "+251 93 280 2312",
+  "location": "Hawassa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/dawitdesta5"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng Computer Science and",
+   "institution": "Engineering University",
+   "dates": "September 2021"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate HashiCorp",
+   "issuer": null
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Associate Amazon Web Services"
+  },
+  {
+   "name": "Google Cloud Professional Cloud Developer Google Cloud",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": null
+  },
+  {
+   "language": "Tigrinya",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.025
+}

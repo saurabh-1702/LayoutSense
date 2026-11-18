@@ -1,0 +1,21 @@
+{
+ "resume_id": "R0146",
+ "name": "Joshua Anderson",
+ "experience": [
+  {
+   "title": "Logistics Manager",
+   "company": "Tesla",
+   "dates": "Oct 2022 — Present",
+   "bullets": [
+    "implemented a warehouse management system in 4 sites, improving pick accuracy to"
+   ]
+  },
+  {
+   "title": "Werehouse Executive",
+   "company": "~ Cut last-mile delivery cost per order by 55% through route optimisation",
+   "dates": "Oct 2020 — Aug 2021",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.032
+}

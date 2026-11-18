@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0271",
+ "name": "THANDIWE DLAMINI",
+ "contact": {
+  "email": "thandiwe.dlamini@gmail.com",
+  "phone": "+27-74-957-0109",
+  "location": "Pretoria, South Africa"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/thandiwe-dlamini-97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Statistics",
+   "institution": "University of Cape Town, Cape Town",
+   "dates": "09/2023-05/2026"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Air Quality Forecasting"
+  },
+  {
+   "name": "Retail Sales Dashboard"
+  },
+  {
+   "name": "Credit Risk Scoring Model"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Power BI Data Analyst Associate",
+   "issuer": "Microsoft"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.021
+}

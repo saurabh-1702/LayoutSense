@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0064",
+ "name": "Rashid Hospital - Abu Dhabi",
+ "contact": {
+  "email": "ahmed.alnuaimi02@gmail.com",
+  "phone": "+971 50 968 7763",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "www.ahmedalnuaimi.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BN (Hons) Nursing",
+   "institution": "Decision Making Mohammed Bin Rashid University of Medicine and Health Sciences",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "& Registered Nurse and Registered Midwife",
+   "issuer": "Indian Nursing Council «"
+  },
+  {
+   "name": "Values in Action Award",
+   "issuer": "Rashid Hospital"
+  }
+ ],
+ "_runtime_s": 0.038
+}

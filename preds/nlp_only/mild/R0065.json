@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0065",
+ "name": "Lily Zhao",
+ "contact": {
+  "email": "lilyzhao@gmail.com",
+  "phone": "86-193-5877-5898",
+  "location": "Guangzhou, China"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lily-zhao1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA in Tourism Management",
+   "institution": "China Europe International Business School",
+   "dates": "Expected 05/2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Hotel Operations Trainee",
+   "company": "Jinjiang International",
+   "dates": "02/2026 — 03/2026",
+   "bullets": [
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Assisted with day-to-day hospitality & tourism operations and maintained accurate records",
+    "Collected and cleaned data from 21 sources to support a hospitality & tourism initiative"
+   ]
+  }
+ ],
+ "skills": [
+  "Menu Engineering",
+  "Cost Control",
+  "Team Supervision",
+  "Housekeeping Management",
+  "IDeaS RMS",
+  "Delphi.fdc",
+  "Micros POS",
+  "SynXis"
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "Beginner"
+  }
+ ],
+ "_runtime_s": 0.046
+}

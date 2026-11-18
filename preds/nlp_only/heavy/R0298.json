@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0298",
+ "name": "Address Davao City. Philippines",
+ "contact": {
+  "phone": "+63-929-143-5760",
+  "location": "Davao City"
+ },
+ "links": [
+  {
+   "url": "www.johngarcia.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MS Project",
+   "institution": "University of the Philippines",
+   "dates": null
+  },
+  {
+   "degree": "Master of Science in Structural Engineering",
+   "institution": "Maptia University Manila Design",
+   "dates": "2025 — Present"
+  },
+  {
+   "degree": "Bachelor of Science in Structural Engineering",
+   "institution": "Maptia University Manila Design",
+   "dates": "2021 — 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Civil Engineering Intern",
+   "company": "Ayala Corporation",
+   "dates": "2025 — 2026",
+   "bullets": [
+    "Supported the civil engineering & construction team on 9",
+    "Presented final internship findings to department leadership",
+    "Shadowed senior colleagues and proposed process"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Filipino",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.054
+}

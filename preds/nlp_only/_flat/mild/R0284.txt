@@ -1,0 +1,49 @@
+e e % 9459 0388 © jia.koh93@gmail.com
+J la H ul K Oo h
+9 Singapore @ |inkedin.com/in/jiakoh
+Data Analyst @ wwwijiakoh.com
+© Work Experience Languages Known
+Oct 2024 - Sep Data Analyst English Native
+2026 eee Ligmied: 2. Singapore
+Mandarin Chinese Ci
+° Designed and maintained 6 Airflow pipelines
+ingesting 95K+ records daily into Snowflake
+3.) Skills & Tools
+e Partnered with finance to build an anomaly
+detection system that flagged $$43M in billing Scala
+errors
+e Ran 9 A/B experiments on pricing and Python
+onboarding flows, lifting conversion by 25%
+° Productionised ML models with Docker and 2) ce
+MLflow, cutting model deployment time from A/B Testing
+° Created executive dashboards in BigQuery XGBoost
+tracking 8 KPIs, adopted by 75+ business users
+Hugging Face Transformers
+Computer Vision
+Time Series Forecasting
+Pa LP
+NumPy
+BigQuery
+Apache Kafka
+Snowflake
+Power Bl
+Tableau
+Plotly
+Matplotlib
+Excel
+Problem Solving
+Mentoring
+Attention to Detail
+Public Speaking
+oO Courses & Certifications
+Deep Learning Specialization
+DeepLearning.Al : Apr 2023
+SnowPro Core Certification
+Snowflake - 2024
+©} Honors
+Customer Champion Award
+Sea Limited - 2026
+© Education & Qualifications
+BSc in Mathematics
+Singapore Management University
+Aug 2021 — Sep 2024

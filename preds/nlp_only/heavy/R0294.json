@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0294",
+ "name": "Bohdan Moroz",
+ "contact": {
+  "email": "bohdan.mororz@gmail.com",
+  "phone": "+380 (95) 446 73 77",
+  "location": "Odesa, Ukraine"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/bohdanmoroz"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Diploma with Honours",
+   "institution": "Honours",
+   "dates": "Aug 2019-Jul 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Registered Nurse",
+   "company": "City Clinical Hospital No. 1",
+   "dates": "Jan 2024~Present",
+   "bullets": [
+    "Trained 9 newly joined nurses on medication safety and documentation in",
+    "Participated in 23 code blue responses as a certified ACLS provider",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit"
+   ]
+  },
+  {
+   "title": "Junior Staff Nurse",
+   "company": "Obhmetdyt National Children’s Hospital",
+   "dates": "Oct 2022-Dec 2023",
+   "bullets": [
+    "Oversaw duty rosters for 4 nurses and managed ward inventory and",
+    "Coordinated with physicians and allied health teams during daily",
+    "Reduced hospital-acquired infection rates by 19% by leading hand-hygiene"
+   ]
+  },
+  {
+   "title": null,
+   "company": "Diploma with Honours",
+   "dates": "Aug 2019-Jul 2022",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "aha",
+  "S47 c2i* giol ziey",
+  "4 ABH Standards",
+  "JCi Standards",
+  "Electronic Medical Records",
+  "Epic EHR",
+  "Cerner",
+  "Presentation Skills",
+  "Communication"
+ ],
+ "_runtime_s": 0.065
+}

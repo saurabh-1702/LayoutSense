@@ -1,0 +1,31 @@
+{
+ "resume_id": "R0183",
+ "name": "Thomas Michel",
+ "headline": "Senior Mobile Engineer",
+ "education": [
+  {
+   "degree": "Sieshelar bl Sibinia Solan Engineering"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "August 2015 ~ December 2017",
+   "company": "Schneider Electric",
+   "title": "Graduate Software Engineer",
+   "location": "Paris",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and elick-through by 54%",
+    "Migrated a legacy monolith to containerised services on Kubemetes, cutting deployment time from 27 hours to 15 minutes",
+    "Collaborated with product and design to ship 16 major releases on schedule across web and mobile"
+   ]
+  }
+ ],
+ "skills": [
+  "CVCD",
+  "AWS",
+  "GitHub Actions",
+  "Rt",
+  "yin",
+  "Kein"
+ ]
+}

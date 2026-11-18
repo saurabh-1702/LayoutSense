@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0239",
+ "name": "ILARIA RICCI",
+ "headline": "Associate, Investment Banking",
+ "contact": {
+  "email": "ilariaricci61@libero.it",
+  "phone": "+39-3205925914",
+  "location": "Naples, Italy"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ilaria-ricci4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Bocconi University",
+   "dates": "2021"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Satispay",
+   "title": "Associate, Investment Banking",
+   "dates": "Feb 2024 – Aug 2026",
+   "location": "Naples",
+   "bullets": [
+    "Managed a loan portfolio of €230M across 120 relationships with zero slippages in FY",
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Prepared pitch books and information memoranda for 19 sell-side mandates",
+    "Analysed credit proposals for 120 mid-market clients, maintaining an NPA ratio below 1.10%",
+    "Identified cost savings of €2.0M through vendor spend analysis and contract renegotiation"
+   ]
+  },
+  {
+   "company": "Satispay",
+   "title": "Credit Analyst",
+   "dates": "Oct 2021 – Jan 2024",
+   "location": "Naples",
+   "bullets": [
+    "Grew the assets under management of assigned clients by 46% year on year",
+    "Supported due diligence on 12 acquisitions, including working-capital and synergy analysis",
+    "Led the annual budgeting and rolling forecast process for a business unit with EUR 830K in revenue",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Implemented an Anaplan-based planning model replacing 24 disconnected spreadsheets"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Company",
+   "description": "analysis; recommendation tracked for 6 months."
+  },
+  {
+   "name": "Development",
+   "description": "KS statistics."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Charred FnancavAnaet (CFA)",
+   "issuer": "As"
+  },
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "May 2021"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "resume_id": "R0118",
+ "name": "Palesa Smith",
+ "contact": {
+  "phone": "+447525 249742",
+  "location": "Edinburgh, UK"
+ },
+ "links": [
+  {
+   "url": "behance.net/palesasmith"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MA Human-Computer Interaction",
+   "institution": "University"
+  },
+  {
+   "institution": "of Cape Town",
+   "dates": "July 2012",
+   "grade": "2:1",
+   "degree": "BA (Hons) Industrial Design"
+  },
+  {
+   "institution": "University"
+  },
+  {
+   "institution": "of Johannesburg",
+   "dates": "July 2011",
+   "grade": "2:1"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January – 2023 — June 2026",
+   "title": "Principal Designer",
+   "company": "Monzo",
+   "location": "Edinburgh",
+   "bullets": [
+    "Grew the team by 59% in two years while keeping",
+    "attrition below 18%"
+   ]
+  },
+  {
+   "dates": "July 2018 -— December – 2022",
+   "title": "Art Director",
+   "company": "Adobe",
+   "location": "Johannesburg"
+  },
+  {
+   "dates": "August 2012 – September 2014",
+   "title": "Junior Product Designer",
+   "bullets": [
+    "Produced motion graphics and explainer videos",
+    "with Blender reaching 4.4M views",
+    "Ran discovery workshops and journey mapping with stakeholders",
+    "across 24 markets",
+    "Led end-to-end design of a",
+    "mobile banking app rated 4.7 on the App Store",
+    "Conducted 3 rounds of usability testing with 400 participants to validate checkout improvements",
+    "Partnered with engineering to ship 4 features per",
+    "quarter with pixel-perfect",
+    "handoff in Adobe",
+    "Photoshop",
+    "Reduced support tickets by 26% by simplifying the",
+    "account settings experience"
+   ]
+  }
+ ],
+ "skills": [
+  "Wireframing",
+  "Design Systems",
+  "Usability",
+  "Testing",
+  "Accessibility (WCAG)",
+  "Miro",
+  "Blender",
+  "Adobe Photoshop",
+  "Adobe",
+  "Illustrator",
+  "Adobe XD"
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech Startup",
+   "description": "Token-based"
+  },
+  {
+   "description": "and dark-mode support.",
+   "name": "Accessible"
+  },
+  {
+   "name": "Transit App Concept",
+   "description": "impaired commuters"
+  },
+  {
+   "description": "award.",
+   "name": "Museum Wayfinding Redesign"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nicisen Norman Group",
+   "year": "January 2017"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual"
+  },
+  {
+   "name": "Design",
+   "issuer": "Adobe",
+   "year": "2018"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2021"
+  },
+  {
+   "name": "Interaction Design Foundation"
+  },
+  {
+   "name": "UX"
+  },
+  {
+   "name": "Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2013"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Woolvwsorths Holdings",
+   "year": "2017"
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "University of Johannesburg",
+   "year": "2012"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Adobe",
+   "year": "2019"
+  }
+ ]
+}

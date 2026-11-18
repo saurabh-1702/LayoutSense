@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0253",
+ "projects": [
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 382K+ redirects/minute with consistent hashing and Redis."
+  },
+  {
+   "name": "Open-source CLI Contribution",
+   "dates": "@4/20203",
+   "description": "Contributed 4 merged pull requests to a popular open-source CLI tool, adding plugin monpert",
+   "tech": "Docker, Spring Boot, Next.js"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(2023)"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "(2025)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(02/2024)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "(01/2023) _"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "POSTECH",
+   "year": "(2025)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Naver",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Korean",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  }
+ ]
+}

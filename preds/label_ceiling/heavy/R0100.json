@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0100",
+ "contact": {
+  "email": "0290",
+  "phone": "92 322 835"
+ },
+ "education": [
+  {
+   "dates": "27/2039 t0 07/2023",
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "NED University of Engineering and Technology"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Engro Corporation",
+   "location": "Karachi",
+   "bullets": [
+    "Developed firmware in Embedded C for a battery management system on 120+ EV packs",
+    "Reduced energy losses by 56% through power factor correction and",
+    "Verified RTL designs on FPGA, achieving timing closure at 150 MHz"
+   ]
+  },
+  {
+   "company": "Bone",
+   "location": "Karachi",
+   "bullets": [
+    "Led root cause analysis on transformer failures, saving PKR 5.4M in costs",
+    "Designed 7-layer PCBs in Altium Designer for an industrial leT gateway",
+    "Performed load flow and short-circuit studies for 19 industrial clients",
+    "Designed protection schemes for 11 132/33 kV substations using DigSILENT PowerFactory"
+   ]
+  }
+ ],
+ "skills": [
+  "a. Energy integrato",
+  "HV Substations",
+  "\"Altium Designer",
+  "Cadence Virtuoso",
+  "DIeSILENT PowerFactory",
+  "Attention to Detail",
+  "“Mentoring",
+  "Time Management"
+ ],
+ "certifications": [
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board",
+   "year": "2026"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "Engro Corporatim",
+   "year": "2025"
+  }
+ ]
+}

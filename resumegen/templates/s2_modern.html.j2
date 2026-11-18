@@ -1,0 +1,49 @@
+{% import '_m.j2' as m %}<!doctype html><html><head><meta charset="utf-8"><style>
+{% include '_base.css.j2' %}
+.page{padding:{{ s.mt }}px {{ s.mx }}px {{ s.mb }}px;display:flex;flex-direction:column}
+.hd{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;padding-bottom:10px;border-bottom:3px solid {{ s.accent }};margin-bottom:4px}
+.nm{font-family:{{ s.head_font|safe }};font-size:{{ s.name_fs }}px;font-weight:700;color:{{ s.accent }};line-height:1.1;letter-spacing:{{ s.name_ls }}px}
+.hl{font-size:1.12em;color:{{ s.ink }};margin-top:3px;font-weight:600}
+.cts{text-align:right;font-size:.93em;line-height:1.5}
+.cts .ic{margin-left:5px;color:{{ s.accent }}}
+.flow{flex:1}
+.sh{font-family:{{ s.head_font|safe }};font-weight:700;font-size:1.06em;color:{{ s.accent }};margin:{{ s.sec_gap + 2 }}px 0 4px;letter-spacing:1px}
+.sh span{border-bottom:2px solid {{ s.accent }};padding-bottom:1px}
+.eh{margin-top:6px}
+.eh .t1{color:{{ s.ink }}}
+.bl{margin:1px 0 1px {{ s.indent }}px}
+.ed{margin:4px 0}
+.pj{margin:5px 0}
+.tech{color:{{ s.muted }};font-size:.93em}
+.tech .lbl{font-weight:600}
+.skl{margin:2px 0}
+.tags{margin-top:3px}
+.ci,.ai{margin:1px 0}
+</style></head><body>
+<div class="page" data-page="1">
+  <div class="hd p1only" data-region="header">
+    <div>
+      <div class="nm">{{ m.F('name', p.name|upper if s.name_upper else p.name) }}</div>
+      {% if s.show_headline %}<div class="hl">{{ m.F('headline', p.headline) }}</div>{% endif %}
+    </div>
+    <div class="cts">
+      <div>{{ m.F('contact.email', p.contact.email) }}{% if s.icons %}{{ m.ic('mail', sz=11) }}{% endif %}</div>
+      <div>{{ m.F('contact.phone', p.contact.phone, 'nw') }}{% if s.icons %}{{ m.ic('phone', sz=11) }}{% endif %}</div>
+      <div>{{ m.F('contact.location', p.contact.location) }}{% if s.icons %}{{ m.ic('pin', sz=11) }}{% endif %}</div>
+      {% for k in p.links %}<div>{{ m.F('links.'~loop.index0~'.url', k.url, 'nw') }}{% if s.icons %}{{ m.ic('link', sz=11) }}{% endif %}</div>{% endfor %}
+    </div>
+  </div>
+  <div class="flow" data-flow="main" data-region="column">
+  {% for sec in s.order %}
+    {% if sec == 'experience' %}{{ m.exp_all(p, s, s.exp_v) }}
+    {% elif sec == 'education' %}{{ m.edu_all(p, s, s.edu_v) }}
+    {% elif sec == 'skills' %}{{ m.skills_all(p, s, s.skills_v, s.skill_sep) }}
+    {% elif sec == 'projects' %}{{ m.proj_all(p, s) }}
+    {% elif sec == 'certifications' %}{{ m.cert_all(p, s, 'line') }}
+    {% elif sec == 'awards' %}{{ m.award_all(p, s, 'line') }}
+    {% elif sec == 'languages' %}{{ m.lang_all(p, s, 'inline') }}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+</body></html>

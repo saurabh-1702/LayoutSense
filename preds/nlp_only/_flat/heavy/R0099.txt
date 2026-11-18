@@ -1,0 +1,38 @@
+| Amna Javed
+|
+Analytics Associate
+; amna_javed@gmail.com
+| Lahore, Pakistan
+github.com/amnajaved
+WORK HISTORY — ; ee ES
+| Period Organisation Designation Location
+| 02.2024 — 05.2026 Jazz Analytics Associate
+- Deployed a retrieval-augmented chatbot over internal documentation, answering 8.1M employee queries per
+month
+i
+- Built a customer segmentation framework using Clustering on 7.8M profiles to drive targeted campaigns
+|
+a Productionised ML models with Docker and MLflow, cutting mode! deployment time from weeks to 7 days
+|
+05.2023 - 01.2024
+|- Built a churn prediction model in Time Series Forecasting (AUC 0.120) that helped retention teams save PKR
+340M in annual revenue
+|- Created executive dashboards in Time Series Forecasting tracking 22 KPIs, adopted by 80+ business users
+|- Authored SOL data quality checks across 150 tables, reducing reporting incidents by 51%
+| GPA / Honours
+recnettetence... .. | eepmeetnamumnceesnemten + Lenmeanaminet
+BA (Hons) Economics Lahore University of Management 07.2019 - 05.2022
+Soences :
+COMPETENCIES =e ** = eee ee ts ee Pe Eo ew ee em
+| Languages | Scala | Python | SAS i
+| | | /
+RA Teneo negging Face Tensioners Time Seis forecasting M7
+PROJECTS eme gts Z ” " seein
+Project
+Air Quality Forecasting LSTM mode! forecasting PM2.5 levels across 14 a
+| monitoring stations with a Streamlit dashboard.
+|
+Fake News Detection Fine-tuned DistiiBERT classifier achieving 94% Fi ona SAS, Scala
+Public misinformation dataset.
+|
+HONORS

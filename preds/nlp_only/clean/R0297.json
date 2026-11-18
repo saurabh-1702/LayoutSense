@@ -1,0 +1,84 @@
+{
+ "resume_id": "R0297",
+ "name": "OSKAR ERIKSSON",
+ "contact": {
+  "email": "oskar.eriksson@gmail.com",
+  "phone": "+46 766840621",
+  "location": "Malmo, Sweden"
+ },
+ "education": [
+  {
+   "degree": "Master of Arts in Visual Communication",
+   "institution": "KTH Royal Institute of Technology",
+   "dates": "2018-2020"
+  },
+  {
+   "degree": "Bachelor in Interaction Design",
+   "institution": "Chalmers University of Technology",
+   "dates": "2015-2018"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Art Director",
+   "company": "Karna",
+   "dates": "2025—Present",
+   "bullets": [
+    "Ran discovery workshops and journey mapping with stakeholders across 15 markets",
+    "Improved WCAG 2.1 AA compliance from 22% to 96% across core journeys",
+    "Introduced weekly operating reviews that cut decision turnaround from 8 days to 1 day"
+   ]
+  },
+  {
+   "title": "UI/UX Designer",
+   "company": "Karna",
+   "dates": "2020-2025",
+   "bullets": [
+    "Reduced support tickets by 32% by simplifying the account settings experience",
+    "Partnered with engineering to ship 7 features per quarter with pixel-perfect handoff in Framer",
+    "Conducted 9 rounds of usability testing with 180 participants to validate checkout improvements",
+    "Redesigned the onboarding flow in Framer, increasing activation by 18% across 51,000 new users"
+   ]
+  }
+ ],
+ "skills": [
+  "Motion Design",
+  "User Research",
+  "Design Systems",
+  "Prototyping",
+  "Journey Mapping",
+  "Figma",
+  "Adobe After Effects",
+  "Framer * Sketch"
+ ],
+ "projects": [
+  {
+   "name": "Museum Wayfinding Redesign"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Swedish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Finnish",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.042
+}

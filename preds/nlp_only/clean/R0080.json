@@ -1,0 +1,40 @@
+{
+ "resume_id": "R0080",
+ "name": "Ruby Taylor",
+ "contact": {
+  "email": "ruby.taylor@gmail.com",
+  "phone": "0411 235 661",
+  "location": "Brisbane, QLD, Australia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rubytaylor"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Logistics and",
+   "institution": "RMIT University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation Warehouse Management"
+  },
+  {
+   "name": "Vehicle Routing Model Strategic Sourcing"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management",
+   "issuer": null
+  },
+  {
+   "name": "Professional",
+   "issuer": "PMP)"
+  }
+ ],
+ "_runtime_s": 0.016
+}

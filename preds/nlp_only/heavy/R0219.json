@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0219",
+ "name": "MEGHA NEGI",
+ "contact": {
+  "email": "meghanegi@gmail.com",
+  "phone": "+44 7138 93720",
+  "location": "React"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/meghanegi"
+  },
+  {
+   "url": "github.com/meghanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Technology Indian Institute of Technology",
+   "institution": "Bachelor of Technology Indian Institute of Technology",
+   "dates": "04.2021"
+  }
+ ],
+ "_runtime_s": 0.069
+}

@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0127",
+ "name": "HU Peng",
+ "contact": {
+  "email": "pengh791@126.com",
+  "phone": "185 4019 9893"
+ },
+ "education": [
+  {
+   "dates": "August 2022 ~ May 2026",
+   "degree": "B.Eng. in Civil Engineering",
+   "institution": "Fong) University",
+   "location": "Shanghai",
+   "grade": "GPA 3.67/4.00"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "October 2025 - December 2025",
+   "title": "Civil Engineering Intern",
+   "company": "WSP",
+   "location": "Shanghai",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 11 stakeholder meetings",
+    "Drafted standard operating procedures for 8 recurring tasks",
+    "Built a tracker in Primavera P6 that streamlined weekly reporting for a team of 12"
+   ]
+  },
+  {
+   "dates": "October 2024 - December 2024",
+   "title": "Site Engineer Trainee",
+   "company": "China State Construction Engineering",
+   "location": "Shanghai",
+   "bullets": [
+    "Shadowed senior colleagues and proposed process improvements that the team adopted",
+    "Collected and cleaned data from 5 sources to support a civil engineering &",
+    "Presented final internship findings to department leadership"
+   ]
+  }
+ ],
+ "skills": [
+  "Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "HSE Compliance",
+  "AutoCAD",
+  "Primavera P6",
+  "Revit",
+  "Navisworks"
+ ],
+ "projects": [
+  {
+   "dates": "December 2023",
+   "name": "Design of a G+5 Residential Building",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "Primavera P6, Navisworks"
+  },
+  {
+   "dates": "July 2026",
+   "name": "Pervious Concrete Mix Study",
+   "description": "Lab study of 21 mix designs for urban stormwater management."
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2026",
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

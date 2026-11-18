@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0215",
+ "name": "Jodo Silva Rodrigues",
+ "headline": "Legal Counsel",
+ "contact": {
+  "email": "joaorodrigues@gmail.com",
+  "phone": "927 236 551",
+  "location": "Porto, Portugal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/joaorodrigues"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Baker McKenzie",
+   "title": "Legal Counsel",
+   "dates": "Feb 2025 – Present",
+   "location": "Porto",
+   "bullets": [
+    "Reduced external counsel spend by 40% by bringing standard contract work in-house",
+    "Built a GDPR/DPDP compliance programme covering 17 business units",
+    "Led legal due diligence for 24 acquisitions, reviewing 300+ contracts in LexisNexis"
+   ]
+  },
+  {
+   "location": "Porto",
+   "bullets": [
+    "Represented clients in 11 commercial arbitrations seated in Singapore and London",
+    "Managed a portfolio of 300 trademarks across 11 jurisdictions",
+    "Trained business teams on contract playbooks and anti-bribery compliance"
+   ],
+   "company": "PLMJ",
+   "title": "Junior Associate",
+   "dates": "Jun 2021 – Dec 2024"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Admitted Solicitor",
+   "issuer": "Solicitors Regulation Authority",
+   "year": "Oct 2022"
+  },
+  {
+   "name": "Certified Information Privacy Professional (CIPP/E)",
+   "issuer": "IAPP",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

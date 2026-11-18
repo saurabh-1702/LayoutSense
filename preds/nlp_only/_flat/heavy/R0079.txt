@@ -1,0 +1,38 @@
+- Mig ep month container serv on Ke, ‘iit
+“from 4hours to 1Sminutes
+- Bulan oon soe sing Linc an pc aa at process 181K events “ig
+‘per hour
++ Calaborad with pradut and design ship 22 major eases on schedule across weband
+mobile
+yh
+/2024 - 05/2025
+Noon, Dubai
+» Reduced p95 API latency by 20% by introducing Redis caching and optimising slow
+PostgreSQL queries
+« Rebuilt the search experience with Elasticsearch, improving result relevance and click-through
+by 18%
+» Implemented a C1/CD pipeline with GitHub Actions and automated tests, raising code coverage
+from 14% to 85%
++ Developed internal tooling in GitHub Actions that saved the support team 36 hours per week
++ Owned the payments integration with 24 third-party gateways, reducing failed transactions by
+31%
+EDUCATION &
+QUALIFICATIONS
+2021 - 2024 BSc Computer Science
+Zayed University, Dubai
+Distinchien
+SKILLS
+Languages java - Rust - Swift Kotlin
+Ohud & DevOps Linux - Google Cloud Platform - Docker - AWS - GitHub Actions - Microsoft Azure
+Soft Skulls Cross-functional Collaboration - Adaptability - Public Speaking - Stakeholder Management
+SELECTED PROJECTS
+Distributed Key-Value Store
+Raft-based replicated key-value store with leader election, Jog compaction and a gRPC client.
+Food Delivery Clone
+Full-stack food ordering app with live order tracking, payments and an admin dashboard.
+Fechnologies: Swift, java, AWS, Gitttub Actions
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate, Amazon Web Services
+LANGUAGES
+Arabit Native
+Knglish Conversational

@@ -1,0 +1,34 @@
+{
+ "resume_id": "R0100",
+ "name": "Bone Karachi",
+ "contact": {
+  "phone": "92 322 835 0290"
+ },
+ "education": [
+  {
+   "degree": "BEng (Hons) Electrical Engineering",
+   "institution": "NED University of Engineering and Technology",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Cadence Virtuoso ~ = Technologies: KiCad, DIgSILENT Powerfactory"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Electrical Supervisor Licence",
+   "issuer": "State Electrical Licensing Board"
+  },
+  {
+   "name": "Siemens Certified PLC Programmer",
+   "issuer": "Siemens"
+  },
+  {
+   "name": "Values in Action Award",
+   "issuer": "Engro Corporatim"
+  }
+ ],
+ "_runtime_s": 0.099
+}

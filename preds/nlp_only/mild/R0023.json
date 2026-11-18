@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez",
+ "contact": {
+  "email": "gonzalez.david@gmail.com",
+  "location": "Valencia, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/davidgonzalez-bod5e3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA Universitat Pompeu Fabra",
+   "institution": "Qualification Institution",
+   "dates": "2027"
+  },
+  {
+   "degree": "Bachelor of Business IE University Nota media: 8.8",
+   "institution": "Bachelor of Business IE University",
+   "dates": "2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Uber Procurement Intern",
+   "company": null,
+   "dates": "Oct 2024 | Mar 2025",
+   "bullets": [
+    "Built a tracker in Kinaxis RapidResponse that streamlined weekly reporting for a team of 4"
+   ]
+  }
+ ],
+ "skills": [
+  "Proficiency Proficiency",
+  "Contract Negotiation",
+  "Vendor Management",
+  "Demand Planning",
+  "SAP APO",
+  "Kinaxis RapidResponse",
+  "SAP MM",
+  "wl",
+  "Oracle SCM"
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  },
+  {
+   "language": "French",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Catalan",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.047
+}

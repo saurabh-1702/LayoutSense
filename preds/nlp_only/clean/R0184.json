@@ -1,0 +1,24 @@
+{
+ "resume_id": "R0184",
+ "contact": {
+  "email": "mian805@outlook.com",
+  "phone": "022 565 0227",
+  "location": "Wellington, New Zealand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mia-"
+  },
+  {
+   "url": "www.miangata.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Mechanical Engineering",
+   "institution": "AUT University",
+   "dates": null
+  }
+ ],
+ "_runtime_s": 0.042
+}

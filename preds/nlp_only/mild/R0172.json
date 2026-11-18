@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0172",
+ "name": "GURLEEN LEBLANC",
+ "contact": {
+  "email": "gurleenl863@gmail.com",
+  "phone": "+1 778-867-8825",
+  "location": "Vancouver, BC Jun"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/gurleen-leblanc"
+  },
+  {
+   "url": "github.com/gleblanc"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "University of Waterloo",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Ruby",
+  "of 9 engineers",
+  "Kubernetes",
+  "Java",
+  "Kotlin monthly active users"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.032
+}

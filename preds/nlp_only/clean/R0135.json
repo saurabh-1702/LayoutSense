@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0135",
+ "name": "Lwazi Dlamini",
+ "contact": {
+  "email": "dlamini.lwazi@gmail.com",
+  "phone": "+27 81 561 9663",
+  "location": "Pretoria, South Africa"
+ },
+ "links": [
+  {
+   "url": "behance.net/Iwazidlamini"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA Psychology University of Pretoria",
+   "institution": "BA Psychology University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Design Information Architecture",
+  "Interaction Design",
+  "Prototyping",
+  "Branding",
+  "Motion Design",
+  "Adobe Illustrator",
+  "Framer",
+  "Principle",
+  "Adobe Photoshop",
+  "Maze",
+  "Figma",
+  "Professional Skills Mentoring",
+  "Critical Thinking",
+  "Decision Making"
+ ],
+ "_runtime_s": 0.022
+}

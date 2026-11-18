@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0123",
+ "name": "Gunawan Ayu",
+ "headline": "Digital Marketing Specialist",
+ "contact": {
+  "email": "ayug@gmailcom",
+  "phone": "+62 895-4609-7920 linkedin,com/in/ayugunawan",
+  "location": "Surabaya, Indonesia"
+ },
+ "education": [
+  {
+   "institution": "Binus University"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jul. 2025 - Present",
+   "title": "Digital Marketing Specialist",
+   "location": "Surabaya (Hybrid)",
+   "bullets": [
+    "Led a rebrand across 4 touchpoints in partnership with an external creative agency",
+    "Coordinated 18 influencer campaigns generating 1.2M impressions and 209K engagements",
+    "Grew Instagram and Linkedin followers from 261K+ to over 3x within a year",
+    "Owned the go-to-market plan for a SaaS launch, generating IDR 77.3B pipeline in the first quarter",
+    "Launched 3 new product variants nationally, capturing 9% market share in the first year"
+   ]
+  }
+ ],
+ "skills": [
+  "Google Analytics 4",
+  "Google Ads",
+  "Ahrefs",
+  "HubSpot",
+  "Canva",
+  "SEMrush",
+  "Content Strategy",
+  "Social Media Marketing",
+  "Marketing Automation"
+ ],
+ "certifications": [
+  {
+   "name": "HubSpot Inbe Inbound und Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "Apr. 2024"
+  },
+  {
+   "name": "Google Analytics Certification C ee",
+   "issuer": "Google",
+   "year": "eee"
+  },
+  {
+   "name": "ae a er Google Ads Search Certification",
+   "issuer": "Google",
+   "year": "Jan, 2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "indonesian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced CN ARBRE"
+  }
+ ]
+}

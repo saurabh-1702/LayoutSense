@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0050",
+ "contact": {
+  "email": "akshay.desai@yahoo.co.in",
+  "phone": "+91 756-539-4976"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/akshay-desai-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Medicine and",
+   "institution": "Seth GS Medical College",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Surgery (MBBS) Achievements",
+   "institution": "Seth GS Medical College",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "adherence by 52%",
+  "Telemedicine",
+  "Clinical Audit diabetes and hypertension",
+  "Endotracheal Intubation",
+  "Evidence-based Medicine",
+  "night shifts",
+  "Patient Counselling",
+  "Cross-functional Collaboration",
+  "rounds",
+  "Team Leadership",
+  "Performed 50",
+  "procedures including central lines",
+  "thoracentesis and"
+ ],
+ "projects": [
+  {
+   "name": "English Limited Working"
+  },
+  {
+   "name": "Proficiency Prevalence of Anaemia in Adolescents"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Fortis Healthcare",
+   "issuer": "Medical Officer"
+  },
+  {
+   "name": "Good Clinical Practice",
+   "issuer": "GCP) * Co-authored 8 peer-reviewed publications in indexed journals"
+  },
+  {
+   "name": "NIDA Clinical Trials Network",
+   "issuer": ""
+  },
+  {
+   "name": "Led a clinical audit on sepsis bundle compliance that improved",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Marathi",
+   "proficiency": "Mother tongue"
+  }
+ ],
+ "_runtime_s": 0.057
+}

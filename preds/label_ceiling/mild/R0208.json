@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0208",
+ "name": "TOMASZ SZYMANSKI",
+ "headline": "Science Teacher",
+ "contact": {
+  "email": "szymanski.tomasz@gmail.com",
+  "phone": "+48 608 597 313",
+  "location": "Krakow, Poland"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tomasz-szymanski-81"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Teaching Qualification (Education)",
+   "institution": "Academy of Fine Arts in Warsaw",
+   "grade": "GPA: 4.5/5",
+   "dates": "07/2021 - 07/2024"
+  },
+  {
+   "degree": "B.Sc. Physics",
+   "institution": "AGH University of Krakow"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "09/2025 - Present",
+   "title": "Science Teacher",
+   "company": "Stefan Batory High School",
+   "location": "Krakow",
+   "bullets": [
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 15 grade levels",
+    "Led parent-teacher conferences and individualised learning plans for 14 students with SEN",
+    "Coordinated the school's Canvas LMS rollout, training 12 teachers in blended learning"
+   ]
+  }
+ ],
+ "skills": [
+  "CBSE Curriculum",
+  "Curriculum Design",
+  "Differentiated Instruction",
+  "Seesaw",
+  "Moodle",
+  "Canvas LMS"
+ ],
+ "projects": [
+  {
+   "name": "Reading Programme for Early Learners",
+   "dates": "07/2025",
+   "description": "Phonics-based intervention for 200 students across 10 schools."
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

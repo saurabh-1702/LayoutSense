@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0300",
+ "contact": {
+  "email": "amanda.anderson89@icloud.com",
+  "phone": "+1 (512) 215-7218",
+  "location": "Austin, TX"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/amanda-anderson8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": "Georgetown University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) Article Assistant (Expected)",
+   "company": "GPA 3.65",
+   "dates": "2025-11 — 2026-04",
+   "bullets": [
+    "Built a tracker in Tally ERP 9 that streamlined weekly"
+   ]
+  },
+  {
+   "title": "reporting for a team of 9 : Dean's List (6 semesters)",
+   "company": "Georgetown University",
+   "dates": "2021 — 2025",
+   "bullets": [
+    "Presented final internship findings to department leadership"
+   ]
+  }
+ ],
+ "skills": [
+  "Reconciliations Direct Taxation",
+  "Transfer Pricing Excel (",
+  "Tally ERP 9 Case Ware",
+  "SAP FICO"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool Certified Internal Auditor (CIA)"
+  },
+  {
+   "name": "Internal Controls Review"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.05
+}

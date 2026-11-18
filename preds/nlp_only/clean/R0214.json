@@ -1,0 +1,227 @@
+{
+ "resume_id": "R0214",
+ "contact": {
+  "email": "burak.kaya@gmail.com",
+  "phone": "+90 (543) 870 5128",
+  "location": "Turkey"
+ },
+ "links": [
+  {
+   "url": "github.com/burakkaya"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software Engineering",
+   "institution": "Software Architect Sabanci University",
+   "dates": "Feb 2021 - Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Architect Sabanci University",
+   "company": "Bachelor of Science in Software Engineering",
+   "dates": "Feb 2021 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Architect Sabanci University",
+   "company": "Peak Games",
+   "dates": "Sep 2005 - Apr 2009",
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision"
+   ]
+  }
+ ],
+ "skills": [
+  "JavaScript",
+  "Go",
+  "C#",
+  "TypeScript",
+  "Apr 2019",
+  "Jan 2021",
+  "FastAPI",
+  "Express.js",
+  "React",
+  "Baykar",
+  "izmir Django",
+  "Vue.js",
+  "Mentoring",
+  "committees and board-level reporting"
+ ],
+ "certifications": [
+  {
+   "name": "Leda team of 12 across 12 workstreams",
+   "issuer": "owning hiring"
+  },
+  {
+   "name": "performance reviews and quarterly planning HashiCorp Certified: Terraform Associate",
+   "issuer": null
+  },
+  {
+   "name": "Grew the team by 38% in two years while keeping HashiCorp",
+   "issuer": ""
+  },
+  {
+   "name": "attrition below 15% AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Amazon Web Services",
+   "issuer": ""
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Senior Software Engineer",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "Salesforce",
+   "issuer": "Ankara"
+  },
+  {
+   "name": "Introduced feature flags and canary releases",
+   "issuer": "lowering LANGUAGES KNOWN"
+  },
+  {
+   "name": "production incidents by 25% quarter over quarter",
+   "issuer": null
+  },
+  {
+   "name": "Turkish Mother tongue",
+   "issuer": null
+  },
+  {
+   "name": "Developed internal tooling in C# that saved the support",
+   "issuer": null
+  },
+  {
+   "name": "English Professional Working Proficiency",
+   "issuer": null
+  },
+  {
+   "name": "team 16 hours per week",
+   "issuer": null
+  },
+  {
+   "name": "Wrote technical design documents and led code Arabic Professional Working Proficiency",
+   "issuer": null
+  },
+  {
+   "name": "reviews for a team of 5 engineers",
+   "issuer": null
+  },
+  {
+   "name": "Owned the payments integration with 5 third-party",
+   "issuer": null
+  },
+  {
+   "name": "gateways",
+   "issuer": "reducing failed transactions by 34%"
+  },
+  {
+   "name": "Migrated a legacy monolith to containerised services",
+   "issuer": null
+  },
+  {
+   "name": "on Kubernetes",
+   "issuer": "cutting deployment time from 5 hours"
+  },
+  {
+   "name": "to 15 minutes",
+   "issuer": ""
+  },
+  {
+   "name": "Mobile Developer",
+   "issuer": "Android)"
+  },
+  {
+   "name": "Samsung",
+   "issuer": "Ankara"
+  },
+  {
+   "name": "Developed customer-facing features in JavaScript used",
+   "issuer": null
+  },
+  {
+   "name": "by 78,000 monthly active users",
+   "issuer": null
+  },
+  {
+   "name": "Resolved 120+ production issues as part of the on-call",
+   "issuer": null
+  },
+  {
+   "name": "rotation",
+   "issuer": "reducing mean time to recovery by 60%"
+  },
+  {
+   "name": "Cut cloud infrastructure costs by TRY 180M annually by",
+   "issuer": null
+  },
+  {
+   "name": "right-sizing instances and adopting spot capacity",
+   "issuer": null
+  },
+  {
+   "name": "Rebuilt the search experience with Elasticsearch",
+   "issuer": null
+  },
+  {
+   "name": "improving result relevance and click-through by 39%",
+   "issuer": null
+  },
+  {
+   "name": "Implemented a CI/CD pipeline with GitHub Actions and",
+   "issuer": null
+  },
+  {
+   "name": "automated tests",
+   "issuer": "raising code coverage from 10% to"
+  },
+  {
+   "name": "Associate Software Engineer",
+   "issuer": null
+  },
+  {
+   "name": "Samsung",
+   "issuer": "Ankara"
+  },
+  {
+   "name": "Reduced p95 API latency by 57% by introducing Redis",
+   "issuer": null
+  },
+  {
+   "name": "caching and optimising slow PostgreSQL queries",
+   "issuer": null
+  },
+  {
+   "name": "Designed and built 6 RESTful microservices in C# and",
+   "issuer": null
+  },
+  {
+   "name": "Flutter",
+   "issuer": "serving 6.5M requests per day with 99.95%"
+  },
+  {
+   "name": "Collaborated with product and design to ship 15 major",
+   "issuer": null
+  },
+  {
+   "name": "releases on schedule across web and mobile",
+   "issuer": null
+  },
+  {
+   "name": "Built a real-time notification service using C# and",
+   "issuer": null
+  },
+  {
+   "name": "Apache Kafka that processes 21,000 events per hour",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.077
+}

@@ -1,0 +1,50 @@
+{
+ "resume_id": "R0299",
+ "name": "Bukola Adeyemi",
+ "contact": {
+  "email": "badeyemi@gmail.com",
+  "phone": "0816 340 1053",
+  "location": "Ibadan, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/bukola-adeyemi"
+  },
+  {
+   "url": "orcid.org/0000-0002-3748-4509"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MRCP (UK) Ahmadu Bello University",
+   "institution": "Ahmadu Bello University",
+   "dates": "2009"
+  },
+  {
+   "degree": "MBBS University of Ibadan",
+   "institution": "MBBS University of Ibadan 2008",
+   "dates": "2008"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Consultant",
+   "company": "Reddington Hospital",
+   "dates": "January 2019 March 2020",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Central Line Insertion",
+  "Evidence-based Medicine",
+  "Endotracheal Intubation",
+  "ICD-10 Coding",
+  "Clinical Audit",
+  "Epic EHR",
+  "Cerner",
+  "Telemedicine",
+  "Time Management",
+  "Stakeholder Management"
+ ],
+ "_runtime_s": 0.038
+}

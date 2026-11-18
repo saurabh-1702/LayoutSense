@@ -1,0 +1,135 @@
+{
+ "resume_id": "R0253",
+ "name": "CHO SEOYEON",
+ "headline": "Software Engineer",
+ "contact": {
+  "email": "seoyeoncho50@gmail.com",
+  "phone": "+82 10-7564-6037",
+  "location": "Incheon, South Korea"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/seoyeon-cho-61"
+  },
+  {
+   "url": "github.com/seoyeon8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Computer Applications",
+   "dates": "09/2021 — 03/2025",
+   "institution": "POSTECH",
+   "location": "Pohang",
+   "grade": "GPA: 3.10"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Naver",
+   "location": "Remote — South Korea",
+   "title": "Software Engineer",
+   "dates": "02/2026 — Current",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click- through by 13%",
+    "Reduced p95 API latency by 46% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 37%",
+    "Built a real-time notification service using Swift and Apache Kafka that processes 381K+ events per hour",
+    "Collaborated with product and design to ship 18 major releases on schedule across web and mobile",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 12 hours to 15 minutes",
+    "Designed and built 5 RESTful microservices in Swift and C++, serving 187K requests per day with 99.95% uptime"
+   ]
+  },
+  {
+   "company": "Naver",
+   "location": "Incheon",
+   "title": "Graduate Software Engineer",
+   "dates": "06/2025 — 01/2026",
+   "bullets": [
+    "Cut cloud infrastructure costs by KRW 668M annually by right-sizing instances and adopting spot capacity",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 25% to 85%",
+    "Introduced feature flags and canary releases, lowering production incidents by 15% quarter over quarter",
+    "Developed customer-facing features in Elasticsearch used by 8.5M monthly active users",
+    "Owned the payments integration with 8 third-party gateways, reducing failed transactions by 32%",
+    "Wrote technical design documents and led code reviews for a team of 3 engineers",
+    "Developed internal tooling in Elasticsearch that saved the support team 14 hours per week"
+   ]
+  }
+ ],
+ "skills": [
+  "C++",
+  "Swift",
+  "Ruby",
+  "GraphQL",
+  "Spring Boot",
+  "Ruby on Rails",
+  "Next.js",
+  "Linux",
+  "CI/CD",
+  "Jenkins",
+  "Docker",
+  "DynamoDB",
+  "MongoDB",
+  "Redis",
+  "PostgreSQL",
+  "Elasticsearch",
+  "Negotiation",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "URL Shortener at Scale",
+   "description": "Load-tested URL shortener handling 382K+ redirects/minute with consistent hashing and Redis."
+  },
+  {
+   "name": "Open-source CLI Contribution",
+   "dates": "04/2023",
+   "description": "Contributed 4 merged pull requests to a popular open-source CLI tool, adding plugin support.",
+   "tech": "Docker, Spring Boot, Next.js"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(2023)"
+  },
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "(2025)"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(02/2024)"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera",
+   "year": "(01/2023)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "POSTECH",
+   "year": "(2025)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Naver",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Korean",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Advanced)"
+  }
+ ]
+}

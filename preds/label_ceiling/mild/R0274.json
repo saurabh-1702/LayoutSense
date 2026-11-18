@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0274",
+ "name": "Priyanka Mohanty",
+ "headline": "Risk Analyst",
+ "contact": {
+  "email": "priyanka.mohanty@hotmail.com",
+  "phone": "+91 9818576927",
+  "location": "Durgapur, West Bengal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/priyankamohanty6"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BMS (Bachelor of Management Studies)",
+   "institution": "Symbiosis International University",
+   "dates": "August 2020 — May 2023",
+   "grade": "First Class with Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "June 2023 — Present",
+   "title": "Risk Analyst",
+   "company": "Standard Chartered",
+   "location": "Bhubaneswar",
+   "bullets": [
+    "Built three-statement financial models and DCF valuations for 18 deals worth a combined %68 lakh",
+    "Prepared pitch books and information memoranda for 18 sell-side mandates",
+    "Identified cost savings of INR 43.3 crore through vendor spend analysis and contract renegotiation"
+   ]
+  }
+ ],
+ "skills": [
+  "IFRS 9",
+  "Credit Analysis",
+  "Equity Research",
+  "Excel (Advanced)",
+  "Python",
+  "FactSet",
+  "Oracle Hyperion",
+  "Capital IQ",
+  "Stakeholder Management",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Portfolio Optimisation Tool",
+   "description": "Mean-variance optimiser in Python with backtesting on 4 years of index data."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Financial Modeling & Valuation Analyst (FMVA)",
+   "issuer": "Corporate Finance Institute",
+   "year": "2026"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM",
+   "year": "2025"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute",
+   "year": "2023"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Top Performer, Wealth Management Region",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Assamese",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+  "resume_id": "R0021",
+  "name": "Dhruv Pereira",
+  "headline": "Housekeeping Supervisor",
+  "contact": {
+    "location": "Nashik, Maharashtra",
+    "phone_e164": "+919759169917",
+    "city": "Nashik",
+    "country": "India",
+    "email": "dhruvpereira71@gmail.com",
+    "phone": "97591 69917"
+  },
+  "links": [
+    {
+      "url": "www.linkedin.com/in/dhruv-pereira-68",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Hospitality and Hotel Administration",
+      "institution": "Welcomgroup Graduate School of Hotel Administration",
+      "location": "Manipal",
+      "dates": "September 2020 – June 2024",
+      "start": "2020-09",
+      "end": "2024-06",
+      "level": "bachelor"
+    },
+    {
+      "degree": "Class XII (State Board)",
+      "institution": "Delhi Public School, Panaji",
+      "dates": "2020",
+      "grade": "94.5%",
+      "start": null,
+      "end": "2020-05",
+      "level": "school"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Housekeeping Supervisor",
+      "company": "ITC Hotels",
+      "location": "Surat",
+      "dates": "August 2024 – Present",
+      "bullets": [
+        "Trained 13 associates on brand standards, achieving 40% in mystery audits",
+        "Managed front office operations for a 250-room five-star property with 56% average occupancy",
+        "Drove upselling programmes that generated INR 42.9 crore in incremental room revenue",
+        "Led a 5-member kitchen brigade serving 150 covers per day",
+        "Handled VIP arrivals and guest escalations with a guest satisfaction score of 9.22/10"
+      ],
+      "start": "2024-08",
+      "end": "present"
+    }
+  ],
+  "skills": [
+    "Upselling",
+    "Front Office Operations",
+    "Housekeeping Management",
+    "Cost Control",
+    "HACCP",
+    "SynXis",
+    "Fidelio",
+    "Delphi.fdc",
+    "Opera PMS"
+  ],
+  "projects": [
+    {
+      "name": "Pre-opening of a Resort",
+      "description": "Part of the pre-opening team setting up SOPs, hiring and systems for a 60-key resort."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Marathi",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Konkani",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "_meta": {
+    "layout": "single_column",
+    "template": "s3_banded",
+    "n_pages": 1,
+    "industry": "hospitality",
+    "level": "junior",
+    "years_experience": 2,
+    "origin_country": "India",
+    "work_country": "India",
+    "date_format": "MMMM YYYY"
+  }
+}

@@ -1,0 +1,47 @@
+Contact Details Jordan Brooks
+\ (305) 253-8562 Final-year B.S. Student
+™ jbrooks@hotmail.com
+9 Miami, FL Notable Projects
+Licenses & Certifications Campus Placement Portal July 2023
+Web portal used by 180 students to apply for drives, track status and
+Oracle Certified Professional: Java SE
+download offer letters.
+17 Developer
+Stack: Google Cloud Platform, Jenkins, React
+Oracle, March 2025
+AWS Certified Solutions Architect - Expense Splitter App
+Associate Mobile app for splitting group expenses with OCR receipt scanning and
+Amazon Web Services, July 2025 UPI/PayPal settlement links.
+Stack: JavaScript, Java, Go, React
+Education & Qualifications
+Food Delivery Clone
+B.S., Information Technology Full-stack food ordering app with live order tracking, payments and an admin
+Purdue University
+dashboard.
+Expected May 2027 | Cum Laude
+Distributed Key-Value Store
+Language Proficiency
+Raft-based replicated key-value store with leader election, log compaction and
+English Mother tongue a gRPC client.
+Korean Full Professional Proficiency Stack: Java, Terraform, JavaScript, FastAPI
+Technical Skills Internship Experience
+- Java Google San Francisco, CA
+- Go Software Engineering Intern September 2025 - February 2026
+JavaScript - Cut cloud infrastructure costs by $18.1M annually by right-sizing instances
+GraphQL and adopting spot capacity
+FastAPI
+- Assisted with day-to-day software engineering operations and maintained
+React
+accurate records
+Google Cloud Platform
+Terraform
+Microsoft Azure
+Docker
+Jenkins
+Public Speaking
+Cross-functional Collaboration
+Stakeholder Management
+Profiles
+LinkedIn: linkedin.com/in/jordan-
+brooks-ab1691
+GitHub: github.com/jordanbroo

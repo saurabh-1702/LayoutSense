@@ -1,0 +1,95 @@
+{
+ "resume_id": "R0022",
+ "name": "Sultan Al Mazrouei",
+ "contact": {
+  "email": "6303Arab",
+  "phone": "sultanaimazrousi@gmail.com 055 linkedin.com/in/sultan-aimazrouel4",
+  "location": "Abu Dhabi, United Emirates"
+ },
+ "links": [
+  {
+   "url": "686"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Data Science",
+   "institution": "Zayed University",
+   "dates": "Aug 2017 Aug 2020",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2025 ~ Present Productionised",
+   "title": "Lead Data Analyst ADNOC",
+   "bullets": [
+    "ML models with Docker and MLflow, cutting model deployment time from weeks to § days",
+    "Authored SQL data quality checks across 50 tables, reducing reporting incidents by 23%",
+    "Reduced Spark job runtime by 60% through partitioning and broadcast join optimisation",
+    "Partnered with senior leadership to define the annual roadmap and a budget of AED 20.3M"
+   ],
+   "location": "Abu Dhabi"
+  },
+  {
+   "dates": "Oct 2020 - 2025 Intelligence",
+   "title": "Sep Analyst",
+   "location": "Abu Dhabi",
+   "bullets": [
+    "Designed and maintained & Airflow pipelines ingesting 428K+ records daily into Snowflake",
+    "Partnered with finance to build an anomaly detection system that flagged AED 383M in billing errors",
+    "Ran 10 A/B experiments on pricing and onboarding flows, lifting conversion by 20%",
+    "Built a customer segmentation framework using clustering on 6.8M profiles to drive targeted campaigns"
+   ]
+  }
+ ],
+ "skills": [
+  "R",
+  "Python",
+  "SQL",
+  "NLP",
+  "PyTorch",
+  "Computer Vision",
+  "scikit-learn",
+  "Hugging Face Transformers",
+  "Problem Solving",
+  "Public Speaking",
+  "Team Leadership"
+ ],
+ "projects": [
+  {
+   "name": "Credit Risk Scoring Model",
+   "description": "Gradient-boosted model on 1.8M loan applications with SHAP explanations and faimess checks.",
+   "tech": "Python, R, SQL. Py Torch"
+  },
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Google",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Fluent"
+  }
+ ]
+}

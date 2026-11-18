@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0094",
+ "name": "GEMAYEL Byblos",
+ "contact": {
+  "email": "maya.gemayel@hotmail.com",
+  "phone": "+961-76776139",
+  "location": "MAYA GEMAYEL Byblos, Lebanon"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mayagemayel-93"
+  },
+  {
+   "url": "orcid.org/0000-0003-5962-1141"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Biotechnology",
+   "institution": "Senior QC Analyst Lebanese American University",
+   "dates": "2024 - Present"
+  },
+  {
+   "degree": "MS, GMP",
+   "institution": "GC-MS",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior QC Analyst Lebanese American University",
+   "company": "Bachelor of Science in Biotechnology",
+   "dates": "2024 - Present",
+   "bullets": []
+  },
+  {
+   "title": "Senior QC Analyst Lebanese American University",
+   "company": "Roche",
+   "dates": "2016 - 2020",
+   "bullets": [
+    "Supported 12 successful USFDA and MHRA inspections"
+   ]
+  }
+ ],
+ "skills": [
+  "with no critical observations",
+  "Technical: Method Validation",
+  "GC-MS",
+  "GMP",
+  "Argus Safety",
+  "SAP QM",
+  "Veeva Vault",
+  "TrackWise",
+  "LIMS",
+  "Critical",
+  "Attention to Detail",
+  "Time Management",
+  "prescribing doctors",
+  "USFDA and EMA",
+  "Pharmacist",
+  "using superdisintegrants.",
+  "AstraZeneca",
+  "Beirut",
+  "Pharmacovigilance Signal Detection 2019",
+  "by 23%",
+  "marketed molecules.",
+  "guidelines",
+  "SoCRA",
+  "ICH-GCP Certification",
+  "cut manufacturing cost by 22%",
+  "TransCelerate",
+  "Registered Pharmacist",
+  "Pharmacy Council of India",
+  "Regulatory Affairs Certification (RAC)",
+  "RAPS"
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Armenian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.064
+}

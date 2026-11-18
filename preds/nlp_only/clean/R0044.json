@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0044",
+ "name": "Hanna Bekele",
+ "contact": {
+  "email": "hanna.bekele@gmail.com",
+  "phone": "+251 947495534",
+  "location": "Hawassa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hannabekele"
+  },
+  {
+   "url": "github.com/hannabekel"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BEng (Hons) Information",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "skills": [
+  "U HP",
+  "QO",
+  "Rust",
+  "ion . Om",
+  "fo -s Ian",
+  "Zep asx",
+  "m o o ‘oe",
+  ".NET Core",
+  "Elasticsearch",
+  "Redis",
+  "DynamoDB",
+  "MySQL"
+ ],
+ "_runtime_s": 0.024
+}

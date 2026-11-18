@@ -1,0 +1,118 @@
+{
+ "resume_id": "R0028",
+ "name": "Williams George",
+ "headline": "Machine Learning Engineer",
+ "contact": {
+  "email": "george.williams03@outlook.com",
+  "phone": "07269 040818",
+  "location": "United Bristol, Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/georgewilliams5"
+  },
+  {
+   "url": "www.georgewilliams.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA Economics",
+   "institution": "Central Saint Martins, University of the Arts London",
+   "grade": "Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Machine Learning Engineer",
+   "company": "Deliveroo",
+   "location": "Remote — United Kingdom",
+   "bullets": [
+    "Fine-tuned transformer models for ticket classification, automating 13% of manual triage",
+    "Designed and maintained 6 Airflow pipelines ingesting 247K+ records daily into Snowflake",
+    "Built a churn prediction model in R (AUC 0.150) that helped retention teams save £13.9M in annual revenue",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 29 days"
+   ],
+   "dates": "Jun 2022 — Sep 2025"
+  },
+  {
+   "title": "Associate Data Scientist",
+   "company": "Barclays",
+   "location": "Bristol",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 5.7M profiles to drive targeted campaigns",
+    "Authored SQL data quality checks across 180 tables, reducing reporting incidents by 39%",
+    "Partnered with finance to build an anomaly detection system that flagged £56M in billing errors",
+    "Developed a demand forecasting model that reduced inventory holding costs by 32%",
+    "Reduced Spark job runtime by 33% through partitioning and broadcast join optimisation"
+   ],
+   "dates": "Jul 2021 — May 2022"
+  },
+  {
+   "title": "Data Analyst",
+   "company": "GSK",
+   "location": "London",
+   "bullets": [
+    "Ran 19 A/B experiments on pricing and onboarding flows, lifting conversion by 9%",
+    "Created executive dashboards in SAS tracking 18 KPIs, adopted by 75+ business users",
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 886K employee queries per month",
+    "Defined the company-wide metric layer in dbt, eliminating 5 conflicting KPI definitions"
+   ]
+  }
+ ],
+ "skills": [
+  "SAS",
+  "R",
+  "Python",
+  "NLP",
+  "Hugging Face Transformers",
+  "PyTorch",
+  "TensorFlow"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "dates": "Apr 2023",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+   "tech": "R, Hugging Face Transformers"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "End-to-end Power BI dashboard on 761K transactions with drill- downs by region and category.",
+   "tech": "TensorFlow, PyTorch, Python"
+  },
+  {
+   "name": "Air Quality Forecasting",
+   "dates": "Jul 2021",
+   "description": "LSTM model forecasting PM2.5 levels across 9 monitoring stations with a Streamlit dashboard.",
+   "tech": "R, PyTorch, Hugging Face Transformers"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al",
+   "year": "2020"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2020"
+  },
+  {
+   "name": "AWS Certified Machine Learning — Specialty",
+   "issuer": "Amazon Web Services",
+   "year": "Aug 2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "German",
+   "proficiency": "Fluent"
+  }
+ ]
+}

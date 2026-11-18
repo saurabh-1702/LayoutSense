@@ -1,0 +1,106 @@
+{
+ "resume_id": "R0167",
+ "name": "Islam Abdelrahman",
+ "headline": "Assistant Director of Nursing",
+ "contact": {
+  "email": "islam.abdelrahman@gmail.com",
+  "phone": "0106 062 7153",
+  "location": "Alexandria, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/islamabdelrahman-22"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Doctor of Nursing Practice (DNP)",
+   "institution": "Ain Shams University"
+  },
+  {
+   "degree": "Bachelor of Science in Nursing (BSN)",
+   "institution": "Cairo University",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "experience": [
+  {
+   "company": "As-Salam International Hospital",
+   "title": "Assistant Director of Nursing",
+   "dates": "04/2021 – Present",
+   "location": "Alexandria",
+   "bullets": [
+    "Grew the team by 14% in two years while keeping attrition below 19%",
+    "Maintained 100% compliance in JCI/NABH accreditation audits for the unit",
+    "Led a team of 6 across 5 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Partnered with senior leadership to define the annual roadmap and a budget of EGP 82M",
+    "Mentored 8 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "company": "As-Salam International Hospital",
+   "title": "Nurse Manager",
+   "dates": "01/2019 – 03/2021",
+   "location": "Alexandria",
+   "bullets": [
+    "Implemented a fall-prevention bundle that reduced patient falls by 51%",
+    "Trained 10 newly joined nurses on medication safety and documentation in JCI Standards",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "company": "Dar Al Fouad Hospital",
+   "title": "Ward Sister",
+   "dates": "07/2017 – 12/2018",
+   "location": "Alexandria",
+   "bullets": [
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 18%",
+    "Participated in 6 code blue responses as a certified ACLS provider",
+    "Introduced weekly operating reviews that cut decision turnaround from 25 days to 1 day"
+   ]
+  },
+  {
+   "company": "As-Salam International Hospital",
+   "title": "Charge Nurse",
+   "dates": "05/2012 – 06/2017",
+   "location": "Alexandria",
+   "bullets": [
+    "Oversaw duty rosters for 7 nurses and managed ward inventory and consumables",
+    "Managed ventilated patients in a 16-bed ICU, titrating vasoactive infusions per protocol",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds"
+   ]
+  },
+  {
+   "company": "Dar Al Fouad Hospital",
+   "title": "Clinical Nurse",
+   "dates": "08/2009 – 04/2012",
+   "location": "Alexandria",
+   "bullets": [
+    "Reduced hospital-acquired infection rates by 59% by leading hand-hygiene audits",
+    "Provided direct care to 21 patients per shift in a 23-bed medical-surgical ward",
+    "Triaged 50+ patients monthly in the emergency department using the Manchester Triage System"
+   ]
+  }
+ ],
+ "skills": [
+  "Wound Care",
+  "BLS",
+  "Patient Assessment",
+  "Critical Care",
+  "NABH Standards",
+  "Electronic Medical Records"
+ ],
+ "awards": [
+  {
+   "name": "Values in Action Award",
+   "issuer": "As-Salam International Hospital",
+   "year": "(2014)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0113",
+ "name": "YAMADA Yuna",
+ "headline": "Aspiring Mechanical Engineer",
+ "contact": {
+  "email": "yunayamada@gmail.com",
+  "phone": "+81 90-7437-2265",
+  "location": "Yokohama, Japan"
+ },
+ "links": [
+  {
+   "url": "wwwiinkedin.com/in/yuna-yamada-71"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Automobile Engineering",
+   "dates": "Sep 2023 — Present",
+   "institution": "Tokyo Institute of Technology",
+   "grade": "GPA 3.70/4.00"
+  }
+ ],
+ "skills": [
+  "Sheet Metal Design",
+  "PFMEA",
+  "Kaizen",
+  "Teamcenter",
+  "SolidWorks",
+  "ANSYS",
+  "Time Management",
+  "Conflict Resolution",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Design of a Robotic Gripper",
+   "dates": "Apr 2023",
+   "description": "3D-printed adaptive gripper with force feedback controlled via Arduino.",
+   "tech": "ANSYS, SolidWorks, Teamcenter"
+  },
+  {
+   "name": "Formula Student Race Car",
+   "description": "Designed the suspension uprights and ran FEA; team placed in the top 14 nationally."
+  },
+  {
+   "name": "Solar-Powered Refrigeration Unit",
+   "dates": "Nov 2026",
+   "description": "Prototype vapour-absorption cooler for rural clinics with 28% energy savings."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified SolidWorks Professional (CSWP)",
+   "issuer": "Dassault Systemes",
+   "year": "(Dec 2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Tokyo Institute of Technology",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Basic)"
+  }
+ ]
+}

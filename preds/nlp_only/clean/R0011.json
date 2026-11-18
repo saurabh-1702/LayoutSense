@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0011",
+ "name": "Ting Wang",
+ "contact": {
+  "email": "tingwang@outlook.com",
+  "phone": "196 8322 7929",
+  "location": "Hangzhou, China"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ting-wang"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering in Tongji University",
+   "institution": "Qualification Institution Year GPA / Honours",
+   "dates": "2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Operations Manager",
+   "company": "Shell",
+   "dates": "May '21 Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Transportation Management Network Design",
+  "Warehouse Management Last-mile Delivery",
+  "Ariba",
+  "Oracle SCM",
+  "Coupa",
+  "Tableau",
+  "Presentation Skills",
+  "Adaptability"
+ ],
+ "certifications": [
+  {
+   "name": "APICS Certified Supply Chain Professional",
+   "issuer": "CSCP) ASCM"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP) PMI"
+  },
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply CIPS",
+   "issuer": null
+  },
+  {
+   "name": "SAP Certified Application Associate",
+   "issuer": "Sourcing SAP"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.026
+}

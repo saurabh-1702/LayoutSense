@@ -1,0 +1,67 @@
+{
+ "resume_id": "R0071",
+ "name": "Iris Vos",
+ "contact": {
+  "location": "The Hague, Netherlands"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/iris-vos"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.A. Mass Communication Vrije Universiteit Amsterdam",
+   "institution": "M.A. Mass",
+   "dates": "2019"
+  },
+  {
+   "degree": "Bachelor of Arts in Journalism",
+   "institution": "Bachelor of Arts",
+   "dates": "2017"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Reporter",
+   "company": "Ogilvy",
+   "dates": "Apr '22 Present",
+   "bullets": [
+    "Produced a 5-episode podcast series that reached 202K+ downloads",
+    "Increased monthly page views by 39% through SEO-led headlines and topic clusters",
+    "Edited 22 long-form features per month for print and digital editions",
+    "Grew the newsletter audience to 840K subscribers with a 49% open rate"
+   ]
+  },
+  {
+   "title": "a Elsevier Sub-Editor",
+   "company": null,
+   "dates": "Oct '19 Mar '22",
+   "bullets": [
+    "Produced and edited short-form video in Google Trends with 461K+ cumulative views",
+    "Broke 12 exclusive stories that were followed up by national outlets",
+    "Led a data journalism project using Final Cut Pro that was shortlisted for a national award",
+    "Managed a team of 14 reporters and stringers across 15 districts",
+    "Reported and wrote 250+ stories on politics, business and civic issues"
+   ]
+  }
+ ],
+ "skills": [
+  "EC"
+ ],
+ "certifications": [
+  {
+   "name": "S.No.",
+   "issuer": "Certification [Issuing Organisation Organisation ="
+  },
+  {
+   "name": "Data Journalism Certificate Knight Center for Journalism",
+   "issuer": null
+  },
+  {
+   "name": "Ee Reuters Digital Journalism Course Thomson Reuters Foundation",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.062
+}

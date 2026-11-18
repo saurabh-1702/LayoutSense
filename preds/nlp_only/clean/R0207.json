@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0207",
+ "name": "RIYA PATNAIK",
+ "contact": {
+  "email": "riya.patnaik@hotmail.com",
+  "phone": "+91-9457249196",
+  "location": "Jamshedpur, Jharkhand"
+ },
+ "education": [
+  {
+   "degree": "BBA LLB (Hons.) Indian Institute of Technology Kharagpur",
+   "institution": "BBA LLB",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Practice Areas Arbitration",
+  "Data Privacy (GDPR)",
+  "Mergers & Acquisitions",
+  "Legal",
+  "Research",
+  "Intellectual Property",
+  "LexisNexis",
+  "SCC Online",
+  "Manupatra",
+  "iManage",
+  "Kira Systems",
+  "[Soft Skills Negotiation",
+  "Cross-functional Collaboration"
+ ],
+ "certifications": [
+  {
+   "name": "Admitted Solicitor Solicitors Regulation Authority",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.022
+}

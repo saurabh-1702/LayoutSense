@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0060",
+ "name": "Ledger Accountant",
+ "contact": {
+  "email": "agustina.rossi04@gmail.com",
+  "phone": "434776216170",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/agustina-rossi-eac780"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "University",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) General Ledger Accountant Spanish ehabe",
+   "company": "HSBC",
+   "dates": "March 2023 - Now",
+   "bullets": [
+    "Reduced days sales outstanding by 25 days English"
+   ]
+  },
+  {
+   "title": null,
+   "company": "working days",
+   "dates": "August 2017 - August 2019",
+   "bullets": []
+  },
+  {
+   "title": "© Audit Associate",
+   "company": "aligned depreciation with tax schedules Universidad de San Andrés",
+   "dates": "July 2013 - June 2017",
+   "bullets": [
+    "Filed GST and corporate tax returns with zero Certificates"
+   ]
+  }
+ ],
+ "skills": [
+  "Ind AS Direct Taxation",
+  "UY 59% © 93%",
+  "Statutory Audit SAP FICO",
+  "CaseWare Tally ERP 9",
+  "Microsoft Xero",
+  "Dynamics 365"
+ ],
+ "_runtime_s": 0.086
+}

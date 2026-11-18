@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0081",
+ "name": "Finn Brown",
+ "contact": {
+  "email": "finnb888@gmail.com",
+  "phone": "+64 270845388",
+  "location": "Dunedin, New Zealand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/finnbrown"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "AUT University Auckland",
+   "dates": "Sep 2022 — Mar 2023"
+  },
+  {
+   "degree": "BSc Commerce",
+   "institution": "AUT University Auckland",
+   "dates": "Jul 2019 — Jun 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Payroll Executive",
+   "company": "Amazon",
+   "dates": "Jun 2023 — Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Compensation & Benefits",
+  "Employer Branding",
+  "Performance Management",
+  "Excel",
+  "LinkedIn Recruiter",
+  "Workday",
+  "Oracle HCM",
+  "SAP SuccessFactors",
+  "Negotiation",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "SHRM Certified Professional",
+   "issuer": "SHRM-CP)"
+  },
+  {
+   "name": "People Analytics Certificate",
+   "issuer": "Wharton Online"
+  },
+  {
+   "name": "Professional in Human Resources",
+   "issuer": "PHR)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Maori",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.033
+}

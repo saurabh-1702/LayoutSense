@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0268",
+ "contact": {
+  "email": "debanjan.majumdar@gmail.co",
+  "phone": "+91 8917412521"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/debanj"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. in Chemistry",
+   "institution": "Indian Institute of Science",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "QC Analyst",
+   "company": "O",
+   "dates": "December 2025 - Present",
+   "bullets": [
+    "Monitored 6 clinical trial sites across Phase II and III oncology studies",
+    "Processed 27,000 adverse event reports in Argus Safety within"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Veeva Vault"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Odia 2 Regulatory Affairs Certification",
+   "issuer": "RAC)"
+  },
+  {
+   "name": "Fluent RAPS",
+   "issuer": ""
+  },
+  {
+   "name": "Intermediate a) Honours & Awards",
+   "issuer": null
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Indian Institute of Science"
+  }
+ ],
+ "_runtime_s": 0.089
+}

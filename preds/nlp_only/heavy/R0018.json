@@ -1,0 +1,22 @@
+{
+ "resume_id": "R0018",
+ "name": "Ruby Singh",
+ "contact": {
+  "email": "ruby.singh@gmail.com",
+  "phone": "0449 536 351",
+  "location": "Melbourne, VIC"
+ },
+ "education": [
+  {
+   "degree": "BA (Hons) Logistics and Supply",
+   "institution": "* Managed import logistics and customs clearance for 250+ RMIT University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "LANGUAGE PROFICIENCY"
+  }
+ ],
+ "_runtime_s": 0.021
+}

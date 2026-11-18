@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0058",
+ "name": "Juliana Costa A Recife. PE",
+ "contact": {
+  "phone": "(81)95419-8997"
+ },
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Goursera",
+   "issuer": "Gecember"
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Areazon Web Services",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "italian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.027
+}

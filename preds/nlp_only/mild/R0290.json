@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0290",
+ "name": "RUBEN VAN DIJK",
+ "contact": {
+  "email": "ruben_vandijk@ziggo.nl",
+  "phone": "94589269",
+  "location": "Rotterdam"
+ },
+ "links": [
+  {
+   "url": "github.com/rubenvandijk"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering",
+   "institution": "Bachelor of Engineering",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Dutch",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.057
+}

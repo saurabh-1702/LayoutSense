@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0198",
+ "name": "PHAN QUOC THANG",
+ "contact": {
+  "email": "thangp321@gmail.com",
+  "phone": "+81 90-1102-1765",
+  "location": "Kyoto, Japen"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Electrical and Electronics",
+   "institution": "RMIT University Vietnam",
+   "dates": "jon 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "intern “",
+   "dates": "Jan 2026 — Mar 2026",
+   "bullets": [
+    "a aes ST ataaet eters eeniry et ieee wonky",
+    "Collected and cleaned dat from 8 sources a suppor a elecicl&"
+   ]
+  }
+ ],
+ "skills": [
+  "Embedded C",
+  "PCB Design",
+  "Battery Management Systems",
+  "FPGA",
+  "MATLAB/Simulink",
+  "Cadence Virtuoso",
+  "Altium Designer",
+  "DIgSILENT Powerfactory"
+ ],
+ "projects": [
+  {
+   "name": "Smart Energy Meter with loT",
+   "description": "meter streaming consumption data to a cloud dashboard. SP32-based"
+  },
+  {
+   "name": "Grid-tied Inverter Design",
+   "dates": "jul 2025",
+   "description": "Simulated and built a 1 KW single-phase inverter with MPPT contro! in"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Vietnamese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "c2"
+  },
+  {
+   "language": "Korean",
+   "proficiency": "B2"
+  }
+ ]
+}

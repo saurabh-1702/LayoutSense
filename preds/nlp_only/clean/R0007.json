@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0007",
+ "name": "AHMED MOSTAFA MAHMOUD",
+ "contact": {
+  "email": "ahmedmahmoud@gmail.com",
+  "phone": "+20 1190902746",
+  "location": "Giza, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ahmed-mahmoud2"
+  },
+  {
+   "url": "github.com/amahmoud"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BS, Information Technology",
+   "institution": "Nile University, Giza",
+   "dates": "Aug 2011—Aug 2015"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Staff Software Engineer",
+   "company": "Visa",
+   "dates": "Nov 2025—Present",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and",
+    "Developed internal tooling in Linux that saved the support team 29 hours per week",
+    "Built a real-time notification service using Linux and Apache Kafka that processes",
+    "Owned the payments integration with 12 third-party gateways, reducing failed",
+    "Designed and built 21 RESTful microservices in Linux and Redis, serving 6.0M",
+    "Grew the team by 18% in two years while keeping attrition below 20%"
+   ]
+  },
+  {
+   "title": "Senior Mobile Engineer",
+   "company": "Visa",
+   "dates": "Mar 2023-Oct 2025",
+   "bullets": [
+    "Cut cloud infrastructure costs by EGP 97M annually by right-sizing instances and",
+    "Collaborated with product and design to ship 13 major releases on schedule across",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting",
+    "Resolved 75+ production issues as part of the on-call rotation, reducing mean time",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Software Developer",
+   "company": "Instabug",
+   "dates": "Oct 2015—Feb 2023",
+   "bullets": [
+    "Reduced p95 API latency by 56% by introducing Redis caching and optimising slow",
+    "Wrote technical design documents and led code reviews for a team of 12 engineers",
+    "Introduced feature flags and canary releases, lowering production incidents by 32%",
+    "Implemented a ClI/CD pipeline with GitHub Actions and automated tests, raising"
+   ]
+  }
+ ],
+ "skills": [
+  "Databases Redis",
+  "DynamoDB",
+  "MongoDB",
+  "Cassandra",
+  "PostgreSQL",
+  "Frameworks Flutter",
+  "Next.js",
+  "React",
+  ".NET Core",
+  "Cloud & DevOps Microsoft Azure",
+  "Kubernetes",
+  "Linux",
+  "Terraform",
+  "Google Cloud Platform"
+ ],
+ "projects": [
+  {
+   "name": "Expense Splitter App"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C1"
+  },
+  {
+   "language": "German",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.054
+}

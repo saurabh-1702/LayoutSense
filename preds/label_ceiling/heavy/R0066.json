@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0066",
+ "name": "SHREYA GUPTA",
+ "education": [
+  {
+   "degree": "Master of Arts in English",
+   "institution": "Women",
+   "dates": "August 2019 -~ June 2021"
+  },
+  {
+   "institution": "Indian Institute of Technology Bombay",
+   "dates": "September 2016 — May",
+   "grade": "71.0%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "IB Physics Teacher",
+   "company": "The Shri Ram School",
+   "location": "Gurugram",
+   "dates": "November 2024 — Present",
+   "bullets": [
+    "Mentored 9 new teachers as part of the induction programme",
+    "Coordinated the school's Microsoft Teams rollout, training 17 ."
+   ]
+  },
+  {
+   "dates": "October 2022 — October 2024",
+   "bullets": [
+    "Led parent-teacher conferences and individualised learning",
+    "Raised average class performance by 23% through targeted",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 15 grade levels",
+    "students scoring above 90 in board exams"
+   ],
+   "title": "Mathematics Teacher",
+   "company": "Ryan International School",
+   "location": "Lucknow"
+  }
+ ],
+ "skills": [
+  "Curis",
+  "Curriculum Design",
+  "Student Counselling",
+  "Blended Learning",
+  "Microsoft Teams",
+  "Smart Board",
+  "Canvas LMS",
+  "Seesaw",
+  "Attention to Detail",
+  "Stakeholder Management",
+  "Critical Thinking",
+  "Tearn Leadership"
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "mdveriond"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Beginner"
+  }
+ ]
+}

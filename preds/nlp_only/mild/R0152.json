@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0152",
+ "contact": {
+  "email": "peng.guo02@163.com",
+  "phone": "+86-156-2003-1552",
+  "location": "Suzhou, China"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Electrical Engineering",
+   "institution": "Tongji University",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "management system on 250",
+  "EV packs Embedded C",
+  "substations using Cadence Virtuoso",
+  "Oct 2024—May Field Engineer",
+  "2025 ABB",
+  "Beijing",
+  "factor correction and harmonic filtering",
+  "inverters",
+  "transformers and SCADA integration",
+  "10 industrial clients",
+  "Verified RTL designs on FPGA",
+  "achieving timing",
+  "closure at 50 MHz",
+  "industrial IoT gateway"
+ ],
+ "_runtime_s": 0.012
+}

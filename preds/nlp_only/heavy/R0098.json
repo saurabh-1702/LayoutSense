@@ -1,0 +1,21 @@
+{
+ "resume_id": "R0098",
+ "links": [
+  {
+   "url": "github.com/kgustaf"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Software Engineering",
+   "institution": "Chalmers University of",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Computer Science",
+   "institution": "KTH Royal Institute of Tech",
+   "dates": null
+  }
+ ],
+ "_runtime_s": 0.085
+}

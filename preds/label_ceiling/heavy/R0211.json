@@ -1,0 +1,31 @@
+{
+ "resume_id": "R0211",
+ "education": [
+  {
+   "dates": "9010-2074",
+   "institution": "BS. Universidad Austral",
+   "degree": "in Nursing",
+   "location": "Pilar, Argentina"
+  }
+ ],
+ "projects": [
+  {
+   "name": "ae Community Health Camp Ss",
+   "description": "residents for hypertension and 16 rural health camps screening 300 Organised diabetes.",
+   "dates": "Apr 2024"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "(ACLS), Cardiovascular Life Support Advanced",
+   "issuer": "American Heart Association",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2017",
+   "name": "Best Nurse of the Year"
+  }
+ ]
+}

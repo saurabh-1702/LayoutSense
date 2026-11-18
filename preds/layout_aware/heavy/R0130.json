@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0130",
+ "name": "ee",
+ "headline": "Regional Business Head",
+ "contact": {
+  "phone": "+234 8086332049"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/segunafolabi-31"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Lagos Business School",
+   "dates": "40/2013 - 09/2014",
+   "grade": "Distinction"
+  },
+  {
+   "degree": "MEng Mechanical Engineering",
+   "dates": "07/2007 - 04/2011",
+   "grade": "Upper Second-Class (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "10/2018 - 08/2023",
+   "company": "Procter & Gamble",
+   "bullets": [
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the annual roadmap and a budget of NGN 179M phased rollout.",
+    "Led a team of 14 across 5 workstreams, owning hiring, performance reviews and quarterly",
+    "Onboarded and trained 5 new sales representatives on product and CRM workflows",
+    "introduced weekly operating reviews that cut decision turnaround from 27 days to 1 day",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "dates": "04/2018 - 09/2018",
+   "title": "Regional Sales Manager",
+   "company": "Google",
+   "bullets": [
+    "Expanded distribution to 300 new retail outlets across 8 districts",
+    "Negotiated multi-year contracts worth NGN 22.5M with procurement and legal stakeholders",
+    "Grew the team by 40% in two years while keeping attrition below 15%"
+   ],
+   "location": "‘Hausa"
+  },
+  {
+   "location": "Yoruba",
+   "dates": "11/2014 - 03/2018",
+   "title": "Development Manager"
+  }
+ ],
+ "skills": [
+  "Salesforce CRM",
+  "Outreach",
+  "Gong",
+  "Zoho",
+  "CRM"
+ ],
+ "_runtime_s": 0.28
+}

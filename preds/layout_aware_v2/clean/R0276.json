@@ -1,0 +1,118 @@
+{
+ "resume_id": "R0276",
+ "name": "Sachini Fernando",
+ "headline": "Inside Sales Representative",
+ "contact": {
+  "email": "sachini.fernando@gmail.com",
+  "phone": "+94 76 783 9314",
+  "location": "Negombo, Sri Lanka"
+ },
+ "links": [
+  {
+   "url": "inkedin.com/in/sachini-fernando"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc Commerce",
+   "institution": "Sri Lanka Institute of Information Technology",
+   "dates": "2024"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2025 – Current",
+   "title": "Inside Sales Representative",
+   "company": "Oracle",
+   "location": "Kandy",
+   "bullets": [
+    "Expanded distribution to 250 new retail outlets across",
+    "14 districts",
+    "Onboarded and trained 10 new sales representatives",
+    "on product and CRM workflows"
+   ]
+  },
+  {
+   "dates": "2024-2025",
+   "title": "Territory Sales Officer",
+   "company": "Dialog Axiata",
+   "location": "Negombo",
+   "bullets": [
+    "Shortened the average sales cycle by 16 days by introducing a structured discovery framework",
+    "Managed 13 key accounts generating LKR 17.5M in annual revenue with 25% net revenue retention Maintained 51% forecast accuracy in weekly pipeline"
+   ]
+  }
+ ],
+ "skills": [
+  "Lead Generation",
+  "MEDDIC",
+  "95%",
+  "Channel Sales",
+  "Sales Forecasting",
+  "73%",
+  "Key Account",
+  "Excel Management",
+  "60%",
+  "58%",
+  "Apollo.io",
+  "Gong",
+  "74%",
+  "36%",
+  "Outreach",
+  "LinkedIn Sales Navigator",
+  "61%",
+  "41%) Negotiation",
+  "Critical Thinking",
+  "39%",
+  "91%",
+  "Conflict Resolution",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities",
+   "dates": "2026",
+   "description": "Mapped 23 cities for distribution potential and recommended a phased rollout."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": "Sandler Training",
+   "year": "2024"
+  },
+  {
+   "name": "HubSpot Sales Software Certification",
+   "issuer": "HubSpot Academy",
+   "year": "2024"
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salesforce",
+   "year": "2026"
+  },
+  {
+   "name": "Certified Professional Sales Person (CPSP)",
+   "issuer": "NASP",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Sinhala",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Tamil",
+   "proficiency": "Conversational"
+  }
+ ]
+}

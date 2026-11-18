@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0023",
+ "name": "David Gonzalez Lopez Logisties",
+ "headline": "Aspiring Coordinator",
+ "contact": {
+  "email": "gonzalez.david@‘emailcomlinkedin",
+  "phone": "621 434 362",
+  "location": "Valencia, Spain"
+ },
+ "links": [
+  {
+   "url": ".com/in/davidgonzalez-bodge3."
+  }
+ ],
+ "education": [
+  {
+   "degree": "/MBA",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": "2027 (Expected)"
+  },
+  {
+   "degree": "“Bachelor of Business",
+   "institution": "University",
+   "dates": "eee.",
+   "grade": "Nota media: 8.8"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Mercadona",
+   "title": "Supply Chain intern",
+   "dates": "Feb 2026 – May 2026",
+   "location": "Valencia",
+   "bullets": [
+    "Responsibilities tracker in APO that streamlined weekly reporting for a team of 8",
+    "Assisted with day-to-day supply chain & operations operations and maintained accurate records inate seis etacitemedinaementemio intl deeectte-‘teiaiprtsn es aitmens edit"
+   ]
+  },
+  {
+   "title": "ii tua oa ois",
+   "dates": "sveniinctstlditiathsnenieiamsciintadiaininl – Ovt 2024 Mar 2025",
+   "bullets": [
+    "dae iia Dil tec apiResponse tht rend ws reporting for team of"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Routing Model Vehicle Som NO",
+   "description": "Python OR-Tools model for routing 15 delivery vans with time windows. St"
+  },
+  {
+   "name": "ERE ENN EN AO AN EL AIRE Warehouse Layout isp SAL fis op ecg sll",
+   "description": "ae i i rr em Aa 0 aC aE rs ae pa st ae Mexrutuaeiananere <"
+  }
+ ]
+}

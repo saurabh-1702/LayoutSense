@@ -1,0 +1,89 @@
+{
+ "resume_id": "R0072",
+ "name": "KHUSHI PATIL",
+ "headline": "Graduate Civil Engineer",
+ "contact": {
+  "email": "khuship989@outlook.com",
+  "phone": "+91-98811-04940",
+  "location": "Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/khushipatil"
+  }
+ ],
+ "education": [
+  {
+   "grade": "ee08e080@",
+   "degree": "B.E. in Civil Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": "05/2021"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "05/2023 - Current",
+   "title": "Graduate Civil Engineer",
+   "company": "Larsen & Toubro",
+   "location": "Surat",
+   "bullets": [
+    "Designed RCC and steel structures in Civil 3D for 13 commercial projects",
+    "Introduced BIM clash detection that cut rework costs by 36%",
+    "Supervised construction of a 8-storey residential tower with a contract value of 736.7 Cr",
+    "Managed client billing and variations, improving cash collection by 35%",
+    "Conducted soil investigation reviews and foundation design for 16 bridges"
+   ]
+  },
+  {
+   "dates": "04/2022 - 04/2023",
+   "title": "Graduate Civil Engineer",
+   "company": "Godrej Properties",
+   "location": "Surat",
+   "bullets": [
+    "Delivered a 20 km highway stretch 18 weeks ahead of schedule",
+    "Achieved 34,000 safe man-hours without a lost- time injury on site",
+    "Scheduled a 8-month metro station package in Navisworks, recovering 20 weeks of delay"
+   ]
+  },
+  {
+   "dates": "07/2021 - 03/2022",
+   "title": "Planning Engineer",
+   "company": "DLF Limited",
+   "location": "Surat",
+   "bullets": [
+    "Prepared BOQs and rate analyses for tenders worth INR 27.7 crore",
+    "Coordinated 19 subcontractors and 120+ workers across civil and MEP activities"
+   ]
+  }
+ ],
+ "skills": [
+  "93%",
+  "BIM",
+  "Value Engineering",
+  "80% 60%",
+  "Structural Analysis",
+  "Navisworks",
+  "76% 74%",
+  "Civil 3D",
+  "SAP2000",
+  "54%",
+  "79%",
+  "MS Project",
+  "Tekla Structures"
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Cx"
+  },
+  {
+   "proficiency": "Fluent",
+   "language": "Gujarati"
+  }
+ ],
+ "_runtime_s": 0.06
+}

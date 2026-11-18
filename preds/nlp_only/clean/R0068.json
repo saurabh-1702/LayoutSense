@@ -1,0 +1,142 @@
+{
+ "resume_id": "R0068",
+ "contact": {
+  "email": "goncaloribeiro@sapo.pt",
+  "phone": "+351 965755011",
+  "location": "Aveiro, Portugal"
+ },
+ "education": [
+  {
+   "degree": "Master of Science in Statistics",
+   "institution": "University of Lisbon",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Information",
+   "institution": "errors Instituto Superior Técnico",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "dbt",
+  "LangChain",
+  "Airflow",
+  "tables",
+  "reducing reporting incidents by 12%",
+  "internal documentation",
+  "answering 9.2M",
+  "employee queries per month",
+  "MLflow",
+  "weeks to 20 days",
+  "Portuguese Native",
+  "€12.8M in annual revenue",
+  "Aug 2014",
+  "2017 EDP",
+  "Coimbra (Hybrid)",
+  "French C2",
+  "Built a customer segmentation framework",
+  "using clustering on 217K",
+  "targeted campaigns",
+  "onboarding flows",
+  "lifting conversion by 15%",
+  "Created executive dashboards in Scala",
+  "tracking 19 KPIs",
+  "adopted by 120",
+  "business",
+  "users",
+  "ingesting 59",
+  "000 records daily into Snowflake"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Feedzai",
+   "issuer": "Lisbon Microsoft Certified: Power BI Data"
+  },
+  {
+   "name": "Grew the team by 28% in two years while Analyst Associate",
+   "issuer": null
+  },
+  {
+   "name": "keeping attrition below 24% Microsoft",
+   "issuer": ""
+  },
+  {
+   "name": "Introduced weekly operating reviews that cut",
+   "issuer": null
+  },
+  {
+   "name": "decision turnaround from 8 days to 1 day TensorFlow Developer Certificate",
+   "issuer": null
+  },
+  {
+   "name": "Partnered with senior leadership to define the Google",
+   "issuer": ""
+  },
+  {
+   "name": "annual roadmap and a budget of €1.6M",
+   "issuer": null
+  },
+  {
+   "name": "Represented the function in executive steering Databricks Certified Data Engineer",
+   "issuer": null
+  },
+  {
+   "name": "committees and board-level reporting Associate",
+   "issuer": null
+  },
+  {
+   "name": "Led a team of 12 across 8 workstreams",
+   "issuer": "Databricks"
+  },
+  {
+   "name": "owning hiring",
+   "issuer": "performance reviews and"
+  },
+  {
+   "name": "quarterly planning ACADEMIC",
+   "issuer": null
+  },
+  {
+   "name": "Mentored 4 junior colleagues",
+   "issuer": "several of QUALIFICATIONS"
+  },
+  {
+   "name": "whom were promoted within 18 months",
+   "issuer": null
+  },
+  {
+   "name": "Master of Science in Statistics",
+   "issuer": "May Machine Learning Engineer"
+  },
+  {
+   "name": "University of Lisbon",
+   "issuer": "18/20"
+  },
+  {
+   "name": "Partnered with finance to build an anomaly",
+   "issuer": null
+  },
+  {
+   "name": "detection system that flagged €168K in billing B.Sc. Information",
+   "issuer": null
+  },
+  {
+   "name": "errors Instituto Superior Técnico",
+   "issuer": null
+  },
+  {
+   "name": "Fine-tuned transformer models for ticket",
+   "issuer": ""
+  },
+  {
+   "name": "classification",
+   "issuer": "automating 30% of manual"
+  }
+ ],
+ "_runtime_s": 0.037
+}

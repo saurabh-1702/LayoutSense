@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0288",
+ "name": "kshi Rastog",
+ "contact": {
+  "email": "sakshirastogi23@gmail.com",
+  "phone": "+971 502849969",
+  "location": "Abu Dhabi, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/sakshi-rastogi"
+  },
+  {
+   "url": "github.com/sakshi78"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "Present Emirates NBD",
+   "dates": "Oct 2025"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "cutting model deployment time from weeks to 8 days Ryan International School",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Tableau Excel",
+  "&Y 62% © 96%",
+  "Looker Databricks",
+  "NumPy Apache Spark",
+  "54% Y Y 61%",
+  "Airflow Pandas",
+  "Snowflake Decision Making",
+  "Cross-functional",
+  "Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Microsoft Certified: Power BI Data"
+  },
+  {
+   "name": "Resume Screening with NLP Analyst Associate"
+  },
+  {
+   "name": "and BERT. Google Data Analytics Professional"
+  }
+ ],
+ "_runtime_s": 0.027
+}

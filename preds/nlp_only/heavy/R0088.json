@@ -1,0 +1,31 @@
+{
+ "resume_id": "R0088",
+ "contact": {
+  "phone": "83 85 2152",
+  "location": "Maintained"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Business Administration",
+   "institution": "Salesforce CRM @ ESSEC Business School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Territory Sales Officer",
+   "company": "(0)6 83 85 2152 am",
+   "dates": "september 2023 - August 2024",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "i Decision Making"
+  },
+  {
+   "name": "Salesforce Certified Administrator"
+  }
+ ],
+ "_runtime_s": 0.079
+}

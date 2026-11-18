@@ -1,0 +1,38 @@
+{
+ "resume_id": "R0292",
+ "contact": {
+  "email": "siennakelly36@icloud.com",
+  "phone": "+61 424 232 650",
+  "location": "Sydney, NSW, Australia Payroll Executive"
+ },
+ "education": [
+  {
+   "degree": "MBA (HR)",
+   "institution": "Mentoring University of Western Australia",
+   "dates": null
+  },
+  {
+   "degree": "BA (Hons) Commerce",
+   "institution": "RMIT University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Compensation & Benefits Analyst",
+   "company": "O",
+   "dates": "04/2022 - Present",
+   "bullets": [
+    "Built HR dashboards tracking headcount, diversity and attrition for"
+   ]
+  }
+ ],
+ "skills": [
+  "hours per quarter",
+  "HR Analytics",
+  "workforce planning and org design",
+  "reducing",
+  "SAP SuccessFactors"
+ ],
+ "_runtime_s": 0.053
+}

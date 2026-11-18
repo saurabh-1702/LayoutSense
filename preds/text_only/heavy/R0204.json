@@ -1,0 +1,83 @@
+{
+ "resume_id": "R0204",
+ "name": "KELECHI OGUNLEYE",
+ "headline": "Final-year BA Student S",
+ "contact": {
+  "email": "kelechi.ogunieye96@gmail.com",
+  "phone": "+234 812 681 5170",
+  "location": "Kano, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/kelechi-ogunleye"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "Covenant University",
+   "dates": "07.2024 Present",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "skills": [
+  "Design Systems",
+  "Blender",
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Problem Solving",
+  "Team Leadership",
+  "Cross-functional Collaboration",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Museum Wayfinding Redesign",
+   "description": "Signage and digital kiosk system tested with 120 visitors over 7 months",
+   "tech": "Adobe Photoshop, Adobe Illustrator"
+  },
+  {
+   "name": "Accessible Transit App Concept",
+   "dates": "04.2026",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a éncek student design award"
+  },
+  {
+   "name": "Design System for a Fintech Startup",
+   "dates": "07,2024",
+   "description": "Token-based component library in Figma with documentation and dark- mode support",
+   "tech": "Adobe Illustrator, Adobe Photoshop, Blender"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2026"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Rising Star Award",
+   "issuer": "Covenant University",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English"
+  },
+  {
+   "language": "Native"
+  },
+  {
+   "language": "French",
+   "proficiency": "Basic"
+  }
+ ],
+ "_runtime_s": 0.688
+}

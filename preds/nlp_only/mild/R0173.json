@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0173",
+ "name": "RYAN GO H",
+ "contact": {
+  "email": "ryan.goho5@gmail.com",
+  "phone": "+65 8831 3016",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ryan-goh8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Chemistry",
+   "institution": "Singapore Management University Singapore",
+   "dates": "Sep 2022 to Aug 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Pharmacist",
+   "company": "Novartis",
+   "dates": "Oct 2025 to Present",
+   "bullets": [
+    "Monitored 19 clinical trial sites across Phase II and III oncology studies",
+    "Performed HPLC and dissolution analysis on 80+ batches per quarter with zero OOS invalidations",
+    "Prepared and submitted 14 ANDA/eCTD dossiers to USFDA and EMA",
+    "Supported 24 successful USFDA and MHRA inspections with no critical observations"
+   ]
+  }
+ ],
+ "skills": [
+  "USFDA Audits",
+  "HPLC",
+  "Dissolution Testing",
+  "GC-MS",
+  "Stability Studies",
+  "} eCTD Submissions",
+  "LIMS",
+  "Argus Safety Presentation Skills",
+  "Conflict Resolution"
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Clinical Research Professional",
+   "issuer": "CCRP)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.044
+}

@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0187",
+ "name": "TUNDE EZE",
+ "headline": "Graduate Software Engineer | 5+ Years in Software Engineering",
+ "contact": {
+  "email": "tundee79@gmail.com",
+  "phone": "+234 816 497 2381",
+  "location": "Lagos, Nigeria"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tunde-eze"
+  },
+  {
+   "url": "github.com/tundeeze"
+  }
+ ],
+ "education": [
+  {
+   "dates": "06/2021",
+   "degree": "BSc (Hons) Computer Applications",
+   "institution": "Federal University of Technology Akure",
+   "location": "Akure",
+   "grade": "Upper Second-Class (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "07/2021 to Present",
+   "title": "Graduate Software Engineer",
+   "company": "Goldman Sachs",
+   "location": "Lagos",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click- through by 38%",
+    "Developed customer-facing features in JavaScript used by 105K+ monthly active users",
+    "Collaborated with product and design to ship 11 major releases on schedule across web and mobile",
+    "Introduced feature flags and canary releases, lowering production incidents by 46% quarter over quarter"
+   ]
+  }
+ ],
+ "skills": [
+  "Go",
+  "Ruby",
+  "Scala",
+  "JavaScript",
+  "Python",
+  "Express.js",
+  "Django",
+  "GraphQL",
+  "Node.js",
+  "Ruby on Rails",
+  "React",
+  "Google Cloud Platform",
+  "Docker",
+  "AWS",
+  "GitHub Actions"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 300 students to apply for drives, track status and download offer letters.",
+   "tech": "Python, React, JavaScript"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "2021",
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "year": "2022",
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "year": "06/2026",
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation"
+  },
+  {
+   "year": "2024",
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ]
+}

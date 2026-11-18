@@ -1,0 +1,72 @@
+{
+ "resume_id": "R0079",
+ "education": [
+  {
+   "dates": "2021 - 2024",
+   "degree": "BSc Computer Science",
+   "institution": "Zayed University",
+   "location": "Dubai",
+   "grade": "Distinchien"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Mig ep month container serv on Ke, ‘iit “from 4hours to 1Sminutes",
+    "Bulan oon soe sing Linc an pc aa at process 181K events ‘per hour",
+    "Calaborad with pradut and design ship 22 major eases on schedule across weband mobile",
+    "Reduced p95 API latency by 20% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 18%",
+    "Implemented a C1/CD pipeline with GitHub Actions and automated tests, raising code coverage from 14% to 85%",
+    "Developed internal tooling in GitHub Actions that saved the support team 36 hours per week",
+    "Owned the payments integration with 24 third-party gateways, reducing failed transactions by 31%"
+   ],
+   "dates": "/2024 - 05/2025",
+   "company": "Noon",
+   "location": "Dubai"
+  }
+ ],
+ "skills": [
+  "java",
+  "Rust",
+  "Swift",
+  "Kotlin",
+  "Linux",
+  "Google Cloud Platform",
+  "Docker",
+  "AWS",
+  "GitHub Actions",
+  "Microsoft Azure",
+  "Cross-functional Collaboration",
+  "Adaptability",
+  "Public Speaking",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, Jog compaction and a gRPC client."
+  },
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "Swift, java, AWS, Gitttub Actions"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Solutions Architect - Associate",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabit",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Knglish",
+   "proficiency": "Conversational"
+  }
+ ]
+}

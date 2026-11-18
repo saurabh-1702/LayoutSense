@@ -1,0 +1,64 @@
+{
+ "resume_id": "R0135",
+ "name": "Lwazi Dlamini",
+ "contact": {
+  "email": "dlamini.lwazi@gmail.com",
+  "phone": "+27 81 561 9663",
+  "location": "Pretoria, South Africa"
+ },
+ "links": [
+  {
+   "url": "behance.net/Iwazidlamini"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA Psychology University of Pretoria",
+   "institution": "BA Psychology University of Pretoria 2009 - 2012",
+   "dates": "2009 - 2012"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Publicis Groupe Principal Designer Johannesburg",
+   "company": "Reduced support tickets by 57% by simplifying the account settings experience",
+   "dates": "07/2022 - 08/2026",
+   "bullets": []
+  },
+  {
+   "title": "Visual Designer Johannesburg",
+   "company": null,
+   "dates": "10/2013 - 10/2020",
+   "bullets": []
+  },
+  {
+   "title": "Designer Johannesburg",
+   "company": "Woolworths Holdings Interaction",
+   "dates": "05/2012 - 09/2013",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Information Architecture",
+  "Interaction Design",
+  "Prototyping",
+  "Branding",
+  "Motion Design",
+  "Adobe Illustrator",
+  "Framer",
+  "Principle",
+  "Adobe Photoshop",
+  "Maze",
+  "Figma",
+  "Professional Skills Mentoring",
+  "Critical Thinking",
+  "Decision Making"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.063
+}

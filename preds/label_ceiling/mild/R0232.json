@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0232",
+ "name": "NOOR EL AMRANI",
+ "headline": "Business Analyst",
+ "contact": {
+  "email": "noor_elamrani@kpnmail.nl",
+  "phone": "+31 (0)6 66 34 07 81",
+  "location": "The Hague, Netherlands"
+ },
+ "links": [
+  {
+   "url": "inkedin.com/in/noor-elamrani-O88a6e"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. Mechanical Engineering",
+   "institution": "Eindhoven University of Technology"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst",
+   "company": "McKinsey & Company",
+   "location": "Amsterdam",
+   "bullets": [
+    "Delivered 4 strategy engagements for clients in banking, retail and telecom",
+    "Authored 12 thought-leadership articles and contributed to proposals worth €842K",
+    "Facilitated executive workshops with C-suite stakeholders to align on a 5-year strategy"
+   ]
+  }
+ ],
+ "skills": [
+  "Due Diligence",
+  "Financial Analysis",
+  "Hypothesis-driven Problem Solving",
+  "Jira",
+  "Excel",
+  "PowerPoint",
+  "Think-cell",
+  "Presentation Skills",
+  "Critical Thinking"
+ ],
+ "awards": [
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "McKinsey & Company",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Dutch",
+   "proficiency": "Native"
+  }
+ ]
+}

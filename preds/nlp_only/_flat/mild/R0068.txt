@@ -1,0 +1,79 @@
+Ribeiro % +351 965755011 ™ goncaloribeiro@sapo.pt
+Goncalo
+9 Aveiro, Portugal
+; :
+Staff Machine Learning Engineer
+© EXPERIENCE LICENSES &
+Oo
+CERTIFICATIONS
+Jun 2025 - Jun Staff Machine . Learning . Engineer .
+anes Feedzai, Lisbon Microsoft Certified: Power BI Data
+° Grew the team by 28% in two years while Analyst Associate
+keeping attrition below 24% Microsoft - 2017
+° Introduced weekly operating reviews that cut
+decision turnaround from 8 days to 1 day TensorFlow Developer Certificate
+° Partnered with senior leadership to define the Google - 2020
+annual roadmap and a budget of €1.6M
+Databricks Certified Data Engineer
+° Represented the function in executive steering
+Associate
+committees and board-level reporting
+Databricks - 2015
+° Leda team of 12 across 8 workstreams,
+owning hiring, performance reviews and
+ACADEMIC
+quarterly planning \)
+e Mentored 4 junior colleagues, several of QUALIFICATIONS
+whom were promoted within 18 months
+Master of Science in Statistics
+Jul 2017 - May Machine Learning Engineer
+University of Lisbon
+2025 EDP, Coimbra
+Sep 2012 - Jul 2014 - 18/20
+° Partnered with finance to build an anomaly
+detection system that flagged €168K in billing B.Sc. Information Technology
+be Instituto Superior Técnico
+° Fine-tuned transformer models for ticket Aug 2008 - Jul 2012
+classification, automating 30% of manual
+triage
+© eS lie ale
+e Defined the company-wide metric layer in
+dbt, eliminating 16 conflicting KPI definitions
+e Developed a demand forecasting model that
+reduced inventory holding costs by 25%
+e Authored SQL data quality checks across 150
+tables, reducing reporting incidents by 12% Airflow J Apache Spark & Snowflake
+° Deployed a retrieval-augmented chatbot over Scala ae
+internal documentation, answering 9.2M Cross functional Colleboratoc
+employee queries per month
+Stakeholder Management
+e Productionised ML models with Docker and
+MLflow, cutting model deployment time from Critical Thinking
+weeks to 20 days
+e Built a churn prediction model in Python (AUC LANGUAGE PROFICIENCY
+0.120) that helped retention teams save
+Portuguese Native
+€12.8M ; in annual revenue ETE TEED
+Aug 2014 - Jun Associate Data Scientist English C2
+2017 . . Te
+EDP, Coimbra (Hybrid)
+Pes C2
+° Built a customer segmentation framework
+using clustering on 217K+ profiles to drive
+targeted campaigns
+° Ran 7 A/B experiments on pricing and
+onboarding flows, lifting conversion by 15%
+e Reduced Spark job runtime by 24% through
+partitioning and broadcast join optimisation
+° Created executive dashboards in Scala
+tracking 19 KPIs, adopted by 120+ business
+users
+e Designed and maintained 4 Airflow pipelines
+ingesting 59,000 records daily into Snowflake
+@ NOTABLE PROJECTS
+Customer Lifetime Value Prediction May 2020
+Probabilistic BG/NBD model to rank customers by expected value
+for marketing spend.
+Stack: Python, LangChain, Databricks, R
+AWARDS
+° Winner, Inter-college Datathon (2015)

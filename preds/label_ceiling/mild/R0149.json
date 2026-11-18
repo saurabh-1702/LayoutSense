@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0149",
+ "name": "ISABELA COSTA PEREIRA",
+ "contact": {
+  "email": "ipereira@gmail.com",
+  "phone": "+55 (81) 97296-7307",
+  "location": "Curitiba, PR, Brazil"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/isabela-pereira4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Computer Science",
+   "dates": "2019 — 2023",
+   "institution": "Instituto Tecnolégico de Aeronautica",
+   "location": "Sao José dos Campos",
+   "grade": "Summa Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Ita Unibanco",
+   "location": "Curitiba",
+   "title": "Junior Software Developer",
+   "dates": "Jul 2023 — Present",
+   "bullets": [
+    "Wrote technical design documents and led code reviews for a team of 9 engineers",
+    "Reduced p95 API latency by 25% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery by 51%",
+    "Developed customer-facing features in Angular used by 464K monthly active users"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "(Jan 2024)"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "(2026)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Winner, Smart India Hackathon",
+   "year": "(2021)"
+  },
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Instituto Tecnoldgico de Aeronautica",
+   "year": "(2023)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

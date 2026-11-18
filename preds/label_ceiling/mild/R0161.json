@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0161",
+ "name": "ff a iM a t h e u S Be ra Uj O",
+ "headline": "Senior Software Engineer",
+ "contact": {
+  "email": "matheus.araujo@gmail.com",
+  "phone": "+1 (415) 698-2933",
+  "location": "San Francisco, CA, USA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/matheusaraujo"
+  },
+  {
+   "url": "github.com/matheusaraujo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Electronics and Communication Engineering",
+   "dates": "July 2015-March 2019",
+   "institution": "Instituto Tecnolégico de Aeronautica",
+   "location": "SdAo José dos Campos, Brazil",
+   "grade": "GPA: 3.11/4.0"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Software Engineer",
+   "company": "Mastercard",
+   "location": "San Francisco, CA",
+   "dates": "September 2024-Present",
+   "bullets": [
+    "Cut cloud infrastructure costs by $280M annually by right-sizing instances and adopting spot capacity",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 29 hours to 15 minutes",
+    "Developed customer-facing features in Redis used by 151K+ monthly active users",
+    "Developed internal tooling in Redis that saved the support team 35 hours per week"
+   ]
+  },
+  {
+   "title": "Systems Engineer",
+   "company": "Siemens",
+   "location": "Rio de Janeiro, Brazil",
+   "dates": "June 2019-August 2024",
+   "bullets": [
+    "Designed and built 13 RESTful microservices in GraphQL and Cassandra, serving 631K requests per day with 99.95% uptime",
+    "Collaborated with product and design to ship 12 major releases on schedule across web and mobile",
+    "Resolved 200+ production issues as part of the on-call rotation, reducing mean time to recovery by 45%"
+   ]
+  }
+ ],
+ "skills": [
+  "DynamoDB",
+  "Cassandra",
+  "Redis",
+  "Express.js",
+  "Angular",
+  "GraphQL"
+ ],
+ "projects": [
+  {
+   "name": "Realtime Chat Platform",
+   "description": "WebSocket chat service with end-to-end encryption, read receipts and presence indicators."
+  },
+  {
+   "name": "Open-source CLI Contribution",
+   "description": "Contributed 17 merged pull requests to a popular open-source CLI tool, adding plugin support."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Limited Working Proficiency)"
+  },
+  {
+   "language": "French",
+   "proficiency": "(Elementary Proficiency)"
+  }
+ ]
+}

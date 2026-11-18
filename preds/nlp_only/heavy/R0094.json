@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0094",
+ "contact": {
+  "phone": "76776139",
+  "location": "Byblos, Lebanon"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/mayagemaye!"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Biotechnology",
+   "institution": "Senior QC Analyst Lebanese American University",
+   "dates": null
+  },
+  {
+   "degree": "MS, GMP",
+   "institution": "ALCOA Technical: Method Validation",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior QC Analyst Lebanese American University",
+   "company": "! Magne Cum Lande",
+   "dates": "2016 - 2020",
+   "bullets": [
+    "Developed an extended release tablet formulation that SoCRA, 2019"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Armenian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.056
+}

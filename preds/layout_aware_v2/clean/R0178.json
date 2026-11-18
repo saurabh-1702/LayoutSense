@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0178",
+ "name": "Eleanor Smith",
+ "headline": "Data Science & Analytics Graduate",
+ "contact": {
+  "email": "eleanor.s@outlook.com",
+  "phone": "+44 7206 919096",
+  "location": "Glasgow, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/eleanor-smith7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PhD in Machine Learning",
+   "institution": "Imperial College London",
+   "dates": "Aug 2023 – Present"
+  },
+  {
+   "degree": "BSc Data Science",
+   "institution": "Loughborough University",
+   "dates": "Jul 2020 – Jul 2023",
+   "grade": "First Class"
+  }
+ ],
+ "skills": [
+  "Scala",
+  "R",
+  "Python",
+  "SAS",
+  "LangChain",
+  "Computer Vision",
+  "A/B",
+  "Testing"
+ ],
+ "projects": [
+  {
+   "name": "Credit Risk Scoring Model",
+   "dates": "Feb 2026",
+   "description": "Gradient-boosted model on 15,000 loan applications"
+  },
+  {
+   "description": "with SHAP explanations and fairness checks.",
+   "tech": "LangChain, Python",
+   "name": "Fake News Detection"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al",
+   "year": "Feb 2026"
+  },
+  {
+   "name": "Tableau Desktop Specialist",
+   "issuer": "Tableau",
+   "year": "Aug 2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Loughborough University",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Welsh",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0014",
+ "name": "Omkar Trivedi",
+ "contact": {
+  "email": "omkar1995@gmail.com",
+  "phone": "+91-9599896708"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/omkartrivedi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Business",
+   "institution": "Nirma University reviews and quarterly planning",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Nirma University reviews and quarterly planning",
+   "dates": "Sep '10 - May '13",
+   "bullets": [
+    "Mentored 10 junior colleagues, several of whom were promoted"
+   ]
+  }
+ ],
+ "skills": [
+  "within 18 months",
+  "Account Management",
+  "Sales Development Representative Jan '15",
+  "May '17",
+  "Outreach The Times Group",
+  "Mumbai",
+  "Zoho CRM",
+  "Stakeholder",
+  "Management",
+  "bookings",
+  "Conflict Resolution eee",
+  "enterprise accounts"
+ ],
+ "projects": [
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "using LinkedIn Sales Navigator",
+   "issuer": null
+  },
+  {
+   "name": "Shortened the average sales cycle by 26 days by introducing a",
+   "issuer": null
+  },
+  {
+   "name": "Sandler Sales Foundations",
+   "issuer": null
+  },
+  {
+   "name": "structured discovery framework",
+   "issuer": "Sandler Training"
+  },
+  {
+   "name": "Achieved 22% of annual quota for 18 consecutive years",
+   "issuer": "closing =79"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Marathi",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.034
+}

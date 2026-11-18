@@ -1,0 +1,60 @@
+{
+ "resume_id": "R0180",
+ "contact": {
+  "email": "lama.alzahrani@hotmail.com",
+  "phone": "+966 55 273 4467",
+  "location": "Khobar, Saudi Arabia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lama-alzahrani-68"
+  },
+  {
+   "url": "www.lamaalzahrani.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Pharmaceutical",
+   "institution": "« Trained 13 analysts on data integrity and King Saud University",
+   "dates": "09/2016"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Certified Clinical Research",
+   "issuer": null
+  },
+  {
+   "name": "Professional",
+   "issuer": "CCRP)"
+  },
+  {
+   "name": "SoCRA",
+   "issuer": ""
+  },
+  {
+   "name": "Regulatory Affairs Certification",
+   "issuer": "RAPS"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Urdu",
+   "proficiency": "C1"
+  }
+ ],
+ "_runtime_s": 0.02
+}

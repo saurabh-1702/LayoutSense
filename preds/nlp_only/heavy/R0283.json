@@ -1,0 +1,25 @@
+{
+ "resume_id": "R0283",
+ "contact": {
+  "phone": "086-019-0568",
+  "location": "Hai Phong, Vietnam"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Production Engineer ue ay",
+   "company": null,
+   "dates": "2025-2026",
+   "bullets": [
+    "* Led 23 Kaizen events that saved VND 58.9B annually in scrap and | rework PT",
+    "Managed 4 capex budget of VND 483M for plant upgrades delivered on time",
+    "Owned sighted submissions for ahs suppliers and resolved 120 ps concerns eT"
+   ]
+  }
+ ],
+ "_runtime_s": 0.058
+}

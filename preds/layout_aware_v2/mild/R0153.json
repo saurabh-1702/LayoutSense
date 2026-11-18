@@ -1,0 +1,87 @@
+{
+ "resume_id": "R0153",
+ "name": "Ketaki Patil",
+ "headline": "Legal Counsel",
+ "contact": {
+  "email": "ketakip617@gmail.com",
+  "phone": "91054 39728",
+  "location": "Nagpur, Maharashtra"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ketakipatil-54b83a"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA LLB (Hons.)",
+   "institution": "Nirma University",
+   "dates": "Jul 2018 – Jun 2023",
+   "grade": "CGPA"
+  },
+  {
+   "grade": "8.48",
+   "degree": "Class XII (HSC)",
+   "institution": "Bishop Cotton Boys' School",
+   "location": "Panaji",
+   "dates": "2018"
+  },
+  {
+   "grade": "96.7%",
+   "degree": "Class X (CBSE)",
+   "institution": "Bishop Cotton Boys' School",
+   "location": "Surat",
+   "dates": "2016"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Legal Counsel",
+   "dates": "Mar 2026 – Present",
+   "company": "Trilegal",
+   "location": "Panaji",
+   "bullets": [
+    "Reduced external counsel spend by 16% by bringing standard contract work in-house",
+    "Managed a portfolio of 500 trademarks across 16 jurisdictions",
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals",
+    "Advised on 7 cross-border M&A transactions with a combined deal value of %3.8 Cr",
+    "Represented clients in 8 commercial arbitrations seated in Singapore and London"
+   ]
+  },
+  {
+   "title": "Junior Associate",
+   "dates": "Aug 2023 – Feb 2026",
+   "company": "DLA Piper",
+   "location": "Pune",
+   "bullets": [
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Built a GDPR/DPDP compliance programme covering 21 business units",
+    "Led legal due diligence for 10 acquisitions, reviewing 120+ contracts in SCC Online"
+   ]
+  }
+ ],
+ "skills": [
+  "Westlaw",
+  "SCC Online",
+  "iManage",
+  "Manupatra",
+  "Intellectual Property",
+  "Arbitration",
+  "Mergers & Acquisitions",
+  "Employment Law",
+  "Competition Law",
+  "Decision Making",
+  "Mentoring",
+  "Conflict Resolution"
+ ],
+ "languages": [
+  {
+   "language": "Gujarati",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Fluent)"
+  }
+ ]
+}

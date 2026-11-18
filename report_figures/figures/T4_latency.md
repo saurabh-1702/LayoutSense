@@ -1,0 +1,7 @@
+### Parsing time per resume (OCR excluded; OCR is shared by all models)
+
+| model | resumes | mean_s | median_s | p95_s | note |
+|---|---|---|---|---|---|
+| nlp_only | 300 | 0.046 | 0.044 | 0.089 | CPU, after shared OCR |
+| text_only | 300 | 0.469 | 0.413 | 0.777 | Kaggle T4 GPU, after shared OCR |
+| layout_aware | 300 | 0.201 | 0.17 | 0.386 | Kaggle T4 GPU, after shared OCR |

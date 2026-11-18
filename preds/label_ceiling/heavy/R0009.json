@@ -1,0 +1,88 @@
+{
+ "resume_id": "R0009",
+ "name": "MICHAEL L. JOHNSON",
+ "links": [
+  {
+   "url": "github.com/michael?"
+  }
+ ],
+ "experience": [
+  {
+   "location": "Sun Francisen",
+   "title": "Data Science lntera",
+   "dates": "OF 72025 - 10/2025",
+   "bullets": [
+    "Developed « demand forecasting model that reduced inventory holding costs by 51%",
+    "Denfted standard operating procedures for 7 recurting tasks",
+    "Assisted with day-to-day data science & analytics operanons and mamtained accurate records"
+   ],
+   "company": "IBM"
+  },
+  {
+   "location": "New York",
+   "title": "Data Analyst latern",
+   "dates": "06/2024 < 09/2024",
+   "bullets": [
+    "Drafted standard operating procedures for 7 recurang tasks",
+    "Supported the data science & analytics team on 12 lve projects, preparing analyses and documentation",
+    "Collected and cleaned data from 14 sources to support a data science & analytics unutiatve"
+   ]
+  }
+ ],
+ "skills": [
+  "Aico",
+  "Age Spt",
+  "Lagan",
+  "A Teng",
+  "Torch",
+  "Tae Sei Forsning",
+  "her",
+  "‘bin",
+  "Meiptalta",
+  "tied",
+  "tea",
+  "Rete",
+  "hai AA",
+  "thio"
+ ],
+ "projects": [
+  {
+   "name": "Fake News Detection",
+   "description": "Fine-raned DistilBEIRT dassificr actueving 94% Fl on a public musinformanon deraset.",
+   "tech": "Tane Sories forecasting, Seala, R"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "Ead-t9-end Power BI dashboard on 88,000 transactions with drill-downs by region and category.",
+   "tech": "3Q1., Matplodih, Tume Series Forceasting, Airflose"
+  },
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "dates": "02/2826",
+   "description": "ek ck ae",
+   "tech": "Excel, Apache Spark, Time Seties Forecasting, Pyth"
+  },
+  {
+   "name": "Resume Screening with NLP",
+   "tech": "sclaitiiictaa sa"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "‘ileal",
+   "issuer": "aaa"
+  }
+ ],
+ "awards": [
+  {
+   "issuer": "Coiniaiia tse Competitions",
+   "year": "iaeamiainals",
+   "name": "Kaggle Expert"
+  },
+  {
+   "year": "(2026) Excellence",
+   "name": "Spot Award for",
+   "issuer": "1BM"
+  }
+ ]
+}

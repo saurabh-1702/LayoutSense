@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0284",
+ "name": "Jia Hui Koh",
+ "headline": "Data Analyst",
+ "contact": {
+  "email": "jia.kkoh93@gmail.com",
+  "phone": "9459 0388",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jiakoh"
+  },
+  {
+   "url": "www.jiakoh.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Mathematics",
+   "institution": "Singapore Management University",
+   "dates": "Aug 2021 — Sep 2024"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2024 - Sep 2026",
+   "title": "Data Analyst",
+   "company": "Sea Limited",
+   "location": "Singapore",
+   "bullets": [
+    "Designed and maintained 6 Airflow pipelines ingesting 95K+ records daily into Snowflake",
+    "Partnered with finance to build an anomaly detection system that flagged $$43M in billing errors",
+    "Ran 9 A/B experiments on pricing and onboarding flows, lifting conversion by 25%",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 10 days",
+    "Created executive dashboards in BigQuery tracking 8 KPls, adopted by 75+ business users"
+   ]
+  }
+ ],
+ "skills": [
+  "Scala",
+  "Python",
+  "SAS",
+  "A/B Testing",
+  "XGBoost",
+  "Hugging Face Transformers",
+  "Computer Vision",
+  "Time Series Forecasting",
+  "Z LP",
+  "NumPy",
+  "BigQuery",
+  "Apache Kafka",
+  "Snowflake",
+  "Power BI",
+  "Tableau",
+  "Plotly",
+  "Matplotlib",
+  "Excel",
+  "Problem Solving",
+  "Mentoring",
+  "Attention to Detail",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al",
+   "year": "Apr 2023"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Sea Limited",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "C1"
+  }
+ ]
+}

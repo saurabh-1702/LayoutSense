@@ -1,0 +1,80 @@
+{
+ "resume_id": "R0263",
+ "name": "Ayu UX",
+ "headline": "Designer | 7+ Years in Design (UX/UI & Graphic)",
+ "contact": {
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/ayu-lestari-5fb4c3"
+  },
+  {
+   "url": "behance.net/ayulestari"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Design in Industrial Design",
+   "institution": "Binus University"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Microsoft Designer",
+   "company": "UX",
+   "bullets": [
+    "Ran discovery workshops and journey mapping with stakeholders across 8 markets",
+    "Built and maintained a design system of 60+ components used by 24 product squads",
+    "Partnered with engineering to ship 17 features per quarter with pixel-perfect handoff in Figma",
+    "Redesigned the onboarding flow in Figma, increasing activation by 23% across 27,000 new users",
+    "Improved WCAG 2.1 AA compliance from 5% to 96% across core journeys",
+    "Reduced support tickets by 58% by simplifying the account settings experience",
+    "Produced motion graphics and explainer videos with Sketch reaching 28,000 views",
+    "Conducted 7 rounds of usability testing with 75 participants to validate checkout improvements"
+   ]
+  },
+  {
+   "company": "GoTo Group",
+   "title": "Junior Product Designer",
+   "dates": "}Oct 2019 = Dec2020",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 13 product launches",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store"
+   ]
+  }
+ ],
+ "skills": [
+  "Visual Design"
+ ],
+ "projects": [
+  {
+   "name": "Design System for a Fintech",
+   "description": "Token-based component library in Figma with documentation and dark-mode support."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Expert roficient Certification"
+  },
+  {
+   "name": "Interaction Design Foundation ~ UX Management Design Foundation",
+   "issuer": "Interaction"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA) Factors International",
+   "issuer": "Human"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Proficiency",
+   "language": "Fodovesan"
+  }
+ ],
+ "_runtime_s": 0.672
+}

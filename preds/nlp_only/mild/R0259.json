@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0259",
+ "name": "Curriculum Vitae",
+ "contact": {
+  "email": "priya.m@gmail.com",
+  "phone": "07999 32515"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/priya-macdonald"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Marketing",
+   "institution": "Loughborough University",
+   "dates": "Aug '23 — Feb '24"
+  },
+  {
+   "degree": "BA (Hons) Marketing",
+   "institution": "University of Surrey, Guildford",
+   "dates": "Aug '20"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Associate",
+   "company": "Content Marketing",
+   "dates": "May '24 — Dec '25",
+   "bullets": [
+    "Built a marketing attribution dashboard in Hootsuite used in weekly leadership reviews",
+    "Reduced customer acquisition cost by 29% through audience segmentation and creative testing"
+   ]
+  }
+ ],
+ "skills": [
+  "Tools Hootsuite",
+  "HubSpot",
+  "Google Ads",
+  "Marketo",
+  "Marketing Go-to-Market Strategy",
+  "Performance Marketing",
+  "Content Strategy",
+  "Copywriting",
+  "Conversion Rate Optimisation"
+ ],
+ "projects": [
+  {
+   "name": "Consumer Survey on EV Adoption"
+  },
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Content Marketing Certification",
+   "issuer": "HubSpot Academy"
+  },
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.05
+}

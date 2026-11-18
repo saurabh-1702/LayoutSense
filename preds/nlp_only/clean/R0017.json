@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0017",
+ "contact": {
+  "email": "rui.pereira@gmail.com",
+  "phone": "+351 931514298",
+  "location": "Aveiro, Portugal"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/rui-pereira-11"
+  },
+  {
+   "url": "github.com/rpereira"
+  },
+  {
+   "url": "www.ruipereira.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc in Statistics",
+   "institution": "Instituto Superior Técnico",
+   "dates": "2022 — 2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Intelligence Analyst",
+   "company": "Oracle Lisbon",
+   "dates": "09/2025 — Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Python",
+  "Scala",
+  "SAS",
+  "SQL",
+  "Hugging Face Transformers",
+  "PyTorch",
+  "scikit-learn",
+  "Computer Vision",
+  "LangChain",
+  "NLP",
+  "Conflict Resolution",
+  "Public Speaking",
+  "Presentation Skills",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Air Quality Forecasting"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "« TensorFlow Developer Certificate",
+   "issuer": "Google"
+  },
+  {
+   "name": "« Deep Learning Specialization",
+   "issuer": "DeepLearning.AI"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.052
+}

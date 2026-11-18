@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0040",
+ "name": "Stefan Batory High School",
+ "contact": {
+  "email": "zuzannaszymanski@o2.pl",
+  "phone": "+48 721 249 616"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/zuzanna-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Mathematics",
+   "institution": "English Warsaw University of Technology",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Qualified Teacher Status",
+   "issuer": "QTS)"
+  },
+  {
+   "name": "Department for Education",
+   "issuer": ""
+  },
+  {
+   "name": "& TESOL Certificate",
+   "issuer": "Arizona State University"
+  },
+  {
+   "name": "Cambridge CELTA",
+   "issuer": "Cambridge English"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.09
+}

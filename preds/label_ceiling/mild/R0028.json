@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0028",
+ "name": "Williams George",
+ "headline": "Machine Learning Engineer",
+ "contact": {
+  "email": "george.williams03@outlook.com",
+  "phone": "07269 040818",
+  "location": "Bristol, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/georgewilliams5"
+  },
+  {
+   "url": "www.georgewilliams.com"
+  }
+ ],
+ "education": [
+  {
+   "dates": "<I",
+   "degree": "Ca, ong"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Oct 2025 - Present",
+   "title": "Ma r Learning Enginee Machi ne",
+   "location": "United ! it Remote — nes",
+   "company": "Deliveroo",
+   "bullets": [
+    "se models 10 Fine-tuned transformer automating 13% of manual vib he",
+    "and maintained 6 Airflow pipe! ar Designed records daily into Snowflake",
+    "Built a churn prediction model in R (AUC O. retention teams save £13.9M in annual reve)",
+    "Productionised ML models with Docker and model deployment time from weeks to 29 da"
+   ]
+  },
+  {
+   "dates": "Jun 2022 - Sep 2025",
+   "title": "Associate Data Scientist",
+   "company": "Barclays",
+   "location": "Bristo",
+   "bullets": [
+    "that fla £S6M a \"",
+    "Baa ee in billing anomaly detect dema erre Invent ; nd forecg",
+    "Reducey ¢ Olding Costs by bau MOdel that ark job 0 redy ce ie roadcast j ¥ 33% Sation th Tough Partition"
+   ]
+  },
+  {
+   "dates": "Jul 2027 _ rs 2",
+   "title": "ata Anal",
+   "company": "SK",
+   "location": "Londo",
+   "bullets": [
+    "ae 19",
+    "Creat | b ny nt p 'Cing =e *dopteg s . °\"boarg",
+    "PePloyeg »S* Busing. OAS in ‘NB flow, Oc r Sus tS tr, .",
+    "Def fineg tation V-aupm “cking 79 Conf th e ans Erin “Nteg ty KP; ICtin ; 8 Pan § 886K at b Kp; d Y-Wide e e tio MO Oy Erna] a ln Per a"
+   ]
+  }
+ ],
+ "skills": [
+  "SAS",
+  "R",
+  "Python",
+  "NLP",
+  "Hugging Face Trans formers",
+  "PyTorch",
+  "TensorFlow"
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction",
+   "dates": "Apr 2023",
+   "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend.",
+   "tech": "R, Hugging Face Transformers"
+  },
+  {
+   "name": "Retail Sales Dashboard",
+   "description": "End-to-end Power BI dashboard on 761K transactions with drill- downs by region and category.",
+   "tech": "TensorFlow, PyTorch, Python"
+  },
+  {
+   "name": "Air Quality Forecasting",
+   "dates": "Jul 2021",
+   "description": "LSTM model forecasting PM2.5 levels across 9 monitoring stations with a Streamlit dashboard.",
+   "tech": "R, PyTorch, Hugging Face Transformers"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.Al",
+   "year": "2020"
+  },
+  {
+   "name": "SnowPro Core Certification",
+   "issuer": "Snowflake",
+   "year": "2020"
+  },
+  {
+   "name": "AWS Certified Machine Learning — Specialty",
+   "issuer": "Amazon Web Services",
+   "year": "Aug 2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "German",
+   "proficiency": "Fluent"
+  }
+ ]
+}

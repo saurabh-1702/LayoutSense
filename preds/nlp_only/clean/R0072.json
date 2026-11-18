@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0072",
+ "contact": {
+  "email": "khuship989@outlook.com",
+  "phone": "+91-98811-04940",
+  "location": "Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/khushipatil"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Civil Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": null
+  },
+  {
+   "degree": "MS Project Tekla Structures",
+   "institution": "MS Project",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) Graduate Civil Engineer Hindi",
+   "company": "ee08e080@",
+   "dates": "05/2023 - Current",
+   "bullets": [
+    "Designed RCC and steel structures in Civil 3D for English",
+    "Managed client billing and variations, improving",
+    "Conducted soil investigation reviews and 05/2021 - CGPA 8.66",
+    "Delivered a 20 km highway stretch 18 weeks 93% 73%",
+    "Y",
+    "Prepared BOQs and rate analyses for tenders 76% 74%",
+    "Coordinated 19 subcontractors and 120+ workers"
+   ]
+  }
+ ],
+ "_runtime_s": 0.055
+}

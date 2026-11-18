@@ -1,0 +1,105 @@
+{
+ "resume_id": "R0129",
+ "name": "Baptiste Bonnet",
+ "contact": {
+  "email": "baptistebonnet@hotmail.fr",
+  "phone": "57 65 63 04",
+  "location": "Lille, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/baptistebonnet-2edb04"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Executive MBA",
+   "institution": "Ecole Polytechnique Palaiseau",
+   "dates": "08.2013 ~ 07.2015"
+  },
+  {
+   "degree": "B.Sc. Mathematics",
+   "institution": "Ecole Polytechnique Palaiseau",
+   "dates": "08.2010 ~ 05.2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Finance Manager",
+   "company": "PwC",
+   "dates": "10.2023 ~ Now",
+   "bullets": []
+  },
+  {
+   "title": "Vice President",
+   "company": "Corporate Banking",
+   "dates": "03.2023 ~ 09.2023",
+   "bullets": []
+  },
+  {
+   "title": "Vice President",
+   "company": "Corporate Banking",
+   "dates": "08.2020 ~ 02.2023",
+   "bullets": []
+  },
+  {
+   "title": "Risk Analyst",
+   "company": "TotalEnergies",
+   "dates": "08.2015 ~ 07.2020",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Anaplan",
+  "Capital 1Q",
+  "Python",
+  "Excel (",
+  "IFRS 9",
+  "DCF Valuation",
+  "Credit Analysis",
+  "Time Management",
+  "Problem Solving"
+ ],
+ "projects": [
+  {
+   "name": "Credit Scorecard Development"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "Chartered Financial Analyst",
+   "issuer": "CFA)"
+  },
+  {
+   "name": "Certified Treasury Professional",
+   "issuer": "CTP)"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "German",
+   "proficiency": "Basic"
+  },
+  {
+   "language": "Arabic",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.051
+}

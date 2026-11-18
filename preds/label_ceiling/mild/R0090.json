@@ -1,0 +1,122 @@
+{
+ "resume_id": "R0090",
+ "name": "WERONIKA NOWAK",
+ "headline": "Digital Marketing Specialist",
+ "contact": {
+  "email": "wnowak@gmail.com",
+  "phone": "535 388 729",
+  "location": "Wroctaw, Poland"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/weronika-nowak5"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Kozminski University",
+   "dates": "Aug 2020",
+   "grade": "GPA: 4.0/5"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Digital Marketing Specialist",
+   "dates": "Dec 2021 - Present",
+   "company": "LPP",
+   "location": "Wroctaw",
+   "bullets": [
+    "Managed a monthly paid media budget of PLN 239M across Google Ads and Meta, achieving a 7x ROAS",
+    "Ran consumer research with 50 respondents to shape positioning for a new category",
+    "Coordinated 3 influencer campaigns generating 649K impressions and 422K+ engagements"
+   ]
+  },
+  {
+   "title": "Brand Executive",
+   "dates": "Oct 2021 - Nov 2021",
+   "company": "Allegro",
+   "location": "Poznan",
+   "bullets": [
+    "Launched 6 new product variants nationally, capturing 16% market share in the first year",
+    "Grew organic traffic by 52% in 10 months through technical SEO and a content calendar of 15 articles per month",
+    "Built automated email nurture journeys in Hootsuite that lifted MQL-to-SQL conversion by 27%",
+    "Owned the go-to-market plan for a SaaS launch, generating PLN 329M pipeline in the first quarter"
+   ]
+  },
+  {
+   "title": "SEO Analyst",
+   "dates": "Oct 2020 - Sep 2021",
+   "company": "Allegro",
+   "location": "Poznan",
+   "bullets": [
+    "Grew Instagram and LinkedIn followers from 78,000 to over 3x within a year",
+    "Reduced customer acquisition cost by 15% through audience segmentation and creative testing",
+    "Built a marketing attribution dashboard in Marketo used in weekly leadership reviews"
+   ]
+  }
+ ],
+ "skills": [
+  "Copywriting",
+  "Marketing Automation",
+  "Performance Marketing",
+  "SEO",
+  "Content Strategy",
+  "Email Marketing",
+  "Hootsuite",
+  "Marketo",
+  "SEMrush",
+  "Salesforce Marketing Cloud",
+  "Meta Ads Manager",
+  "Team Leadership",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Go-to-Market Plan for a D2C Skincare Brand",
+   "description": "Live project covering positioning, pricing and a PLN 23.5M launch media plan."
+  },
+  {
+   "name": "Consumer Survey on EV Adoption",
+   "description": "Designed and analysed a survey of 500 urban respondents; findings presented to a client."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Google Analytics Certification",
+   "issuer": "Google",
+   "year": "2024"
+  },
+  {
+   "name": "Digital Marketing Specialization",
+   "issuer": "Coursera",
+   "year": "Oct 2025"
+  },
+  {
+   "name": "Google Ads Search Certification",
+   "issuer": "Google",
+   "year": "Apr 2021"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Spot Award for Excellence",
+   "issuer": "Allegro",
+   "year": "(2020)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "Russian",
+   "proficiency": "Conversational"
+  }
+ ]
+}

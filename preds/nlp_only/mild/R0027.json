@@ -1,0 +1,125 @@
+{
+ "resume_id": "R0027",
+ "name": "Tesfaye Haile",
+ "contact": {
+  "email": "tesfaye.haile@yahoo.com",
+  "phone": "+251 934097113",
+  "location": "Addis Ababa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/tesfaye-haile"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Legal Practice Course (LPC)",
+   "institution": "Qualification Institution",
+   "dates": "Jul 2011"
+  },
+  {
+   "degree": "LLB (Hons) Law Addis Ababa University",
+   "institution": "LLB",
+   "dates": "Jul 2008 - Jun 2011"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Mehrteab Leul & Senior Associate (Corporate)",
+   "company": null,
+   "dates": "Jan 2018 - Present",
+   "bullets": [
+    "Reduced external counsel spend by 59% by bringing standard contract work in-house",
+    "Led legal due diligence for 5 acquisitions, reviewing 80+ contracts in iManage",
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Drafted and negotiated share purchase agreements, shareholders’ agreements and term sheets",
+    "Represented clients in 12 commercial arbitrations seated in Singapore and London",
+    "Built a GDPR/DPDP compliance programme covering 18 business units",
+    "Managed a portfolio of 180 trademarks across 24 jurisdictions"
+   ]
+  },
+  {
+   "title": "Mehrteab Leul & Associate Attorney",
+   "company": null,
+   "dates": "Jan 2014 - Dec 2017",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 19 days to 1 day",
+    "Partnered with senior leadership to define the annual roadmap and a budget of ETB 856K",
+    "Grew the team by 49% in two years while keeping attrition below 8%",
+    "Led a team of 13 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Managed a portfolio of 120 trademarks across 24 jurisdictions",
+    "Drafted and negotiated share purchase agreements, shareholders' agreements and term sheets",
+    "Advised on 11 cross-border M&A transactions with a combined deal value of ETB 890K",
+    "Conducted legal research and prepared memos on securities and competition law issues",
+    "Represented clients in 23 commercial arbitrations seated in Singapore and London",
+    "Drafted pleadings, written submissions and appeals before High Courts and tribunals",
+    "Led legal due diligence for 13 acquisitions, reviewing 80+ contracts in Westlaw",
+    "Reduced external counsel spend by 14% by bringing standard contract work in-house"
+   ]
+  }
+ ],
+ "skills": [
+  "Practice Areas Contract Drafting",
+  "Arbitration",
+  "Data Privacy (GDPR)",
+  "Competition Law",
+  "Tools iManage",
+  "Relativity",
+  "Westlaw",
+  "Interpersonal",
+  "Adaptability",
+  "Critical Thinking",
+  "Communication"
+ ],
+ "projects": [
+  {
+   "name": "Project Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By",
+   "issuer": null
+  },
+  {
+   "name": "Admitted Solicitor Solicitors Regulation Authority",
+   "issuer": null
+  },
+  {
+   "name": "Certified Information Privacy Professional",
+   "issuer": "CIPP/E) “APP"
+  },
+  {
+   "name": "Enrolled Advocate Bar Council of India",
+   "issuer": null
+  },
+  {
+   "name": "! i = ae",
+   "issuer": null
+  },
+  {
+   "name": "Fellow",
+   "issuer": "Chartered Institute of Arbitrators _CIArb"
+  },
+  {
+   "name": "New York State Bar Admission _ New York State Board of Law “",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "Fluent"
+  }
+ ],
+ "_runtime_s": 0.045
+}

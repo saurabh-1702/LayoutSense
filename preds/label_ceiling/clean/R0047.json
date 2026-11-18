@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0047",
+ "name": "Nada Mohamed Fahmy",
+ "contact": {
+  "email": "nada.fahmy97@gmail.com",
+  "phone": "+971 555835083",
+  "location": "Sharjah, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nada-fahmy"
+  },
+  {
+   "url": "www.nadafahmy.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "TT Human-Computer Interaction",
+   "institution": "American University Sharjah",
+   "dates": "2019",
+   "grade": "Upper Second- Class (2:1)"
+  },
+  {
+   "degree": "Bachelor of Arts in Psychology",
+   "institution": "The American University in Cairo",
+   "dates": "2017",
+   "grade": "Dean's List (6 semesters)"
+  }
+ ],
+ "skills": [
+  "a"
+ ],
+ "certifications": [
+  {
+   "name": "Google UX Design Professional Certificate",
+   "year": "2021"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Adobe",
+   "year": "(2022)"
+  },
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "Ogilvy",
+   "year": "(2019)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Ogilvy",
+   "year": "(2021)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "a"
+  }
+ ]
+}

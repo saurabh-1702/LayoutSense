@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0142",
+ "name": "Nadia Ibrahim",
+ "experience": [
+  {
+   "dates": "‘jan 2019 Jul 2026",
+   "title": "Senior Consultant",
+   "company": "Prince Court Medical Centre",
+   "location": "Cyberjaya",
+   "bullets": [
+    "bee ted he",
+    "teense mine",
+    "agian 42 national"
+   ]
+  },
+  {
+   "dates": "Sep 2014 — Aug 2018",
+   "title": "Associate Consultant",
+   "company": "Sunway Medical Centre",
+   "location": "Cyberjaya",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 44%",
+    "Managed an average of 6 inpatients daily across general medicine and high-dependency units",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Supervised and taught 9 interns and medical students on ward rounds",
+    "Co-authored 16 peer-reviewed publications in indexed journals"
+   ]
+  },
+  {
+   "dates": "May 2009 — Aug 2014",
+   "title": "Resident Physician",
+   "company": "Sunway Medical Centre",
+   "location": "Cyberjaya",
+   "bullets": [
+    "Performed 60+ procedures including central lines, thoracentesis and lumbar punctures",
+    "Ran outpatient clinics seeing 5 patients per session with a focus on diabetes and hypertension",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 59%",
+    "Presented case reports at 17 national conferences"
+   ]
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Cantonese",
+   "proficiency": "Elementary Proficiency"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "resume_id": "R0123",
+ "name": "Ayu Gunawan",
+ "headline": "Digital Marketing Specialist",
+ "contact": {
+  "email": "ayu.g@gmail.com",
+  "phone": "+62 895-4609-7920",
+  "location": "Surabaya, Indonesia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/ayugunawan"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA in Marketing",
+   "institution": "Binus University",
+   "dates": "ee"
+  }
+ ],
+ "skills": [
+  "Google Analytics 4",
+  "Google Ads",
+  "Ahrefs",
+  "HubSpot",
+  "Canva",
+  "SEMrush",
+  "Content Strategy",
+  "Social Media Marketing",
+  "Marketing Automation"
+ ]
+}

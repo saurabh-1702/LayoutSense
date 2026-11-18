@@ -1,0 +1,39 @@
+{
+ "resume_id": "R0292",
+ "education": [
+  {
+   "dates": "Giz",
+   "degree": "MBA (HR)",
+   "institution": "University of Western Australia",
+   "grade": "Distinction"
+  },
+  {
+   "institution": "RMIT University",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Present",
+   "title": "Compensation & Benefits Analyst",
+   "company": "SEEK",
+   "location": "Sydney",
+   "bullets": [
+    "Ran campus hiring at 11 universities, onboarding 500 graduate trainees",
+    "Built HR dashboards tracking headcount, diversity and attrition for leadership",
+    "Reduced voluntary attrition by 12% through stay interviews and targeted retention plans",
+    "Designed a performance management framework adopted company-wide"
+   ]
+  },
+  {
+   "title": "Payroll Executive",
+   "company": "Accenture",
+   "location": "Sydney",
+   "bullets": [
+    "Launched an internal L&D academy that delivered 80 training hours per quarter",
+    "Partnered with business leaders of a 180-employee division on workforce planning and org design",
+    "Managed end-to-end hiring for 17 roles per quarter, reducing time-to-hire from 11 to 21 days"
+   ]
+  }
+ ]
+}

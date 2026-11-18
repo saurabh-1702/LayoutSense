@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0295",
+ "name": "Yoga Pratama",
+ "education": [
+  {
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "institut Teknologi Bandung",
+   "dates": "June 2015"
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Bank Central Asia",
+   "dates": "October 2023 - Present",
+   "bullets": [
+    "Presented quarterly business reviews to the cro and board \" it",
+    "Introduced weekly operating reviews that cut decision tt",
+    "Prepared pitch books and information memoranda for 4 ‘sell-side n",
+    "",
+    "Grew the assets under management of assigned aio bs Seen on yor",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for"
+   ]
+  }
+ ],
+ "_runtime_s": 0.062
+}

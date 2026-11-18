@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0068",
+ "contact": {
+  "email": "goncaloribeiro@sapo.pt",
+  "phone": "+351 965755011",
+  "location": "Aveiro, Portugal"
+ },
+ "education": [
+  {
+   "degree": "Master of Science in Statistics",
+   "institution": "University of Lisbon",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Information Technology",
+   "institution": "be Instituto Superior Técnico",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Customer Lifetime Value Prediction"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "anes Feedzai",
+   "issuer": "Lisbon Microsoft Certified: Power BI Data"
+  },
+  {
+   "name": "Grew the team by 28% in two years while Analyst Associate",
+   "issuer": null
+  },
+  {
+   "name": "keeping attrition below 24% Microsoft",
+   "issuer": ""
+  },
+  {
+   "name": "Introduced weekly operating reviews that cut",
+   "issuer": null
+  },
+  {
+   "name": "decision turnaround from 8 days to 1 day TensorFlow Developer Certificate",
+   "issuer": null
+  },
+  {
+   "name": "Partnered with senior leadership to define the Google",
+   "issuer": ""
+  },
+  {
+   "name": "annual roadmap and a budget of €1.6M",
+   "issuer": null
+  },
+  {
+   "name": "Databricks Certified Data Engineer",
+   "issuer": null
+  },
+  {
+   "name": "Represented the function in executive steering",
+   "issuer": null
+  },
+  {
+   "name": "committees and board-level reporting",
+   "issuer": "Databricks"
+  },
+  {
+   "name": "Leda team of 12 across 8 workstreams",
+   "issuer": null
+  },
+  {
+   "name": "owning hiring",
+   "issuer": "performance reviews and"
+  }
+ ],
+ "_runtime_s": 0.025
+}

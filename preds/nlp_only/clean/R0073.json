@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0073",
+ "name": "Francesca Gallo",
+ "contact": {
+  "email": "francescagallo22@outlook.it",
+  "phone": "+39 328 400 9103",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/francescagallo"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA",
+   "institution": "Politecnico di Milano Milan",
+   "dates": "Sep, 2010 — Jul, 2013"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Director of Operations",
+   "company": "Stellantis",
+   "dates": "Apr, 2025 — Present",
+   "bullets": []
+  },
+  {
+   "title": "Director of Operations",
+   "company": "Uber",
+   "dates": "Oct, 2023 — Mar, 2025",
+   "bullets": []
+  },
+  {
+   "title": "Inventory Analyst",
+   "company": "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+   "dates": "Oct, 2013 — Sep, 2023",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CIPS Level 4 Diploma in Procurement and Supply",
+   "issuer": "CIPS"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.059
+}

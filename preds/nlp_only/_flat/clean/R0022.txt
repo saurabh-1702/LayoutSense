@@ -1,0 +1,45 @@
+E sultanalmazrouei@gmail.com
+T 055 688 6303
+A Abu Dhabi, United Arab Emirates
+Sultan Al Mazrouei
+Li linkedin.com/in/sultan-almazrouei4
+Career History Education
+Oct 2025 — Present BSc (Hons) Data Science
+Lead Data Analyst Zayed University
+ADNOC | Abu Dhabi Aug 2017 — Aug 2020 | Upper Second Class Honours (2:1)
+> Productionised ML models with Docker and MLflow,
+cutting model deployment time from weeks to 8 days Key Skills
+» Authored SQL data quality checks across 50 tables, Languages: R « Python * SQL
+reducing reporting incidents by 23% ML & Al: NLP « PyTorch * Computer Vision ¢ scikit-learn
+> Reduced Spark job runtime by 60% through partitioning ¢ Hugging Face Transformers
+and broadcast join optimisation
+Soft Skills: Problem Solving * Public Speaking * Team
+> Partnered with senior leadership to define the annual
+Leadership
+roadmap and a budget of AED 20.3M
+Oct 2020 — Sep 2025 Notable Projects
+Business Intelligence Analyst
+Credit Risk Scoring Model
+Google | Abu Dhabi
+Gradient-boosted model on 1.8M loan applications with
+> Designed and maintained 8 Airflow pipelines ingesting
+SHAP explanations and fairness checks.
+428K+ records daily into Snowflake
+Technologies: Python, R, SQL, PyTorch
+> Partnered with finance to build an anomaly detection
+Customer Lifetime Value Prediction
+system that flagged AED 383M in billing errors
+Probabilistic BG/NBD model to rank customers by
+>» Ran 10 A/B experiments on pricing and onboarding
+expected value for marketing spend.
+flows, lifting conversion by 20%
+> Built a customer segmentation framework using
+Honors
+clustering on 6.8M profiles to drive targeted campaigns
+Spot Award for Excellence
+Google, 2025
+Language Proficiency
+Arabic Native
+English Conversational
+Urdu Conversational
+Hindi Fluent

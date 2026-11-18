@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0150",
+ "name": "Amanda Silva",
+ "contact": {
+  "email": "silva@gmail.com",
+  "phone": "(51) 99526-5903",
+  "location": "Curitiba, PR"
+ },
+ "education": [
+  {
+   "degree": "M.S. in Manufacturing Systems",
+   "institution": "Instituto Tecnoldgico de",
+   "dates": null
+  },
+  {
+   "degree": "BS, Aerospace Engineering",
+   "institution": "Insper",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "BS, Aerospace Engineering"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.027
+}

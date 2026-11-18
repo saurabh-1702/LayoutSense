@@ -1,0 +1,36 @@
+{
+ "resume_id": "R0275",
+ "name": "IQRA ABBASI",
+ "contact": {
+  "email": "igra.abbasi@gmail.com",
+  "phone": "0310-2641643",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/iqraabbasi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MEng Power Systems FAST National University of and",
+   "institution": "MEng Power Systems FAST National University of and",
+   "dates": "2014"
+  },
+  {
+   "degree": "BEng Electronics and National University of Sciences and First Class",
+   "institution": "BEng Electronics",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Altium Designer Siemens TIA Portal"
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.036
+}

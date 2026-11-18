@@ -1,0 +1,40 @@
+{
+ "resume_id": "R0110",
+ "name": "Anjali Natarajan",
+ "contact": {
+  "email": "anjali1994@gmail.com",
+  "phone": "+49 162-82344573"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/anjali-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PGDM in Pharmaceutical > Developed an extended-release tablet formulation that cut",
+   "institution": "Indian Institute of Management > Trained 13 analysts on data integrity and ALCOA+ principles",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor of Science in Chemistry",
+   "institution": "Bachelor of Science in Chemistry",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pharmacovigilance Signal Detection"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.059
+}

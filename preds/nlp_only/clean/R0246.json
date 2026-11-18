@@ -1,0 +1,86 @@
+{
+ "resume_id": "R0246",
+ "name": "Pritam Mohanty",
+ "contact": {
+  "email": "pritam.mohanty@yahoo.co.in",
+  "phone": "+91 6325740103",
+  "location": "Guwahati, Assam, India"
+ },
+ "education": [
+  {
+   "degree": "Bachelor of Commerce",
+   "institution": "Mapped procure-to-pay controls for a retail chain and Indian Institute of Management",
+   "dates": "October 2025"
+  },
+  {
+   "degree": "Class XII (CBSE)",
+   "institution": "Delhi Public School",
+   "dates": null
+  },
+  {
+   "degree": "Class X (SSC)",
+   "institution": "Delhi Public School",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Intern",
+   "company": "86.7%",
+   "dates": "October 2025 — March 2026",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "CaseWare",
+  "Excel (",
+  "SAP FICO",
+  "Alteryx",
+  "5 yo",
+  "2 Be",
+  "c = oO",
+  "2 oO = aan aan",
+  "Month-end Close",
+  "US GAAP",
+  "SOX Compliance",
+  "IFRS",
+  "§c 9s ae ios",
+  "an <a",
+  "a 3 oO <",
+  "oO D St. ) 5",
+  "fo) \\v) Q 2",
+  "LICENSES &"
+ ],
+ "projects": [
+  {
+   "name": "Internal Controls Review Bachelor of Commerce"
+  },
+  {
+   "name": "Class XII (CBSE)"
+  },
+  {
+   "name": "Delhi Public School"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor",
+   "issuer": "CIA)"
+  },
+  {
+   "name": "The IIA",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.063
+}

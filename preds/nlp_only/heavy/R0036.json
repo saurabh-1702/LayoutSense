@@ -1,0 +1,22 @@
+{
+ "resume_id": "R0036",
+ "name": "Connor Morrison",
+ "contact": {
+  "email": "connor.morrison@icloud.com",
+  "phone": "+1 613-915-0672",
+  "location": "Ottawa, ON"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/connor-morrison-ebb1f1"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Samon Fraser University",
+   "dates": null
+  }
+ ],
+ "_runtime_s": 0.018
+}

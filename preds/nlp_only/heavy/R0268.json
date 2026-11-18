@@ -1,0 +1,37 @@
+{
+ "resume_id": "R0268",
+ "name": "Pfizer - Kolkata",
+ "contact": {
+  "email": "majumdar@pmail.co",
+  "phone": "491 8917412521"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Chemistry",
+   "institution": "Indian Institute of Science",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Veeva Vault “3"
+  },
+  {
+   "name": "Formulation of Fast-Dissolving Tablets"
+  },
+  {
+   "name": "Eaagas Pharmacovigilance Signal Detection"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Regulatory Affairs Certification",
+   "issuer": "RAC)"
+  },
+  {
+   "name": "RAPS",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.069
+}

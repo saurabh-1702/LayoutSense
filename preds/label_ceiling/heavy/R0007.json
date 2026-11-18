@@ -1,0 +1,125 @@
+{
+ "resume_id": "R0007",
+ "name": "AHMED MOSTAFA MAHMOUD",
+ "contact": {
+  "email": "ahmedmahmoud@gmail.com",
+  "phone": "+20 1190902746",
+  "location": "Giza, Egypt"
+ },
+ "links": [
+  {
+   "url": "linkedin,com/in/ahmed-mahmoud2"
+  },
+  {
+   "url": "github.com/amahmoud"
+  }
+ ],
+ "education": [
+  {
+   "dates": "Aug 2011—Aug 2015",
+   "degree": "BS, Information Technology",
+   "institution": "Nile University",
+   "location": "Giza",
+   "grade": "GPA: 3.40"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Nov 2025--Present",
+   "title": "Staff Software Engineer",
+   "company": "Visa",
+   "location": "Giza",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 52%",
+    "Developed internal tooling in Linux that saved the support team 29 hours per week",
+    "Built a real-time notification service using Linux and Apache Kafka that processes 71,000 events per hour",
+    "Owned the payments integration with 12 third-party gateways, reducing failed transactions by 15%",
+    "Designed and built 21 RESTful microservices in Linux and Redis, serving 6.0M requests per day with 99.95% uptime",
+    "Grew the team by 18% in two years while keeping attrition below 20%"
+   ]
+  },
+  {
+   "dates": "Mar 2023--Oct 2026",
+   "title": "Senior Mobile Engineer",
+   "company": "Visa",
+   "location": "Remote — Egypt",
+   "bullets": [
+    "Cut cloud infrastructure costs by EGP 97M annually by right-sizing instances and adopting spot capacity",
+    "Collaborated with product and design to ship 13 major releases on schedule across web and mobile",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 19 hours to 15 minutes",
+    "Resolved 75+ production issues as part of the on-call rotation, reducing mean time to recovery by 49%",
+    "Mentored W junior colleagues, saveral of when were promoted within 18 months",
+    "latency by 56% by introducing Redis caching and optimising slow",
+    "sign documents and led code reviews for a team of 12 engineers",
+    "Introduced feature flags and canary releases, lowering production incidents by 32% quarter over quarter",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 21% to 85%"
+   ]
+  }
+ ],
+ "skills": [
+  "Redis",
+  "DynamoDB",
+  "MongoDB",
+  "Cassandra",
+  "PostgreSQL",
+  "Flutter",
+  "Next.js",
+  "React",
+  ".NET Core",
+  "Microsoft Azure",
+  "Kubernetes",
+  "Linux",
+  "Terraform",
+  "Google Cloud Platform"
+ ],
+ "projects": [
+  {
+   "dates": "Dec 2014",
+   "name": "Expense Splitter App",
+   "description": "Mobile app for splitting group expenses with OCR receipt scanning and UPI/PayPal settlement links.",
+   "tech": "Microsoft Azure, Flutter"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "Aug 2016",
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "year": "2016",
+   "name": "AWS Certified Solutions Architect —- Associate",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "year": "2021",
+   "name": "Meta Front-End Developer Professional Certificate",
+   "issuer": "Coursera"
+  }
+ ],
+ "awards": [
+  {
+   "year": "2026",
+   "name": "Customer Champion Award",
+   "issuer": "Visa"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "B2"
+  },
+  {
+   "language": "French",
+   "proficiency": "C1"
+  },
+  {
+   "language": "German",
+   "proficiency": "B2"
+  }
+ ]
+}

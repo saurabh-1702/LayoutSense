@@ -1,0 +1,140 @@
+{
+ "resume_id": "R0084",
+ "name": "Darren Wong",
+ "headline": "Resident Medical Officer",
+ "contact": {
+  "email": "wong.darren@yahoo.com.sg",
+  "phone": "+65 8460 8489",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/darrenwong-61"
+  },
+  {
+   "url": "www.darrenwong.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MMed (Cardiology)",
+   "institution": "National University of Singapore",
+   "dates": "2015-09 - 2016-06"
+  },
+  {
+   "degree": "Bachelor of Medicine"
+  },
+  {
+   "degree": "Bachelor of Surgery (MBBS)",
+   "institution": "Nanyang Technological University",
+   "dates": "2010-09 - 2015-07",
+   "grade": "Upper Second-Class (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2020-12 - Present",
+   "title": "Resident Medical Officer",
+   "company": "Singapore General Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 45%",
+    "Ran outpatient clinics seeing 23 patients per session with a focus on diabetes and hypertension",
+    "Supervised and taught 14 interns and medical students on ward rounds",
+    "Presented case reports at 8 national conferences",
+    "Managed an average of 14 inpatients daily across general medicine and high-dependency units",
+    "Performed 150+ procedures including central lines, thoracentesis and lumbar punctures 78%",
+    "Co-authored 13 peer-reviewed publications in indexed journals",
+    "Implemented an antibiotic stewardship protocol that reduced broad-spectrum use by 12% 56% 72%",
+    "Responded to emergencies as part of the rapid response team during night shifts"
+   ]
+  },
+  {
+   "dates": "2019-10 - 2020",
+   "title": "Specialty Registrar Medicine",
+   "company": "Tan Tock Seng Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Grew the team by 33% in two years while keeping attrition below 11%",
+    "Mentored 13 junior colleagues, several of whom were promoted within 18 months 57% 73%",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Partnered with senior leadership to define the annual roadmap and a budget of S$614K 60%",
+    "Led a team of 11 across 7 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Introduced weekly operating reviews that cut 58% 38% decision turnaround from 14 days to 1 day"
+   ]
+  },
+  {
+   "dates": "2019-01 - 2019",
+   "title": "Resident Medical Officer",
+   "company": "Mount Elizabeth Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Implemented an antibiotic stewardship protocol 54% that reduced broad-spectrum use by 51%",
+    "Responded to emergencies as part of the rapid response team during night shifts",
+    "Co-authored 12 peer-reviewed publications in indexed journals",
+    "Managed an average of 8 inpatients daily across general medicine and high-dependency units",
+    "Performed 180+ procedures including central lines, thoracentesis and lumbar punctures"
+   ]
+  },
+  {
+   "dates": "2016-09 - 2018",
+   "title": "Medical Officer",
+   "company": "Mount Elizabeth Hospital",
+   "location": "Singapore",
+   "bullets": [
+    "Ran outpatient clinics seeing 11 patients per session with a focus on diabetes and hypertension",
+    "Presented case reports at 9 national conferences",
+    "Led a clinical audit on sepsis bundle compliance that improved adherence by 20%",
+    "Supervised and taught 7 interns and medical students on ward rounds"
+   ]
+  }
+ ],
+ "skills": [
+  "”)",
+  "Emergency Central Line Medicine Insertion",
+  "Internal Critical Care 77%",
+  "ICD-10 Coding",
+  "Clinical Audit",
+  "Cerner",
+  "Epic EHR",
+  "Telemedicine",
+  "Adaptability",
+  "Cross-functional",
+  "Problem Solving",
+  "Collaboration",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Prevalence of Anaemia in Adolescents",
+   "dates": "2024-01",
+   "description": "Cross-sectional study of 200 school students; presented at the state medical conference."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "USMLE Step 1 & 2 CK",
+   "issuer": "NBME",
+   "year": "2023"
+  },
+  {
+   "name": "ATLS Provider",
+   "issuer": "American College of Surgeons",
+   "year": "2024."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Nanyang Technological University",
+   "year": "(2016)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "eccce"
+  }
+ ],
+ "_runtime_s": 0.67
+}

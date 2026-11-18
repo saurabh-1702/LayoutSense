@@ -1,0 +1,49 @@
+{
+ "resume_id": "R0295",
+ "name": "Yoga Pratama",
+ "education": [
+  {
+   "dates": "June 2015",
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "institut Teknologi Bandung",
+   "location": "Bandung"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "October 2023 - Present",
+   "company": "Bank Central Asia",
+   "location": "Jakarta.",
+   "bullets": [
+    "Presented quarterly business reviews to the cro and board \" it margin insights",
+    "hanaged a oan porttiof R .1 18 across 250 rela slippages in FY",
+    "Introduced weekly operating reviews that cut decision tt days to 1 day"
+   ]
+  },
+  {
+   "dates": "November 2018- September 2023",
+   "title": "Risk Manager",
+   "company": "Bank Mandiri",
+   "location": "Surabaya",
+   "bullets": [
+    "Prepared pitch books and information memoranda for 4 ‘sell-side n",
+    "Supported due diligence on 5 acquisitions, ‘including working synergy analysis 7",
+    "Led the annual budgeting and rolling forecast process ee a business unit with IDR 52.8B in revenue",
+    "model 16¢ - Implemented an Anaplan-based planning replacing * | spreadsheets",
+    "Grew the assets under management of assigned aio bs Seen on yor"
+   ]
+  },
+  {
+   "dates": "July 2015. October 2018",
+   "title": "Equity Research Associate",
+   "company": "Mastercard",
+   "location": "Jakarta",
+   "bullets": [
+    "Built three-statement financial models and DCF valimtions for 17 deals v worth a combined IDR 66.8B",
+    "identified cost savings of IDR 9.7B through vendor spend analysis and contract renegotiation",
+    "Automated monthly variance reporting in SAP S/4HANA, saving the finance team 30 hours per cycle",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "resume_id": "R0001",
+ "name": "Ruan Jacobs",
+ "contact": {
+  "phone": "07335 93018",
+  "location": "Glasgow, UK"
+ },
+ "education": [
+  {
+   "degree": "BSc (Hons) Mechanical Engineering oe 7 (Expected)",
+   "institution": "University of the Witwatersrand a",
+   "dates": "2023-2027"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Business Analyst Intern",
+   "company": "Bain & Company",
+   "dates": "Nov 2025-Jan 2026",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 22 stakeholder meetings",
+    "Authored 14 thought-leadership articles and contributed to proposals worth GBP 132K",
+    "Assisted with day-to-day management consulting operations and maintained accurate records"
+   ]
+  }
+ ],
+ "skills": [
+  "Market Sizing",
+  "Change Management",
+  "Hypothesi",
+  "engineering",
+  "PowerPoint",
+  "Excel",
+  "Think-ceil",
+  "Tableau"
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Scrum Master",
+   "issuer": "CSM)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "isiXhosa",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.035
+}

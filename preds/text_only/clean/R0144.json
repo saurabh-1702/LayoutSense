@@ -1,0 +1,91 @@
+{
+ "resume_id": "R0144",
+ "name": "Thabo Dlamini",
+ "contact": {
+  "email": "thabo.dlamini@gmail.com",
+  "phone": "+27 745586969",
+  "location": "Cape Town, South Africa"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/thabodlamini"
+  },
+  {
+   "url": "behance.net/thabodlamini"
+  },
+  {
+   "url": "www.thabodlamini.com"
+  }
+ ],
+ "education": [
+  {
+   "grade": "75%",
+   "degree": "BA (Hons) Communication Design",
+   "institution": "University of Pretoria",
+   "dates": "September 2021 — May 2024"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "June 2024 — Present",
+   "title": "UI/UX Designer",
+   "company": "Woolworths Holdings",
+   "location": "Cape Town",
+   "bullets": [
+    "Conducted 22 rounds of usability testing with 60 participants to validate checkout improvements",
+    "Partnered with engineering to ship 22 features per quarter with pixel-perfect handoff in Miro 78%",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Created brand identity, packaging and campaign assets for 9 product launches"
+   ]
+  },
+  {
+   "company": "Miro"
+  }
+ ],
+ "skills": [
+  "Usability Testing",
+  "Wireframing ‘Oo",
+  "User Research",
+  "Interaction Design",
+  "Accessibility",
+  "Y Y",
+  "Blender",
+  "Adobe Photoshop"
+ ],
+ "projects": [
+  {
+   "name": "Museum Wayfinding Redesign",
+   "dates": "November 2022",
+   "description": "Signage and digital kiosk system tested with 150 visitors over 4 months.",
+   "tech": "Blender, Adobe After Effects, Adobe Photoshop, Miro 54% 61%"
+  },
+  {
+   "name": "Design System for a Fintech Startup",
+   "description": "Token-based component library in Figma with documentation and dark-mode support."
+  },
+  {
+   "name": "Adobe After Effects"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "(WCAG)"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2023"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Afrikaans",
+   "proficiency": "eee"
+  }
+ ],
+ "_runtime_s": 0.278
+}

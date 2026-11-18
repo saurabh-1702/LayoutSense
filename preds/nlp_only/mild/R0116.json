@@ -1,0 +1,47 @@
+{
+ "resume_id": "R0116",
+ "contact": {
+  "email": "reza.tehrani@gmail.com",
+  "phone": "+1 (313) 452-2487",
+  "location": "Detroit, MI, USA"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/reza-tehrani1"
+  },
+  {
+   "url": "Apollo.io"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Commerce",
+   "institution": "University of Tehran",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Sales Development Representative Persian Native",
+   "company": "CE LANGUAGES",
+   "dates": "Oct, 2025-Present",
+   "bullets": [
+    "Achieved 9% of annual quota for 21 consecutive",
+    "Onboarded and trained 11 new sales",
+    "» Expanded distribution to 250 new retail outlets",
+    "Ranked #1 out of 12 account executives in the Key Account Management"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Professional Sales Person",
+   "issuer": "NASP"
+  },
+  {
+   "name": "Salesforce Certified Administrator",
+   "issuer": "Salesforce"
+  }
+ ],
+ "_runtime_s": 0.039
+}

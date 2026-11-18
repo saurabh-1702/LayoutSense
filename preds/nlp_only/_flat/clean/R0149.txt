@@ -1,0 +1,26 @@
+ipereira@gmail.com @
++55 (81) 97296-7307 *&
+Curitiba, PR, Brazil 9
+ISABELA COSTA PEREIRA www.linkedin.com/in/isabela-pereira4 2
+Work History
+Itau Unibanco Curitiba
+Junior Software Developer Jul 2023 — Present
+¢ Wrote technical design documents and led code reviews for a team of 9 engineers
+¢ Reduced p95 API latency by 25% by introducing Redis caching and optimising slow PostgreSQL
+queries
+¢ Resolved 80+ production issues as part of the on-call rotation, reducing mean time to recovery
+by 51%
+¢ Developed customer-facing features in Angular used by 464K monthly active users
+Educational Qualifications
+B.S. in Computer Science 2019 — 2023
+Instituto Tecnoldgico de Aeronautica, SAo José dos Campos
+Summa Cum Laude
+Areas of Expertise
+Certifications
+¢ HashiCorp Certified: Terraform Associate — HashiCorp (Jan 2024)
+¢ AWS Certified Developer — Associate — Amazon Web Services (2026)
+Languages Known
+Portuguese (Native), English (Fluent)
+Awards
+¢ Winner, Smart India Hackathon (2021)
+¢ Gold Medal for Academic Excellence, Instituto Tecnol6gico de Aeronautica (2023)

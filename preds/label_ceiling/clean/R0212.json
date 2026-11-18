@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0212",
+ "name": "E L E N A S @) KO LOV",
+ "headline": "Accounts Payable Specialist _",
+ "contact": {
+  "email": "elena.sokolov@gmail.com",
+  "phone": "+7 (962) 939-26-79",
+  "location": "Novosibirsk, Russia"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. Accounting and Finance",
+   "institution": "HSE University",
+   "dates": "June 2025"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "July 2025—Present",
+   "title": "Accounts Payable Specialist",
+   "company": "Citi",
+   "bullets": [
+    "Documented and tested 23 SOX controls, closing all audit findings ahead of year-end",
+    "Implemented CaseWare for accounts payable, automating 18% of invoice processing",
+    "Managed the month-end close for 3 legal entities, reducing the close cycle from 12 to 5 working days",
+    "Trained 14 junior accountants on Ind AS transition adjustments"
+   ]
+  }
+ ],
+ "skills": [
+  "Transfer Pricing",
+  "Internal Audit",
+  "Month-end Close",
+  "Ind AS",
+  "US GAAP",
+  "Tally ERP 9",
+  "Microsoft Dynamics 365"
+ ],
+ "certifications": [
+  {
+   "name": "Certified Internal Auditor (CIA)",
+   "issuer": "The IIA",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Star Performer Award",
+   "issuer": "Citi",
+   "year": "2025"
+  },
+  {
+   "name": "Team Excellence Award",
+   "issuer": "Citi",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Russian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "German",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "French",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

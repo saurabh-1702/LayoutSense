@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0128",
+ "contact": {
+  "email": "riccardo.bruno@hotmail.it",
+  "phone": "+39 380 2866974",
+  "location": "Turin, Italy"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/riccardo-bruno"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Electronics and",
+   "institution": "B.Sc.",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "weekly",
+   "dates": "2022 - 2026",
+   "bullets": []
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Oracle Certified Professional: Java",
+   "issuer": null
+  },
+  {
+   "name": "SE 17 Developer",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Italian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C1"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "B2"
+  },
+  {
+   "language": "German",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.031
+}

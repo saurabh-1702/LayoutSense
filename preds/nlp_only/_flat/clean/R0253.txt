@@ -1,0 +1,59 @@
+CHO SEOYEON
+Software Engineer
+Incheon, South Korea | +82 10-7564-6037 | seoyeoncho50@gmail.com |
+www.linkedin.com/in/seoyeon-cho-61 | github.com/seoyeon8
+Work Experience
+Naver Remote — South Korea
+Software Engineer 02/2026 — Current
+Rebuilt the search experience with Elasticsearch, improving result relevance and click-
+through by 13%
+Reduced p95 API latency by 46% by introducing Redis caching and optimising slow
+PostgreSQL queries
+Resolved 80+ production issues as part of the on-call rotation, reducing mean time to
+recovery by 37%
+Built a real-time notification service using Swift and Apache Kafka that processes 381K+
+events per hour
+Collaborated with product and design to ship 18 major releases on schedule across web and
+mobile
+Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment
+time from 12 hours to 15 minutes
+Designed and built 5 RESTful microservices in Swift and C++, serving 187K requests per day
+with 99.95% uptime
+Naver Incheon
+Graduate Software Engineer 06/2025 — 01/2026
+Cut cloud infrastructure costs by KRW 668M annually by right-sizing instances and
+adopting spot capacity
+Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code
+coverage from 25% to 85%
+Introduced feature flags and canary releases, lowering production incidents by 15% quarter
+over quarter
+Developed customer-facing features in Elasticsearch used by 8.5M monthly active users
+Owned the payments integration with 8 third-party gateways, reducing failed transactions
+by 32%
+Wrote technical design documents and led code reviews for a team of 3 engineers
+Developed internal tooling in Elasticsearch that saved the support team 14 hours per week
+Academic Qualifications
+Bachelor of Science in Computer Applications 09/2021 — 03/2025
+POSTECH, Pohang
+GPA: 3.10
+Skills & Tools
+C++ ¢ Swift « Ruby « GraphQL « Spring Boot « Ruby on Rails « Next.js « Linux « CI/CD « Jenkins
+¢ Docker * DynamoDB « MongoDB « Redis « PostgreSQL « Elasticsearch « Negotiation « Critical
+Thinking
+Academic Projects
+URL Shortener at Scale
+Load-tested URL shortener handling 382K+ redirects/minute with consistent hashing and
+Redis.
+Open-source CLI Contribution 04/2023
+Contributed 4 merged pull requests to a popular open-source CLI tool, adding plugin support.
+Tools: Docker, Spring Boot, Next.js
+Languages
+Korean (Native) | English (Advanced)
+Certificates
+« AWS Certified Developer — Associate — Amazon Web Services (2023)
+¢ Certified Kubernetes Administrator (CKA) — The Linux Foundation (2025)
+« AWS Certified Solutions Architect — Associate — Amazon Web Services (02/2024)
+¢ Meta Front-End Developer Professional Certificate — Coursera (01/2023)
+Awards
+¢ Gold Medal for Academic Excellence, POSTECH (2025)
+e Star Performer Award, Naver (2026)

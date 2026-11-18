@@ -1,0 +1,119 @@
+{
+ "resume_id": "R0209",
+ "name": "CHEN Yan",
+ "headline": "Structural Engineer",
+ "contact": {
+  "email": "yan_chen@gmail.com",
+  "phone": "(424) 408-9608",
+  "location": "Los Angeles, CA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yan-chen"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Eng. in Construction Engineering",
+   "dates": "April 2020",
+   "institution": "Harbin Institute of Technology",
+   "location": "Harbin, China"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Structural Engineer",
+   "company": "Turner Construction",
+   "location": "Los Angeles, CA",
+   "dates": "August 2023 - Present",
+   "bullets": [
+    "Grew the team by 34% in two years while keeping attrition below 20%",
+    "Partnered with senior leadership to define the annual roadmap and a budget of $902K",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 20 days to 1 day",
+    "Mentored 3 junior colleagues, several of whom were promoted within 18 months",
+    "Led a team of 8 across 4 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Structural Engineer",
+   "company": "Arup",
+   "location": "Shanghai, China",
+   "dates": "June 2022 - July 2023",
+   "bullets": [
+    "Achieved 310K+ safe man-hours without a lost-time injury on site",
+    "Scheduled a 4-month metro station package in SAP2000, recovering 8 weeks of delay",
+    "Designed RCC and steel structures in AutoCAD for 8 commercial projects",
+    "Delivered a 13 km highway stretch 21 weeks ahead of schedule",
+    "Coordinated 6 subcontractors and 60+ workers across civil and MEP activities",
+    "Prepared BOQs and rate analyses for tenders worth $560K"
+   ]
+  },
+  {
+   "title": "Site Engineer",
+   "company": "China State Construction Engineering",
+   "location": "Shanghai, China",
+   "dates": "June 2020 - May 2022",
+   "bullets": [
+    "Managed client billing and variations, improving cash collection by 34%",
+    "Supervised construction of a 19-storey residential tower with a contract value of USD 797K",
+    "Introduced BIM clash detection that cut rework costs by 26%",
+    "Conducted soil investigation reviews and foundation design for 6 bridges"
+   ]
+  }
+ ],
+ "skills": [
+  "Value Engineering",
+  "HSE Compliance",
+  "Highway Design",
+  "Project Planning",
+  "Tekla Structures",
+  "(AutoCAD)",
+  "SAP2000"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building",
+   "dates": "October 2019",
+   "description": "Complete structural design in ETABS with seismic analysis per IS 1893.",
+   "tech": "AutoCAD, SAP2000, Tekla Structures"
+  },
+  {
+   "name": "Pervious Concrete Mix Study",
+   "dates": "November 2024",
+   "description": "Lab study of 10 mix designs for urban stormwater management."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "(2019)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council",
+   "year": "(March 2026)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Site Engineer Award",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C2)"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "(C1)"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0056",
+ "name": "Olumide Okafor",
+ "contact": {
+  "email": "ookafor@yahoo.com",
+  "phone": "+234-808-136-3880",
+  "location": "Kano, Nigeria"
+ },
+ "education": [
+  {
+   "degree": "MEng Information Technology",
+   "institution": "Oracle, Abuja Covenant University",
+   "dates": "07/2025"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Reduced Spark job runtime by 49% through",
+   "issuer": null
+  },
+  {
+   "name": "partitioning and broadcast join optimisation SnowPro Core Certification",
+   "issuer": null
+  },
+  {
+   "name": "Productionised ML models with Docker and Snowflake",
+   "issuer": ""
+  },
+  {
+   "name": "MLflow",
+   "issuer": "cutting model deployment time from"
+  },
+  {
+   "name": "weeks to 22 days Tableau Desktop Specialist",
+   "issuer": null
+  },
+  {
+   "name": "Created executive dashboards in Apache Kafka Tableau",
+   "issuer": ""
+  },
+  {
+   "name": "tracking 17 KPls",
+   "issuer": "adopted by 75+ business users"
+  },
+  {
+   "name": "Designed and maintained 24 Airflow pipelines Deep Learning Specialization",
+   "issuer": "DeepLearning.Al"
+  },
+  {
+   "name": "ingesting 68,000 records daily into Snowflake",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.03
+}

@@ -1,0 +1,55 @@
+IQRA ABBASI
+Principal Hardware Engineer
+/Mobile —_| 0310-2641643 [Email —_| iqra.abbasi@gmail.com
+Karachi, Pakistan LinkedIn linkedin.com/in/iqraabbasi
+Employment History
+'SNo. [Organisation ——=~=—*( Designation rom [TO
+1 Engro Corporation Principal Hardware Engineer Nov 2025 Present
+Lahore
+Responsibilities & Achievements:
+« Partnered with senior leadership to define the annual roadmap and a budget of PKR 13.8M
+» Grew the team by 50% in two years while keeping attrition below 5%
+« Represented the function in executive steering committees and board-level reporting
+« Led a team of 4 across 18 workstreams, owning hiring, performance reviews and quarterly
+planning
+« Performed load flow and short-circuit studies for 14 industrial clients
+» Partnered with senior leadership to define the annual roadmap and a budget of PKR 737K
+2 Shell Principal Hardware Engineer | Jun 2024 Oct 2025
+Karachi
+Responsibilities & Achievements:
+« Verified RTL designs on FPGA, achieving timing closure at 200 MHz
+» Mentored 12 junior colleagues, several of whom were promoted within 18 months
+3 ABB Lead Electrical Engineer Jun 2021 May 2024
+Karachi
+Responsibilities & Achievements:
+« Designed protection schemes for 17 132/33 kV substations using Altium Designer
+« Led root cause analysis on transformer failures, saving PKR 240K in replacement costs
+« Programmed Siemens PLCs to automate a packaging line, raising throughput by 46%
+« Reduced energy losses by 53% through power factor correction and harmonic filtering
+4 WwSP Junior Electronics Engineer May 2014 May 2021
+Karachi
+Responsibilities & Achievements:
+« Commissioned a 22 MW solar plant including inverters, transformers and SCADA integration
+« Designed 5-layer PCBs in PSCAD for an industrial IoT gateway
+« Developed firmware in Embedded C for a battery management system on 60+ EV packs
+Educational Qualifications
+MEng Power Systems FAST National University of Computer and 2014
+Emerging Sciences
+BEng Electronics and National University of Sciences and 2013 First Class
+Communication Technology Honours
+Engineering
+Key Skills
+scl *Priciency [Skin Proficiency,
+Renewable Energy Integration HV Substations
+Notable Projects
+Smart Energy Meter with ESP32-based meter streaming consumption data to a cloud
+IoT dashboard.
+Stack: Altium Designer, DIgSILENT PowerFactory
+Languages
+[language [Read [Write [Speak [Proficiency
+English Professional Working Proficiency
+Achievements
+= Dean's List — National University of Sciences and Technology (2013)
+= Star Performer Award - Shell (2025)
+Certificates
+[siNo. [Certfication —~—~=S*S*S*S*S*~rR Ng Organon = ear

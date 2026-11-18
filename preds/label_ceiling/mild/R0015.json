@@ -1,0 +1,112 @@
+{
+ "resume_id": "R0015",
+ "name": "Pooja Negi",
+ "contact": {
+  "email": "pooja.negi@yahoo.co.in",
+  "phone": "+91-8830060101",
+  "location": "Jaipur, Rajasthan, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/poojanegi-19"
+  },
+  {
+   "url": "dribbble.com/poojanegi"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Design (Visual Communication)",
+   "institution": "National Institute of Design",
+   "dates": "2022"
+  },
+  {
+   "degree": "Bachelor of Design (Graphic Design)",
+   "institution": "Amity University",
+   "dates": "2020",
+   "grade": "CGPA 7.57"
+  }
+ ],
+ "experience": [
+  {
+   "bullets": [
+    "Introduced weekly operating reviews that cut decision turnaround from 28 days to 1 day",
+    "the function in executive steering committees and board-level reporting",
+    "Led a team of 12 across 10 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Grew the team by 58% in two years while keeping attrition below 14%",
+    "Mentored 14 junior colleagues, several of whom were promoted within 18 months",
+    "Built and maintained a system of 60+ components used by 19 product squads a",
+    "Ran discovery workshops and journey mapping with stakeholders across 24 markets",
+    "Tino WCAG 2.1 AA compliance from 20% to 96% across core journeys",
+    "Created brand identity, packaging and campaign assets for 15 product launches",
+    "Produced motion graphics and explainer videos with Adobe After Effects reaching 860K views",
+    "Redesigned the onboarding flow in Maze, increasing activation by 46% across 8.3M new users",
+    "Partnered with engineering to ship 15 features per quarter with pixel-perfect handoff in Adobe XD",
+    "Conducted 5 rounds of usability testing with 300 participants to validate checkout improvements",
+    "Reduced support tickets by 18% by simplifying the account settings experience",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store"
+   ],
+   "dates": "Oct 2022 | Sep 2025",
+   "company": "CRED",
+   "title": "UI/UX Designer"
+  }
+ ],
+ "skills": [
+  "Branding",
+  "Accessibility (WCAG)",
+  "Design Systems",
+  "Interaction Design",
+  "Framer",
+  "Maze",
+  "Adobe XD",
+  "Adobe After Effects",
+  "Sketch",
+  "Team Leadership",
+  "Time Management"
+ ],
+ "projects": [
+  {
+   "name": "Accessible Transit App Concept",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Maze, Sketch"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Interaction Design Foundation - UX Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2022"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "Sep 2023"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "2026"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "2022"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Awwwards Honorable Mention"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Full Professional Proficiency"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0198",
+ "name": "PHAN QUOC THANG",
+ "contact": {
+  "email": "thangp321@gmail.com",
+  "phone": "+81 90-1103-1765",
+  "location": "Kyoto, Japan"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Electrical and Electronics",
+   "institution": "that the team adopted RMIT University",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Electrical Engineering Intern » PCB Design",
+   "company": "Hitachi » Battery Management Systems",
+   "dates": "Jan 2026 — Mar 2026",
+   "bullets": [
+    "Built a tracker in DIgSILENT PowerFactory that streamlined weekly » FPGA",
+    "Collected and cleaned data from 8 sources to support a electrical & » Cadence Virtuoso",
+    "DIgSILENT PowerFactory"
+   ]
+  },
+  {
+   "title": "Graduate Apprentice",
+   "company": "Toyota Motor Corporation Education & Qualifications",
+   "dates": "Dec 2024 — Apr 2025",
+   "bullets": [
+    "Drafted standard operating procedures for 13 recurring tasks B.E. in Electrical and Electronics",
+    "Shadowed senior colleagues and proposed process improvements Engineering",
+    "Assisted with day-to-day electrical & electronics engineering Jun 2026"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Professional Certifications"
+  },
+  {
+   "name": "Smart Energy Meter with loT Electrical Supervisor Licence"
+  },
+  {
+   "name": "State Electrical Licensing Board"
+  },
+  {
+   "name": "Grid-tied Inverter Design Vietnamese Native"
+  },
+  {
+   "name": "Simulink. Korean B2"
+  }
+ ],
+ "_runtime_s": 0.04
+}

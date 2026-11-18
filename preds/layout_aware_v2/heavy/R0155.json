@@ -1,0 +1,61 @@
+{
+ "resume_id": "R0155",
+ "name": "Krzysztof Kowalczyk",
+ "headline": "Supply Chain Planner",
+ "education": [
+  {
+   "dates": "2026 – Present",
+   "institution": "Kozminski University",
+   "degree": "B.Sc. Industrial Engineering"
+  },
+  {
+   "institution": "AGH University of Krakow"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Orlen",
+   "title": "Supply",
+   "location": "Warsaw",
+   "bullets": [
+    "Managed impor logistics and customs clearance for 300+ containers per year",
+    "Implemented a warehouse management system in 3 sites, improving pick accuracy to 99.8%",
+    "Negotiated freight contracts that saved PLN 16.3M annually",
+    "Managed procurement spend of PLN 11.0M across 250 suppliers, delivering",
+    "6% savings CERES",
+    "rea see",
+    "Reduced inventory days by 7 while maintaining 60% service levels",
+    "Set up 7 new fulfilment centres processing 483K orders per day",
+    "Built",
+    "a supplier scorecard covering quality, cost and delivery for 400 vendors"
+   ]
+  },
+  {
+   "company": "PepsiCo",
+   "title": "Warehouse Executive",
+   "location": "Warsaw",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 53% through route optimisation",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Improved forecast accuracy from 27% to 82% by introducing statistical models in SQL"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Chain Pianner"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "PepsiCo",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Polish"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0280",
+ "name": "David Jones",
+ "headline": "Brand Executive",
+ "contact": {
+  "email": "david.jones@yahoo.com",
+  "phone": "(305) 707-8362",
+  "location": "Miami, FL"
+ },
+ "education": [
+  {
+   "degree": "B.A. in Mass Communication",
+   "institution": "Georgetown University"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Brand Executive",
+   "company": "Apple",
+   "location": "Miami",
+   "bullets": [
+    "Reduced customer acquisition cost by 40% through audience segmentation and creative testing",
+    "Led a rebrand across 20 touchpoints in partnership with an external creative agency",
+    "Grew Instagram and LinkedIn followers from 627K to over 3x within a year"
+   ]
+  }
+ ],
+ "skills": [
+  "Go-to-Market Strategy",
+  "Conversion Rate Optimisation",
+  "Influencer Marketing",
+  "EM",
+  "Market Research",
+  "Marketo",
+  "SEMrush",
+  "Canva"
+ ],
+ "certifications": [
+  {
+   "name": "Content Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "2024"
+  },
+  {
+   "name": "Google Ads Search Certification",
+   "issuer": "Google",
+   "year": "2024"
+  },
+  {
+   "name": "HubSpot Inbound Marketing Certification",
+   "issuer": "HubSpot Academy",
+   "year": "02/2025"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "2"
+  }
+ ]
+}

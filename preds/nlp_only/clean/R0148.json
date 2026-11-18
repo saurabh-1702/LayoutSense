@@ -1,0 +1,42 @@
+{
+ "resume_id": "R0148",
+ "name": "Universitat Pompeu Fabra",
+ "contact": {
+  "email": "sara.s@gmail.com",
+  "phone": "+34 706 48 57 78",
+  "location": "Logistics"
+ },
+ "education": [
+  {
+   "degree": "Bachelor in Logistics and Supply Chain Management",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor Graduate",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "skills": [
+  "chain & operations initiative",
+  "Documentation @",
+  "O Aug 2023-Dec 2023",
+  "Demand Planning",
+  "Procurement Intern",
+  "Network Design",
+  "Glovo",
+  "Madrid",
+  "Ariba",
+  "SQL",
+  "team of 4",
+  "Kinaxis RapidResponse",
+  "Presentation Skills"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation"
+  }
+ ],
+ "_runtime_s": 0.04
+}

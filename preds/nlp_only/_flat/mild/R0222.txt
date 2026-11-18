@@ -1,0 +1,41 @@
+LUCIA ALVAREZ MARTINEZ
+Data Analyst
+761 165 258 | luciaalvarez@gmail.com | Barcelona, Spain
+Work History Licenses & Certifications
+05/2025-06/2026 AWS Certified Machine Learning —
+Data Analyst Specialty
+Amazon Web Services, 2024
+BBVA | Malaga
+— Built a customer segmentation framework using clustering on 7.4M Languages Known
+profiles to drive targeted campaigns Spanish Native
+— Fine-tuned transformer models for ticket classification, automating 39%
+English Fluent
+of manual triage
+Catalan Basic
+— Created executive dashboards in Airflow tracking 18 KPls, adopted by
+150+ business users Skills & Tools
+— Python
+Academic Projects
+— SAS
+Resume Screening with NLP -R
+Named-entity extraction and job-description matching pipeline built with — Scala
+spaCy and BERT. — XGBoost
+— TensorFlow
+Achievements
+— scikit-learn
+— Winner, Inter-college Datathon (2025) — LangChain
+— Employee of the Quarter, BBVA (2026) — Computer Vision
+— A/B Testing
+— Snowflake
+— BigQuery
+— Airflow
+— dbt
+— NumPy
+Education
+B.Sc. Data Science
+Universitat Pompeu Fabra
+08/2022-03/2025 | Nota media: 7.3
+Social
+LinkedIn: linkedin.com/in/lucia-
+alvarez-68
+GitHub: github.com/lalvarez

@@ -1,0 +1,76 @@
+{
+ "resume_id": "R0019",
+ "name": "HARRY SMITH",
+ "contact": {
+  "email": "harry.smith@gmail.com",
+  "phone": "7435 88441",
+  "location": "Manchester, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/harrysmith"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Accounting and Finance",
+   "institution": "Loughborough University",
+   "dates": "Sep 2017 — Mar 2020"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Audit Associate",
+   "company": "HSBC",
+   "dates": "Jun 2020 - Apr 2023",
+   "bullets": [
+    "Documented and tested 12 SOX controls, closing all audit findings ahead of year",
+    "Trained 7 junior accountants on Ind AS transition adjustments",
+    "Managed the month-end close for 3 legal entities, reducing the close cycle from 28",
+    "Implemented Microsoft Dynamics 365 for accounts payable, automating 19% of",
+    "Built a fixed-asset register for 31,000 assets and aligned depreciation with tax"
+   ]
+  }
+ ],
+ "skills": [
+  "Accounting SOX Compliance",
+  "IFRS",
+  "Month-end Close",
+  "GST",
+  "Software Alteryx",
+  "Tally ERP 9",
+  "CaseWare",
+  "Xero",
+  "QuickBooks",
+  "Microsoft Dynamics 365"
+ ],
+ "projects": [
+  {
+   "name": "GST Reconciliation Tool"
+  },
+  {
+   "name": "Internal Controls Review"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ACCA Affiliate",
+   "issuer": "Association of Chartered Certified Accountants"
+  },
+  {
+   "name": "Certified Management Accountant",
+   "issuer": "CMA)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Welsh",
+   "proficiency": "intermediate"
+  }
+ ],
+ "_runtime_s": 0.027
+}

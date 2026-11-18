@@ -1,0 +1,94 @@
+{
+ "resume_id": "R0222",
+ "name": "LUCIA ALVAREZ MARTINEZ",
+ "headline": "Data Analyst",
+ "contact": {
+  "email": "luciaalvarez@gmail.com",
+  "phone": "761 165 258",
+  "location": "Barcelona, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lucia-alvarez-68"
+  },
+  {
+   "url": "github.com/lalvarez"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Data Science",
+   "institution": "Universitat Pornpeu Fabra",
+   "dates": "08/2022-03/2025",
+   "grade": "Nota media: 7.3"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "05/2025-06/2026",
+   "title": "Data Analyst",
+   "company": "BBVA",
+   "location": "Malaga",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 7.4M profiles to drive targeted campaigns",
+    "Fine-tuned transformer models for ticket classification, automating 39% of manual triage",
+    "Created executive dashboards in Airflow tracking 18 KPls, adopted by 150+ business users"
+   ]
+  }
+ ],
+ "skills": [
+  "Python",
+  "SAS",
+  "R",
+  "Scala",
+  "XGBoost",
+  "TensorFlow",
+  "scikit-learn",
+  "LangChain",
+  "Computer Vision",
+  "A/B Testing",
+  "Snowflake",
+  "BigQuery",
+  "Airflow",
+  "dbt",
+  "NurmPy"
+ ],
+ "projects": [
+  {
+   "name": "Resume Screening with NLP",
+   "description": "Named-entity extraction and job-description matching pipeline built with spaCy and BERT."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "AWS Certified Machine Learning ~ Specialty",
+   "issuer": "Amazon Web Services",
+   "year": "2024"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Winner, Inter-college Datathon",
+   "year": "(2025)"
+  },
+  {
+   "name": "Employee of the Quarter",
+   "issuer": "BBVA",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "proficiency": "Fluent",
+   "language": "English"
+  },
+  {
+   "language": "Catalan",
+   "proficiency": "Basic"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0295",
+ "name": "Yoga Pratama",
+ "contact": {
+  "email": "yoga.pratama@gmail.com",
+  "phone": "+62 853 9355 5892",
+  "location": "Jakarta, Indonesia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/yoga-pratama"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Mathematics",
+   "institution": "Institut Teknologi Bandung",
+   "dates": "June 2015"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Senior Portfolio Manager",
+   "company": "Bank Central Asia",
+   "dates": "October 2023 - Present",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Finance FP&A",
+  "Risk Management",
+  "Treasury Management",
+  "Credit Analysis",
+  "DCF",
+  "Valuation",
+  "Tools SAP S/4HANA",
+  "VBA",
+  "Bloomberg Terminal",
+  "FactSet",
+  "Anaplan",
+  "Oracle",
+  "Hyperion",
+  "Interpersonal Communication",
+  "Public Speaking",
+  "Stakeholder Management",
+  "Adaptability"
+ ],
+ "projects": [
+  {
+   "name": "Portfolio Optimisation Tool"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Financial Modeling & Valuation Analyst",
+   "issuer": "FMVA)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Indonesian",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Javanese",
+   "proficiency": "Beginner"
+  }
+ ],
+ "_runtime_s": 0.052
+}

@@ -1,0 +1,26 @@
+Contact Details GURPREET SETHI
+\% +91-9615716763
+Work History
+™ sethi.gurpreet@yahoo.co.in
+9 Gurugram, Haryana, India 06/2023 - Present
+Systems Engineer
+Languages Known Nykaa | Gurugram
+Punjabi Native > Built a real-time notification service using Java and Apache Kafka that
+English Professional Working processes 454K+ events per hour
+Proficiency Owned the payments integration with 12 third-party gateways, reducing
+Urdu Intermediate failed transactions by 53%
+Migrated a legacy monolith to containerised services on Kubernetes,
+Licenses & Certifications
+cutting deployment time from 29 hours to 15 minutes
+Microsoft Certified: Azure Designed and built 17 RESTful microservices in Java and JavaScript,
+Developer Associate
+serving 26,000 requests per day with 99.95% uptime
+Microsoft, 2022
+Developed customer-facing features in Java used by 5.3M monthly active
+Education users
+B.E. (Computer Science and
+Engineering)
+Linux
+Links
+LinkedIn:
+www.linkedin.com/in/gurpreet-sethi

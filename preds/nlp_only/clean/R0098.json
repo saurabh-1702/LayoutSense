@@ -1,0 +1,98 @@
+{
+ "resume_id": "R0098",
+ "name": "KARIN GUSTAFSSON",
+ "contact": {
+  "location": "Uppsala, Sweden WORK EXPERIENCE"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/karingustafsson-"
+  },
+  {
+   "url": "github.com/kgustafsson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Software Engineering",
+   "institution": "Chalmers University of",
+   "dates": null
+  },
+  {
+   "degree": "B.Sc. Computer Science",
+   "institution": "KTH Royal Institute of Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Klarna Uppsala",
+  "Ruby Systems Engineer Aug 2024",
+  "Dec 2025",
+  "Python",
+  "schedule across web and mobile",
+  "lowering production",
+  "Swift",
+  "Express. js",
+  "engineers",
+  "Node. js",
+  "WS users",
+  "Terraform",
+  "Kubernetes",
+  "Linux",
+  "MySQL",
+  "Apache Kafka",
+  "DynamoDB",
+  "Cassandra",
+  "Redis",
+  "MongoDB"
+ ],
+ "certifications": [
+  {
+   "name": "optimising slow PostgreSQL queries",
+   "issuer": null
+  },
+  {
+   "name": "Cut cloud infrastructure costs by SEK 23.2M annually by right-sizing",
+   "issuer": null
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "instances and adopting spot capacity"
+  },
+  {
+   "name": "Migrated a legacy monolith to containerised services on Kubernetes",
+   "issuer": "Amazon Web Services"
+  },
+  {
+   "name": "cutting deployment time from 21 hours to 15 minutes",
+   "issuer": null
+  },
+  {
+   "name": "ACHIEVEMENTS > Owned the payments integration with 21 third-party gateways",
+   "issuer": "reducing"
+  },
+  {
+   "name": "1st Place",
+   "issuer": "Internal Hackathon failed transactions by 35%"
+  },
+  {
+   "name": "> Resolved 60+ production issues as part of the on-call rotation",
+   "issuer": "reducing"
+  },
+  {
+   "name": "mean time to recovery by 52%",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Swedish",
+   "proficiency": null
+  },
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.035
+}

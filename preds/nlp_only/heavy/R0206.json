@@ -1,0 +1,34 @@
+{
+ "resume_id": "R0206",
+ "name": "Hernandez Pérez",
+ "links": [
+  {
+   "url": "linkedin.com/in/alejandro-"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Procurement Manager",
+   "company": "Grupo Bimbo",
+   "dates": "01/2025 ~ Current",
+   "bullets": []
+  },
+  {
+   "title": "FAPICS Certified Supply Chai Operations Executive",
+   "company": "Shell",
+   "dates": "07/2022 - 12/2024",
+   "bullets": [
+    "Built a supplier scorecard covering quality, cost and delivery for"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation"
+  },
+  {
+   "name": "Vehicle Routing Model"
+  }
+ ],
+ "_runtime_s": 0.027
+}

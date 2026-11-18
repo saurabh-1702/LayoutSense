@@ -1,0 +1,68 @@
+{
+ "resume_id": "R0177",
+ "name": "Elena Garcia Lopez",
+ "contact": {
+  "email": "elenagarcia@gmail.com",
+  "phone": "+34-774053756",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/elenagarcia"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Site Engineer",
+   "company": null,
+   "dates": "09/2025 — Present",
+   "bullets": [
+    "Coordinated 20 subcontractors and 50+ workers across civil and MEP activities",
+    "Prepared BOQs and rate analyses for tenders worth €7.9M"
+   ]
+  }
+ ],
+ "skills": [
+  "Geotechnical Investigation",
+  "HSE Compliance",
+  "Quantity Estimation",
+  "ETABS",
+  "Civil 3D",
+  "} Stakeholder Management",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "name": "Design of a G+5 Residential Building"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Primavera P6 Professional",
+   "issuer": "Oracle"
+  },
+  {
+   "name": "Project Management Professional",
+   "issuer": "PMP)"
+  },
+  {
+   "name": "LEED Green Associate",
+   "issuer": "U.S. Green Building Council"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "C2"
+  },
+  {
+   "language": "French",
+   "proficiency": "B2"
+  }
+ ],
+ "_runtime_s": 0.024
+}

@@ -1,0 +1,41 @@
+{
+ "resume_id": "R0188",
+ "contact": {
+  "email": "lakshmi.reddy@gmail.com",
+  "phone": "(+91) 8891823497",
+  "location": "Thiruvananthapuram, India"
+ },
+ "education": [
+  {
+   "degree": "B.E. in Mechanical Engineering",
+   "institution": "B.E.",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Inside Sales Representative Salesforce Certified Administrator",
+   "company": "nd 2) Certifications",
+   "dates": "Jun. 2025 - Present",
+   "bullets": [
+    "Launched a channel partner programme",
+    "Ranked #1 out of 24 account executives"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Telugu Fluent"
+  },
+  {
+   "name": "Market Entry Study for Tier-2 Cities"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.03
+}

@@ -1,0 +1,116 @@
+{
+ "resume_id": "R0243",
+ "contact": {
+  "location": "Hawassa, Ethiopia"
+ },
+ "links": [
+  {
+   "url": "i"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Te 3Eng Computer Science and -ngineering",
+   "institution": "Addis Ababa Science and Technology University",
+   "dates": "September 2021"
+  }
+ ],
+ "experience": [
+  {
+   "title": "<a Software Engineer Graduate",
+   "dates": "miviarch 2023- resent",
+   "company": "\"Capgemini",
+   "bullets": [
+    "rala click-through by 16% h result relevance and ‘Rebuilt the search experienc e with Elasticsearch, improving",
+    "22,000 requests per day in Express.} V s and Terra form, serving Designed and built 6 RESTful microservices with 99.95% uptime",
+    "and led code reviews . for a team of 5 engineers Wrote technical design documents"
+   ]
+  },
+  {
+   "title": "Software Engineer",
+   "dates": "SSotober 2022- February 2023",
+   "company": "Ethio Telecom",
+   "bullets": [
+    "from 24% GitHub Actions and automated tests, raising code coverage Implemented a CI/CD pipeline with to 85%",
+    "on-call rotation, reducing mean time to recovery by 15% Resolved 250+ production issues as part of the",
+    "introducing Redis caching and optimising slow PostgreSQL queries Reduced p95 API latency by 18% by",
+    "and design to ship 9 major releases on schedule across web and mobile Collaborated with product",
+    "and releases, lowering production incidents by 46% quarter over quarter Introduced feature flags canary",
+    "customer-facing features in Angular used by 9.0M monthly active users Developed",
+    "Developed internal tooling in Angular that saved the support team 11 hours per week",
+    "monolith to containerised services on Kubernetes, cutting deployment time from 12 Migrated a legacy hours to 15 minutes"
+   ]
+  },
+  {
+   "dates": "October 2021 - September 2022",
+   "company": "Safaricom Ethiopia",
+   "title": "Graduate Software Engineer",
+   "bullets": [
+    "Built a real-time notification service using FastAPI and Apache Kafka that processes 338K+ events per hour",
+    "Owned the payments integration with 8 third-party gateways, reducing failed transactions by 56%",
+    "Cut cloud infrastructure costs by ETB 168M annually by right-sizing instances and adopting spot capacity"
+   ]
+  }
+ ],
+ "skills": [
+  "Kotlin",
+  "Python",
+  "C++",
+  "Be",
+  "A Vue.js",
+  "FastAPI",
+  "GraphQL",
+  "React",
+  "Angular",
+  "Express.js",
+  "Docker",
+  "Terraform",
+  "GitHub Actions"
+ ],
+ "projects": [
+  {
+   "name": "ealtime Chat Platform",
+   "description": "_WebSocket chat service with end-to-end encryption Tead receipts and presence indicators.",
+   "tech": "StHuls Actonss Ryton"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "HashiCorp Certified: Terraform Associate",
+   "issuer": "HashiCorp"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2026"
+  },
+  {
+   "name": "Google Cloud Professional Cloud Developer",
+   "issuer": "Google Cloud",
+   "year": "February 2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "“1's Rroallannn duiaea"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Amharic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "c2"
+  },
+  {
+   "language": "Afaan Oromo",
+   "proficiency": "B2"
+  },
+  {
+   "language": "Tigrinya",
+   "proficiency": "A2"
+  }
+ ]
+}

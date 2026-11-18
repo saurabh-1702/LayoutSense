@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0072",
+ "name": "KHUSHI PATIL",
+ "headline": "Graduate Civil Engineer 5 + Years of Experience Companies",
+ "contact": {
+  "email": "khuship989@outlook.com",
+  "phone": "+91-98811-04940",
+  "location": "Surat, Gujarat"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/khushipatil"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Civil Engineering",
+   "institution": "Vellore Institute of Technology",
+   "dates": "05/2021 04/2022",
+   "grade": "CGPA 8.66"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "05/2023 - Current",
+   "title": "Graduate Civil Engineer",
+   "company": "Larsen & Toubro",
+   "location": "Surat",
+   "bullets": [
+    "Designed RCC and steel structures in Civil 3D for 13 commercial projects",
+    "Introduced BIM clash detection that cut rework costs by 36%",
+    "Supervised construction of a 8-storey residential tower with a contract value of 736.7",
+    "Managed client billing and variations, improving cash collection by 35%",
+    "Conducted soil investigation reviews and foundation design for 16 bridges"
+   ]
+  },
+  {
+   "title": "Graduate Civil Engineer",
+   "dates": "04/2023",
+   "company": "Godrej Properties",
+   "location": "Surat",
+   "bullets": [
+    "Delivered a 20 km highway stretch 18 weeks 93% 73% ahead of schedule",
+    "Achieved 34,000 safe man-hours without a lost- time injury on site",
+    "Scheduled a 8-month metro station package in 80% Navisworks, recovering 20 weeks of delay"
+   ]
+  },
+  {
+   "dates": "07/2021",
+   "title": "Planning Engineer",
+   "company": "Navisworks"
+  },
+  {
+   "dates": "03/2022",
+   "company": "DLF Limited",
+   "location": "Surat",
+   "bullets": [
+    "Prepared BOQs and rate analyses for tenders 76% 74% worth INR 27.7 crore",
+    "Coordinated 19 subcontractors and 120+ workers across civil and MEP activities 54% 79%"
+   ]
+  }
+ ],
+ "skills": [
+  "BIM Value Engineering",
+  "Structural Analysis",
+  "Civil 3D",
+  "SAP2000",
+  "UY @",
+  "MS Project"
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Fluent"
+  },
+  {
+   "language": "Gujarati"
+  }
+ ],
+ "_runtime_s": 0.317
+}

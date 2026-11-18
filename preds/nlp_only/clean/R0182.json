@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0182",
+ "name": "CHLOE LAURENT",
+ "contact": {
+  "email": "chloe_laurent@gmail.com",
+  "phone": "23 32 60 89"
+ },
+ "links": [
+  {
+   "url": "dribbble.com/chloelaurent"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Arts in Psychology Technologies: Adobe XD, Maze",
+   "institution": "Sciences Po",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": null,
+   "company": "Mention Assez Bien",
+   "dates": "January 2025 to April 2025",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Design Systems Technologies: Maze",
+  "Adobe XD",
+  "Sketch",
+  "Typography",
+  "Visual Design",
+  "Prototyping",
+  "support.",
+  "Maze",
+  "Maze Accessible Transit App Concept",
+  "won a"
+ ],
+ "certifications": [
+  {
+   "name": "Graphic Design Intern",
+   "issuer": null
+  },
+  {
+   "name": "Publicis Groupe",
+   "issuer": "Lyon"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": null
+  },
+  {
+   "name": "Prepared research summaries and presentation decks for 14 stakeholder",
+   "issuer": "Nielsen Norman Group"
+  },
+  {
+   "name": "Adobe Certified Professional in",
+   "issuer": null
+  },
+  {
+   "name": "Visual » Collected and cleaned data from 10 sources to support a design initiative",
+   "issuer": "Adobe"
+  },
+  {
+   "name": "Graphic Design Intern",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ],
+ "_runtime_s": 0.041
+}

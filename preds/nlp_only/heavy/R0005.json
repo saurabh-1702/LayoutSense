@@ -1,0 +1,27 @@
+{
+ "resume_id": "R0005",
+ "name": "Navi Mumbai",
+ "contact": {
+  "phone": "+91-94193-95065"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hetaljoshi-b6378a"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc (Computer Science)",
+   "institution": "SRM Institute of Science and Technology",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "Scala * JavaScript",
+  "Go",
+  "TypeScript",
+  "Ruby",
+  "Google Cloud Platform : )"
+ ],
+ "_runtime_s": 0.089
+}

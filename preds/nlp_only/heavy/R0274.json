@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0274",
+ "certifications": [
+  {
+   "name": "Financial Modeling & Valuation Anata",
+   "issuer": "Corporate Finance Institute"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Assamese",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.09
+}

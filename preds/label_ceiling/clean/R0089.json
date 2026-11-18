@@ -1,0 +1,142 @@
+{
+ "resume_id": "R0089",
+ "name": "Hamza Rana",
+ "headline": "Head of Data Science",
+ "contact": {
+  "email": "hamzarana77@gmail.com",
+  "phone": "+92 321 6773008",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hamza-rana-4dfe09"
+  }
+ ],
+ "education": [
+  {
+   "institution": "National University of Sciences and Technology",
+   "location": "Islamabad",
+   "degree": "MSc in Business Analytics",
+   "dates": "Sep 2001 — May 2002"
+  },
+  {
+   "institution": "NED University of Engineering and Technology",
+   "location": "Karachi",
+   "degree": "BEng (Hons) Computer Science and Engineering",
+   "grade": "2:1",
+   "dates": "Sep 1997 — Jun 2001"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Head of Data Science",
+   "dates": "Sep 2024 — Current",
+   "company": "Google",
+   "location": "Lahore",
+   "bullets": [
+    "Defined the company-wide metric layer in dbt, eliminating 6 conflicting KPI definitions",
+    "Led a team of 8 across 3 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Staff Machine Learning Engineer",
+   "dates": "Nov 2015 — Aug 2024",
+   "company": "Google",
+   "location": "Lahore",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 13.6M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Grew the team by 36% in two years while keeping attrition below 12%",
+    "Mentored 11 junior colleagues, several of whom were promoted within 18 months",
+    "Mentored 5 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Machine Learning Engineer",
+   "dates": "May 2009 — Oct 2015",
+   "company": "Careem",
+   "location": "Karachi",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 3.3M profiles to drive targeted campaigns",
+    "Built a churn prediction model in Python (AUC 0.250) that helped retention teams save PKR 5.3M in annual revenue",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7 days",
+    "Ran 17 A/B experiments on pricing and onboarding flows, lifting conversion by 12%"
+   ]
+  },
+  {
+   "title": "Senior Data Analyst",
+   "dates": "Feb 2007 — Apr 2009",
+   "company": "Oracle",
+   "location": "Karachi",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 27,000 employee queries per month",
+    "Partnered with finance to build an anomaly detection system that flagged PKR 12.0M in billing errors",
+    "Fine-tuned transformer models for ticket classification, automating 29% of manual triage",
+    "Reduced Spark job runtime by 53% through partitioning and broadcast join optimisation"
+   ]
+  },
+  {
+   "title": "Junior Data Scientist",
+   "dates": "Jun 2002 — Jan 2007",
+   "company": "IBM",
+   "location": "Karachi",
+   "bullets": [
+    "Created executive dashboards in LangChain tracking 18 KPIs, adopted by 180+ business users",
+    "Authored SQL data quality checks across 60 tables, reducing reporting incidents by 52%",
+    "Developed a demand forecasting model that reduced inventory holding costs by 56%",
+    "Designed and maintained 21 Airflow pipelines ingesting 3.9M records daily into Snowflake"
+   ]
+  }
+ ],
+ "skills": [
+  "S00",
+  "Python",
+  "Scala",
+  "sas",
+  "RC",
+  "Langham",
+  "Sekieiear",
+  "CRyTorch"
+ ],
+ "projects": [
+  {
+   "name": "Credit Risk Scoring Model",
+   "description": "Gradient-boosted model on 9.4M loan applications with SHAP explanations and fairness checks.",
+   "tech": "Python, scikit-learn, LangChain"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Deep Learning Specialization",
+   "issuer": "DeepLearning.AI",
+   "year": "(2025)"
+  },
+  {
+   "name": "AWS Certified Machine Learning — Specialty",
+   "issuer": "Amazon Web Services",
+   "year": "(2016)"
+  },
+  {
+   "name": "Google Data Analytics Professional Certificate",
+   "issuer": "Google",
+   "year": "(Jun 2025)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Paper Award, Student Research Symposium",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(C2)"
+  }
+ ]
+}

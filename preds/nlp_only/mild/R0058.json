@@ -1,0 +1,71 @@
+{
+ "resume_id": "R0058",
+ "name": "Juliana Costa",
+ "contact": {
+  "email": "juliana.costa85@gmail.com",
+  "phone": "(81) 95419-8997",
+  "location": "Recife, PE"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/juliana-costa"
+  },
+  {
+   "url": "github.com/julianacos"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Engineering in Distributed Systems",
+   "institution": "Junior Software Developer Insper",
+   "dates": "August 2024 - Present"
+  },
+  {
+   "degree": "Bachelor of Science in Information Technology",
+   "institution": "call rotation, reducing mean time to recovery by 20% Instituto Tecnoldgico de Aeronautica",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Junior Software Developer Insper",
+   "company": "Master of Engineering in Distributed Systems",
+   "dates": "August 2024 - Present",
+   "bullets": []
+  }
+ ],
+ "projects": [
+  {
+   "name": "Open-source CLI Contribution"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Meta Front-End Developer Professional",
+   "issuer": "Coursera"
+  },
+  {
+   "name": "AWS Certified Developer",
+   "issuer": "Associate"
+  },
+  {
+   "name": "Amazon Web Services",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Portuguese",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Limited Working Proficiency"
+  },
+  {
+   "language": "Italian",
+   "proficiency": "Elementary Proficiency"
+  }
+ ],
+ "_runtime_s": 0.057
+}

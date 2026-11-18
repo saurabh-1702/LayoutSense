@@ -1,0 +1,57 @@
+{
+ "resume_id": "R0224",
+ "name": "Team Excellence",
+ "contact": {
+  "email": "pooja.chavanS6@gmail.com",
+  "phone": "+91 9542593404"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/pooja-chava'"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Arts in Journalism and Mass",
+   "institution": "Symbiosis International University",
+   "dates": null
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Reuters Digital Journalism Course",
+   "issuer": "Thomson Reuters Foundation"
+  },
+  {
+   "name": "ge Ok Knight Center tor Journalism",
+   "issuer": ""
+  },
+  {
+   "name": "Google News initiative",
+   "issuer": "Digital"
+  },
+  {
+   "name": "Google News initiative",
+   "issuer": ""
+  }
+ ],
+ "languages": [
+  {
+   "language": "Hindi",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Full Professional Proficiency"
+  },
+  {
+   "language": "Gujarati",
+   "proficiency": null
+  },
+  {
+   "language": "Marathi",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ],
+ "_runtime_s": 0.075
+}

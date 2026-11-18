@@ -1,0 +1,98 @@
+{
+ "resume_id": "R0079",
+ "name": "Alia Al Dhaheri",
+ "headline": "Graduate Software Engineer",
+ "contact": {
+  "email": "alia.aldhaheri@gmail.com",
+  "phone": "+971 50 075 9773",
+  "location": "Sharjah, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/alia-aldhaheri"
+  },
+  {
+   "url": "github.com/aaldhaheri"
+  }
+ ],
+ "education": [
+  {
+   "dates": "2021 - 2024",
+   "degree": "BSc Computer Science",
+   "institution": "Zayed University",
+   "location": "Dubai",
+   "grade": "Distinction"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "06/2025 - Present",
+   "title": "Graduate Software Engineer",
+   "company": "Emirates NBD",
+   "location": "Sharjah",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 33% quarter over quarter",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 4 hours to 15 minutes",
+    "Built a real-time notification service using Linux and Apache Kafka that processes 181K events per hour",
+    "Collaborated with product and design to ship 22 major releases on schedule across web and mobile"
+   ]
+  },
+  {
+   "dates": "09/2024 - 05/2025",
+   "title": "Software Engineer",
+   "company": "Noon",
+   "location": "Dubai",
+   "bullets": [
+    "Reduced p95 API latency by 20% by introducing Redis caching and optimising slow PostgreSQL queries",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 18%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 14% to 85%",
+    "Developed internal tooling in GitHub Actions that saved the support team 36 hours per week",
+    "Owned the payments integration with 24 third-party gateways, reducing failed transactions by 31%"
+   ]
+  }
+ ],
+ "skills": [
+  "Java",
+  "Rust",
+  "Swift",
+  "Kotlin",
+  "Linux",
+  "Google Cloud Platform",
+  "Docker",
+  "AWS",
+  "GitHub Actions",
+  "Microsoft Azure",
+  "Cross-functional Collaboration",
+  "Adaptability",
+  "Public Speaking",
+  "Stakeholder Management"
+ ],
+ "projects": [
+  {
+   "name": "Distributed Key-Value Store",
+   "description": "Raft-based replicated key-value store with leader election, log compaction and a gRPC client."
+  },
+  {
+   "name": "Food Delivery Clone",
+   "description": "Full-stack food ordering app with live order tracking, payments and an admin dashboard.",
+   "tech": "Swift, Java, AWS, GitHub Actions"
+  }
+ ],
+ "certifications": [
+  {
+   "year": "12/2026",
+   "name": "AWS Certified Solutions Architect - Associate",
+   "issuer": "Amazon Web Services"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0274",
+ "name": "Priyanka Mohanty",
+ "contact": {
+  "email": "priyanka.mohanty@hotmail.com",
+  "phone": "+91 9818576927",
+  "location": "A Durgapur, West Bengal"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/priyankamohanty6"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BMS (Bachelor of Management Studies)",
+   "institution": "Risk Analyst Symbiosis International University",
+   "dates": "June 2023 — Present"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Risk Analyst Symbiosis International University",
+   "company": "BMS (Bachelor of Management Studies)",
+   "dates": "June 2023 — Present",
+   "bullets": []
+  },
+  {
+   "title": "Risk Analyst Symbiosis International University",
+   "company": "Standard Chartered",
+   "dates": "August 2020 — May 2023",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Equity",
+  "for 18 sell-side mandates Research",
+  ") e",
+  "Python e FactSet e",
+  "Stakeholder Management e",
+  "Critical Thinking"
+ ],
+ "projects": [
+  {
+   "name": "Portfolio Optimisation Tool"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Financial Modeling & Valuation Analyst",
+   "issuer": "Corporate Finance Institute"
+  },
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Bengali",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Assamese",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.056
+}

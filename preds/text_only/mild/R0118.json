@@ -1,0 +1,163 @@
+{
+ "resume_id": "R0118",
+ "name": "E",
+ "contact": {
+  "email": "palesasmith@outlook.com",
+  "phone": "+44 7525 249742",
+  "location": "Edinburgh, UK"
+ },
+ "links": [
+  {
+   "url": "behance.net/palesasmith"
+  }
+ ],
+ "education": [
+  {
+   "institution": "University of Cape Town",
+   "grade": "2:1",
+   "degree": "BA (Hons) Industrial Design"
+  },
+  {
+   "institution": "University of Johannesburg",
+   "dates": "July 2011",
+   "grade": "2:1"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2023 — June 2026",
+   "title": "Principal Designer"
+  },
+  {
+   "dates": "July 2012",
+   "company": "Monzo",
+   "location": "Edinburgh",
+   "bullets": [
+    "Grew the team by 59% in two years while keeping attrition below 18%"
+   ]
+  },
+  {
+   "dates": "July 2018 — December 2022",
+   "title": "Art Director",
+   "company": "Adobe",
+   "location": "Johannesburg, South Africa",
+   "bullets": [
+    "Represented the function in executive steering committees and board-level reporting",
+    "Led a team of 3 across 15 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Mentored 7 junior colleagues, several of whom were promoted within 18 months",
+    "Partnered with senior leadership to define the Design annual roadmap and a budget of GBP 20.4M",
+    "Token-based component library in Figma with",
+    "Introduced weekly operating reviews that cut documentation and dark-mode support. decision turnaround from 16 days to 1 day",
+    "Partnered with senior leadership to define the",
+    "Voice-first trip planner designed with visually annual roadmap and a budget of GBP 265M impaired commuters; won a student design"
+   ]
+  },
+  {
+   "dates": "October 2014 — June 2018",
+   "title": "Senior Graphic Designer",
+   "company": "Woolworths Holdings",
+   "location": "Johannesburg",
+   "bullets": [
+    "Signage and digital kiosk system tested with 50",
+    "Created brand identity, packaging and campaign visitors over 6 months. assets for 17 product launches",
+    "Redesigned the onboarding flow in Adobe XD, increasing activation by 34% across 934K new users",
+    "Built and maintained a design system of 80+ components used by 5 product squads",
+    "Improved WCAG 2.1 AA compliance from 6% to 96% across core journeys"
+   ]
+  },
+  {
+   "dates": "August 2012 — September 2014",
+   "title": "Junior Product Designer",
+   "company": "Woolworths Holdings",
+   "location": "Johannesburg, South Africa",
+   "bullets": [
+    "Produced motion graphics and explainer videos reaching 4.4M views",
+    "Ran discovery workshops and journey mapping with stakeholders across 24 markets",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Conducted 3 rounds of usability testing with 400 participants to validate checkout improvements",
+    "Partnered with engineering to ship 4 features per quarter with pixel-perfect handoff in",
+    "Reduced support tickets by 26% by simplifying the account settings experience"
+   ]
+  }
+ ],
+ "skills": [
+  "MA",
+  "Human-Computer Interaction",
+  "Wireframing",
+  "Design Systems",
+  "Usability",
+  "Testing",
+  "Accessibility (WCAG)",
+  "Miro",
+  "Blender",
+  "Adobe Photoshop",
+  "Adobe",
+  "Illustrator",
+  "Adobe XD",
+  "Museum"
+ ],
+ "projects": [
+  {
+   "name": "System for a Fintech Startup"
+  },
+  {
+   "name": "Accessible Transit App Concept Wayfinding Redesign",
+   "description": "award.",
+   "tech": "Adobe Photoshop, Miro"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "January 2017"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "2018"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2021"
+  },
+  {
+   "name": "Interaction Design Foundation — UX with Blender Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2013"
+  },
+  {
+   "name": "Google UX Design Professional Certificate",
+   "issuer": "Google",
+   "year": "2019"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Woolworths Holdings",
+   "year": "2017"
+  },
+  {
+   "issuer": "Adobe University",
+   "name": "Merit Scholarship"
+  },
+  {
+   "issuer": "Photoshop University of Johannesburg",
+   "year": "2012",
+   "name": "Team Excellence Award"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "Sesotho",
+   "proficiency": "A2"
+  }
+ ],
+ "_runtime_s": 0.563
+}

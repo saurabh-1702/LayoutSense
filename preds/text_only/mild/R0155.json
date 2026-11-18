@@ -1,0 +1,74 @@
+{
+ "resume_id": "R0155",
+ "name": "Krzysztof Kowalczyk",
+ "headline": "Supply Chain Planner",
+ "contact": {
+  "email": "krzysztof.kowalczyk96@interia.p!",
+  "phone": "+48 514212344"
+ },
+ "education": [
+  {
+   "degree": "M.Sc. Operations",
+   "institution": "Kozminski University",
+   "dates": "2022"
+  },
+  {
+   "institution": "AGH University of Krakow",
+   "dates": "2020",
+   "grade": "GPA: 5.0/5"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Orlen",
+   "title": "Supply Chain Planner",
+   "dates": "2026",
+   "location": "Warsaw",
+   "bullets": [
+    "Managed import logistics and customs clearance for 300+ containers per year",
+    "Implemented a warehouse management system in 3 sites, improving pick accuracy to 99.8%",
+    "Negotiated freight contracts that saved PLN 16.3M annually",
+    "Managed procurement spend of PLN 11.0M across 250 suppliers, delivering 6% savings"
+   ]
+  },
+  {
+   "title": "Procurement Manager",
+   "dates": "2025",
+   "bullets": [
+    "Reduced inventory days by 7 while maintaining 60% service levels",
+    "Set up 7 new fulfilment centres processing 483K orders per day",
+    "Built a supplier scorecard covering quality, cost and delivery for 400 vendors"
+   ]
+  },
+  {
+   "title": "Warehouse Executive",
+   "dates": "2022",
+   "bullets": [
+    "Cut last-mile delivery cost per order by 53% through route optimisation",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Improved forecast accuracy from 27% to 82% by introducing statistical models in SQL"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SAP Certified Application Associate",
+   "issuer": "Sourcing",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "PepsiCo",
+   "year": "(2024)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Speak Proficiency",
+   "language": "English"
+  }
+ ],
+ "_runtime_s": 0.362
+}

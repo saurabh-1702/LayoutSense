@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0107",
+ "name": "Facundo Pérez",
+ "contact": {
+  "email": "facundo.perez@gmail.com",
+  "phone": "+5493513220372",
+  "location": "Mendoza, Argentina"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/facundo-perez"
+  },
+  {
+   "url": "www.facundoperez.com"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.F.A. in Interaction Design Universidad Nacional de Cérdoba",
+   "institution": "Qualification Institution",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Globant UX Researcher",
+   "company": "Rosario",
+   "dates": "Jan 2020 Present",
+   "bullets": [
+    "Led ateam of 11 across 5 workstreams, owning hiring, performance reviews and quarterly planning",
+    "Reduced support tickets by 58% by simplifying the account settings experience",
+    "Improved WCAG 2.1 AA compliance from 6% to 96% across core journeys"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "S.No. Project Title Description"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification Nielsen Norman Group",
+   "issuer": null
+  },
+  {
+   "name": "Certified Usability Analyst",
+   "issuer": "CUA) Human Factors International"
+  },
+  {
+   "name": "Interaction Design Foundation",
+   "issuer": "UX Management Interaction Design Foundation"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": null
+  }
+ ],
+ "_runtime_s": 0.035
+}

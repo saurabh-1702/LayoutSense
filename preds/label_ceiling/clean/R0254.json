@@ -1,0 +1,65 @@
+{
+ "resume_id": "R0254",
+ "name": "Marta Perez",
+ "headline": "HR Coordinator",
+ "contact": {
+  "email": "marta.perez03@gmail.com",
+  "phone": "638 841 139",
+  "location": "Seville, Spain"
+ },
+ "education": [
+  {
+   "degree": "BA in Psychology",
+   "institution": "Universitat Pompeu Fabra",
+   "dates": "04.2023",
+   "grade": "Nota media: 8.4"
+  }
+ ],
+ "experience": [
+  {
+   "title": "HR Coordinator",
+   "company": "Unilever",
+   "location": "Barcelona",
+   "dates": "05.2023 | Present",
+   "bullets": [
+    "Rolled out Greenhouse across 21 countries, digitising onboarding for 4.5M employees",
+    "Ran campus hiring at 13 universities, onboarding 200 graduate trainees",
+    "Designed a performance management framework adopted company- wide"
+   ]
+  }
+ ],
+ "skills": [
+  "HR Analytics",
+  "Employee Relations",
+  "Payroll",
+  "Excel",
+  "Workday",
+  "fo ws —}",
+  "Sisqe an n ee i) Q fe) = on",
+  "Conflict Resolution",
+  "Decision Making",
+  "fd o 3 5 o Q o 2. ne",
+  "O [e) 3 3 c >. IR fo) =)"
+ ],
+ "projects": [
+  {
+   "name": "Employee Engagement Survey Redesign",
+   "description": "Redesigned a survey for 120 employees and ran action-planning workshops with 22 teams."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Oo = 5"
+  },
+  {
+   "language": "="
+  }
+ ]
+}

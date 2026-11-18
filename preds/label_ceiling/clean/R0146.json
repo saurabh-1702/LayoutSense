@@ -1,0 +1,107 @@
+{
+ "resume_id": "R0146",
+ "name": "Joshua Anderson",
+ "headline": "Logistics Manager",
+ "contact": {
+  "email": "janderson@icloud.com",
+  "phone": "(248) 565-0640",
+  "location": "Detroit, MI, USA"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/joshua-anderson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.B.A.",
+   "institution": "Georgetown University",
+   "dates": "2023 — 2025",
+   "grade": "Cum Laude"
+  },
+  {
+   "degree": "B.S. in Mechanical Engineering",
+   "institution": "Carnegie Mellon University",
+   "dates": "2016 — 2020",
+   "grade": "GPA 3.44"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Logistics Manager",
+   "dates": "Oct 2022 — Present",
+   "company": "Tesla",
+   "location": "Detroit",
+   "bullets": [
+    "Managed procurement spend of $24.7M across 200 suppliers, delivering 21% savings",
+    "Implemented a warehouse management system in 4 sites, improving pick accuracy to 99.8%"
+   ]
+  },
+  {
+   "title": "Logistics Coordinator",
+   "dates": "Sep 2021 — Sep 2022",
+   "company": "Tesla",
+   "location": "Detroit, MI",
+   "bullets": [
+    "Reduced inventory days by 14 while maintaining 48% service levels",
+    "Negotiated freight contracts that saved USD 1.1M annually",
+    "Managed import logistics and customs clearance for 120+ containers per year",
+    "Set up 4 new fulfilment centres processing 7.1M orders per day",
+    "Cut last-mile delivery cost per order by 55% through route optimisation"
+   ]
+  },
+  {
+   "title": "Warehouse Executive",
+   "dates": "Oct 2020 — Aug 2021",
+   "company": "The Coca-Cola Company",
+   "location": "San Francisco",
+   "bullets": [
+    "Built a supplier scorecard covering quality, cost and delivery for 300 vendors",
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Improved forecast accuracy from 15% to 82% by introducing statistical models in Coupa"
+   ]
+  }
+ ],
+ "skills": [
+  "Transportation Management",
+  "S&OP",
+  "Strategic Sourcing",
+  "Lean",
+  "Blue Yonder",
+  "Coupa",
+  "Kinaxis RapidResponse",
+  "Ariba",
+  "Mentoring",
+  "Problem Solving"
+ ],
+ "certifications": [
+  {
+   "name": "SAP Certified Application Associate — Sourcing",
+   "issuer": "SAP",
+   "year": "2025"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Team Excellence Award",
+   "issuer": "The Coca-Cola Company",
+   "year": "2021"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English"
+  },
+  {
+   "language": "Korean"
+  },
+  {
+   "language": "Vietnamese"
+  }
+ ]
+}

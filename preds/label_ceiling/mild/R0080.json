@@ -1,0 +1,81 @@
+{
+ "resume_id": "R0080",
+ "name": "Ruby Taylor",
+ "contact": {
+  "email": "ruby.taylor@gmail.com",
+  "phone": "0411 235 661",
+  "location": "Brisbane, QLD, Australia"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/rubytaylor"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Logistics and Supply Chain Management",
+   "institution": "RMIT University",
+   "dates": "2024 — 2027 (Expected)",
+   "grade": "Upper Second-Class (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jan, 2026 — Apr, 2026",
+   "title": "Operations Intern",
+   "company": "Procter & Gamble",
+   "bullets": [
+    "Presented final internship findings to department leadership",
+    "Prepared research summaries and presentation decks for 4 stakeholder meetings",
+    "Drafted standard operating procedures for 14 recurring tasks"
+   ]
+  }
+ ],
+ "skills": [
+  "Warehouse Management",
+  "S&OP",
+  "Strategic Sourcing",
+  "Demand Planning",
+  "Coupa",
+  "O be) Qo oO no fe) <<",
+  "SAP MM",
+  "Tableau",
+  "Blue Yonder"
+ ],
+ "projects": [
+  {
+   "name": "Warehouse Layout Optimisation",
+   "dates": "Sep, 2026",
+   "description": "Slotting analysis that reduced picker travel distance by 25% in a live DC."
+  },
+  {
+   "name": "Vehicle Routing Model",
+   "dates": "Feb, 2024",
+   "description": "Python OR-Tools model for routing 16 delivery vans with time windows."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "PMI",
+   "year": "2026"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "RMIT University",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Native",
+   "language": "English"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "A2"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "resume_id": "R0207",
+ "name": "RIYA PATNAIK",
+ "headline": "Associate Attorney",
+ "contact": {
+  "email": "riya.patnaik@hotmail.com",
+  "phone": "+91-9457249196",
+  "location": "Jamshedpur, Jharkhand"
+ },
+ "education": [
+  {
+   "degree": "LLM",
+   "institution": "KIIT University",
+   "dates": "July 2022 to July 2024"
+  },
+  {
+   "degree": "BBA LLB (Hons.)",
+   "institution": "Indian Institute of Technology Kharagpur",
+   "dates": "August 2017 to May 2022"
+  }
+ ],
+ "experience": [
+  {
+   "company": "aS AZB & Partners",
+   "dates": "September 2024 to Present",
+   "title": "Associate Attorney",
+   "location": "Jamshedpur",
+   "bullets": [
+    "Drafted and negotiated share purchase agreements, shareholders’ agreements and term sheets",
+    "Advised on 6 cross-border M&A transactions with a combined deal value of 26.5 Cr",
+    "Reduced external counsel spend by 20% by bringing standard contract work in-house"
+   ]
+  }
+ ],
+ "skills": [
+  "Arbitration",
+  "Data Privacy (GDPR)",
+  "Employment Law",
+  "Mergers & Acquisitions",
+  "Legal Research",
+  "Intellectual Property",
+  "LexisNexis",
+  "SCC Online",
+  "Manupatra",
+  "iManage",
+  "Kira Systems",
+  "Negotiation",
+  "Cross-functional Collaboration"
+ ],
+ "projects": [
+  {
+   "description": "ee Represented the university at national rounds; drafted memorials on state responsibility.",
+   "name": "Moot Court - Philip C. Jessup"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Admitted Solicitor",
+   "issuer": "Solicitors Regulation Authority",
+   "year": "2026"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "resume_id": "R0194",
+ "name": "Johanna Hoffmann",
+ "headline": "Software Architect",
+ "contact": {
+  "email": "hoffmann.johanna@gmail.com",
+  "phone": "+49 178 12894920",
+  "location": "Leipzig, Germany"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/johanna-hoffmann7"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in Software Engineering",
+   "institution": "University of Stuttgart",
+   "dates": "06/2013",
+   "grade": "Final grade: 2.3"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "12/2024 - Present",
+   "title": "Software Architect",
+   "company": "N26",
+   "location": "Leipzig",
+   "bullets": [
+    "Developed customer-facing features in Flutter used by 406K monthly active users",
+    "Cut cloud infrastructure costs by EUR 8.9M annually by right-sizing instances and adopting spot capacity",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from 25% to 85%",
+    "Introduced feature flags and canary releases, lowering production incidents by 57% quarter over quarter"
+   ]
+  },
+  {
+   "dates": "07/2015 - 11/2024",
+   "title": "Associate Software Engineer",
+   "company": "SAP",
+   "location": "Berlin",
+   "bullets": [
+    "Wrote technical design documents and led code reviews for a team of 12 engineers",
+    "Designed and built 19 RESTful microservices in MongoDB and C#, serving 5.7M requests per day with 99.95% uptime",
+    "Collaborated with product and design to ship 15 major releases on schedule across web and mobile",
+    "Resolved 300+ production issues as part of the on-call rotation, reducing mean time to recovery by 28%",
+    "Built a real-time notification service using MongoDB and Apache Kafka that processes 6.6M events per hour",
+    "Developed internal tooling in MongoDB that saved the support team 38 hours per week"
+   ]
+  },
+  {
+   "dates": "09/2013 - 06/2015",
+   "title": "Software Engineer",
+   "company": "Cisco",
+   "location": "Berlin",
+   "bullets": [
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by 48%",
+    "Owned the payments integration with 11 third-party gateways, reducing failed transactions by 25%",
+    "Migrated a legacy monolith to containerised services on Kubernetes, cutting deployment time from 37 hours to 15 minutes",
+    "Reduced p95 API latency by 57% by introducing Redis caching and optimising slow PostgreSQL queries"
+   ]
+  }
+ ],
+ "skills": [
+  "Q9a",
+  "a Fo",
+  "*%",
+  "Pod 1s a",
+  "SES 2) = ro) 3 v2) ». an =",
+  "React",
+  "GraphQL",
+  "Flutter",
+  "FastAPI",
+  "Google Cloud Platform",
+  "> WS",
+  "Az fé ic © =) fa + fo yn",
+  "‘@) Ie rs} = Fa = fo",
+  "248 oy 3 Fo w",
+  "os oqo Uv o a =",
+  "a) ~",
+  "Apache Kafka",
+  "< 7) fe) =",
+  "MongoDB"
+ ],
+ "projects": [
+  {
+   "name": "Campus Placement Portal",
+   "description": "Web portal used by 500 students to apply for drives, track status and download offer letters."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator (CKA)",
+   "issuer": "The Linux Foundation",
+   "year": "2014"
+  },
+  {
+   "name": "AWS Certified Solutions Architect — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "03/2012"
+  },
+  {
+   "name": "AWS Certified Developer — Associate",
+   "issuer": "Amazon Web Services",
+   "year": "2026"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "Spanish",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Turkish",
+   "proficiency": "Intermediate"
+  }
+ ]
+}

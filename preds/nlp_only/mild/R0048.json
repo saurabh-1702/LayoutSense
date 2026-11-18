@@ -1,0 +1,62 @@
+{
+ "resume_id": "R0048",
+ "name": "Erik Larsson",
+ "contact": {
+  "email": "arsson.erik@outlook.com",
+  "phone": "+46 762488671",
+  "location": "Gothenburg, Sweden"
+ },
+ "education": [
+  {
+   "degree": "MBA",
+   "institution": "Built Think-cell models to size a SEK 244M Stockholm University",
+   "dates": null
+  },
+  {
+   "degree": "Bachelor in Commerce",
+   "institution": "Facilitated executive workshops with C-suite Stockholm School of Economics",
+   "dates": null
+  },
+  {
+   "degree": "Master (CSM)",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@ Senior Business Analyst Swedish",
+   "company": "eeeee",
+   "dates": "09/2019 — Present",
+   "bullets": []
+  },
+  {
+   "title": "@ Consultant",
+   "company": "hiring, performance reviews and quarterly planning © 74% 54% UO",
+   "dates": "12/2016 — 08/2019",
+   "bullets": [
+    "93% @ 73%",
+    "94%"
+   ]
+  },
+  {
+   "title": "@) Associate Consultant Conflict Resolution",
+   "company": "counterparts across 7 workstreams",
+   "dates": "10/2015 — 11/2016",
+   "bullets": []
+  },
+  {
+   "title": null,
+   "company": "addressable market across 10 segments",
+   "dates": "04/2020 — 01/2022",
+   "bullets": []
+  },
+  {
+   "title": "Facilitated executive workshops with C-suite Stockholm School of Economics",
+   "company": "Pass with",
+   "dates": "07/2012 — 07/2015",
+   "bullets": []
+  }
+ ],
+ "_runtime_s": 0.127
+}

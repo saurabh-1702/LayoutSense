@@ -1,0 +1,48 @@
+{
+ "resume_id": "R0190",
+ "name": "N a nd I n | Ra mesh",
+ "contact": {
+  "email": "nandini_ramesh@gmail.com",
+  "phone": "9734 8879",
+  "location": "Singapore"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/nandini-ramesh-91ad47"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Computer Science and Engineering)",
+   "dates": "2025",
+   "institution": "Science, meen a",
+   "location": "Bengaluru, India"
+  },
+  {
+   "institution": "Geico"
+  }
+ ],
+ "projects": [
+  {
+   "name": "Pro Bono Strategy for an NGO",
+   "description": "Fundraising and operating plan for an education non- profit serving 122K+ children."
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Indian Institute of Science",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "Malay",
+   "proficiency": "Limited Working Proficiency"
+  }
+ ]
+}

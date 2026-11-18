@@ -1,0 +1,113 @@
+{
+ "resume_id": "R0132",
+ "name": "we n Ok oro",
+ "headline": "UX Designer 4+ Years of Experience Companies",
+ "contact": {
+  "email": "oweno244@gmail.com",
+  "phone": "+44 (0)7383 356643",
+  "location": "Belfast, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-okoro-be2427"
+  },
+  {
+   "url": "owenokoro.design"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "Loughborough University",
+   "dates": "May 2022",
+   "grade": "Upper Second Class Honours (2:1)"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Sep 2025- Present",
+   "title": "UX Designer",
+   "company": "Revolut"
+  },
+  {
+   "company": "72%",
+   "bullets": [
+    "Redesigned the onboarding flow in Adobe Photoshop, increasing activation by 56% across 565K new users",
+    "Produced motion graphics and explainer videos with Adobe After Effects reaching 3.9M views 59%"
+   ],
+   "dates": "Jun 2024-Aug 2025",
+   "title": "Graphic Designer Design"
+  },
+  {
+   "company": "BBC Systems",
+   "location": "Miro",
+   "bullets": [
+    "Created brand identity, packaging and campaign assets for 4 product launches 73% 62%",
+    "Improved WCAG 2.1 AA compliance from 25% to 96% across core journeys",
+    "Conducted 12 rounds of usability testing with Adobe After Effects 150 participants to validate checkout improvements 58%)",
+    "Reduced support tickets by 57% by simplifying the account settings experience",
+    "Built and maintained a design system of 200+ components used by 12 product squads 56% 54%)"
+   ],
+   "dates": "Jul 2022-May 2024",
+   "title": "Visual Designer"
+  },
+  {
+   "company": "Burberry",
+   "bullets": [
+    "Partnered with engineering to ship 22 features",
+    "Collaboration per quarter with pixel-perfect handoff in Adobe After Effects",
+    "Led end-to-end design of a mobile banking app rated 4.7 on the App Store",
+    "Ran discovery workshops and journey mapping with stakeholders across 13 markets"
+   ]
+  }
+ ],
+ "skills": [
+  "Information Motion Design Architecture",
+  "Y © 75%",
+  "Adobe Photoshop",
+  "v=)",
+  "Figma",
+  "Attention to Detail",
+  "Mentoring",
+  "Cross-functional"
+ ],
+ "certifications": [
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "Dec 2021"
+  },
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "2026"
+  },
+  {
+   "name": "Interaction Design Foundation - UX Management",
+   "issuer": "Interaction Design Foundation",
+   "year": "2025"
+  },
+  {
+   "name": "Certified Usability Analyst (CUA)",
+   "issuer": "Human Factors International",
+   "year": "2022"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Loughborough University",
+   "year": "(2022)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English"
+  },
+  {
+   "language": "eee0e0",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.346
+}

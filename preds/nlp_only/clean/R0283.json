@@ -1,0 +1,69 @@
+{
+ "resume_id": "R0283",
+ "name": "Vo Minh Minh",
+ "contact": {
+  "email": "minh.vo@gmail.com",
+  "phone": "086-019-0568",
+  "location": "Hai Phong, Vietnam"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/minh-vo-97"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Engineering in Mechanical Engineering",
+   "institution": "RMIT University Vietnam, Ho Chi Minh City",
+   "dates": "2021-2025"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Production Engineer",
+   "company": "VinFast",
+   "dates": "2025-2026",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of VND 12.4B by reducing process variation",
+    "Conducted DFMEA and design reviews with cross-functional teams for 19 programmes",
+    "Led 23 Kaizen events that saved VND 58.9B annually in scrap and rework",
+    "Managed a capex budget of VND 483M for plant upgrades delivered on time",
+    "Owned PPAP submissions for 19 suppliers and resolved 120 quality concerns"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Design of a Robotic Gripper"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Lean Manufacturing Certificate",
+   "issuer": "University of Michigan"
+  },
+  {
+   "name": "Certified Reliability Engineer",
+   "issuer": "ASQ"
+  },
+  {
+   "name": "Professional Engineer",
+   "issuer": "PE)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Vietnamese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  },
+  {
+   "language": "French",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.059
+}

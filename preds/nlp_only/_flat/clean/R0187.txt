@@ -1,0 +1,39 @@
+TUNDE EZE
+Graduate Software Engineer | 5+ Years in Software Engineering
+Location Lagos, Nigeria
+Telephone +234 816 497 2381
+Email tundee79@gmail.com
+LinkedIn www.linkedin.com/in/tunde-eze
+GitHub github.com/tundeeze
+Competencies
+Languages Go | Ruby | Scala | JavaScript | Python
+Frameworks Express.js | Django | GraphQL | Node.js | Ruby on Rails | React
+Cloud & DevOps Google Cloud Platform | Docker | AWS | GitHub Actions
+Employment
+History
+07/2021 to Present Graduate Software Engineer
+Goldman Sachs, Lagos
+— Rebuilt the search experience with Elasticsearch, improving result relevance and click-
+through by 38%
+— Developed customer-facing features in JavaScript used by 105K+ monthly active users
+— Collaborated with product and design to ship 11 major releases on schedule across web
+and mobile
+— Introduced feature flags and canary releases, lowering production incidents by 46% quarter
+over quarter
+Selected Projects
+Campus Placement Portal
+Web portal used by 300 students to apply for drives, track status and download offer letters.
+Tools used: Python, React, JavaScript
+Education &
+Qualifications
+06/2021 BSc (Hons) Computer Applications
+Federal University of Technology Akure, Akure
+Upper Second-Class (2:1)
+Languages
+English Native
+Courses &
+Certifications
+2021 AWS Certified Developer — Associate, Amazon Web Services
+2022 Microsoft Certified: Azure Developer Associate, Microsoft
+06/2026 Certified Kubernetes Administrator (CKA), The Linux Foundation
+2024 Meta Front-End Developer Professional Certificate, Coursera

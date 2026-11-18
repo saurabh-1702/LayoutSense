@@ -1,0 +1,23 @@
+LEDGER) BF eet J i HM}
+6 Professional Background © Education
+07/2025 - Analytics Associate MEng Information Technology
+Cayanes Oracle, Abuja Covenant University
+- Deployed a retrieval-augmented chatbot over 06/2025
+internal documentation, answering 346K
+employee queries per month 0 Certificates
+~ Reduced Spark job runtime by 49% through
+partitioning and broadcast join optimisation
+- Productionised ML models with Docker and Snowflake 2025
+MLflow, cutting model deployment time from
+weeks to 22 days Tableau Desktop Specialist
+- Created executive dashboards in Apache Kafka Tableat: - 2023
+tracking 17 KPls, adopted by 75+ business users
+Deep Learning Specialization
+~ Designed and maintained 24 Airflow pipelines
+DeepLearningA! - 03/2024
+ingesting 68,000 records daily into Snowflake
+Language Proficiency
+English Native
+SEN AR LG TEE TMOREREL ETE: DEE
+6 Competencies
+Apache Kafka

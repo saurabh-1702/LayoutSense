@@ -1,0 +1,31 @@
+{
+ "resume_id": "R0132",
+ "name": "wen O k",
+ "contact": {
+  "email": "oweno244@gmail.com",
+  "phone": "7383 35664",
+  "location": "Belfast, United Kingdom"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/owen-okoro-be2427"
+  },
+  {
+   "url": "owenokoro.design"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BA (Hons) Industrial Design",
+   "institution": "Ran discovery workshops and journey mapping Loughborough University",
+   "dates": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.019
+}

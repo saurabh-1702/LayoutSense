@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0078",
+ "name": "Chirag Bhosale",
+ "contact": {
+  "phone": "(+91) 834300314"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/chirag-bhosale"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Structural Engineering)",
+   "institution": "BITS Pilani",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Civil Engineering Intern",
+   "company": "348 Sar",
+   "dates": "Oct 2025 — Nov 2025",
+   "bullets": [
+    "Built a tracker in Navisworks that streamlined weekly reporting for a",
+    "Prepared research summaries and presentation decks for 20",
+    "Collected and cleaned data from 14 sources to support a civil"
+   ]
+  },
+  {
+   "title": "Civil Engineering Intern Attention to Detail",
+   "company": "engineering & construction initiative",
+   "dates": "Sep 2024 — Nov 2024",
+   "bullets": [
+    "Collected and cleaned data from 7 sources to support a civil y",
+    "Drafted standard operating procedures for 15 recurring tasks",
+    "Prepared research summaries and presentation decks for 11"
+   ]
+  }
+ ],
+ "skills": [
+  "Pervious Concrete Mix Study",
+  "Quantity Estimation",
+  "ETABS",
+  "MS Project. Tekla Structures",
+  "le Te",
+  "fale foods"
+ ],
+ "projects": [
+  {
+   "name": "Language Proficiency"
+  },
+  {
+   "name": "Design of a G+5 Residential Building Marathi Native"
+  }
+ ],
+ "_runtime_s": 0.079
+}

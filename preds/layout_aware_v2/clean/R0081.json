@@ -1,0 +1,80 @@
+{
+ "resume_id": "R0081",
+ "name": "Finn Brown",
+ "headline": "Payroll Executive",
+ "contact": {
+  "email": "finnb888@gmail.com",
+  "phone": "+64 270845388",
+  "location": "Dunedin, New Zealand"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/finnbrown"
+  }
+ ],
+ "education": [
+  {
+   "institution": "Victoria University of Wellington",
+   "location": "Wellington",
+   "degree": "MBA",
+   "grade": "Merit",
+   "dates": "Sep 2022 – Mar 2023"
+  },
+  {
+   "institution": "AUT University",
+   "location": "Auckland",
+   "degree": "BSc Commerce",
+   "dates": "Jul 2019 – Jun 2022"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Payroll Executive",
+   "company": "Amazon",
+   "location": "Wellington",
+   "dates": "Jun 2023 – Present",
+   "bullets": [
+    "Launched an internal L&D academy that delivered 180 training hours per quarter Reduced voluntary attrition by 54% through stay interviews and targeted retention plans Partnered with business leaders of a 80-employee division on workforce planning and org design Managed end-to-end hiring for 8 roles per quarter, reducing time-to-hire from 7 to 22 days Handled 21 employee relations cases including investigations and disciplinary hearings"
+   ]
+  }
+ ],
+ "skills": [
+  "Compensation & Benefits",
+  "Employer Branding",
+  "Performance Management",
+  "Excel",
+  "LinkedIn Recruiter",
+  "Workday",
+  "Oracle HCM",
+  "SAP SuccessFactors",
+  "Negotiation",
+  "Public Speaking"
+ ],
+ "certifications": [
+  {
+   "name": "SHRM Certified Professional (SHRM-CP)",
+   "issuer": "SHRM",
+   "year": "(Sep 2024)"
+  },
+  {
+   "name": "People Analytics Certificate",
+   "issuer": "Wharton Online",
+   "year": "(2025)"
+  },
+  {
+   "name": "Professional in Human Resources (PHR)",
+   "issuer": "HRCI",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "Te",
+   "proficiency": "Reo Maori (Fluent)"
+  }
+ ]
+}

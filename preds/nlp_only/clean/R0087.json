@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0087",
+ "name": "Noura AI Ketbi",
+ "contact": {
+  "email": "nouraalketbi@gmail.com",
+  "phone": "050 448 5855",
+  "location": "Dubai, United Arab Emirates"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/noura-alketbi8"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BSc (Hons) Tourism Zayed University",
+   "institution": "Qualification Institution Dates Result",
+   "dates": "Apr. 2019"
+  }
+ ],
+ "skills": [
+  "Systems IDeaS RMS",
+  "Opera PMS",
+  "TravelClick",
+  "Menu Engineering",
+  "Banquet Management : F&B Operations"
+ ],
+ "projects": [
+  {
+   "name": "Project Description Year"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": null
+  },
+  {
+   "name": "WSET Level 2 Award in Wines Wine & Spirit Education Trust",
+   "issuer": null
+  },
+  {
+   "name": "Certified Hospitality Supervisor",
+   "issuer": "CHS) AHLEI"
+  },
+  {
+   "name": "ServSafe Manager National Restaurant Association",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  }
+ ],
+ "_runtime_s": 0.015
+}

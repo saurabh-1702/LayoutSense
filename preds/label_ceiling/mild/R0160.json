@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0160",
+ "name": "PRINCESS CRUZ",
+ "headline": "Design Engineer",
+ "contact": {
+  "email": "PENSCUBEGAN.com?",
+  "phone": "+63 995 127 5766",
+  "location": "Cebu City, Philippines"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/princess-cruz-e00da2"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Mechanical Engineering",
+   "institution": "Mapta University",
+   "grade": "Magna Cum Laude"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "May 2025 — Present",
+   "title": "Design Engineer",
+   "company": "Jacobs",
+   "location": "Quezon City",
+   "bullets": [
+    "Commissioned a new CNC machining cell, increasing capacity by 37%",
+    "Led 17 Kaizen events that saved PHP 245M annually in scrap and rework",
+    "Conducted DFMEA and design reviews with cross-functional teams for 16 programmes",
+    "Achieved Six Sigma Green Belt savings of PHP 829K by reducing process variation",
+    "Designed 13 sheet-metal and casting components in Teamcenter for a new two-wheeler platform"
+   ]
+  }
+ ],
+ "skills": [
+  "Lean Manufacturing",
+  "Teamcenter",
+  "Minitab",
+  "CATIA V5"
+ ],
+ "projects": [
+  {
+   "name": "Design of a Robotic Gripper",
+   "dates": "Jul 2022",
+   "description": "3D-printed adaptive gripper with force feedback controlled via Arduino."
+  },
+  {
+   "name": "Formula Student Race Car",
+   "description": "Designed the suspension uprights and ran FEA; team placed in the top 19 nationally."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Professional Engineer (PE)",
+   "issuer": "NCEES",
+   "year": "2025"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Customer Champion Award",
+   "issuer": "Jacobs",
+   "year": "2025"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "4 Wl",
+   "language": "English"
+  },
+  {
+   "proficiency": "Professional Working Proficiency",
+   "language": "Cebuano"
+  }
+ ]
+}

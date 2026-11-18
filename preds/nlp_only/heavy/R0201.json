@@ -1,0 +1,32 @@
+{
+ "resume_id": "R0201",
+ "name": "Gabriel Rodrigues",
+ "contact": {
+  "email": "gabrielgomes@gmail.com",
+  "phone": "6804 6825",
+  "location": "SC, Bragil"
+ },
+ "links": [
+  {
+   "url": "github.com/gabrtels3"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.S. in Computer Science",
+   "institution": "Insper",
+   "dates": "July 2005 - July 2009"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Microsoft Certified: Azure Developer Associate",
+   "issuer": "Microsoft"
+  },
+  {
+   "name": "AWS Certitied Solutions Architect",
+   "issuer": "Associate"
+  }
+ ],
+ "_runtime_s": 0.017
+}

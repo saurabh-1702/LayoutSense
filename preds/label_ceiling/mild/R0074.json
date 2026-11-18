@@ -1,0 +1,78 @@
+{
+ "resume_id": "R0074",
+ "name": "LAURA MEYER",
+ "headline": "Operations Executive",
+ "contact": {
+  "email": "laura.meyer@outlook.de",
+  "phone": "+49 (0)151 37901619",
+  "location": "Cologne, Germany"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/laura-meyer"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Sc. Commerce",
+   "institution": "WHU — Otto Beisheim School of Management",
+   "dates": "Aug 2023",
+   "grade": "Grade: 2.1"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Zalando",
+   "title": "Operations Executive",
+   "dates": "Mar 2025 - Present",
+   "bullets": [
+    "Led the monthly S&OP process across sales, finance and manufacturing",
+    "Managed import logistics and customs clearance for 75+ containers per year",
+    "Managed procurement spend of €8.2M across 180 suppliers, delivering 5% savings",
+    "Implemented a warehouse management system in 13 sites, improving pick accuracy to 99.8%"
+   ]
+  },
+  {
+   "company": "BMW Group",
+   "title": "Inventory Analyst",
+   "dates": "Oct 2023 - Feb 2025",
+   "bullets": [
+    "Set up 10 new fulfilment centres processing 4.2M orders per day",
+    "Reduced inventory days by 11 while maintaining 31% service levels",
+    "Negotiated freight contracts that saved €578K annually",
+    "Improved forecast accuracy from 24% to 82% by introducing statistical models in Ariba",
+    "Built a supplier scorecard covering quality, cost and delivery for 75 vendors"
+   ]
+  }
+ ],
+ "skills": [
+  "Coupa",
+  "Tableau",
+  "Ariba",
+  "Power BI",
+  "Vendor Management",
+  "S&OP",
+  "Import/Export Documentation"
+ ],
+ "certifications": [
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2022"
+  }
+ ],
+ "languages": [
+  {
+   "language": "German",
+   "proficiency": "Mother tongue"
+  },
+  {
+   "language": "English",
+   "proficiency": "Professional Working Proficiency"
+  },
+  {
+   "language": "French",
+   "proficiency": "Professional Working Proficiency"
+  }
+ ]
+}

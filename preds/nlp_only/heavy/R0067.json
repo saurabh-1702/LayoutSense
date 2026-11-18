@@ -1,0 +1,35 @@
+{
+ "resume_id": "R0067",
+ "name": "Megha Agarwal",
+ "contact": {
+  "email": "meghaagarwal@gmail.com",
+  "phone": "612-487-2539",
+  "location": "Minneapolis, MN"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/meghaagarwal-139d14"
+  }
+ ],
+ "education": [
+  {
+   "degree": "PGDM in Human Resource Management",
+   "institution": "Symbiosis International University, Pune",
+   "dates": "2001 ~ 06.2003"
+  },
+  {
+   "degree": "BA (Hons.)",
+   "institution": "Indian Institute of Mass Communication",
+   "dates": "07.1998"
+  }
+ ],
+ "skills": [
+  "HR Talent Acquisition",
+  "Onboarding",
+  "Compensation & Benefits",
+  "Employee Relations",
+  "Labour Law",
+  "PROFICIENCY"
+ ],
+ "_runtime_s": 0.035
+}

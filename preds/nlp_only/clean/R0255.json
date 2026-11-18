@@ -1,0 +1,53 @@
+{
+ "resume_id": "R0255",
+ "name": "SUJAN BHANDARI",
+ "contact": {
+  "email": "sujanbhandari@gmail.com",
+  "phone": "+977 9826120943",
+  "location": "Pokhara, Nepal"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/sujan-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. (Civil Engineering) Kathmandu University",
+   "institution": "B.E.",
+   "dates": "Sep '21— Mar '25"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Jacobs si Graduate Civil Engineer Kathmandu",
+   "company": "a",
+   "dates": "May '25 — Jun '26",
+   "bullets": []
+  }
+ ],
+ "skills": [
+  "Engineering Steel Design",
+  "Structural Analysis",
+  "Highway Design",
+  "Site Supervision",
+  "Civil 3D",
+  "ETABS",
+  "Revit",
+  "Primavera P6",
+  "Core Strengths Team Leadership",
+  "Communication",
+  "Stakeholder Management"
+ ],
+ "certifications": [
+  {
+   "name": "Autodesk Certified Professional: Revit Autodesk",
+   "issuer": null
+  },
+  {
+   "name": "NEBOSH International General Certificate NEBOSH",
+   "issuer": null
+  }
+ ],
+ "_runtime_s": 0.038
+}

@@ -1,0 +1,93 @@
+{
+ "resume_id": "R0277",
+ "name": "MISAKI ITO",
+ "headline": "Relationship Officer",
+ "contact": {
+  "email": "misakiito66@yahoo.co.jp",
+  "phone": "+8! 80-0787-4824",
+  "location": "Nagoya, Japan"
+ },
+ "education": [
+  {
+   "degree": "B.Sc. in Accounting and Finance",
+   "dates": "Apr 2025",
+   "institution": "Hitotsubashi University",
+   "location": "Tokyo",
+   "grade": "GPA: 3.54"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Relationship Officer",
+   "dates": "Mar 2026 ~ Present",
+   "company": "Nomura Holdings",
+   "location": "Nagoya",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 8 disconnected spreadsheets",
+    "Prepared pitch books and information memoranda for 20 sell-side mandates",
+    "Grew the assets under management of assigned clients by 41% year on year"
+   ]
+  },
+  {
+   "title": "Credit Analyst",
+   "dates": "May 2025 — Feb 2026",
+   "company": "Nomura Holdings",
+   "location": "Nagoya",
+   "bullets": [
+    "Identified cost savings of JPY 180M through vendor spend analysis and contract renegotiation",
+    "Automated monthly variance reporting in VBA, saving the finance team 20 hours per cycle",
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights"
+   ]
+  }
+ ],
+ "skills": [
+  "Equity Research",
+  "Credit Analysis",
+  "Budgeting & Forecasting",
+  "FP&A",
+  "Financial Modelling",
+  "VBA",
+  "Capital 1Q",
+  "Bloomberg Terminal",
+  "FactSet",
+  "Power BI"
+ ],
+ "certifications": [
+  {
+   "name": "NISM Series V-A: Mutual Fund Distributors",
+   "issuer": "NISM",
+   "year": "(2025)"
+  },
+  {
+   "name": "Financial Risk Manager (FRM)",
+   "issuer": "GARP",
+   "year": "(2023)"
+  },
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "(Jan 2023)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Hitotsubashi University",
+   "year": "(2025)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Japanese",
+   "proficiency": "(Native)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Conversational)"
+  },
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "(Conversational)"
+  }
+ ]
+}

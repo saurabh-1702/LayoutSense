@@ -1,0 +1,31 @@
+{
+ "resume_id": "R0260",
+ "contact": {
+  "email": "naveeni701@gmail.com",
+  "phone": "+91-83666-78839",
+  "location": "Mysuru, India"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/naveen-iyengar-929193"
+  }
+ ],
+ "education": [
+  {
+   "degree": "LL.M. (Intellectual",
+   "institution": "performance reviews and quarterly Amity University",
+   "dates": null
+  },
+  {
+   "degree": "BBA LLB (Hons.)",
+   "institution": "budget of 731.9 crore Christ University",
+   "dates": null
+  }
+ ],
+ "projects": [
+  {
+   "name": "Moot Court — Philip C. Jessup"
+  }
+ ],
+ "_runtime_s": 0.029
+}

@@ -1,0 +1,58 @@
+{
+ "resume_id": "R0060",
+ "contact": {
+  "email": "agustina.rossi04@gmail.com",
+  "phone": "+34776 21617",
+  "location": "Madrid, Spain"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/agustina-rossi-eac780"
+  }
+ ],
+ "education": [
+  {
+   "degree": "M.Sc. Finance",
+   "institution": "IE University",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Accounting and Finance",
+   "institution": null,
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "@) General Ledger Accountant Spanish",
+   "company": "ecoce",
+   "dates": "March 2023 - Now",
+   "bullets": [
+    "Reduced days sales outstanding by 25 days English"
+   ]
+  },
+  {
+   "title": null,
+   "company": "working days",
+   "dates": "August 2017 - August 2019",
+   "bullets": []
+  },
+  {
+   "title": "© Audit Associate",
+   "company": "aligned depreciation with tax schedules Universidad de San Andrés",
+   "dates": "July 2013 - June 2017",
+   "bullets": [
+    "Filed GST and corporate tax returns with zero Certificates"
+   ]
+  }
+ ],
+ "skills": [
+  "so",
+  "Ind AS Direct Taxation",
+  "Statutory Audit SAP FICO",
+  "CaseWare Tally ERP 9",
+  "Microsoft Xero",
+  "Dynamics 365"
+ ],
+ "_runtime_s": 0.078
+}

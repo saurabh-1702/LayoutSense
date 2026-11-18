@@ -1,0 +1,56 @@
+{
+ "resume_id": "R0195",
+ "name": "Sherif Mahmoud",
+ "contact": {
+  "email": "sherif.mahmoud@gmail.com",
+  "phone": "+20 1105174729",
+  "location": "New Cairo, Egypt"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/sherif-"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Master of Arts in Digital Ain Shams University",
+   "institution": "Qualification Institution Period Result",
+   "dates": "07.2024"
+  },
+  {
+   "degree": "B.A. in English The American University in Cairo",
+   "institution": "The American University",
+   "dates": "06.2022"
+  }
+ ],
+ "skills": [
+  "Editorial Podcast Production",
+  "Interviewing",
+  "Data Journalism",
+  "SEO Writing",
+  "Storytelling",
+  "Final Cut Pro",
+  "Datawrapper",
+  "CrowdTangle",
+  "Canva",
+  "WordPress",
+  "Professional Skills Team Leadership",
+  "Presentation Skills",
+  "Public Speaking"
+ ],
+ "languages": [
+  {
+   "language": "Arabic",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "German",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.029
+}

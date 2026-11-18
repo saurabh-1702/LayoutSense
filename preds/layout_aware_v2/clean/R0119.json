@@ -1,0 +1,108 @@
+{
+ "resume_id": "R0119",
+ "name": "Fatima Khan",
+ "headline": "Nurse Manager | 13+ Years in Nursing",
+ "contact": {
+  "email": "fatima.khan@gmail.com",
+  "phone": "0334-4135535",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/fatima-khan-3bd063"
+  }
+ ],
+ "education": [
+  {
+   "dates": "2023 – Present",
+   "degree": "MSc Advanced Clinical Practice",
+   "institution": "King Edward Medical University"
+  },
+  {
+   "dates": "2013",
+   "degree": "BSc (Hons) Adult Nursing",
+   "institution": "Aga Khan University"
+  }
+ ],
+ "experience": [
+  {
+   "company": "Aga Khan University Hospital",
+   "title": "Nurse Manager",
+   "location": "Karachi",
+   "bullets": [
+    "Grew the team by 58% in two years while keeping attrition below 16%",
+    "Educated patients and families on discharge plans, cutting 30-day readmissions by 15%",
+    "Introduced weekly operating reviews that cut decision turnaround from 13 days to 1 day Mentored 9 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting Led a team of 14 across 8 workstreams, owning hiring, performance reviews and quarterly planning Partnered with senior leadership to define the annual roadmap and a budget of PKR 790K",
+    "Implemented a fall-prevention bundle that reduced patient falls by 14%",
+    "Participated in 14 code blue responses as a certified ACLS provider Triaged 150+ patients monthly in the emergency department using the Manchester Triage System Oversaw duty rosters for 10 nurses and managed ward inventory and consumables",
+    "Coordinated with physicians and allied health teams during daily multidisciplinary rounds",
+    "Trained 8 newly joined nurses on medication safety and documentation in Cerner"
+   ]
+  },
+  {
+   "company": "Shaukat Khanum Memorial Cancer",
+   "title": "Clinical Nurse"
+  },
+  {
+   "company": "Hospital",
+   "location": "Islamabad",
+   "bullets": [
+    "Provided direct care to 11 patients per shift in a",
+    "11-bed medical-surgical ward",
+    "Managed ventilated patients in a 6-bed ICU, titrating vasoactive infusions per protocol",
+    "Maintained 100% compliance in",
+    "JCI/NABH accreditation audits for the unit",
+    "Reduced hospital-acquired infection rates by 31% by leading hand-hygiene audits"
+   ]
+  }
+ ],
+ "skills": [
+  "NABH Standards",
+  "Electronic Medical Records"
+ ],
+ "projects": [
+  {
+   "name": "Community Health Camp",
+   "description": "Organised 13 rural health camps screening 120 residents for hypertension and"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Pediatric Advanced Life Support (PALS)",
+   "year": "2018"
+  },
+  {
+   "name": "Advanced Cardiovascular Life Support (ACLS)",
+   "year": "2014"
+  },
+  {
+   "name": "Registered Nurse Licence",
+   "issuer": "Nursing and Midwifery Council",
+   "year": "2018"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Gold Medal for Academic Excellence",
+   "issuer": "Aga Khan University",
+   "year": "(2013)"
+  },
+  {
+   "name": "Star Performer Award",
+   "issuer": "Aga Khan University Hospital",
+   "year": "(2018)"
+  },
+  {
+   "name": "University Merit Scholarship",
+   "issuer": "Aga Khan University",
+   "year": "(2013)"
+  }
+ ],
+ "languages": [
+  {
+   "proficiency": "Advanced",
+   "language": "English"
+  }
+ ]
+}

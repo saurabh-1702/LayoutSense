@@ -1,0 +1,92 @@
+{
+ "resume_id": "R0174",
+ "name": "Hiroshi Sato",
+ "contact": {
+  "email": "hiroshi.sato87@gmail.com",
+  "phone": "+81 90 9138 3714",
+  "location": "Kyoto, Japan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hiroshi-"
+  },
+  {
+   "url": "github.com/hsato"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Science in",
+   "institution": "Bachelor of Science",
+   "dates": null
+  }
+ ],
+ "experience": [
+  {
+   "title": "Systems Engineer ¢ JavaScript",
+   "company": "Bosch Tokyo * Scala",
+   "dates": "Dec 2024 — Present",
+   "bullets": [
+    "Resolved 120+ production issues as part of the on-call rotation, * C#",
+    "Java",
+    "Owned the payments integration with 12 third-party gateways",
+    "Flutter",
+    "Node.js",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated",
+    "Django",
+    "Spring Boot",
+    "Collaborated with product and design to ship 7 major releases on",
+    "Vue.js",
+    "Nextjs"
+   ]
+  },
+  {
+   "title": "Systems Engineer ¢ Kubernetes",
+   "company": "Hitachi Yokohama ¢ Docker",
+   "dates": "Oct 2023 — Nov 2024",
+   "bullets": [
+    "Developed internal tooling in Kubernetes that saved the support * GitHub Actions",
+    "Rebuilt the search experience with Elasticsearch, improving result * AWS"
+   ]
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Developed customer-facing features in Kubernetes used by 6.6M",
+   "issuer": null
+  },
+  {
+   "name": "monthly active users Certified Kubernetes",
+   "issuer": null
+  },
+  {
+   "name": "Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Built a real-time notification service using Kubernetes and Apache",
+   "issuer": "The Linux Foundation"
+  },
+  {
+   "name": "Kafka that processes 2.9M events per hour",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft Certified: Azure",
+   "issuer": null
+  },
+  {
+   "name": "Migrated a legacy monolith to containerised services on",
+   "issuer": null
+  },
+  {
+   "name": "Developer Associate",
+   "issuer": null
+  },
+  {
+   "name": "Kubernetes",
+   "issuer": "cutting deployment time from 39 hours to 15 minutes Microsoft"
+  }
+ ],
+ "_runtime_s": 0.043
+}

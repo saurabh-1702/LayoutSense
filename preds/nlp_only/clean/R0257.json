@@ -1,0 +1,123 @@
+{
+ "resume_id": "R0257",
+ "contact": {
+  "email": "jason.anderson86@hotmail.com",
+  "phone": "737-530-2432",
+  "location": "Austin, TX"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/jason-anderson8&"
+  },
+  {
+   "url": "github.com/jason65"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MS, Computer Science",
+   "institution": null,
+   "dates": "2022-03"
+  },
+  {
+   "degree": "MA",
+   "institution": "Georgia Institute of Technology",
+   "dates": null
+  },
+  {
+   "degree": "B.S. in Computer Applications",
+   "institution": "Georgia Institute of Technology",
+   "dates": "2020-06"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Frontend Engineer",
+   "company": "Airbnb",
+   "dates": "2025-08 — Now",
+   "bullets": [
+    "Owned the payments integration with 5 third-party gateways, reducing failed transactions by 22%",
+    "Implemented a CI/CD pipeline with GitHub Actions and automated tests, raising code coverage from",
+    "Resolved 500+ production issues as part of the on-call rotation, reducing mean time to recovery by",
+    "Wrote technical design documents and led code reviews for a team of 13 engineers",
+    "Designed and built 15 RESTful microservices in Ruby on Rails and C#, serving 38,000 requests per"
+   ]
+  },
+  {
+   "title": "Frontend Engineer",
+   "company": "day with 99.95% uptime",
+   "dates": "2025-01 — 2025-07",
+   "bullets": [
+    "Collaborated with product and design to ship 17 major releases on schedule across web and mobile",
+    "Developed customer-facing features in Java used by 9,000 monthly active users",
+    "Developed internal tooling in Java that saved the support team 40 hours per week",
+    "Cut cloud infrastructure costs by $8.4M annually by right-sizing instances and adopting spot capacity",
+    "Built a real-time notification service using Java and Apache Kafka that processes 8,000 events per"
+   ]
+  },
+  {
+   "title": "Systems Engineer",
+   "company": "hour",
+   "dates": "2022-05 — 2024-12",
+   "bullets": [
+    "Introduced feature flags and canary releases, lowering production incidents by 41% quarter over",
+    "Rebuilt the search experience with Elasticsearch, improving result relevance and click-through by",
+    "Reduced p95 API latency by 18% by introducing Redis caching and optimising slow PostgreSQL"
+   ]
+  }
+ ],
+ "skills": [
+  "Java",
+  "TypeScript",
+  "C#",
+  "PHP",
+  "Python",
+  "Flutter",
+  "Ruby on Rails",
+  "GraphQL",
+  "Express.js",
+  "Spring Boot",
+  "Microsoft Azure",
+  "Cl/CD",
+  "Linux",
+  "Elasticsearch",
+  "Redis",
+  "MongoDB"
+ ],
+ "projects": [
+  {
+   "name": "Food Delivery Clone"
+  },
+  {
+   "name": "Distributed Key-Value Store"
+  },
+  {
+   "name": "Expense Splitter App"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA)"
+  },
+  {
+   "name": "Oracle Certified Professional: Java SE 17 Developer",
+   "issuer": "Oracle"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  },
+  {
+   "language": "French",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Portuguese",
+   "proficiency": "Beginner"
+  }
+ ],
+ "_runtime_s": 0.118
+}

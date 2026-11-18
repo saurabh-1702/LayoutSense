@@ -1,0 +1,70 @@
+{
+ "resume_id": "R0089",
+ "name": "Hamza Rana",
+ "contact": {
+  "email": "hamzarana77@gmail.com",
+  "phone": "+92 321 6773008",
+  "location": "Karachi, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/hamza-rana-4dfe09"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc in Business Analytics ~",
+   "institution": "NED University of Engineering and Technology Karachi",
+   "dates": "Sep 2001"
+  },
+  {
+   "degree": "BEng (Hons) Computer Science and Engineering @ 2:1 =",
+   "institution": "NED University of Engineering and Technology Karachi",
+   "dates": "Sep 1997"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Staff Machine Learning Engineer",
+   "company": "Googie",
+   "dates": "Nov 2015 — Aug 2024",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of PKR 13.6M",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Introduced weekly operating reviews that cut decision turnaround from 11 days to 1 day",
+    "Grew the tearn by 36% in two years while keeping attrition below 12%",
+    "¢ Mentored 11 junior colleagues, several of whom were promoted within 18 months"
+   ]
+  },
+  {
+   "title": "Senior Machine Learning Engineer",
+   "company": "Careem",
+   "dates": "May 2009 - Oct 2015",
+   "bullets": [
+    "Built a customer segmentation framework using clustering on 3.3M profiles to drive targeted",
+    "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 7",
+    "Ran 17 A/B experiments on pricing and onboarding flows, lifting conversion by 12%"
+   ]
+  },
+  {
+   "title": "Senior Data Analyst",
+   "company": "Oracle",
+   "dates": "Feb 2007 — Apr 2009",
+   "bullets": [
+    "Deployed a retrieval-augmented chatbot over internal documentation, answering 27,000 employee",
+    "Fine-tuned transformer models for ticket classification, automating 29% of manual triage",
+    "Reduced Spark job runtime by 53% through partitioning and broadcast join optimisation"
+   ]
+  },
+  {
+   "title": "Junior Data Scientist",
+   "company": "IBM",
+   "dates": "Jun 2002 ~ Jan 2007",
+   "bullets": [
+    "Developed a demand forecasting model that reduced inventory holding costs by 56%",
+    "Designed and maintained 21 Airflow pipelines ingesting 3.9M records daily into Snowflake"
+   ]
+  }
+ ],
+ "_runtime_s": 0.074
+}

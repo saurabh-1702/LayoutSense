@@ -1,0 +1,97 @@
+{
+ "resume_id": "R0182",
+ "name": "CHLOE LAURENT",
+ "headline": "Design (UX/UI & Graphic) Graduate",
+ "contact": {
+  "email": "chloe_laurent@gmail.com",
+  "phone": "+33 6 23 32 60 89",
+  "location": "Bordeaux, France"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/chloe-laurent4"
+  },
+  {
+   "url": "dribbble.com/chloelaurent"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Bachelor of Arts in Psychology",
+   "institution": "Sciences Po",
+   "dates": "September 2022 to June 2025",
+   "grade": "Mention Assez Bien"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "January 2025 to April 2025",
+   "title": "Graphic Design Intern",
+   "company": "Publicis Groupe",
+   "location": "Lyon",
+   "bullets": [
+    "Prepared research summaries and presentation decks for 14 stakeholder meetings",
+    "Collected and cleaned data from 10 sources to support a design initiative"
+   ]
+  },
+  {
+   "dates": "March 2024 to May 2024",
+   "title": "Graphic Design Intern",
+   "company": "LOréal",
+   "location": "Lyon",
+   "bullets": [
+    "Redesigned the onboarding flow in Sketch, increasing activation by 30% across 42,000 new users",
+    "Drafted standard operating procedures for 21 recurring tasks",
+    "Supported the design team on 22 live projects, preparing analyses and documentation"
+   ]
+  }
+ ],
+ "skills": [
+  "Design Systems",
+  "Typography",
+  "Visual Design",
+  "Prototyping",
+  "Adobe XD",
+  "Sketch",
+  "Maze"
+ ],
+ "projects": [
+  {
+   "name": "Museum Wayfinding Redesign",
+   "description": "Signage and digital kiosk system tested with 120 visitors over 5 months.",
+   "tech": "Maze, Adobe XD, Sketch"
+  },
+  {
+   "name": "Design System for a Fintech Startup",
+   "description": "Token-based component library in Figma with documentation and dark-mode support.",
+   "tech": "Adobe XD, Maze, Sketch"
+  },
+  {
+   "name": "Accessible Transit App Concept",
+   "description": "Voice-first trip planner designed with visually impaired commuters; won a student design award.",
+   "tech": "Adobe XD, Maze"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "NN/g UX Certification",
+   "issuer": "Nielsen Norman Group",
+   "year": "2026"
+  },
+  {
+   "name": "Adobe Certified Professional in Visual Design",
+   "issuer": "Adobe",
+   "year": "2024"
+  }
+ ],
+ "languages": [
+  {
+   "language": "French",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Conversational"
+  }
+ ]
+}

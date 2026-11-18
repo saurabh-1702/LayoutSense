@@ -1,0 +1,52 @@
+{
+ "resume_id": "R0103",
+ "name": "SAAD SHEIKH",
+ "contact": {
+  "email": "saad_sheikh@gmail.com",
+  "phone": "+92 334 6744947",
+  "location": "Islamabad, Pakistan"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/saad-sheikh4"
+  }
+ ],
+ "education": [
+  {
+   "degree": "MSc Structural Engineering",
+   "institution": "NED University of Hngineering and Technology",
+   "dates": "August 2018"
+  },
+  {
+   "degree": "MEng Civil Engineering",
+   "institution": "Lahore University of Management Sciences",
+   "dates": "September 2014"
+  }
+ ],
+ "skills": [
+  "Pngineerinp Structural Analysis",
+  "Contract Administration",
+  "Value Engineering",
+  "Software Navisworks",
+  "Primavera P6",
+  "U'TABS",
+  "SAP2000",
+  "MS Project",
+  "Tekla Seructures"
+ ],
+ "projects": [
+  {
+   "name": "Pervious Concrete Mix Study"
+  },
+  {
+   "name": "Design of a G+5 Residential Building"
+  },
+  {
+   "name": "‘Took: SAP , TABS"
+  },
+  {
+   "name": "Rising Star Award, Lucky Cement"
+  }
+ ],
+ "_runtime_s": 0.031
+}

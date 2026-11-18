@@ -1,0 +1,79 @@
+{
+ "resume_id": "R0152",
+ "name": "GUO Peng",
+ "contact": {
+  "email": "peng.guo02@163.com",
+  "phone": "+86-156-2003-1552",
+  "location": "Suzhou, China"
+ },
+ "links": [
+  {
+   "url": "inkedin.com/in/peng-guo-5f414f"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.E. in Electrical Engineering",
+   "institution": "Tongji University",
+   "dates": "Aug 2020-Sep 2024"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "Jun 2025-— Present",
+   "title": "Electrical Engineer",
+   "company": "BYD",
+   "location": "Suzhou",
+   "bullets": [
+    "Programmed Siemens PLCs to automate a packaging line, raising throughput by 20%",
+    "Led root cause analysis on transformer failures, saving CNY 4.5M in replacement costs",
+    "Developed firmware in Embedded C for a battery management system on 250+ EV packs",
+    "Designed protection schemes for 10 132/33 kV substations using Cadence Virtuoso"
+   ]
+  },
+  {
+   "dates": "Oct 2024—May 2025",
+   "title": "Field Engineer",
+   "company": "ABB",
+   "location": "Beijing",
+   "bullets": [
+    "Reduced energy losses by 25% through power factor correction and harmonic filtering",
+    "Commissioned a 13 MW solar plant including inverters, transformers and SCADA integration",
+    "Performed load flow and short-circuit studies for 10 industrial clients",
+    "Verified RTL designs on FPGA, achieving timing closure at 50 MHz",
+    "Designed 10-layer PCBs in Altium Designer for an industrial IoT gateway"
+   ]
+  }
+ ],
+ "skills": [
+  "Embedded C",
+  "Adaptability",
+  "Stakeholder Management",
+  "Team Leadership"
+ ],
+ "awards": [
+  {
+   "name": "Dean's List",
+   "issuer": "Tongji University",
+   "year": "(2024)"
+  },
+  {
+   "name": "IEEE Student Paper Award",
+   "year": "(2026)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Mandarin Chinese",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Ci"
+  },
+  {
+   "language": "Japanese",
+   "proficiency": "Cl"
+  }
+ ]
+}

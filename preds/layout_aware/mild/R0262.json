@@ -1,0 +1,110 @@
+{
+ "resume_id": "R0262",
+ "name": "R. Lakshmi",
+ "headline": "Senior Project Engineer",
+ "contact": {
+  "email": "lakshmi.r@rediffmail.com",
+  "phone": "+91 853-296-8291",
+  "location": "Chennai, India"
+ },
+ "links": [
+  {
+   "url": "linkedin.com/in/lakshmirajendran"
+  }
+ ],
+ "education": [
+  {
+   "degree": "B.Tech in Aerospace Engineering",
+   "institution": "Anna University",
+   "dates": "2013 - 2017"
+  }
+ ],
+ "experience": [
+  {
+   "dates": "2024 - Present",
+   "title": "Senior Project Engineer",
+   "company": "NTPC Limited",
+   "location": "Chennai",
+   "bullets": [
+    "Partnered with senior leadership to define the annual roadmap and a budget of 25.0 Cr",
+    "Mentored 10 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting",
+    "Grew the team by 13% in two years while keeping attrition below 16%",
+    "Introduced weekly operating reviews that cut decision turnaround from 22 days to 1 day"
+   ]
+  },
+  {
+   "dates": "2019 - 2024",
+   "title": "Graduate Engineer Trainee",
+   "company": "Maruti Suzuki India",
+   "location": "Chennai",
+   "bullets": [
+    "Achieved Six Sigma Green Belt savings of INR 219 crore by reducing process variation",
+    "Ran FEA in CATIA V5 to optimise a bracket design, reducing weight by 16% without loss of stiffness",
+    "Improved OEE of a 10-station assembly line from 43% to 85% through SMED and TPM",
+    "Led 11 Kaizen events that saved =37.1 crore annually in scrap and rework",
+    "Owned PPAP submissions for 10 suppliers and resolved 120 quality concerns",
+    "Reduced unplanned downtime by 58% by introducing condition-based maintenance"
+   ]
+  },
+  {
+   "dates": "2017 - 2019",
+   "title": "Quality Engineer",
+   "company": "Nestlé",
+   "location": "Bengaluru",
+   "bullets": [
+    "Managed a capex budget of INR 44.6 crore for plant upgrades delivered on time",
+    "Conducted DFMEA and design reviews with cross-functional teams for 24 programmes",
+    "Designed 10 sheet-metal and casting components in MATLAB for a new two-wheeler platform",
+    "Commissioned a new CNC machining cell, increasing capacity by 15%"
+   ]
+  }
+ ],
+ "skills": [
+  "CFD",
+  "DFMEA",
+  "Sheet Metal Design",
+  "Six Sigma",
+  "Root Cause Analysis",
+  "CATIA"
+ ],
+ "projects": [
+  {
+   "tech": "V5, MATLAB, SolidWorks, Minitab, Siemens NX",
+   "name": "Formula Student Race Car",
+   "dates": "2023",
+   "description": "Designed the suspension uprights and ran FEA; team placed in the top 14 nationally."
+  },
+  {
+   "tech": "Minitab, Siemens NX, CATIA V5",
+   "name": "Design of a Robotic Gripper",
+   "description": "3D-printed adaptive gripper with force feedback controlled via Arduino."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "CATIA V5 Associate",
+   "issuer": "Dassault Systemes",
+   "year": "2021"
+  },
+  {
+   "name": "Six Sigma Green Belt",
+   "issuer": "ASQ",
+   "year": "2015"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Best Outgoing Student",
+   "issuer": "Anna University",
+   "year": "2016"
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "proficiency": "Native"
+  }
+ ],
+ "_runtime_s": 0.208
+}

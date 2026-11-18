@@ -1,0 +1,119 @@
+{
+  "resume_id": "R0022",
+  "name": "Sultan Al Mazrouei",
+  "contact": {
+    "location": "Abu Dhabi, United Arab Emirates",
+    "phone_e164": "+971556886303",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "email": "sultanalmazrouei@gmail.com",
+    "phone": "055 688 6303"
+  },
+  "links": [
+    {
+      "url": "linkedin.com/in/sultan-almazrouei4",
+      "type": "LinkedIn"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc (Hons) Data Science",
+      "institution": "Zayed University",
+      "dates": "Aug 2017 – Aug 2020",
+      "grade": "Upper Second Class Honours (2:1)",
+      "start": "2017-08",
+      "end": "2020-08",
+      "level": "bachelor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Lead Data Analyst",
+      "company": "ADNOC",
+      "location": "Abu Dhabi",
+      "dates": "Oct 2025 – Present",
+      "bullets": [
+        "Productionised ML models with Docker and MLflow, cutting model deployment time from weeks to 8 days",
+        "Authored SQL data quality checks across 50 tables, reducing reporting incidents by 23%",
+        "Reduced Spark job runtime by 60% through partitioning and broadcast join optimisation",
+        "Partnered with senior leadership to define the annual roadmap and a budget of AED 20.3M"
+      ],
+      "start": "2025-10",
+      "end": "present"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company": "Google",
+      "location": "Abu Dhabi",
+      "dates": "Oct 2020 – Sep 2025",
+      "bullets": [
+        "Designed and maintained 8 Airflow pipelines ingesting 428K+ records daily into Snowflake",
+        "Partnered with finance to build an anomaly detection system that flagged AED 383M in billing errors",
+        "Ran 10 A/B experiments on pricing and onboarding flows, lifting conversion by 20%",
+        "Built a customer segmentation framework using clustering on 6.8M profiles to drive targeted campaigns"
+      ],
+      "start": "2020-10",
+      "end": "2025-09"
+    }
+  ],
+  "skills": [
+    "R",
+    "Python",
+    "SQL",
+    "NLP",
+    "PyTorch",
+    "Computer Vision",
+    "scikit-learn",
+    "Hugging Face Transformers",
+    "Problem Solving",
+    "Public Speaking",
+    "Team Leadership"
+  ],
+  "projects": [
+    {
+      "name": "Credit Risk Scoring Model",
+      "description": "Gradient-boosted model on 1.8M loan applications with SHAP explanations and fairness checks.",
+      "tech": "Python, R, SQL, PyTorch"
+    },
+    {
+      "name": "Customer Lifetime Value Prediction",
+      "description": "Probabilistic BG/NBD model to rank customers by expected value for marketing spend."
+    }
+  ],
+  "awards": [
+    {
+      "name": "Spot Award for Excellence",
+      "issuer": "Google",
+      "year": "2025"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Conversational"
+    },
+    {
+      "language": "Urdu",
+      "proficiency": "Conversational"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Fluent"
+    }
+  ],
+  "_meta": {
+    "layout": "multi_column",
+    "template": "m3_two_equal",
+    "n_pages": 1,
+    "industry": "data",
+    "level": "mid",
+    "years_experience": 6,
+    "origin_country": "United Arab Emirates",
+    "work_country": "United Arab Emirates",
+    "date_format": "MMM YYYY"
+  }
+}

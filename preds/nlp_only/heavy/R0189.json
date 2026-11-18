@@ -1,0 +1,77 @@
+{
+ "resume_id": "R0189",
+ "name": "Muhammad Qureshi",
+ "contact": {
+  "phone": "+92 334 1230721",
+  "location": "Lahore, Pakistan"
+ },
+ "education": [
+  {
+   "degree": "BSc in Computer Applications",
+   "institution": "Institute of Business Administration, Karachi",
+   "dates": null
+  }
+ ],
+ "skills": [
+  "5 ee Ee ee",
+  "Python",
+  "TypeScripr",
+  "JavaScript",
+  "Kodin",
+  "Ruby on Rails",
+  "GeaphQu.",
+  "Angulac{ NETCore",
+  "Java",
+  "‘Terraform",
+  "C1/CD",
+  "Linux",
+  "MongoDB { Apache Kata}",
+  "Microsoft Azure",
+  "Docker { Google Cloud Platform",
+  "he",
+  "MySQL",
+  "DynamoDB",
+  "€ ‘aswandra"
+ ],
+ "certifications": [
+  {
+   "name": "Cloud Professional Cloud Developer ~ Google Cloud",
+   "issuer": ")"
+  },
+  {
+   "name": "Google",
+   "issuer": null
+  },
+  {
+   "name": "Microsoft Certified: Azure Developer Associate ~ Microsoft",
+   "issuer": ")"
+  },
+  {
+   "name": "Certified Kubernetes Administrator",
+   "issuer": "CKA) ~ The Linux Foundation"
+  },
+  {
+   "name": "AWS Certified Solutions Architect",
+   "issuer": "Associate ~ Amazon Web Services"
+  },
+  {
+   "name": "ee < on",
+   "issuer": null
+  }
+ ],
+ "languages": [
+  {
+   "language": "Urdu",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Intermediate"
+  },
+  {
+   "language": "Pashto",
+   "proficiency": "Intermediate"
+  }
+ ],
+ "_runtime_s": 0.024
+}

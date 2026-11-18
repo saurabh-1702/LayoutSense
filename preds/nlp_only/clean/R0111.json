@@ -1,0 +1,44 @@
+{
+ "resume_id": "R0111",
+ "name": "Derek Anderson",
+ "contact": {
+  "email": "derek.anderson@gmail.com",
+  "phone": "+1 (614) 618-9191",
+  "location": "Columbus, OH"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/derek-anderson"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Logistics and Supply Chain",
+   "institution": "Qualification Institution Period Result",
+   "dates": "2022 - 2026"
+  }
+ ],
+ "skills": [
+  "Inventory Optimisation",
+  "Strategic Sourcing",
+  "Lean",
+  "Cost Reduction",
+  "Network Design",
+  "Oracle SCM",
+  "Blue Yonder",
+  "Tableau",
+  "SQL"
+ ],
+ "projects": [
+  {
+   "name": "Project Description Year"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Issued By Year",
+   "issuer": "APICS CPIM ASCM"
+  }
+ ],
+ "_runtime_s": 0.025
+}

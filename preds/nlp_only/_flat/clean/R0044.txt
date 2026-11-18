@@ -1,0 +1,64 @@
+\. +251 947495534 ™ hanna.bekele@gmail.com
+Hanna Bekele
+9 Hawassa, Ethiopia © linkedin.com/in/hannabekele
+Associate Software Engineer © github.com/hannabekel
+© Professional Experience Professional
+>]
+May 2020 — Associate Software Engineer Certifications
+June 2026
+Capgemini Certified Kubernetes
+* Migrated a legacy monolith to Administrator (CKA)
+containerised services on Kubernetes, The Linux Foundation - 2019
+cutting deployment time from 26 hours to
+15 minutes Microsoft Certified: Azure
+* Owned the payments integration with 6 Developer Associate
+third-party gateways, reducing failed Microsoft - October 2025
+transactions by 36%
+* Designed and built 17 RESTful Languages Known
+microservices in Express.js and C++,
+Amharic Native
+serving 261K requests per day with eee
+99.95% uptime English Intermediate
+* Developed customer-facing features in ed
+Express.js used by 8.0M monthly active Afaan Oromo Intermediate
+users
+Afaan Oromo Fluent
+June 2019 — Software Developer
+April 2020 Capgemini
+© Education
+* Built a real-time notification service using
+Rust and Apache Kafka that processes
+BEng (Hons) Information
+68,000 events per hour
+Technology
+* Introduced feature flags and canary
+Addis Ababa Science and
+releases, lowering production incidents by
+Technology University
+26% quarter over quarter July 2015 — May 2019 - 2:1
+* Reduced p95 API latency by 53% by
+introducing Redis caching and optimising
+© Honours & Awards
+slow PostgreSQL queries
+* Cut cloud infrastructure costs by ETB Winner, Smart India Hackathon
+18.9M annually by right-sizing instances 2017
+and adopting spot capacity
+* Collaborated with product and design to Star Performer Award
+ship 24 major releases on schedule across Capgemini - 2019
+web and mobile
+Employee of the Quarter
+Capgemini - 2019
+@ Core Competencies
+U HP
+QO ++
+Rust
+ion . Om
+fo -s Ian
+Zep asx
+m o o ‘oe
+.NET Core
+Elasticsearch
+Redis
+DynamoDB
+<= fe) 23 © e) Ss) OO
+MySQL

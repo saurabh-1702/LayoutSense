@@ -1,0 +1,149 @@
+{
+ "resume_id": "R0241",
+ "name": "Maryam Ghorbani",
+ "headline": "Chief Risk Officer",
+ "contact": {
+  "email": "maryam.g@yahoo.com",
+  "phone": "+98 9150134090",
+  "location": "Shiraz, Iran"
+ },
+ "links": [
+  {
+   "url": "www.linkedin.com/in/maryam-ghorbani-31"
+  }
+ ],
+ "education": [
+  {
+   "degree": "BBA, Business Administration",
+   "dates": "Aug 1999 - Feb 2003",
+   "institution": "University of Tehran",
+   "location": "Tehran",
+   "grade": "GPA: 3.36/4.0"
+  }
+ ],
+ "experience": [
+  {
+   "title": "Chief Risk Officer",
+   "dates": "Dec 2022 - Present",
+   "company": "EY",
+   "location": "Tehran",
+   "bullets": [
+    "Implemented an Anaplan-based planning model replacing 22 disconnected spreadsheets",
+    "Analysed credit proposals for 400 mid-market clients, maintaining an NPA ratio below 1.5%",
+    "Prepared pitch books and information memoranda for 17 sell-side mandates",
+    "Grew the assets under management of assigned clients by 12% year on year",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Automated monthly variance reporting in VBA, saving the finance team 12 hours per cycle"
+   ]
+  },
+  {
+   "title": "Chief Financial Officer",
+   "dates": "Apr 2020 - Nov 2022",
+   "company": "Standard Chartered",
+   "location": "Isfahan",
+   "bullets": [
+    "Grew the team by 30% in two years while keeping attrition below 5%",
+    "Mentored 12 junior colleagues, several of whom were promoted within 18 months",
+    "Represented the function in executive steering committees and board-level reporting"
+   ]
+  },
+  {
+   "title": "Managing Director",
+   "dates": "Jul 2017 - Mar 2020",
+   "company": "Standard Chartered",
+   "location": "Isfahan",
+   "bullets": [
+    "Identified cost savings of IRR 336M through vendor spend analysis and contract renegotiation",
+    "Partnered with senior leadership to define the annual roadmap and a budget of IRR 5.2B",
+    "Introduced weekly operating reviews that cut decision turnaround from 22 days to 1 day"
+   ]
+  },
+  {
+   "title": "Head of FP&A",
+   "dates": "Nov 2016 - Jun 2017",
+   "company": "Amazon",
+   "location": "Isfahan",
+   "bullets": [
+    "Analysed credit proposals for 200 mid-market clients, maintaining an NPA ratio below 1.5%",
+    "Implemented an Anaplan-based planning model replacing 7 disconnected spreadsheets",
+    "Monitored market and liquidity risk limits, producing daily VaR reports for senior management",
+    "Led a team of 14 across 13 workstreams, owning hiring, performance reviews and quarterly planning"
+   ]
+  },
+  {
+   "title": "Senior Vice President, Risk",
+   "dates": "Apr 2014 - Oct 2016",
+   "company": "Amazon",
+   "location": "Isfahan",
+   "bullets": [
+    "Led the annual budgeting and rolling forecast process for a business unit with IRR 44.4B in revenue",
+    "Built three-statement financial models and DCF valuations for 6 deals worth a combined IRR 73.9B",
+    "Grew the assets under management of assigned clients by 51% year on year",
+    "Managed a loan portfolio of IRR 8.6B across 120 relationships with zero slippages in FY"
+   ]
+  },
+  {
+   "title": "Relationship Officer",
+   "dates": "May 2003 - Mar 2014",
+   "company": "Bank Mellat",
+   "location": "Mashhad",
+   "bullets": [
+    "Presented quarterly business reviews to the CFO and board with actionable margin insights",
+    "Automated monthly variance reporting in VBA, saving the finance team 5 hours per cycle",
+    "Prepared pitch books and information memoranda for 24 sell-side mandates",
+    "Supported due diligence on 21 acquisitions, including working-capital and synergy analysis"
+   ]
+  }
+ ],
+ "skills": [
+  "Financial Modelling",
+  "Treasury Management",
+  "Risk Management",
+  "Oracle Hyperion",
+  "SAP S/4HANA",
+  "Anaplan",
+  "VBA",
+  "Capital IQ",
+  "Critical Thinking",
+  "Decision Making"
+ ],
+ "projects": [
+  {
+   "name": "Valuation of a Listed FMCG Company",
+   "description": "Equity research report with DCF and comparable-company analysis; recommendation tracked for 6 months."
+  },
+  {
+   "name": "Working Capital Improvement Study",
+   "dates": "Apr 2004",
+   "description": "Analysed receivables cycle for a manufacturing client, recommending changes worth IRR 23.9B in cash release."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Certified Treasury Professional (CTP)",
+   "issuer": "Association for Financial Professionals",
+   "year": "(2001)"
+  },
+  {
+   "name": "CFA Level II Candidate",
+   "issuer": "CFA Institute",
+   "year": "(2022)"
+  }
+ ],
+ "awards": [
+  {
+   "name": "Top Performer, Wealth Management Region",
+   "year": "(2022)"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Persian",
+   "proficiency": "(Mother tongue)"
+  },
+  {
+   "language": "English",
+   "proficiency": "(Professional Working Proficiency)"
+  }
+ ]
+}

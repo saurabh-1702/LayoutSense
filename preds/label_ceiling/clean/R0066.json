@@ -1,0 +1,85 @@
+{
+ "resume_id": "R0066",
+ "name": "SHREYA GUPTA",
+ "contact": {
+  "email": "sgupta@gmail.com",
+  "phone": "84331 02359",
+  "location": "Lucknow, Uttar Pradesh, India"
+ },
+ "education": [
+  {
+   "degree": "Master of Arts in English",
+   "institution": "Lady Shri Ram College for Women",
+   "dates": "August 2019 — June 2021"
+  },
+  {
+   "degree": "B.Sc. (Hons.) Chemistry",
+   "institution": "Indian Institute of Technology Bombay",
+   "dates": "September 2016 — May 2019",
+   "grade": "71.0%"
+  }
+ ],
+ "experience": [
+  {
+   "title": "IB Physics Teacher",
+   "company": "The Shri Ram School",
+   "location": "Gurugram",
+   "dates": "November 2024 — Present",
+   "bullets": [
+    "Mentored 9 new teachers as part of the induction programme",
+    "Coordinated the school's Microsoft Teams rollout, training 17 teachers in blended learning"
+   ]
+  },
+  {
+   "title": "Teacher",
+   "company": "St. Xavier's High School",
+   "location": "Lucknow",
+   "dates": "October 2022 — October 2024",
+   "bullets": [
+    "Led parent-teacher conferences and individualised learning plans for 4 students with SEN",
+    "Raised average class performance by 23% through targeted remediation and formative assessment",
+    "Designed an inquiry-based science curriculum aligned to IB MYP for 15 grade levels",
+    "Taught Mathematics to 22 sections of Grades 9-12, with 39% of students scoring above 90 in board exams"
+   ]
+  },
+  {
+   "title": "Mathematics Teacher",
+   "company": "Ryan International School",
+   "location": "Lucknow",
+   "dates": "August 2021 — September 2022",
+   "bullets": [
+    "Managed department budget and timetable for 6 faculty members",
+    "Developed 120 digital lessons and assessments used across the district",
+    "Organised inter-school science fairs and olympiad coaching with 23 national-level qualifiers"
+   ]
+  }
+ ],
+ "skills": [
+  "IB Curriculum",
+  "Curriculum Design",
+  "Student Counselling",
+  "Blended Learning",
+  "Microsoft Teams",
+  "Smart Board",
+  "Canvas LMS",
+  "Seesaw",
+  "Attention to Detail",
+  "Stakeholder Management",
+  "Critical Thinking",
+  "Team Leadership"
+ ],
+ "languages": [
+  {
+   "language": "Punjabi",
+   "proficiency": "Native"
+  },
+  {
+   "language": "English",
+   "proficiency": "Advanced"
+  },
+  {
+   "language": "Hindi",
+   "proficiency": "Beginner"
+  }
+ ]
+}
