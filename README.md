@@ -316,8 +316,7 @@ python make_figures.py --data dataset --preds preds --ocr ocr --out report_figur
 
 ## Authors
 
-**Saurabh Pandey** · **Eshan Mohammed** · **Siddhant Nikam**
-B.Tech Artificial Intelligence
+**Saurabh Pandey** · **Siddhant Nikam**
 
 ## Data Ethics
 
