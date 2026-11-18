@@ -235,7 +235,7 @@ LayoutSense/
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/LayoutSense.git
+git clone https://github.com/saurabh-1702/LayoutSense.git
 cd LayoutSense
 python -m venv .venv
 .venv\Scripts\activate            # Linux/macOS: source .venv/bin/activate
